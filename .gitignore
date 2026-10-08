@@ -1,0 +1,16 @@
+tools/
+tmp/
+build/
+.venv/
+__pycache__/
+*.log
+signing/
+node_modules/
+
+# Local credentials and one-time delivery actions
+.env
+.env.*
+*.jks
+*.keystore
+scripts/shutdown_after_delivery.ps1
+output/shutdown-status.json

@@ -1,0 +1,8 @@
+{
+  "result": "not_run",
+  "reason": "Host QEMU emulator failed during software CPU initialization before an Android device became available; the app was not installed or launched.",
+  "emulatorAttempts": ["37.3.3", "34.1.20"],
+  "hostExitCode": "0xC0000005",
+  "physicalDeviceTested": false,
+  "nativeAndroidTestScript": "tests/test_android.py"
+}

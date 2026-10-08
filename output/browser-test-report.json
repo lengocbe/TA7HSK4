@@ -1,0 +1,16 @@
+{
+  "result": "passed",
+  "checks": [
+    "12 English units / 10 Chinese topics",
+    "Flashcards and hidden Chinese pinyin",
+    "SRS scheduling and incorrect-answer lapses",
+    "Quiz and Chinese typing",
+    "Persistence after reload",
+    "Search and favorites",
+    "Dark mode / daily goal",
+    "Backup restore and invalid-backup rejection",
+    "320–700 px viewport overflow checks"
+  ],
+  "browserErrors": [],
+  "apkSha256": "a7b1f44dd3acfe63e815956d07a88a744d3d91e1227646362a7c8b536421a0fc"
+}

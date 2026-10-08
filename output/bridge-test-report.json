@@ -1,0 +1,14 @@
+{
+  "result": "passed",
+  "checks": [
+    "Fresh Android install with empty preferences",
+    "Native-ready initialization",
+    "Word ID and normal/slow audio parameters",
+    "Save/load persistence contract",
+    "Native theme calls",
+    "Native backup export/import callbacks",
+    "Unknown prototype keys filtered"
+  ],
+  "limitation": "JavaScript bridge tested against a mock; physical Android execution is separate.",
+  "apkSha256": "a7b1f44dd3acfe63e815956d07a88a744d3d91e1227646362a7c8b536421a0fc"
+}

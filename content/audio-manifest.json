@@ -1,0 +1,2900 @@
+{
+  "en-01-01": {
+    "text": "belong to",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "52cf6412c3114485b40d2969e11fdd545836840e6fa889580f1565544cae1621",
+    "sha256": "05a3f8dea3be6d8ea3f5079514afcdaebf1aa77255432fb0ffaf15c7b77730ae",
+    "bytes": 11232
+  },
+  "en-01-03": {
+    "text": "bug",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "706fdb05764131142b5979bb5ff33e423786b0b6681db4cb326cc75b8dd0c9a6",
+    "sha256": "be36907ab366f55575bf9a0db8450e129bf8651f52279ffe132d0a1ab4bb7b54",
+    "bytes": 11232
+  },
+  "en-01-04": {
+    "text": "cardboard",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "bf32af0fd47e6c240be2a42e4517bf52d5998c007d907e274b5054bf67add231",
+    "sha256": "94e88cd804c2134ba452b86b9361e1bb93c4bf609e797efc075f9fc6c5ed42d1",
+    "bytes": 11232
+  },
+  "en-01-02": {
+    "text": "benefit",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1fffc56978ecaf7c79b5e213fd7efd4d48de67750ac2096d55f57300698ee683",
+    "sha256": "0a62a8c49e49d169aa6beaa101ad327e47842554b8d8da185cd37e826d56e09d",
+    "bytes": 11232
+  },
+  "en-01-09": {
+    "text": "insect",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "329cf945c5f41f950d8e388164225719016f8c81d84a1b87889dfa294c5b2fea",
+    "sha256": "98d4311dda3bb7348a74c8bd5966e7014fba4d71130eb1ac442606b5d1348bb2",
+    "bytes": 11232
+  },
+  "en-01-05": {
+    "text": "dollhouse",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "37bb391251172232a71040b6110960f71205d3ccc89cd8d7c34029847b592acc",
+    "sha256": "b4f82f0d673896630c786e5a143ba3df593f32af9b2373954caba7b0d2bcf98a",
+    "bytes": 11232
+  },
+  "en-01-07": {
+    "text": "glue",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6e1d623f5e831316882798ff8c81e4dba6e15f4ef839dfed0942eb2b7cd2147d",
+    "sha256": "f87eeeb8250b81e7d36d4ab274a914670a30f4f336e2f81403706645611bc3b7",
+    "bytes": 11232
+  },
+  "en-01-08": {
+    "text": "horse riding",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "e12590162aabae7773a4b4b7175453c809fbbd30359d4d8cf66b8631e59a613b",
+    "sha256": "6c7de17099de34fa04bc9300cdafee78ba112f5a5c48aaeb2cc3781c3e27fe21",
+    "bytes": 11232
+  },
+  "en-01-10": {
+    "text": "jogging",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "16f6c6be760eb213e45ec20ce92097be9f2503c546bf9232698249f6276a425b",
+    "sha256": "2c3ad7f474f6b62c76fb5767120e33e45bc3fc021f3e2cc75cfa71f3e5b470b5",
+    "bytes": 11232
+  },
+  "en-01-13": {
+    "text": "patient",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6de790d4e74221bb350578bfe9b899ff13573f064a957afba43d34019743fe22",
+    "sha256": "e969b6dbc8007b1daf6f6939a9f9efc7bb5a89d6052c3c550c9544b4518a8c66",
+    "bytes": 11232
+  },
+  "en-01-06": {
+    "text": "gardening",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "962662b91cb89fe7e4c5404edd42d3bdfbba6c44d530a191ba51ec44c46b3d20",
+    "sha256": "ec29c4b0fe508b1efe1cc7acf7f7523b75f61ed36f0e274c376fba033cee6f49",
+    "bytes": 11232
+  },
+  "en-01-11": {
+    "text": "making models",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1f5ddcc7b278e1e254e329b9d19e7d727f5dc96e231726fc2292f32d557962db",
+    "sha256": "afd8ce44e9f00d9517b33eb08b57a3a5b5d47cb606c9ed7a409375aebe239964",
+    "bytes": 11232
+  },
+  "en-01-14": {
+    "text": "popular",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "89f54bfb5ae0635a8e29b3d1b9f514e29ab0dc45df0f433b716497ff5fdb7d56",
+    "sha256": "a385587926c2d6739845fef4999fcd8cf231e5a34697389ad6e8ecba35b42d59",
+    "bytes": 11232
+  },
+  "en-01-12": {
+    "text": "maturity",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f20e67f94f3fa6d5b082985c9fcaef02bc88c96898cfbed920b69f2be057b117",
+    "sha256": "6cd237ccd514a2fc4982f6adaf21db40dbe5226653d45bb22233ce1ff131fe23",
+    "bytes": 11232
+  },
+  "en-01-15": {
+    "text": "responsibility",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "0e3fe3963e5921f8b0c0d7d3f608ab431780e85cd2667dab5e4271b2146394f4",
+    "sha256": "09c5009010f3badd5c1858c7cfd422027173bcda0e3a4c00f0a0182e060b68d4",
+    "bytes": 11232
+  },
+  "en-01-16": {
+    "text": "set",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "9b933f7bfc3e5461c25f0c06fbae6e55f12a9cd4423439195ad63cdc482135dc",
+    "sha256": "e649035e36459490bc932049843bdf90f9f79c0a40763a778782a689ad11eff1",
+    "bytes": 11232
+  },
+  "en-01-17": {
+    "text": "stress",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "e0e5f2287a357e6a3569b88e590fbf7b22f87ee6b9974ebe60f5085f218bb624",
+    "sha256": "13a16fe27c2e2d6987b1cf47a0fa9ed513bc524971313ad83896907396e860ce",
+    "bytes": 11232
+  },
+  "en-01-21": {
+    "text": "yoga",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5cad0277d79e8c258ced10ea733e8a0eef96ced413268ac434c870f2660f432c",
+    "sha256": "983b92793591b7df36d027cf8b5a8743e0a9ec8d9e68a61f58379847f0b7a445",
+    "bytes": 11232
+  },
+  "en-01-18": {
+    "text": "take on",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "e06d85e88e2ac67c75fcb7e589d3b2ad4959dad64c206a6ea7bcb6adb0d82335",
+    "sha256": "33536727fd1041e55674aeff14debb8e25fe8245bb2c426ab03c1f9432b1e9cd",
+    "bytes": 11232
+  },
+  "en-01-19": {
+    "text": "unusual",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "dae482c67de9133e8195e2a430b9727e302beda7996cc242f6836835aed8cf9c",
+    "sha256": "b91041449266abae3be7520aeb1619e233a902756503e10aa89d1ec6989677ec",
+    "bytes": 11232
+  },
+  "en-02-02": {
+    "text": "affect",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2345edfd16e5dcc53ff8b0776d96809e21731865048bcd4849ea297438f1e21d",
+    "sha256": "b75a3b43104e861c49b54d5fcab57c66b0ad5fb24f2a451f16a34b36a48083a5",
+    "bytes": 11232
+  },
+  "en-02-03": {
+    "text": "avoid",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "3be5421879b23ee4239126a2961ba4c94242612ed8279c57f3a4c47ba9f53225",
+    "sha256": "2cc5dab97132a1c00fdc3e5aa09f4feed5c335f037d74bd77de0c7a2a3bb5717",
+    "bytes": 11232
+  },
+  "en-02-05": {
+    "text": "dim",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d49286b417e507078c6396abe97471b69516c4fc75ceb225bb2a0b411bc1c5bd",
+    "sha256": "d0218518ff4a6fbf2e60f8fb2d41ed1c387acfab3abaa666661514d235746928",
+    "bytes": 11232
+  },
+  "en-02-01": {
+    "text": "acne",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "09ee1e6223bede33c307e97bbce7b41405a54d7da6ede585e1781a8db5da80ba",
+    "sha256": "84d5f0d28e4dfc92a72fde9a1faa7d1d56e89cee9836542538e756a6e314e4ec",
+    "bytes": 11232
+  },
+  "en-02-08": {
+    "text": "fat",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "039775887301f30b18ac6fc945754e831b4e5b9f2a8d5ff696e969d1478f8010",
+    "sha256": "35a39bb55de117054915dcafdb3caeb6c145be88c15b5d1a02f8180cfdc17850",
+    "bytes": 11232
+  },
+  "en-02-07": {
+    "text": "eye drops",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "38045e954cb2b669380db5e54b9a214d34016ca8538e43bdec7954e6839baf04",
+    "sha256": "9bacc4a06507463d3df7f9bd7a20f876f690b1462264088d0deaf07a319eaf0c",
+    "bytes": 11232
+  },
+  "en-02-04": {
+    "text": "chapped",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "bdb204960e0f674fe046ed83842c976e13f2e1cfc5c37d78073900b145fa6a3b",
+    "sha256": "5e1a417d4b93b83b3fcb63045678457457579878941d8124477833789dfa8ed3",
+    "bytes": 11232
+  },
+  "en-02-09": {
+    "text": "fit",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "9a4ea445408ad3deaba3aec1a438a72aa82f7c19aa02b0fe0b1cdcfe564412fc",
+    "sha256": "df148a11fe9e463703929ac284972ef82544461db62b681609cd5fdc2ba11879",
+    "bytes": 11232
+  },
+  "en-02-10": {
+    "text": "health",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "920424c1b3b053522c5c34bf0c7d158df4c79830148dd452efcd17610a191b7c",
+    "sha256": "93e791005e85ab25282668a0af9b88ee2b9201dfc52d30ef342728556f064d28",
+    "bytes": 11232
+  },
+  "en-02-11": {
+    "text": "healthy",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "e2c80b0e56d6403267d79bf12abf4ca899a2bdf7e437e1b21402c038802c20b6",
+    "sha256": "cc3b06970fc94fbe183904bc3550a20eb2e5a32215aab8cbf46def16084551ac",
+    "bytes": 11232
+  },
+  "en-02-12": {
+    "text": "indoors",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5fbcb7e74d0f8cda4206f76e171dbe0d9bd78889a0b11bf9f7735a9a890c30ee",
+    "sha256": "35552e731e07584a16d854433174a67a0981df2f93e8feda7dd1fbaac7012dbc",
+    "bytes": 11232
+  },
+  "en-02-14": {
+    "text": "pimple",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "60dd6cd8c4f7891550e43793c3d1d6b0e2621ba4be85ecb572d62a653d3e0d1f",
+    "sha256": "fca4cdda88c64bdb46f9c1b43adb616e8f1fc0729b2269a1ce9af07cbdf011c9",
+    "bytes": 11232
+  },
+  "en-02-15": {
+    "text": "pop",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6d90b3f74124805b9ad4a7f99cda6ed1ea0a9a3e3ca07d111c270e09aa11d806",
+    "sha256": "36692efc8e6010afd33b90f62ecb40ca476424074cea1d1dc45fa67106b801d9",
+    "bytes": 11232
+  },
+  "en-02-16": {
+    "text": "protein",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2b0799d3b3f61f5aed1fb3713823d9cb2141e0b16a202b2d6ae4aee59b5ed84d",
+    "sha256": "8ef3342ff627be650d7130ec5e8c6882996124814561a72479e0db7b80c01390",
+    "bytes": 11232
+  },
+  "en-02-13": {
+    "text": "lip balm",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4408c3827bc95c6a9f7d455795ac9981af60ee9b9e16e5e243240f88ecd474cf",
+    "sha256": "0ad276c382e550b4ed28fa88ec23f55a4fc2f8f0aad0736602338f4876a87e08",
+    "bytes": 11232
+  },
+  "en-02-18": {
+    "text": "soybean",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "513403645e644eccdd17db88520ce0d521c38007604109d61c315023a77094db",
+    "sha256": "0dbca65cea18cf601197dd23c849d7d7bbd9cd8d0061cfbfb0acef5b4bc7adfc",
+    "bytes": 11232
+  },
+  "en-02-17": {
+    "text": "skin condition",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "83cc6546ece32be5116c88a22ad2bdbee289db4fd80edbbb70dbd75893c328eb",
+    "sha256": "3e36005d68bee07858d39e4e67a9d3639c04aaba50f1dea4b99c1d8025928078",
+    "bytes": 11232
+  },
+  "en-02-20": {
+    "text": "tofu",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1ff6533bd5643ddf23cf727e8ea912fa00e367c467e9f8d5d27e77fd01a60da3",
+    "sha256": "d1313396b483e5c49602f638afeff3d765fc410ce85b00b5e66bd3ee83e2da8a",
+    "bytes": 11232
+  },
+  "en-02-21": {
+    "text": "virus",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d420c8c06c166fa6e0061582c922642a008f8dcc2c560272f120e6ed71fa561c",
+    "sha256": "7891d9e1339960fb2bcc1a7f94e9ae832e452080177b3310275a1456b6dd0ed5",
+    "bytes": 11232
+  },
+  "en-02-22": {
+    "text": "vitamin",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "cdee786c4ef84a6d92687883884066c403918fe04b30f47f049d573c908085ab",
+    "sha256": "5a600cf36bc9675641b965d14d9f9d7cf14944bf51f583429960a78eb1164d27",
+    "bytes": 11232
+  },
+  "en-02-19": {
+    "text": "sunburn",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "78f16affa25071726edcce241440fbce3bf2f127f4a6162ebdde341aff1aca4c",
+    "sha256": "fb6e7dcec392f3f1a8311b982f48a675b5fc214b0988b42660d4275bf6acb883",
+    "bytes": 11232
+  },
+  "en-03-01": {
+    "text": "board game",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "03898916e802355d547a008b3622cae6f5279a4a0b2bd60e8288d2c4c7a138e5",
+    "sha256": "9ac45ed53b9e7e0bfc7ed103bd8cbf1dc3ddc7cd9c9dbb1887aa650e60e2bb0b",
+    "bytes": 11232
+  },
+  "en-03-03": {
+    "text": "collect",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "47c1a74cca268c3f57328a3e1b7307654163b2cab929baaa304038de65cf43d4",
+    "sha256": "fa9c391bc7c43a7141dda620304df33801f1bd54a899a54b9225b2402d6e5929",
+    "bytes": 11232
+  },
+  "en-03-02": {
+    "text": "clean-up activity",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1f090b7f525c373b7b34897854c13ca5a4dd019765bb0347844144f8842e9050",
+    "sha256": "3aaffae60f779ee9aa5b6f6eb9b779b4b1c60b69b0c69549d1aac800768957f6",
+    "bytes": 11232
+  },
+  "en-03-04": {
+    "text": "community",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5c2fdd7ac7808367041ec87c93c578ded13c604e75f0601ce3bc8e636e1f080d",
+    "sha256": "b003669a89b6451adcc53e984c338439087c5d48110162352c07a25b23183975",
+    "bytes": 11232
+  },
+  "en-03-06": {
+    "text": "develop",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6fc9694d4853b50e62fe7cf0d07a1a7bb8fa9aa893100d1b3043dd5b652d015f",
+    "sha256": "76bcec44af0d62bc76cdf70b6f06432d7e03af1017667113bf2ae51e25b1eca6",
+    "bytes": 11232
+  },
+  "en-03-07": {
+    "text": "donate",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1987fab0dd7c710ddb93f2f05baa5635721edcc5c9f2dc3893fd0d2ab79cc910",
+    "sha256": "a69a16eb68c1300ade02a8bebed4bfbf71f7c3c3e935d85b5832b6a74294c5a6",
+    "bytes": 11232
+  },
+  "en-03-08": {
+    "text": "elderly",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "afaa0be299535c8aef3b25694ebbb5d2d6886d6a94f5e5d2317c9bd39e1dba95",
+    "sha256": "78bccf058255b35d74c753eed5b594b25be6c8d415f9d5d403e4be5f8b231938",
+    "bytes": 11232
+  },
+  "en-03-05": {
+    "text": "community service",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "48910e29f2f0ffcf9683a086a71416d7dec5f3e3c4a415a280fb54350bed7b38",
+    "sha256": "55b82a9e142206198fac14054409cc31980f10d2934c1a087e0b81d0adf46b89",
+    "bytes": 12096
+  },
+  "en-03-09": {
+    "text": "exchange",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "647fb3f571e263e7490ebbcc500357eeb6d6acd3c4d0e262701c739e76aef2a1",
+    "sha256": "a747d9630227d97bea7948866c0199d50cbefe17b5bc34b4ff29ac0ae7c9bfb1",
+    "bytes": 11232
+  },
+  "en-03-11": {
+    "text": "homeless",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f31fb5bf747248739fbbd4f7b4bf0ca3f9360ec710135006f1a74bc2ef3c00fc",
+    "sha256": "0f7b22332fb6cb616efd719b00d66611892ee279442a25b006531a742eae1e4a",
+    "bytes": 11232
+  },
+  "en-01-20": {
+    "text": "valuable",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "87d6c6fc4be86b6b12a28a24f8aea5d2683e94c665fef75c2216ef286327b1f7",
+    "sha256": "f629305ab4da3be033f981a149b5fc70b1617d1c4b5fafc952b30390813dfd2a",
+    "bytes": 11232
+  },
+  "en-03-10": {
+    "text": "flooded",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d7ea6b63053df518c7c515b2a7d2d3b0d3667250c420ee5085eb4d551b0b0446",
+    "sha256": "44b601d52bc68ce6e1395fae373e54934281968dc8f5c2a0aea0d61c3aa2943d",
+    "bytes": 11232
+  },
+  "en-03-12": {
+    "text": "mountainous",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1cc08f347724aa326eccef7d048b528ff5b80d64c68466a173dd1f09b7093c55",
+    "sha256": "fb6052a47708f4cbfb887dcfb88947191ec640100622c7c2145783e0cfcab30c",
+    "bytes": 11232
+  },
+  "en-03-15": {
+    "text": "orphanage",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "0625fd6d32717088f3981a8a12efd17e67369a1e11997f794ff4fe600a2fee5b",
+    "sha256": "2d2edb4ab2bce42695cfbbe18d7df2a257369572dd85ec2dfc505d9c1afe099a",
+    "bytes": 11232
+  },
+  "en-02-06": {
+    "text": "disease",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4c3c5114cc05032d14a68bf1dd72a6b6674b99694810d652fb534d8e09f38875",
+    "sha256": "949aeb2cb2caedf14a045c73d6d2d70d4295162801df36176f5f45e2ff76bee0",
+    "bytes": 11232
+  },
+  "en-03-14": {
+    "text": "nursing home",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b5d519bab9398355896371f3edf7389e749fda678bf4d4f5ed2f5a8b79485fc5",
+    "sha256": "a5d4262a81f3bc0f60cd3c91dbb8724dc60a72cb3b5a6ca4a0a74c79dd3ab93d",
+    "bytes": 11232
+  },
+  "en-03-16": {
+    "text": "plant",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4c42d86ab0fa8bd5498254deb4952b331ae98aed41b411de5623addb148e9ffe",
+    "sha256": "74707954e80a5fabbabf06983b555d2d8c94e149b68fb34be97d452a4e946b11",
+    "bytes": 11232
+  },
+  "en-03-17": {
+    "text": "proud",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "e129849654f56a5567d8e962f49aa86e77042c4c05990e984408af98a858cf44",
+    "sha256": "f8b8bb84027825f1dfc5a97910912528733e76ecceeb2b6e69605e7623dc0c93",
+    "bytes": 11232
+  },
+  "en-03-18": {
+    "text": "provide",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "cbed8721c280cfdb4a65782a161dafffdffb964db4b551229b8d3c60fff3d8d3",
+    "sha256": "88a872285c9d9821cb628feabd7435674653267d623b277ec89da8123209da54",
+    "bytes": 11232
+  },
+  "en-03-13": {
+    "text": "nursing",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "067c20087c618288a9cbb92281034632976362becdb530488bdec9ec2fc4c7af",
+    "sha256": "192cf9b67e8476a767b6213909244d8274f3b1de363a370391996d79195b4b7b",
+    "bytes": 11232
+  },
+  "en-03-21": {
+    "text": "teenager",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "c1f50c04e591ef3f71de998aff55cd562c3e3170678afffc0cd11be2b0d8e37f",
+    "sha256": "1839f18ad65b7d0a231444a3533c124c8f0638bdf6e08d5ceb80fb12cd766b03",
+    "bytes": 11232
+  },
+  "en-03-22": {
+    "text": "tutor",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "df190886504c776ee7da916d998ad278ae89dbf2a39622ffdb4567dcfd820b20",
+    "sha256": "d0984c1ff3b756ef5219feb3b5b50adb0d69df07afc81f676b641698785a59ac",
+    "bytes": 11232
+  },
+  "en-03-19": {
+    "text": "rural area",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "fee338d70d0e30ead9a52439088fa11c10883ae96fb6d6d43fcc394a5a28f161",
+    "sha256": "ae32460c0fedd39d7345a7f20b53a1ab87ddabffcea999aae7cad20ca1a313fb",
+    "bytes": 11232
+  },
+  "en-03-23": {
+    "text": "volunteer",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2a4b24790e791c6603b03f5aba125559943f69e0ea80c3a40cfa85ae06dbccd0",
+    "sha256": "424225e45a73237da0afe14ed8da0efdfc7bb54c376fa55150507850555e7ad3",
+    "bytes": 11232
+  },
+  "en-04-02": {
+    "text": "character",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "47898785fcc47c412075aa352497e3cd28e55496f5b9111e6689d35f1f4ef96d",
+    "sha256": "8746f811e819b817463adf7f47cf443185fb9102931ba3db50fea87addf78064",
+    "bytes": 11232
+  },
+  "en-04-01": {
+    "text": "anthem",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "20493b35fe351cbd46bf2c502ce6ba58247afe587729308d8fa0f2b4f4473d92",
+    "sha256": "8b822930134165d8d9dda9c46969bd6c566652f53ffe4bcc1524313e81515811",
+    "bytes": 11232
+  },
+  "en-04-03": {
+    "text": "compose",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "439edc2fd443fb17289ebc85f455b3825f1d10d8368bf51d527a11b8c5362164",
+    "sha256": "f417aaa4ffbd7a743f45d2ae7c56418bb071bb17c6cb050f668f4b1707c16ce3",
+    "bytes": 11232
+  },
+  "en-04-04": {
+    "text": "composer",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "758c14fb4a09334895b1ce680e982b4446969343bbf9e0695f760c73f816abb0",
+    "sha256": "0c81d2b079ed0d7f8b95916300312582f73824f398150b6a122646218320a986",
+    "bytes": 11232
+  },
+  "en-04-05": {
+    "text": "concert",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "007f392fa539f577dc0c058030d72545372bf4e4977f48380d4c00d5132f30c5",
+    "sha256": "497c137361e35086949a1f9a9739af5a7c4bf7796aefcb39eb60f06b711271d0",
+    "bytes": 11232
+  },
+  "en-04-06": {
+    "text": "control",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6ef15faf220596876fdb352112ecce3e28e67c6f7fa1f8ce29e9b29ecaa95b5d",
+    "sha256": "9b86032d1b41777280930451bd020009cca632cd9fa2158073ac49563a8773a2",
+    "bytes": 11232
+  },
+  "en-04-08": {
+    "text": "exhibition",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "65468b65e984f6cdae46313a62c2ee75a00362a290bcce29cb309cbe6b7d3911",
+    "sha256": "28f26e0fdc0fcde2d66e141f65823da7b7340f04b45afc05cf8d7be19d9a0771",
+    "bytes": 11232
+  },
+  "en-04-10": {
+    "text": "gallery",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "81930d7b7f7df989db75ac62d8368bf86ae59ca95542e2dde02eb732693b6300",
+    "sha256": "e599f55e8ae05ec1d99adf203e48904e4eceb12acedb2054d21fc22da6dab661",
+    "bytes": 11232
+  },
+  "en-04-07": {
+    "text": "country music",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "ef674a916be0ba61cc3c9ea6add4d9dfd0c2921803019c0ce6daccbd011870e7",
+    "sha256": "a7f917d34ca3508da819fb28cdd96c666a278efea624cb7be924e48b45ae5368",
+    "bytes": 11232
+  },
+  "en-04-09": {
+    "text": "folk music",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b30d08ae9b10b010f1b94843ba730da3b61853ae83d95f0040e499b71e06bbc2",
+    "sha256": "31f6168bd0b8228294864257d425da055723880f85d7ab7085607204ea67ac7a",
+    "bytes": 11232
+  },
+  "en-04-12": {
+    "text": "originate",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b862ec0e19d9c9b06789b306a05f17783f10a9149233f258036f075cdd0cb89b",
+    "sha256": "9bf5fca804954837205c21dccb79b93daeff5b3a25b0068af6c69c70658cbf2c",
+    "bytes": 11232
+  },
+  "en-04-11": {
+    "text": "musical instrument",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "fe0967f3f901d6b4f72cc5a1e4dc05893b2dcfd87134f673fa6757a875e5fdfe",
+    "sha256": "0135848bdb5efe9a8bd41f2f46be099909632d19d203ecd635a9f8904157da63",
+    "bytes": 12384
+  },
+  "en-04-13": {
+    "text": "perform",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "aad021bc659a17545dc514c514e4a6210fa8a5c17636195b6d7afa384c4b9e50",
+    "sha256": "784c8ee4537fac94256e86aae608a650c383df96a475773be5ce9b9243ce9c1c",
+    "bytes": 11232
+  },
+  "en-04-14": {
+    "text": "performance",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "44cfddf005b6ac3de0472499ea67ace0dde39a135cad453cbe128a8294f527a1",
+    "sha256": "9986af2f4698059d977397051f2c2493cb16691a499f40fcdf8386895cb85a81",
+    "bytes": 11232
+  },
+  "en-04-15": {
+    "text": "photography",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "0e618ab1862a53be4dac5e425514335f7d8c075bdb0d1c60fbb86800d1093786",
+    "sha256": "f975d412aae11f1a4dcda677dd1cf9e92ac8a212d0f3d65444b37230d809b0e6",
+    "bytes": 11232
+  },
+  "en-04-16": {
+    "text": "portrait",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "303478d921c03cc1e0c9858a160ece9487a395d2b94416b7ee98f1adb0799df8",
+    "sha256": "68310bd64f028f9f1067f58e206d0930857daf48892e494d816922c4543deff0",
+    "bytes": 11232
+  },
+  "en-04-17": {
+    "text": "prefer",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "fd43b33c6bc31598466b2735529e9a8c0af4816ce19859b6faa4ec1d6604816d",
+    "sha256": "8d2c9f0f78feb4926cd0e23d9a020afcf33b61911c325116cb14075532df3a15",
+    "bytes": 11232
+  },
+  "en-04-19": {
+    "text": "sculpture",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "ca456254176bdf76c75960d3a3f65f91949ae5c089e1ba7c8f78a4c66cb8cfdd",
+    "sha256": "0ecccb412caa0ab6a97ab38fd8ab2afac632a66e04d961fd74f1656f5cae2fd7",
+    "bytes": 11232
+  },
+  "en-05-01": {
+    "text": "beef",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1076e350b1de73b7a97de3f72c90cdf1eef705f5d187fd80ca41d0102c8cbbfa",
+    "sha256": "effe717b4aeedce5897f0bf4998c6967a77752075733bffc58b17aa3a0162dee",
+    "bytes": 11232
+  },
+  "en-05-02": {
+    "text": "butter",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "504f76cbacb53b4e8584ff07a323be93a01e4c38c064789023c3f4fef4137394",
+    "sha256": "f14aafaff50d9a62f09e2ec0897377548c4a9d9b2d36b75245b4180da37af0f9",
+    "bytes": 11232
+  },
+  "en-04-18": {
+    "text": "puppet",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "45acb425cbdcda2e262995acc8b530d28e18a20d61e5eb1bfc5928160a1bcc15",
+    "sha256": "f8bbe9ffcb376f6a1a73f9c84df624ad830becb757b5f873d42165f3fd0ec38c",
+    "bytes": 11232
+  },
+  "en-05-03": {
+    "text": "dish",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "84f3bc364cfe8f422816b8154ac5c697ef21671dfe85b96c853811e52893202f",
+    "sha256": "795c4ac6f5b94af5772afa1ea1456b7ace0a81420a777f30c47d20ae3d1b7d27",
+    "bytes": 11232
+  },
+  "en-05-05": {
+    "text": "flour",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4696f2c2d77ec1dbcd1b326a6ddb4b9a5ff9861f2f423efde014b8604462b70b",
+    "sha256": "34ee6b801dfc3f43240269e9d11ed754c24886ebc4d75c3b436b965b56c8c6e0",
+    "bytes": 11232
+  },
+  "en-05-04": {
+    "text": "eel",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "380c7c24d264fd5c189ad613e8b8a337a71600b5cdaae2a654186ac037ba3f8f",
+    "sha256": "c0066dfb70136073f1498e549f1ab49d7645d6688c4a28b8f40b7db455475cf5",
+    "bytes": 11232
+  },
+  "en-04-20": {
+    "text": "water puppetry",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "76abe44a6212c51f3e26b0d93d7403c3ec744cf7e59f8f9a6f1b281bb34d3f16",
+    "sha256": "9775fc5d766c47e86d2418707e1486c4c359e53a7bba605f2bbf22e06cdd83a4",
+    "bytes": 11232
+  },
+  "en-05-08": {
+    "text": "ingredient",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "40874a4f838a034050788f94a07a056b10111c5764042016f4ba04e4bccd7248",
+    "sha256": "6a3aaaa8a42fba438b058b096e9d7c9c73ee70de799aaca796d7d307c8616ee9",
+    "bytes": 11232
+  },
+  "en-05-09": {
+    "text": "juice",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "04e67d268070fb94cf38840a395cedb7803c593b314164c7fb46a029d44f6a79",
+    "sha256": "6d72321be6bc12cc108c4dd7cfd002e7f587106903eeb2a713aba59e33a57bb0",
+    "bytes": 11232
+  },
+  "en-05-06": {
+    "text": "fried",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b6c426647255d5bdeed9ed7227a97d11b3370a56b5e0d3bf46f5c3017be31cb0",
+    "sha256": "9b3fb2cc9924c866efc6c4ac1960006dc8ed8954ecccf9109e9caadd19335eee",
+    "bytes": 11232
+  },
+  "en-05-07": {
+    "text": "green tea",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6375c426cf846f444609e94f1728b3f73535db0e3d4dbaade7a5791284670be6",
+    "sha256": "f7c19af01a4534009f900aeb9bdeb528049e39725e22d7a403e731d4b6498e89",
+    "bytes": 11232
+  },
+  "en-05-10": {
+    "text": "lemonade",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f3fd4dfc4385a42d76156a328e9cac8a1ada9417abdf99d12b854a5cbef0576c",
+    "sha256": "496384062f5073ab6d05a81420f976d24b34191750ae2d34e3aab1d9c62329ab",
+    "bytes": 11232
+  },
+  "en-05-12": {
+    "text": "noodles",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "a3288ac7189da86a330dbbac9366e9cb9369fb205de4798054c899cc03199cec",
+    "sha256": "bc60a4edfde66031c6ccfe37fcf3724a0b4b272531df69b45897bb40e8e64c52",
+    "bytes": 11232
+  },
+  "en-05-14": {
+    "text": "onion",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "95ed62f5ba88daeffbcfc21d4bfe0f464e47be09c69454215b4927b32ab5e65c",
+    "sha256": "6c2234091ef998a58728dbf3ea9e63b59b65bcc8324f1cd2292a80d181eab93b",
+    "bytes": 11232
+  },
+  "en-05-11": {
+    "text": "mineral water",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "61e53f4df43b7104f4b13eadcb2ce6b72c631cb600559691fa423b5fbd6c5443",
+    "sha256": "eb7c8dbd80ffe1bf8790282e0763da4dbb46a6b8b5f6ebcc6e7a7c58e81afe0d",
+    "bytes": 11232
+  },
+  "en-05-16": {
+    "text": "pepper",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "11889953deee3116e331b5d8e124fe10d59259b6fdcc46af2503f85a55c67906",
+    "sha256": "96794fe3ab0bf5666c1bed239663022d9816189060b5bfd8ab0ca448a4b23399",
+    "bytes": 11232
+  },
+  "en-05-15": {
+    "text": "pancake",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "43c7bcb8ab34cb53bc3764615f64a086be2fb5d5de52b0cfb0ea1ba6bea6b0db",
+    "sha256": "197bc2fae9139b8e25cf194c44fe3cbd742b33f612128eb49e82c2cd8c87b64b",
+    "bytes": 11232
+  },
+  "en-05-13": {
+    "text": "omelette",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "765060b94d1294821a94d974897b65f5bd880a33a310ea3d41c1b83c37d8a6cb",
+    "sha256": "e6a6ee8c55c39a54ff685a00b26aece52dbf4212f0f398f9ac9123f89969e76e",
+    "bytes": 11232
+  },
+  "en-03-20": {
+    "text": "skill",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "16dfe8b875a86b8785bdc053d7cd120e86abd4f6a0df167f639623eb5c5cdcc0",
+    "sha256": "71f6ef1bdb7fcdc1c89cceaf659750029d3636ffe26db20e854c195d6b4b3ec7",
+    "bytes": 11232
+  },
+  "en-05-17": {
+    "text": "pie",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "426818c3492919821dedad2e13276800b6b8003fab8d8ed909c03fa24b7c02dd",
+    "sha256": "1acd40cd358bf07e7f0ef4a7c9ce6610bda51eaed4b38a013fdd7c1716f2cab1",
+    "bytes": 11232
+  },
+  "en-05-21": {
+    "text": "salt",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f04d44005f24b42277c7c303995d2d6bbafd255ed773c6f0e3c6c5b8dd826833",
+    "sha256": "bb00527d5e4a2158147bc350233453019e59abfca62fd372753daae89df4a5fc",
+    "bytes": 11232
+  },
+  "en-05-19": {
+    "text": "recipe",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "071b4552097dae962308d78712d5df69096507f0bddbd61b0be65c5c52cab6f9",
+    "sha256": "c9f15417cba6f5d53a40fffedc5a19f14b6dfb28aa3a58a57bbdd2cf9ee37e1a",
+    "bytes": 11232
+  },
+  "en-05-20": {
+    "text": "roast",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "c5aa7cbf1f599dd03b3e736a2ede3047e03d319a3a05250c85a8fbc9ab2deddd",
+    "sha256": "be706d440aff19fb4f928f29dfeb4e1cae4c8e8f8eab86a2919982d7a5bca327",
+    "bytes": 11232
+  },
+  "en-05-22": {
+    "text": "sauce",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "61c71fc3236181cbbbbf116c231aa4a4b24ccb00e46d0a96a3a9b0d9104608aa",
+    "sha256": "07d0382a04f172aba85374c553d560286516ee1e32ed376baf9c810afbfb8925",
+    "bytes": 11232
+  },
+  "en-05-24": {
+    "text": "soup",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d14ae31af79d68edcd0de04ddd601ac1508d2591989e1d45dd4363df4a3b5582",
+    "sha256": "edea3bdf494c3862e2699c3b573fd794f6b3a14b8019002d7dad0b8dc9a5a90b",
+    "bytes": 11232
+  },
+  "en-05-18": {
+    "text": "pork",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "82136d71f76789c7efb550633909f40f561a1ed21c8001c763f01a6b5ce5ca77",
+    "sha256": "57d0aa49cd8b25c467b56ded895f5afa0cce6212b386959259dbe06d758471db",
+    "bytes": 11232
+  },
+  "en-05-26": {
+    "text": "tablespoon",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f28fab0b7d51365fa0341c9432e935beed3e0c92ba263f4559c8a05fb159d8e7",
+    "sha256": "9d21e5e54bc570d8769932a6259325188e708044ddb54607c983d851a5c79449",
+    "bytes": 11232
+  },
+  "en-05-23": {
+    "text": "shrimp",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "8d78c75b3d231b2e83aeeae58adcaf2f28aa084fde01a712f18dc6b331f28a58",
+    "sha256": "a323a0e0d1a238fd82399ab129d8d56165c4703eb84fca52c7a56684bd39ff43",
+    "bytes": 11232
+  },
+  "en-05-25": {
+    "text": "spring roll",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "37b5d0d8cbf9f09c2fb6b2cb28a6ba3dbfe8b50766379991a8c2534eebfb01b2",
+    "sha256": "94ad80dd166c7ac0c5671fc6cfb4cea045bd7b302faa415267a8f36215a94c10",
+    "bytes": 11232
+  },
+  "en-05-28": {
+    "text": "toast",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "9b3127fa575c60d209ad0b8b8ce6b3ae78458162983c2871c006b2fcdb8e7f56",
+    "sha256": "855be878ab16ef3a73eab493ad479323ec7cf41e080a1b835a1dbad6c81fe432",
+    "bytes": 11232
+  },
+  "en-06-01": {
+    "text": "celebrate",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6cd7cef8ec705465f8d3cf4b80d82ec85800ec0ced8ef4788d7558b6d699e683",
+    "sha256": "0fc91529db0b70941febf25e71fd09356800bc9ee7df2f463d397927a45e34e6",
+    "bytes": 11232
+  },
+  "en-06-03": {
+    "text": "equipment",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4baa8900e58c667817683aed78720f66f8204c9db4c6716f9e8a76b2f6ba5ced",
+    "sha256": "a4eba247fb37e1493a9febb6ab44eb5d05f9b83bfd729a20c5ffc4757e94b242",
+    "bytes": 11232
+  },
+  "en-06-04": {
+    "text": "extra",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "577e1a67e6c92330622f65c16cddde33652c9a5c168ea1baf1125f39d3762bc5",
+    "sha256": "03decff85e8e4183cc958edab1cb5006debd99f94fcfecf42b8cdc4db0370c68",
+    "bytes": 11232
+  },
+  "en-06-05": {
+    "text": "facility",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1a92367a2f3a2ade923db3e20f0ed8bae151fadc8a06d24aef0513640f0b5507",
+    "sha256": "673d5473bbb4b0dc2a0d69e219093eb3251857318473906d84422f286d84b404",
+    "bytes": 11232
+  },
+  "en-06-07": {
+    "text": "laboratory",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b45473d5de3eb0d0da71ee8d601e99817d929987e7870a161de39234c8b6da89",
+    "sha256": "695a268bbd69c25fb9b6d10c5c101e14fa6d6a23e976ec8d61814c6411e8e510",
+    "bytes": 11232
+  },
+  "en-05-27": {
+    "text": "teaspoon",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5387f546543b544979e3e175e11ebabc8aaf8d5310f91a27dbe03a59f71099c1",
+    "sha256": "6a49dcdfcfaa3552f9d1a9edae46a6eaeb39723983a4bdc3e2c7f8b543d19bce",
+    "bytes": 11232
+  },
+  "en-06-09": {
+    "text": "midterm",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "9a9360a1ca78651b1559853088b18695d48c302a8bbbfa70e51ae3584ab64122",
+    "sha256": "2d623c53bd580277194af6ba384cb77d22f5da4968c43281dcc180b3da880e37",
+    "bytes": 11232
+  },
+  "en-06-02": {
+    "text": "entrance exam",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "86212124616500526f7a021f153d6ea42e376faf40f12987b2383ec2b30dbadf",
+    "sha256": "870cffa390e3a2cb8bb5badfcf86d5012bac8cb91f1653256e7c64475ee5302a",
+    "bytes": 11232
+  },
+  "en-06-06": {
+    "text": "gifted",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "aa35cdc383b5197619a796d90de520eef08218b8faeb1b1a02aa9d12a0db490b",
+    "sha256": "90de88b1ebcd5c77c9dee4dbf59a5605e79a6dfe67994df3194cd265b588170d",
+    "bytes": 11232
+  },
+  "en-06-10": {
+    "text": "outdoor",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "3f6e6f216e51a716ac820a143ab1697efbb74df2220e6c20b7944f68b0ca2d00",
+    "sha256": "3a3a4d560b5b541c5c7e5c3780c08a134653e13d2d37f19af64e5d2ab2eb8074",
+    "bytes": 11232
+  },
+  "en-06-11": {
+    "text": "private",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "56b96b088e9f7ec6bcab38a6c8a55b78f05e8eeeb36c8d03ca94f7f213b26ef6",
+    "sha256": "85cf8d7ff74a2c2720235f950dc5b42602d62c94f620cec4c8d4885b5a6cd0a2",
+    "bytes": 11232
+  },
+  "en-06-13": {
+    "text": "resource",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "7864fd7c88f9c6bd419a5127b3d9a4520f7610da99c1d7cf474f6a55c239e237",
+    "sha256": "67816086d3aac9c07971509993c66e4d31f2ffc20bb0f242aa31998a00a37caf",
+    "bytes": 11232
+  },
+  "en-06-08": {
+    "text": "lower secondary school",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "99e36f5dc9417d16e7e002ddbb8133c0ed3d1a1900bbdce159cc37baf5b40490",
+    "sha256": "5661ec010ed0baaf0ed5feebbced1e8b2761c7e8aef14ff87121ede64b374356",
+    "bytes": 12816
+  },
+  "en-06-12": {
+    "text": "projector",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "94fca5486df25e8de2207506c45339c220ecb0cb85a40a8fb074ddd55f38ebd9",
+    "sha256": "025c51e05462fa1470f888cd8921e6a4417aed0286af43c79fb18d711dd6803f",
+    "bytes": 11232
+  },
+  "en-06-15": {
+    "text": "service",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "121721f446d4b0393a1458812e9ebabc560453fd381c32dd5ba2b082d992ab0b",
+    "sha256": "6b2ee62c4a28720f67bc1b1e5b707df1cf50bf1fb161c17f23e0f3223c47b046",
+    "bytes": 11232
+  },
+  "en-06-16": {
+    "text": "share",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5284629e0ee159117fc0152f5ebeeee7028582a6232e532b916ab8f0f8fa808c",
+    "sha256": "eaba4f10cc31d4c4705c9f3a5bfd34344f6fcacb819db5f2e88628489cdb9183",
+    "bytes": 11232
+  },
+  "en-06-17": {
+    "text": "talented",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d0a79dda33d290b1e88c6166e48075363dcb501affb29e3fad1fc08c4ffccc91",
+    "sha256": "e56605c78f7af2b0dbf8e1f8c4bc81284f320a51de665178d353f3a4c9185837",
+    "bytes": 11232
+  },
+  "en-07-03": {
+    "text": "fine",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6730b1f0479237fe3bd9887138e120f5abdf9997f6962364815424068c137329",
+    "sha256": "efaec154b280a70ae8a050ab5ad57b513469de64eea4297cd77c802f246dfb14",
+    "bytes": 11232
+  },
+  "en-07-02": {
+    "text": "distance",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "631206f8b5f1e23f1ed28fed7256d1716958fb311143fdcefa4fa461df825847",
+    "sha256": "064bc904fabb633bbc3a9e113b181e30ab80f7aace1b11c2e6a4624686d29181",
+    "bytes": 11232
+  },
+  "en-06-18": {
+    "text": "well-known",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "48f8a61f469356494773f8b33621fbaa9e263b6c77ef7b9efc98220d8e038e77",
+    "sha256": "2265d480e2ecd9186e96a8d166a866306405bfb1ddda59ae5133bdf81d8c92f9",
+    "bytes": 11232
+  },
+  "en-07-01": {
+    "text": "bumpy",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2cf360a29e40a3731007c107da8dec596d8c98a5b50372bbee2431517622caa8",
+    "sha256": "5d16a61cf59fbdf19624b0c2544d6be226e2f945b03f7ff25228bf169de2e0cf",
+    "bytes": 11232
+  },
+  "en-07-04": {
+    "text": "fly",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "87cce39cfe9b3721edc97196fc3dd545c369aa86dc1585750259c02ef6796c5e",
+    "sha256": "5fc19915a89c9d43f6d126eab49a3142d3a69d788bdbd9f781e771e9a940bb4c",
+    "bytes": 11232
+  },
+  "en-07-05": {
+    "text": "handlebars",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "eaa7ae24ef2c717af3f835390ba948d8a20dbb3a04d1c6a82f799c17adfd8b16",
+    "sha256": "48fd652984b82162ac0590843351059d6e4a2af2ffa7ba538ae557e3b060c7c5",
+    "bytes": 11232
+  },
+  "en-07-08": {
+    "text": "passenger",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "7022d437647b6c05613bffbd1f29cb7937cdc4157a58c1ec31c6ed3168eccb3f",
+    "sha256": "724ba84a36d335585be67d5587354a02ff97f5e90a918f95ef271d0b720ff9d7",
+    "bytes": 11232
+  },
+  "en-07-06": {
+    "text": "lane",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "a80165b9cd3bdf1a364834c1e49aec768bbca2826f57ffafdd31ff921501934e",
+    "sha256": "1ccc4489635f7ea0ad5855da7bb842c1ef8dc2489dfbcfefcadd4184aa447266",
+    "bytes": 11232
+  },
+  "en-07-09": {
+    "text": "pavement",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "ae639018c6b384e8cd3dcfddfd1b546b10663027e00761845eda531f83d71abf",
+    "sha256": "bce5664521912f463ab5bcfbc3d2e991fbc59c4045b872f58cc4e65895e41c89",
+    "bytes": 11232
+  },
+  "en-07-07": {
+    "text": "obey traffic rules",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "765f11fef98dc4977ecedcfbe11af87e29b4eba7dcecca2dc014aa2d52e4b127",
+    "sha256": "21a3f8a0caf91ff76ab8ba46bfc090ebc1e2a43fab5125489b2f72ce0f3f6939",
+    "bytes": 12816
+  },
+  "en-07-11": {
+    "text": "plane",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4c9e25a68cbc2fbade785c7a5e6ef980a80010dded5b01b59a24ca02449f3226",
+    "sha256": "063b27a6bf4283f9ae067fb7ea47908812d30ff09bf014dd8411c04876549c77",
+    "bytes": 11232
+  },
+  "en-07-14": {
+    "text": "roof",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "87aaaa9f4cd4566c1bd403074c029954dc9521eaf9e77cc84b41e68558e779cc",
+    "sha256": "a36d12cd519f0c466f204122fa7d6de37e91dad16ec1d178190044e90083a719",
+    "bytes": 11232
+  },
+  "en-07-13": {
+    "text": "traffic sign",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "74363fe9f191be15115a5cb9ee0a889e514f7192c84f9e3066f1656aa00e1035",
+    "sha256": "b18bf65618609093e33f3901c726e9d78a37cb4dec722b8744365958a6188bf3",
+    "bytes": 11232
+  },
+  "en-07-15": {
+    "text": "safety",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "17fd7c64053f6b554005446a131c90b813d67c1b976d4de5c803b1478ce8941b",
+    "sha256": "1a56d8a0f2663e671c858fbca60582eaecfb095e81230c98ac6d458aaebca764",
+    "bytes": 11232
+  },
+  "en-07-10": {
+    "text": "pedestrian",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5fa58215b3258f11e5d377c92d71e7fa46fdc6d2f2d2ce93c0ef768cb33eecd7",
+    "sha256": "5a66fce7c437c8e243fb02cc0b19f7df164911f0edf6f9c12eb0120e49674a19",
+    "bytes": 11232
+  },
+  "en-07-17": {
+    "text": "signal",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b233b42dabaeed0b186953a6471ffe840eff1b980f13defd7f7a19b5852bf81d",
+    "sha256": "d435fe9fd93dc9120e8bf1c8a802b77d5d0ced673de38638f3dbdd11f1a74322",
+    "bytes": 11232
+  },
+  "en-07-16": {
+    "text": "seatbelt",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "df4511a079b1a9a07771bce35612d255a5ef4d7c6c67760b405cfcc6640f898d",
+    "sha256": "800f7d176e383c1813f4770468262f7fe40fd406933491892563fbe78b283d3c",
+    "bytes": 11232
+  },
+  "en-07-12": {
+    "text": "road sign",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "fe8fd50447e98b7e92aacf1040847d474c1e3413a297a62cdd51e3e19074790f",
+    "sha256": "7f2f3610071ff454c015dab2c8025b56ed1d7a2382450a4cd11ae0f8079f89e3",
+    "bytes": 11232
+  },
+  "en-07-18": {
+    "text": "traffic jam",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1f18993679e41bac7579fd093938d2dbbe8543f9558614dda7564d8c4cf20479",
+    "sha256": "7f0430d8f79103351dc90f245d7ef06f1b97ab48c0d3b95a10874ed8c7f1f092",
+    "bytes": 11232
+  },
+  "en-07-21": {
+    "text": "vehicle",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2cd958bdf10cba7f35fdcf43ccd29336b735cbd30efdd3d254bc7f7eb2ed536a",
+    "sha256": "458f5207966e6fd2692966f480cc37b398908191a38249498a41f876ba631bab",
+    "bytes": 11232
+  },
+  "en-08-01": {
+    "text": "acting",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "22edcbc61f63af101a83885a6b999bf495028fba481904244d102d454ffa1f5b",
+    "sha256": "b4e5e04e345e0c2aea9fcea0ebd791b6ba73f5af134f884f5d186e25c40a8904",
+    "bytes": 11232
+  },
+  "en-07-20": {
+    "text": "traffic law",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "20854f11c4831ed46a47a87b234d573b24f984f626eca41a5b3cf78633072146",
+    "sha256": "8375e1931dd4f57204922c49bcca67fe12001b0bd027197fb7fd213585ec09b7",
+    "bytes": 11232
+  },
+  "en-07-19": {
+    "text": "traffic rule",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "8a6dfb7d326dc1f0354925cc621c1674e94781d224221f78cf8899e6bbdf9cfa",
+    "sha256": "8b9ba57aaad10159cfca631b8e7f982816cd4e7e51205afc1fc1d79411985fc6",
+    "bytes": 11232
+  },
+  "en-08-03": {
+    "text": "confusing",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "a0b025a71b45728b22db8ba17e81d6a027ed389c9a3bf6b8e1c528be3c03c075",
+    "sha256": "46e6523059f307fb352c192c806aed9885add6655ff4d5b9aae2ec91018b4fd7",
+    "bytes": 11232
+  },
+  "en-08-02": {
+    "text": "comedy",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "45d951ee4f60afada9a6b217c3b3230bb1a3156c14ffce4898fd5a3e0f6700dc",
+    "sha256": "9c905cbb51a7e14d7502c3b4818265bb5cd60c1742fd5a78338433e1d0adf9a4",
+    "bytes": 11232
+  },
+  "en-07-22": {
+    "text": "zebra crossing",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "9909cebcb60ea4baf367d140a028fd76a0d8ebc61af5a0bb207a3f88070f7fd3",
+    "sha256": "261dac948db915fed9af232b05380f2fd301771186ddec3ef285ad0a4b7b39d8",
+    "bytes": 11232
+  },
+  "en-08-04": {
+    "text": "director",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4d29b6c6bb9e75325ca9dc99757d2d85ad0d864aef88233cbe59fbb135e8040f",
+    "sha256": "10708a283dac19544b4a28d1fd1bab201e2fbbdd343c7065a0163ed2aa31dc61",
+    "bytes": 11232
+  },
+  "en-08-06": {
+    "text": "dull",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "40f77650b7efedbc77f0a5f176b5b69609485cd3827915a6cce1d00277f9dcb8",
+    "sha256": "b2409489450be0ebefc6a5117be6407d2ba39f98118c542981812cb9d674c116",
+    "bytes": 11232
+  },
+  "en-08-08": {
+    "text": "fantasy",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "25e61671e417a11e9a543fb1745f4a2c667dbffe2ab6bb95abf0fe784d6b8ec4",
+    "sha256": "e723e3ee0697f566970361b92dbbfc6eec515b985865805aeeeb6c4efb879a6c",
+    "bytes": 11232
+  },
+  "en-08-07": {
+    "text": "enjoyable",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4e8798a9c7a9c26b9a9afa98c2fe896b96045b94e207bdd1c3f4a71aa6d83c10",
+    "sha256": "9b7108323ba850a3ca182ebf7c219993a61120a4b0f83513d1d75b00b323b32b",
+    "bytes": 11232
+  },
+  "en-08-05": {
+    "text": "documentary",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "24560e141af46ad1bf5df1102c7e8251dceb4d6f62704f95bddc40951dde6f59",
+    "sha256": "19ef0c311150ad491138b78349599050a7e6c1e5ef311a6482a2ce7bfb9dee3b",
+    "bytes": 11232
+  },
+  "en-08-09": {
+    "text": "frightening",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "68dd532b5b61a4e556fcc64bf7447371f59bf4c13fb9d5ff67ba5175de7a8c80",
+    "sha256": "8c863ea56e909eeab510e1466426fe206f14ae410f6484034cfc0e5ebdaa3f39",
+    "bytes": 11232
+  },
+  "en-08-12": {
+    "text": "moving",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5a1a7cb6ac11f92023bacfa5093693900f86ec987c904ce46311725bfd5930b1",
+    "sha256": "18915f33d487594d25df6f6100fdfe8cab4959ae74d6e1e00bbcdddbe85bf6cd",
+    "bytes": 11232
+  },
+  "en-08-11": {
+    "text": "horror film",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "109f35b5e44b863bb351eb604bbc0b7b3ba8574a2f4ff7787dcfe39c84cb7353",
+    "sha256": "a8392d39e1a9a4bb7a14bba48df39590048401465685458d8603bb9f38d4f847",
+    "bytes": 11232
+  },
+  "en-08-10": {
+    "text": "gripping",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6bcc1b11ecdc53a0d4826748d756679e668623eed0c58613fd5f58cd4c6c08d3",
+    "sha256": "ef09b094d27995c8ab3f1b3a7eb774f9ffbe7a956027466d4bc2dbe7d74ae758",
+    "bytes": 11232
+  },
+  "en-08-14": {
+    "text": "poster",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "ed99a561e7c8b0e1160560a444d202301cf3705cd97592a05ddb0209fa2b0eaa",
+    "sha256": "b4850b5e047e8bc539f1590ed8035a7708d08936e1e2efd0f2c1a3e54615a4da",
+    "bytes": 11232
+  },
+  "en-08-15": {
+    "text": "review",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d257fc96032ea2e38faf99480235b665f1e9dcd055e6c28f0dd4bde1f4cb4299",
+    "sha256": "6108038fb3306ce15ecd60e76cabc8e493fb02457670bf2a6c94e8a11cb98ef1",
+    "bytes": 11232
+  },
+  "en-08-16": {
+    "text": "scary",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2d86576306fa26865dd88ff1f45cfb51ec6272656d8ce30051c2d100b8f91f7e",
+    "sha256": "7fa19bd0c8968d5f048367b5eb37500c9a05184c78a27dcee87e82e03560acc4",
+    "bytes": 11232
+  },
+  "en-08-17": {
+    "text": "science fiction",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f9158c29ba65d7b65fbb837276a3dc3c217ba8df03aba25a69eb94bbf029b294",
+    "sha256": "73fbdf9be7bef1da6b361b48d6cb582d6ab3644d58ba9256d665b8c442786d8c",
+    "bytes": 11232
+  },
+  "en-08-13": {
+    "text": "must-see",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "ad870837e579ce887cf03e828f36c10d4193324b1ebca061143f2bf5b2c5ef6f",
+    "sha256": "e5114c9d00e553ccc6285e7354b92cbe34d9f0ec6a853b3d0a0d417d8ac4ba32",
+    "bytes": 11232
+  },
+  "en-06-14": {
+    "text": "royal",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "cfb425d399d34a606a55c2c40649d03ac7c8cac0f936e1b4a94dc74eb9febd99",
+    "sha256": "ba4cb6d6c2236e8e03f0725cf1c354ad31b7a1b3ff1fb47b49e57ccfee38b91c",
+    "bytes": 11232
+  },
+  "en-08-18": {
+    "text": "shocking",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "debe89dfdd707f9d29d51b851ec05476b7b64fc2f265f4192bf8306aec2aef70",
+    "sha256": "2d88099363e22699f084ed0341907bb0b4c0876d0f11c2a1fe5b40ad222fdcd5",
+    "bytes": 11232
+  },
+  "en-08-19": {
+    "text": "star",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6ebf97618e92f630fb4c76bd116a79a4d19e874748f8e06c7000221c46d43c36",
+    "sha256": "301f8da2039b50b49af10277ff989bc9525a38729cfe5618701e366908ea7c51",
+    "bytes": 11232
+  },
+  "en-08-21": {
+    "text": "twin",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "935c84ae41f62a954133ee70205e6e7ff5e6f20cb1937932dd2b5722f9447d87",
+    "sha256": "7373fe6c17181b854bc5777e70150c765d141c1e3b4e38f0497341359c825f8e",
+    "bytes": 11232
+  },
+  "en-08-20": {
+    "text": "survey",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1cf8be3fa4ffa0428cce82da064bd1a301a0e4955c1df250e21a5fc06337890d",
+    "sha256": "77406f7f863ce05fa145f6ce5581a3d057b011e157c2f3a9c9e306c361e0680f",
+    "bytes": 11232
+  },
+  "en-08-22": {
+    "text": "violent",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b51f7aba9f5eb7dbb6f47eb15d7e6c48739db5bbdfb7049567cc9503b78fa8c9",
+    "sha256": "4540c103c1c46c9886a18f10484ecfa8cf2b2ceb561abddf1d0875a08032fbe3",
+    "bytes": 11232
+  },
+  "en-09-04": {
+    "text": "costume",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "02d198f11b48b2f50aa95bd2a305d934a1f72874a9640547987b772f9b3364f0",
+    "sha256": "6109bf2b1f2cce8ba5e43268f01f2e56555c323b66dc2323855bf4524723e543",
+    "bytes": 11232
+  },
+  "en-09-03": {
+    "text": "carve",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "0b706d525f9a6c73ee5e922f55544580a1e695643121838c3b719a2f62ed55c4",
+    "sha256": "fc09d16b9ddac2971b22d7cea122d8f722cf4ef31e0e4fd38457b6aac3e5fa34",
+    "bytes": 11232
+  },
+  "en-08-23": {
+    "text": "wizard",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "245dd56226fd6bcb6d65e1a29b263c82ecb415c6e2309e71907a59498b49aaf8",
+    "sha256": "482001a5556cc3758a013f6fea1dba927655d7a64a94b132a8d2820573d0fb6d",
+    "bytes": 11232
+  },
+  "en-09-01": {
+    "text": "candy",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "91eac89558a834465e63496abc224bc60a56827e9880f958bacf8db862a27f1b",
+    "sha256": "e679d27fc4c0cc651570c7f02d76feabeccc8f7a1202a41467f001f867c7c813",
+    "bytes": 11232
+  },
+  "en-09-05": {
+    "text": "decorate",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f85d0e843a8f690f3743d766780bb66a9e5ab59daba16d67af5ebec0b29c5077",
+    "sha256": "775170869a82fdacf2ea15fe89b4337430c4e215a5d9a83617572ca11af45c49",
+    "bytes": 11232
+  },
+  "en-09-06": {
+    "text": "decoration",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1c16e2d1b5657742af6a706bf355528a4e273a499eda5a5e7a494d2c08d707af",
+    "sha256": "7e742f8274b1be348f1d72e999e65dc4aa6db97b3fa99d83eeff0b0524a70488",
+    "bytes": 11232
+  },
+  "en-09-09": {
+    "text": "Dutch",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2918e0b3f098e9010c3bc3f27a24c4e9a0c4d1840c1a56aed4b8b285135af06a",
+    "sha256": "5a996caafd0900b6fcb3e4ad6136aaf8a26e534bfd0dfab1c8ebc72de690eeed",
+    "bytes": 11232
+  },
+  "en-09-08": {
+    "text": "disappointment",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "553875f7ba3bec3fdd570eebee684ba6ce353a7027e9847686493e4c893da2a4",
+    "sha256": "d23a9554a736128014794f8de3f8188a1e5a68f8108e61e03f62d041fbff2957",
+    "bytes": 11232
+  },
+  "en-09-02": {
+    "text": "Cannes Film Festival",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "a6d20c1e23afded68fb6a065aa51d95f76fbd03050b0d15c5b91c8ae87b4a4a9",
+    "sha256": "59a208bd8feca2aac8b3c2d6a1414131bef833f05366bc384925fc1dfd45a3b6",
+    "bytes": 12096
+  },
+  "en-09-12": {
+    "text": "feature",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "28b39177e4eed2b08ece90179fe42c10db9a77e390c6ce25e195c5691b101c4f",
+    "sha256": "98597362e08784232591602838bf2917fdac8ee1febed5d66cd929a4b0318969",
+    "bytes": 11232
+  },
+  "en-09-10": {
+    "text": "Easter",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "e48accba880b7a195be552a0f0e1d062e619ae5e6ff12e68ff1c863d84c367ca",
+    "sha256": "ca8830dd1c3fda4e1e9bb88147fa7202115bef64e2b4b72a6cce67de6ab977dc",
+    "bytes": 11232
+  },
+  "en-09-11": {
+    "text": "feast",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "a303a77e3eb8adc2775e4eac33261e418ea9782121851ad980f9957b24060f42",
+    "sha256": "1db598ade6ddc2e0db00c0920b20a78ac3779e20997c4d2dfbee98cc0a8f6510",
+    "bytes": 11232
+  },
+  "en-09-14": {
+    "text": "float",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d421a28db0168844f2ddcacb9b8181149791cfeb325dfb2a2d6eeb78a4b46429",
+    "sha256": "e9fa3e4eb1e8ad80f167212003e93e1ca4e65bfce5263d713292dc6164d01306",
+    "bytes": 11232
+  },
+  "en-09-13": {
+    "text": "fireworks display",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "c94ce0d3a3e3140c37f3e58a92ba31c77ec782d3242dba63a5958a254ed7d85d",
+    "sha256": "e5cacc20b6196b60ba014ed45fd9a53d2b8dc0444cd68b357f2aeb6080865895",
+    "bytes": 12528
+  },
+  "en-09-15": {
+    "text": "folk dance",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2837fa3daf06cfb77a8bd83ce6bbd671f812a6750574a99f68aa6afb1764dbea",
+    "sha256": "123417f3e368e13925f29ad631a9811e33ed4461969c480ba6580b965086e8e3",
+    "bytes": 11232
+  },
+  "en-09-16": {
+    "text": "Mid-Autumn Festival",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "063650a153fde20c9ba9e86e67bc25a9ff51de51b0949ab207caa2bd354dccf5",
+    "sha256": "0057b32037ade1e85abc04b8abbf73e5d5ca04e1d1026159c12185a1564df582",
+    "bytes": 12816
+  },
+  "en-09-18": {
+    "text": "parade",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "3526c7573882775570b73b1011016fa23ec64d799b9416abfda7e363d714f0ec",
+    "sha256": "49c6c921a48bff48bec17ce3fc58bf7010dcd74e1577ceaaa5641eebb295f067",
+    "bytes": 11232
+  },
+  "en-09-19": {
+    "text": "prosperity",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "a5053754d9589937669163abda3e01e81f67a3eefbdc6ce6d906c02eddc5a746",
+    "sha256": "5a9f508ff8af78b258be0aac4a068718551158c56b6a89fd9884e23862f3e0d8",
+    "bytes": 11232
+  },
+  "en-09-20": {
+    "text": "symbol",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "33ea8a82e5f464d3cea096d49c2ff701d980ed439282178ed62a920472cce700",
+    "sha256": "b8062c8cb9527a133d281dc61a4a91e6fe0733a085c43e6a86da51a89373605e",
+    "bytes": 11232
+  },
+  "en-09-21": {
+    "text": "take part in",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5d6af79f9d929aef7c11513d655fadc4f4c04eb1496f2d0e50780c8cfa11db6b",
+    "sha256": "442a4e8f9020c92e16b14a45326cfee5b29db42c67f9eeafa5da4f085746d8a1",
+    "bytes": 11232
+  },
+  "en-10-01": {
+    "text": "available",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "55710b65349b9796bbe86426c677675896c4e0567198ea527a96367aba5f3745",
+    "sha256": "539a4f9ab46e9e4e18b81a039fa5efeccf73409c1124a4e455560a326632ee6d",
+    "bytes": 11232
+  },
+  "en-09-17": {
+    "text": "the Netherlands",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "43ebcd86352a318c66dd2480b4e4d3a2f214037a2ad5fc654420dffe0e5946d9",
+    "sha256": "56710ed04ffe61126e61e3f7ace8d5fa9a033b046259af2b8aae18401cedefb9",
+    "bytes": 11232
+  },
+  "en-10-02": {
+    "text": "electricity",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "402264316d190181037864f248b56cf7a653a9a4ed90d48823d7052efa123ce2",
+    "sha256": "d1653c18c8e49167175ab5525b38fa5b503e7dc5ccbd571bdbbe7bb57ed0b2c6",
+    "bytes": 11232
+  },
+  "en-10-03": {
+    "text": "energy",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "755b70ec8ff5b526420ea2d3c7e699f6ae10ad30b258e56d1951bee2fd6965c0",
+    "sha256": "cc29347e288c475c71187bf7f1081dfbf6e80800c9f6b034cf8b419830816991",
+    "bytes": 11232
+  },
+  "en-10-06": {
+    "text": "limited",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4ad7394ab60470230b05189122aa2f3820620723531213e213ba0f15e3fda12a",
+    "sha256": "b333722c6554e20118b61f9005e98651f586e4e2592ed86ef308fde83811a45c",
+    "bytes": 11232
+  },
+  "en-10-05": {
+    "text": "light bulb",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "86f9e1a3d43e03eaf499b7cc43a77c582c14ea8617773370f8467c0e3df9813d",
+    "sha256": "a4e59c74cddee34bb2189fbb624dc591c90d87c16af9c1a377e9663e7ac43036",
+    "bytes": 11232
+  },
+  "en-10-04": {
+    "text": "hydro",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "dadc3fbfa6a5ce9e79e07c592d905d600ee24c6164f7a60e5c585d782358a938",
+    "sha256": "48ed03fe7fb0fb732995465c5ef96bb45c6e1a45f4cb4b233ab052228e1f0a4d",
+    "bytes": 11232
+  },
+  "en-10-08": {
+    "text": "nuclear",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d81ec14440a7d666a8943b76c5760582825798834d31465f815bde5d7acd68d2",
+    "sha256": "28b02c2fc0823778d69bec04ce6dcc5e9e8129f6069f099f86b88e92a32ac8ed",
+    "bytes": 11232
+  },
+  "en-10-10": {
+    "text": "overheat",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2a7e6e2b700e36ae129e196c032ee74ea72b42e48f73834cdb68e84c011a9681",
+    "sha256": "9d654b76f8bba364d0e0f745cbf206acdc6b2019f2355521672e659597c11911",
+    "bytes": 11232
+  },
+  "en-10-11": {
+    "text": "panel",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "3ee60e9659245c85f64b7c482970cd39834d8cf165a3faf01f365173657cd9d7",
+    "sha256": "282064e7f017ad9cd32f72d36334aa496034ccad9a86e1ee57302e8e4c92346e",
+    "bytes": 11232
+  },
+  "en-10-09": {
+    "text": "overcool",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "9ab2857250077d849b6def545a1460c41c8468ae17b844461d939c64fb2c5824",
+    "sha256": "72bba9a0dbac49d474c9dbf9cbdf61de67cbdc90cefc3096884ea7618907b553",
+    "bytes": 11232
+  },
+  "en-10-07": {
+    "text": "non-renewable",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f9591af9fb750ac5261def77f37b8599415f5eb6f8bdd88085770332052d650f",
+    "sha256": "02624a98484308483ce1580c3d6d0623980a80bae366fb889add1c655b8d4238",
+    "bytes": 11232
+  },
+  "en-10-12": {
+    "text": "produce",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "3d2527fa12a79f83ea1b916de32199b17a6c58df4538b72ba0628b1593e71669",
+    "sha256": "df8955cfe4303d0d27c3a15167b0063d75d5290ca900d3e8cb3998cee6838bbe",
+    "bytes": 11232
+  },
+  "en-10-13": {
+    "text": "reduce",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6d2fbac637f169951d401e3e053b03ecddac7e9d6622b39c9c238cded36be872",
+    "sha256": "f95261ea6bab8f0f167ef4488a3688a2a9d79f009f81abf09b191f1cb6b4e211",
+    "bytes": 11232
+  },
+  "en-10-14": {
+    "text": "renewable",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "69176a798e3e1c067a413e017eb12dc846ceb7b0fdab62ce0536c7f1235f8579",
+    "sha256": "a4fff9a58fd2c4b3ce29451b8b3227ca3e1b3ed24189e102deb0b686bf9f4b06",
+    "bytes": 11232
+  },
+  "en-10-15": {
+    "text": "replace",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "dbbe6773e5135deb46250633bc80bca4da5390cbaf408739408687dae13ed637",
+    "sha256": "83cf5c5791985c19100cc273012d82215bfa6665c13eccfba4eb8ec307b61810",
+    "bytes": 11232
+  },
+  "en-10-16": {
+    "text": "solar",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "8a7eed2db78caa144f65d033e7c178d140109302aa1a12bd472dc609d0a7e812",
+    "sha256": "ff15f54a7907dab914b9789fa9497afba39f61471d1e5153036a412e43de3522",
+    "bytes": 11232
+  },
+  "en-10-18": {
+    "text": "syllable",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "673af16351681e1f550bc7127f9bb35294864798c5c68c175d8ecdf905898a53",
+    "sha256": "e4e2dcae214718f4beecc8385c8a336ada4246d1207b4c70ff5ebb62bab188ef",
+    "bytes": 11232
+  },
+  "en-10-19": {
+    "text": "tap",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "729d9f007c853db7a87943e93ab442e882efa5ed06ff65194fc28c6f1b200497",
+    "sha256": "38b8b2249c7e886e99758d766313d28016879d539f92932c64e0982eb2f97ede",
+    "bytes": 11232
+  },
+  "en-11-01": {
+    "text": "appear",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "a855ead80351505334839db03f1977b983cc5aba447c34f457d1310a1546a1ea",
+    "sha256": "95d9494f263a3305cd3ee8054754b130473f35ec7327b6c61826fd555ad2e86f",
+    "bytes": 11232
+  },
+  "en-09-07": {
+    "text": "disappointing",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "fb51a210d54dd5bf846d083022df93829b9a80c17b2c1b055aa774f2a06ca845",
+    "sha256": "543f7bc198522bd24b640f4f72a651f44060c76cfa049b4be3da06fc00337f0b",
+    "bytes": 11232
+  },
+  "en-11-02": {
+    "text": "autopilot",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "1c3d5a0c56da0ec9b7b509a3664ae38bfa45337c1a8e992ed5506e4d9e4b90e4",
+    "sha256": "e08386db9c4506aadee7dcaf6a8523211bdf0b55ea29b537aa9efc961a13d4c3",
+    "bytes": 11232
+  },
+  "en-11-04": {
+    "text": "comfortable",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "fa9beb537dc04762efe9ba2817fe642ad1703059fc116c08b78e2c990a1fa8ab",
+    "sha256": "e07a6db30eb1d8f34cc25a02b3399e0e72cfbbd33267456741fe5b8b2baffbed",
+    "bytes": 11232
+  },
+  "en-11-05": {
+    "text": "convenient",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6319546d2a46f8d23abadb9b0c94e13a1441dfe79cb0e17627c2bb0a87cbdf49",
+    "sha256": "8d3984d2e5fd5868446ecc3d2e780a6ac3a26335d6d6263cc5c9f07663093354",
+    "bytes": 11232
+  },
+  "en-11-03": {
+    "text": "bamboo-copter",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "34e05fb5725e9d24e327847a5739f5136a79c1b3c31e6187cb0075ecea43d7e4",
+    "sha256": "d3770ad364739ba25143342d3c9325ccdcecad7f52422f31ff66671f28239544",
+    "bytes": 11232
+  },
+  "en-11-06": {
+    "text": "disappear",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4178a98e9b58a91ba11eba334dab38964f5df8c31a51114d6cd9a4a0f82a3897",
+    "sha256": "bcfe83dba199c4c38cc7b7308f7dfc5edf7c0e2db547639b9e00f4b435187fd3",
+    "bytes": 11232
+  },
+  "en-11-08": {
+    "text": "eco-friendly",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5fb50eaa07a41ea4e8fcd2f4baa179d5d94c92a171d1a94473160066e942e3ad",
+    "sha256": "a715e443d6e1ca073f74b5ef2fdd794d4897aeeb5821281da81a22b13e3c0dff",
+    "bytes": 11232
+  },
+  "en-11-07": {
+    "text": "driverless",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "8a74060e11eec9543d04f983e2c412b77e8a2f658d9cf940b949241c1b492044",
+    "sha256": "1b3ae6ce48924121d7905738a659590419bbaf11b1cdf9b72dbf3de0394ca742",
+    "bytes": 11232
+  },
+  "en-11-09": {
+    "text": "economical",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "311e6a63872c3b29886037988a9bb2e5058d485dd22c685feac1e48c17c51340",
+    "sha256": "69ae767a8a0e51d8ea00c5792306e7d4fc795cd9de4431eae11c63abd0f1b822",
+    "bytes": 11232
+  },
+  "en-09-22": {
+    "text": "Thanksgiving",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "07187801e4e9fef4d2baf0193d5b9bf32c1e4d365c0acd92124b953fc35220fb",
+    "sha256": "047fc79de2bd8100adc32ed93a9f1dd259b1585c12b85fca9f339dc8763d6c0a",
+    "bytes": 11232
+  },
+  "en-11-11": {
+    "text": "function",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2a7a9a57b8c640e179fa9c78366cd199d2b8da41b33af3dd06974021a5d207a2",
+    "sha256": "d627251bad98cb11a94257045b07c33f1cf1114c293ca04e622455fa0383a1ef",
+    "bytes": 11232
+  },
+  "en-11-10": {
+    "text": "fume",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "582ebb06129bce2e05c18f760860c7d5e7d34a9853095b0be4c8da4e8ee82b4c",
+    "sha256": "e341d93a6af0b89a2625e6246cdd37aa67d67b3218944bc758bf6b73ed75fd92",
+    "bytes": 11232
+  },
+  "en-11-12": {
+    "text": "hyperloop",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "c552a677d8a18b193029d84df04754c1e80040ca8eebb0ee0d02f32d282bb371",
+    "sha256": "63ba89f919ab63cfe1f343251f291f6c00725568c188c90fd657796f92c7768c",
+    "bytes": 11232
+  },
+  "en-11-14": {
+    "text": "pedal",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5b980d04132db216067b9006a447e8b5f37fd26752b0fcdf3e2969a1db73dd46",
+    "sha256": "62f8404c71b96123b12f93072e35cd0cae646ce9d8a6a33acde2a254b8dc79ef",
+    "bytes": 11232
+  },
+  "en-11-16": {
+    "text": "sail",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b2b7d69986683faba795271ae68e04b356a47793f5614b9cf5f84d7beedc60af",
+    "sha256": "ea508caebc41bc4813fdbf0cbec9f44bc061734cefe9701dc2a6abf79d61a05a",
+    "bytes": 11232
+  },
+  "en-10-17": {
+    "text": "source",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "aa2869c78a37ed0771e137239758a64c7270e9d0b4d9e9d98ad7ce45ae4c39d4",
+    "sha256": "a792da858f1290b79c0d5285db0469bf392b353f5fa896371a31f566dd512797",
+    "bytes": 11232
+  },
+  "en-11-15": {
+    "text": "run on",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "886b1426b05d098ff2848cf1264d47b59d13106243f7fdca13b9a8864a56c5c9",
+    "sha256": "24ce0ff1c0691d43ecc248d53d332e2bfff91057c8dc40affc98ba25187a9c50",
+    "bytes": 11232
+  },
+  "en-10-20": {
+    "text": "warm",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "dbed6bdaf1a7f3062f58b9125817c20caa1b96b548b038a927fe187feb5e8938",
+    "sha256": "5ef858b1978d01336f51e0f26fa5ae9912beb2e4a1fbaed8993d2adb1c3404a0",
+    "bytes": 11232
+  },
+  "en-11-18": {
+    "text": "solar-powered",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b2164a844a519649e9017a7725964321a0bab59597e2cf0362db54a78ae53c3b",
+    "sha256": "a4fab1bf14569916931821faf30a9d7b846365e0c3157a94877c4e3102f143b6",
+    "bytes": 11232
+  },
+  "en-11-19": {
+    "text": "solar-powered ship",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "f8938dd8f3022f56d23d1bf2af96c9b6aa2d02545f04d10faca6402cc72530c7",
+    "sha256": "3d366824ba94086fbb89c3027ecfcc1f5c7545e8375946543c51bbdc27155d59",
+    "bytes": 11952
+  },
+  "en-11-21": {
+    "text": "walkcar",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "13d58dd9f62f0b90cbe9ffb6ec6caeafc763ce4bfdeae8a3dc8eb8f6a49966ca",
+    "sha256": "2e7ebf90cca338582e4a97ba8a8d4fc9b75fb6728fdd3b1d1ab851bbc3651e1c",
+    "bytes": 11232
+  },
+  "en-12-01": {
+    "text": "amazement",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "c67d117599a65fac4dd74a68db0e3b0b3f0b904c01487d7824ce6947fad9b171",
+    "sha256": "1a65c7efe22c9555c5307baed00200c2608a4cb7925a68931d50b85cc2d0e29b",
+    "bytes": 11232
+  },
+  "en-12-02": {
+    "text": "amazing",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "6d738d79e95511c5a0803b00849e72c434e2d0c2718350e8f5edfde2fff31c35",
+    "sha256": "87de9db58f02c8f107e15e1a75fac85ff94b8333ba9d19e2704a95ccfd493b16",
+    "bytes": 11232
+  },
+  "en-11-22": {
+    "text": "teleporter",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "99129a40758b6f014df84ae1d7809ba350944e0451174c7b064c8d8472aa4f0f",
+    "sha256": "e839a0fd4c036137a04f172d735f5fa94cd18314bea4c767fc35a95771a68232",
+    "bytes": 11232
+  },
+  "en-12-03": {
+    "text": "ancient",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b60ff91cd19f2bf5523692357bbc6c58d08d1d72eae28fa2a6975289836f408d",
+    "sha256": "89233672dac84741bb70e79d1274a78521d0b4cf2034cef2d9ed6430f84ca8ec",
+    "bytes": 11232
+  },
+  "en-12-04": {
+    "text": "Australia",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "b2777987e93e112b33509e6c785ad5e2a22442cc74ad8cd30d3f85fb01e74a53",
+    "sha256": "bf2b40ea389cddc58e99c794f99beb98614871adab55bc5853e02c5eca12170e",
+    "bytes": 11232
+  },
+  "en-12-05": {
+    "text": "Canada",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "591e3736c71b5052681a29bbe21b5d1e8027726df36081cd72a7f2deb3907608",
+    "sha256": "1864127b16996886d43e298b7927b855dfd2c490334d335977f2a10ec3534af7",
+    "bytes": 11232
+  },
+  "en-12-06": {
+    "text": "capital",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "95487bc5f2e6f8846eba5106d234318843b1abc0fc2c666427c980024197d358",
+    "sha256": "cc51021948755cd63e102e77616a6043a02c9bd3273f08c956d15e3237aefeb5",
+    "bytes": 11232
+  },
+  "en-12-07": {
+    "text": "castle",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "cb5257fbffd1fddaee2f698cdb14f5e77bf35707bd1151a2d166c4210ffe0dd1",
+    "sha256": "d900d26c829bb3df1d84593b38b92560280c15712bb1c7b8f0dfffc8ac82794e",
+    "bytes": 11232
+  },
+  "en-12-08": {
+    "text": "coastline",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "196681b45bdc17e730c4346e573ce4fc0865804814f5408382345ae85169b3e2",
+    "sha256": "de0a3a4fcddc7a106fd169f9d5a18cb0a8e250e359a4c46612d0af21840225b8",
+    "bytes": 11232
+  },
+  "en-12-09": {
+    "text": "culture",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "fcc5626648320e05de25ac00c467ef30ed9cff863577076a6be377569a0e7abf",
+    "sha256": "ad6a63c552d14e843d51893e888e4573c3b6792d268dd79a2c00b5c19188dedf",
+    "bytes": 11232
+  },
+  "en-12-10": {
+    "text": "historic",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "fed9e08c37e1ccf94bc632b1ba2aaa43800cb3614b4e04ad9db541e43f108929",
+    "sha256": "74c8dc190f1c8319744e595275f3ff17b992e9f6eb8de3c464e8bfc912073b4f",
+    "bytes": 11232
+  },
+  "en-11-13": {
+    "text": "mode of travel",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "09b4ea55858e545b8beccc785a3e25430c4a5c646097d9a674f24dfee8092b67",
+    "sha256": "2817d677df0663a4c696455e2a071bbcc6df8baa4c374289bbdd6aecdbd0f06d",
+    "bytes": 11232
+  },
+  "en-12-11": {
+    "text": "island country",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "bae559e92063e8b803f14b047a8cf395bdd3be0c8cd100e05f993c670d5a4698",
+    "sha256": "be3c91d437dc2b0700649c085f871ba586b7ad0bd7fabe181fef356cc233dbc6",
+    "bytes": 11232
+  },
+  "en-12-12": {
+    "text": "kilt",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "9b3e2cd772b2717517b4d7a2886ba4bd8aa27d5a75a3fe285f92453285680f6e",
+    "sha256": "0b2202cdaee38b3bc9650d3180da5317dfab5e0aa4d612d5f59e146b1a349d2e",
+    "bytes": 11232
+  },
+  "en-12-14": {
+    "text": "local",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d57daa86be350f2204ba912834fff7755931d1b6cd4efc3404a82dc3ee0b60a0",
+    "sha256": "eff3ec562a5793861d6db3a7157979ef1b440f6749f300fcc2872aba88f9d301",
+    "bytes": 11232
+  },
+  "en-12-13": {
+    "text": "landscape",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "ba58e9301c880f2651b1ab1d90b52dba404fd2a408a815341a51958c3f09d99a",
+    "sha256": "2bbc5c01410d6430874c17d47ade4ab8d3e589055a6929d3a1540c3a93ca88a4",
+    "bytes": 11232
+  },
+  "en-12-16": {
+    "text": "New Zealand",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "79bb84b71fae7b59b9f2cc24fc2e46fe2f17a77a79964d4d3a2e1354ac073a82",
+    "sha256": "1e98fa1cafe84202a1c35f1d4626b6a8c5169c878e52ac7bcfc2c0743b15d3d3",
+    "bytes": 11232
+  },
+  "en-12-15": {
+    "text": "native",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5090282421fca7b0afe18ff37c482a827ccbb1d1e23f0463340a521a19ad922e",
+    "sha256": "dda375f76c189f4201c6aa6e378804dcb8586d3884a48d1cbb04bd787c403ea5",
+    "bytes": 11232
+  },
+  "en-12-18": {
+    "text": "shining",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "271177f2dadb6b92f801d6194ad2589e0fcef35647851170c2e2a85f14f326c7",
+    "sha256": "855a8d3b9f79878f57a2328e4241441c2d7dd14085fa3e57ec40e28ef216af8d",
+    "bytes": 11232
+  },
+  "en-12-17": {
+    "text": "penguin",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "d9ddf1b7622f8a3a89d5e2c6f46a46e5caa7058045f9a25d1c9ca5d56a4a9d3d",
+    "sha256": "77aefe057c51866ca16a86d501f303f62491d4b5be9a919a9533145473b5a8dd",
+    "bytes": 11232
+  },
+  "en-11-17": {
+    "text": "skyTran",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "4ed26c9a8b74cd34e3ecca0ca38809cb4605ad500d8f1cca0fd1c035a065f2f6",
+    "sha256": "5e2198498bc7046539cb0304e6d99a8ff3f368e89fde21b8a7f29ad58168d158",
+    "bytes": 11232
+  },
+  "en-11-20": {
+    "text": "solowheel",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "660d4455556b20ad6e7dc51136f8c82294a1ce1d8b888499d16ac899da97e5bd",
+    "sha256": "9cc540f25883b1bb9c696d7dc8ca117ea5ff149c97e0c6d6c634dfb3e02af70e",
+    "bytes": 11232
+  },
+  "en-12-21": {
+    "text": "the UK",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "db8f918a4707495f800fb5c4081c1f32c27360dd7052419c6e1c6c6463cd71df",
+    "sha256": "47ef7bc5b323d3e68eb37bef9266caf0739a2bc82e9ef49dd8807aa9a7a54b13",
+    "bytes": 11232
+  },
+  "en-12-19": {
+    "text": "sunset",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5159eb85dd5ca042094f54ad4d3debd2294472a29bd975f49eb0602683ad4fcf",
+    "sha256": "5104d6470b9de38ee4dc5e1e63eef0041469421319e63390e495cd69b94deb75",
+    "bytes": 11232
+  },
+  "en-12-23": {
+    "text": "tower",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "2037bd3043ad0ae0a510ca654b682980752206ce5a52b2a71ed8b11a90044dac",
+    "sha256": "c465da36944c46de65b4dd8a33a9b500131c1a17b8c1953dec96451d5696427f",
+    "bytes": 11232
+  },
+  "zh-01-01": {
+    "text": "任务",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "efb2702467a9431c8cdf097a7b91f3e018cd891c8d60d0aa20c9c56a2ba0992f",
+    "sha256": "2f88d614e7fc0a1f91120da886fb8c446d182d0b96195c2ce0ec62a0c72609a0",
+    "bytes": 11232
+  },
+  "zh-01-02": {
+    "text": "保证",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "0e41c9c166acd2f52993e362e7110d50da5556dd2784233ae5e875c3dd629bb0",
+    "sha256": "5e88056c64cbb385c23eae5c31514a29a6400a3d267e0ce067eff3415f9ec9b8",
+    "bytes": 11232
+  },
+  "zh-01-04": {
+    "text": "完成",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "942670d69b6dc69121747609f47ae91231228aed6066ab9be91897f0910ad499",
+    "sha256": "fa060ab12e5da6a2048452d06fb6b94617e283f89edd6ae1a971870e344825d2",
+    "bytes": 11232
+  },
+  "en-12-22": {
+    "text": "the USA",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "5d9e29f9acf34ba826fc463b60866e25d0c6bfcdd13522405263a53d1fbdd32c",
+    "sha256": "a30f8079a5c9bfd3c7f86c300485ee671d5759d163ee7104a2eb48877e987c98",
+    "bytes": 11232
+  },
+  "zh-01-05": {
+    "text": "计划",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "cc1f7585845334ec8a11b82031d35157323175e1ce4f472e1f648b9b4372a69a",
+    "sha256": "d17d34365227bb18e3d73a535655251e8a3f3e1b819bec01f2aaf9d9f2c6bd60",
+    "bytes": 11232
+  },
+  "zh-01-03": {
+    "text": "按时",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "cc70279e103b42cdc245b4bafa32707e9eac4471af7b49e8e187042063b4aa1e",
+    "sha256": "65564db122a67f04221028f2c79018f9b96ace1e60417d13223e170a729f918f",
+    "bytes": 11232
+  },
+  "zh-01-06": {
+    "text": "讨论",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "e629e870395da3ba8e1d676d9b1261693e19993e9ef7b688046aad7c9e7b5125",
+    "sha256": "16527aad83441b0518ed7a9ac227f3661913b77add415723423b72c73fc34181",
+    "bytes": 11232
+  },
+  "zh-01-08": {
+    "text": "招聘",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "80d785532dd2dfa65ffab51198147731fc39bd27f2978d783786d3062ebb37d7",
+    "sha256": "c658f00a1578b69afdc834ecf2ad9d691eab57142e970bbd342bf1624dd9d23b",
+    "bytes": 11232
+  },
+  "zh-01-07": {
+    "text": "加班",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "1a5a5b030f3c3213ab783fa7017f28ae537f59aea50673a0c2e51dfb2be0abf1",
+    "sha256": "ba215f590e047fa2a3d82814ed0e6193cdcc8e0ce26e1c66d7902c43c67c60e4",
+    "bytes": 11232
+  },
+  "zh-01-09": {
+    "text": "收入",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "5fbab19dd611fa2c608cfd07f068ab92e8752338469c2d1ded6963e1b57bffb6",
+    "sha256": "6bbc69fd7fba23f8710f46d67f889dfefadfe0cbf98ca4f3bc4cac9dba80c60b",
+    "bytes": 11232
+  },
+  "zh-01-10": {
+    "text": "增加",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b1c9c638385d75599aedc012dceff5ab0d61ba9306f1fce7a4b158ab09c20c6f",
+    "sha256": "fd28be45339229851601cea8a7d279fe76b972b529fbde3624e7dfe7613e19c3",
+    "bytes": 11232
+  },
+  "zh-01-12": {
+    "text": "积累",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b9b61c711a35b66117577d74292b164c95824d52a44dc527629dade47f715396",
+    "sha256": "b8839628e58324b20a6bd75c9d37d0c66116384c13c8acef1798405ecd7ad5dc",
+    "bytes": 11232
+  },
+  "zh-01-11": {
+    "text": "经验",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "cd82c191863897869c5674feca65b8c1e5a1c9bb5ff6b257cc66f0e71cdc4e0d",
+    "sha256": "e99f24ef7a355d42959587dc9f2d1f4a5bca0b0238a3f8c63b372db98365b243",
+    "bytes": 11232
+  },
+  "zh-01-13": {
+    "text": "负责",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "203febd3b8f2e3496076aae76ef5c22a19bea6eb69a3ed2023a8eb49dfc6d90d",
+    "sha256": "62d0e6d8dbf424d842ba6d0a50a7d74f17a2a800ad75ef058ad0287b3df57390",
+    "bytes": 11232
+  },
+  "zh-01-14": {
+    "text": "调查",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "e8352f445915c15ca3aa0188ad62f8516c7694a998460a588eb1861a813a7b61",
+    "sha256": "95236f1f9c548bea9daf8b8b05c4214870e8f4ea4bcda07ab130628042a8f8c5",
+    "bytes": 11232
+  },
+  "zh-01-15": {
+    "text": "经理",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "f6ef4d3075beb65526467dc97afb2da1b8e75b5be3a5b7ad9f22225db865d4e3",
+    "sha256": "6fbf1017fe1593c38caba60c1fbeeb9d45b6f44f647918153e4238f5b85e98b8",
+    "bytes": 11232
+  },
+  "zh-02-01": {
+    "text": "阅读",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "59715bbb4fec8b5ef448fe970df0b17f35ba50b2436056b7f162d9d5f53cdf62",
+    "sha256": "e3e52a1df9f9297879ef4dd34d2a6544fd235b450231d15ff604d7b7d6013cf0",
+    "bytes": 11232
+  },
+  "zh-02-02": {
+    "text": "提高",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "88083be47cff00412c86e8c268b7f05c9ec2a7722fdaae56ff7df523a2253e6a",
+    "sha256": "8a512f2d0defc27a4e752ffce769680e2faac10dd4d027d5cc828ed0ec00aa5b",
+    "bytes": 11232
+  },
+  "zh-02-03": {
+    "text": "语言",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "8b7166eb2a0e4eb01f12fb9290e90430a0e530914f01fa36c9727ce893ea153b",
+    "sha256": "49a227183d701f8e715f4b4a624ee31576cb1b412a9c9d299f68ad42d572e1c6",
+    "bytes": 11232
+  },
+  "zh-02-04": {
+    "text": "能力",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "1c2102509bdda82d95f5af70d74e7cba1038f702f7450766fa532bb64755484b",
+    "sha256": "ec4b8299b1755ef0c537428153612fe66c05beed8fde38eaf45898a2373ab9bc",
+    "bytes": 11232
+  },
+  "zh-02-05": {
+    "text": "复习",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a7383e358093caae797728c65233129e112aaeb99e7c3ac31564c08b9009a2c2",
+    "sha256": "98a5507f147de3c52bb71906083397c172363e1ba029996383d2ea1298e153fc",
+    "bytes": 11232
+  },
+  "zh-02-06": {
+    "text": "笔记",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b49fcc4c003ad3fc92088fc8d0b5349cdaa989b9115e3d19dafe1ab4a5460f6d",
+    "sha256": "173f821ee2e23dc91de4f3e1215a45af6097bd5337127912d9909e69bf973cf4",
+    "bytes": 11232
+  },
+  "zh-02-07": {
+    "text": "整理",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "3a753e89195c942b0dafe5ea1f1f3105264323babd7e1bd6a9de1f0bf0829649",
+    "sha256": "c5497a92a3830b56a11a7f445842880af13bd2304644d8048ff6336ca57833b6",
+    "bytes": 11232
+  },
+  "zh-02-08": {
+    "text": "详细",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "49ae4a40306c295d3aef57ab722a6ca190d748f01637a07ccf58b8f60f187f38",
+    "sha256": "3f5f2a5304f1161b37dbd72f9eeb5697e3b3d1ad8fb1d176a4251bb005330d51",
+    "bytes": 11232
+  },
+  "zh-02-09": {
+    "text": "语法",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "fac3925e9dfa7ccf4f87f8a2bb33bea2c863f3b869a3722bc2644473fcca905f",
+    "sha256": "3fe2ac3b99f51ab92b32d3cdd151cee76c3093a629e389e56246efe2cabd1932",
+    "bytes": 11232
+  },
+  "zh-02-10": {
+    "text": "错误",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "ee088641777bc899e456997f51f56a5a79345ea82753268b1d8e6040ffd2a60b",
+    "sha256": "0a3be8bf293f6d37413238c9d2dd708a42a241461e749d306cebcf0cc460ce00",
+    "bytes": 11232
+  },
+  "zh-02-11": {
+    "text": "句子",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "e1978a08773c2ad459f2e96f565c6d7b9fe49eab2ff29e761ce06481e381f21d",
+    "sha256": "bf40f1719093d954c864acbe050eeaa308362f2933e2b778a3de3d6fe15bed61",
+    "bytes": 11232
+  },
+  "zh-02-12": {
+    "text": "翻译",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "775c6072156dbd00afbde5febd8540eca9859bc729f7d4b1b316a410f8ffc01d",
+    "sha256": "3cbacf3762283ae3f44d02b010992de4ab9edfeff260fade633eb4cd4297d8e0",
+    "bytes": 11232
+  },
+  "zh-02-13": {
+    "text": "文章",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "ac0b2ac8f97cedc643359e0c4966614e4dfb573909b6f2014794c8554850d57f",
+    "sha256": "839f3b581250890e4db4415e5d3f6bfcf594825cdea7ff466df0a4f84d5bdf2b",
+    "bytes": 11232
+  },
+  "zh-02-14": {
+    "text": "毕业",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a15f71958eb5e8bc51f0720f7f2a6f6099a82e480688a939d32f0875eb903f2e",
+    "sha256": "76b1d17f3fc929e141f91b66c51d20245ef3cee656d7081f090ba2939f022e98",
+    "bytes": 11232
+  },
+  "zh-02-15": {
+    "text": "标准",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "6a4058a0e1962749ecb65d279ec6b82a76f840d5ca34ac346c5a5069e2c3befc",
+    "sha256": "fbc5f15ec6f5e94a08828ebcaf9a5957b732fd139be652605e99e7a20a8a9bd1",
+    "bytes": 11232
+  },
+  "zh-03-01": {
+    "text": "航班",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "6b3737b3e3f12b0ebfa4a1a711cd21f49e35a4db6c93def5df47473e86d94e25",
+    "sha256": "acfb2cf19574f492f9012549a2f6fa1ab9e8f25c54b8c3e11eba242cf4aae968",
+    "bytes": 11232
+  },
+  "zh-03-02": {
+    "text": "乘坐",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "6bb039d6211bd7fbdf79e030373457471de34d82d09f8f80b482c4cfc59d6db0",
+    "sha256": "b54eb528bcfbf720b72fca4e99dd26bd107a284be9f294621bad84941095d5fe",
+    "bytes": 11232
+  },
+  "zh-03-03": {
+    "text": "起飞",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "ae029a667b5975c90f6a3aa1d417ff9ad87c0282904c5826b413be8d8090a557",
+    "sha256": "92ca7a3fb738f5c7032d149ed223b30a46814c205fa7090e32f5dbad1e1f19d3",
+    "bytes": 11232
+  },
+  "zh-03-04": {
+    "text": "降落",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "7a80b8972850dd3363728720c9aa950fc68042af921401fb7a1911d35ea94dea",
+    "sha256": "37f91c2b1d38fc318e4118aa1eb971f2d5e6a504dab928092c6009e074eaae42",
+    "bytes": 11232
+  },
+  "zh-03-05": {
+    "text": "出发",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "951fa09d1e1aa41c3b19e44d939448b400b9f8c70946625a18b519c0d051ed51",
+    "sha256": "a0fa3ef34399bd5b15e90ace14881cd99e99c963aa3ca7d151cc66d1d42686df",
+    "bytes": 11232
+  },
+  "zh-03-06": {
+    "text": "来得及",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "927f3e688e7cb8b2e548af211155d93e8b6ccad822a72235ecfaef41785f0767",
+    "sha256": "c143a52443bd4709583b689e239b9ad3c6e8f25b667a989cd27429d50dfdd72a",
+    "bytes": 11232
+  },
+  "zh-03-07": {
+    "text": "公里",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "4ed0f86415658fff2be8790109dc4472f2a2be7226c1c58f27cc2d16430535eb",
+    "sha256": "8c1fb94400e2ba6d6ad71970373b9de7fd820d5b15d91c848525ad8c29cb4be8",
+    "bytes": 11232
+  },
+  "zh-03-08": {
+    "text": "加油站",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "2c0fd5a6b88937b7c261584883a066b0e16eeefe66d23827f569cf7298b6d932",
+    "sha256": "a816428c71df12ef0a1e38b6001f7e9cd48ee58ced29139386062ae0716a795c",
+    "bytes": 11232
+  },
+  "zh-03-11": {
+    "text": "长城",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "9ff8583618c656eef9a124c7749ccc3ef36b5bbe2eeb644c4273f1a2188f4905",
+    "sha256": "7543d0e85e2b29a15ef037ce0412831a8f6d8f6dbeb0b29d0a4c183f1842b011",
+    "bytes": 11232
+  },
+  "zh-03-09": {
+    "text": "参观",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "c8b8afaeb67e7bf63d1686ff6212f218c566556c3c17112e6c0e844edbb85858",
+    "sha256": "274d270654cd0d7678fbc2a80aa75ec75a18ecfed2d52f15f51e6eea3dd282bc",
+    "bytes": 11232
+  },
+  "zh-03-10": {
+    "text": "组织",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "0a6c476ede0fb22b9f80a181452c1df0ecafb422013373d48c1e172e928312fa",
+    "sha256": "f3f496dfd43a6abf22c782dfcbd28ecff3e4c13841b5c18af836faaf12760964",
+    "bytes": 11232
+  },
+  "zh-03-14": {
+    "text": "护照",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "5500f7131abb0a8827c8c10b01f3b13ce4511fca373a110f4d433cc930d640d9",
+    "sha256": "f7ac641f57fb564bd188f126621085c90b00506cd4c2557be791b89957b6e261",
+    "bytes": 11232
+  },
+  "zh-03-15": {
+    "text": "首都",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b2be25d0e9284c3a0fb895bb5c8f5589ed9c86958d66606f0c44b564b379b5bc",
+    "sha256": "35a035fbb9db7277b6455807ec6b9d203a2eefeffd8d936c2f4ffffba1d2a4f8",
+    "bytes": 11232
+  },
+  "zh-03-12": {
+    "text": "距离",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "57a98c478dac893a99362e1b5d6ff6a6e1465c283f004ddb77126ec29bd6bf13",
+    "sha256": "77b4c2f6715958d5cdd37fe9212a226805173d23740a0aa4eb3babdb66415efc",
+    "bytes": 11232
+  },
+  "zh-03-13": {
+    "text": "风景",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b9ba87f7df3fff432d7635c16f310b74e7f765721196b382b4633ceac1cfddd4",
+    "sha256": "f21d168b210cd7417575db3b046bbeecd23460999cb1ed832224efa3b62ca9e5",
+    "bytes": 11232
+  },
+  "zh-04-02": {
+    "text": "严重",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "c85d60a7b30bb6246ebe8ada16fdfe4255bf71ea68d432a879e6a5e76ca7ad30",
+    "sha256": "af2dc7dd34ae1c5e61ad2a94ca288224c1bb44b37a0cecaa1722a9628e50b20e",
+    "bytes": 11232
+  },
+  "zh-04-03": {
+    "text": "咳嗽",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b02512d47c05179428bbc5b8cf12bde91cd26c0476758a64de8d050e924003e2",
+    "sha256": "5c031195dfe8597a9a7058a7a6dea03ac5f526a6c7ee1f2856b5c411a15c74e3",
+    "bytes": 11232
+  },
+  "zh-04-04": {
+    "text": "厉害",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "94a4f11e42faec2c675cb7887bdf6ee4f413227f96e398c357f980b54552821c",
+    "sha256": "c76f676cc2e61cf7e450e68185f3109cdca5d296b8abbea6c7f76d53613b47bb",
+    "bytes": 11232
+  },
+  "zh-04-01": {
+    "text": "感冒",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a9a6549fdba2312c699af4ffcf9ddef709b349e80ae586fa6d413c1d7395cf7c",
+    "sha256": "50159d1a1e5b078fb86e393c1ea0e601f4089e51a080eb83f0f7973524a58e95",
+    "bytes": 11232
+  },
+  "zh-04-05": {
+    "text": "护士",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "617e2ea571c410032492fa8ab9351f4f71a21b0bb8be3d52944eb50f77462dd9",
+    "sha256": "ac32f29df344d310f928ec3c17078ccb5fb4223d26d65e79272e83e264f84a2d",
+    "bytes": 11232
+  },
+  "zh-04-06": {
+    "text": "打针",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "59b1b435218f7c4cbb57862aa9366a513661836d963370a96dd9c66bf1eea35f",
+    "sha256": "d50c37b280c75911cbe40320ce12a3ce6779ffa920712e30d02b6a0e619820cd",
+    "bytes": 11232
+  },
+  "zh-04-08": {
+    "text": "效果",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "f66bbee1b81723b4ff11a24cdb4e0f6eadc8fa306efe984c42cf54c223237f87",
+    "sha256": "230e1efd4cf454da188453c4ba6289634b5789785ac90928c6d80ed5a52b40dd",
+    "bytes": 11232
+  },
+  "en-12-20": {
+    "text": "tattoo",
+    "voice": "en-GB-SoniaNeural",
+    "textHash": "706116615f1dcc9002b6b3df6e2a1651dfe68490df8741d87ba51cfe6ef91001",
+    "sha256": "c71136568305425e0819f607bac0ec673fe25a939dcba6de07899b845a498348",
+    "bytes": 11232
+  },
+  "zh-04-09": {
+    "text": "抽烟",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "dfaea4bc6dbbf535a642842703e279d3ba3400fd1eee63dfecf148b4f71ea8f5",
+    "sha256": "890e8c7c9d7baaf5ba8a70138b5f52ea4597876ec9735c24c56d734a590d394d",
+    "bytes": 11232
+  },
+  "zh-04-07": {
+    "text": "吃药",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "e82a6fda3a8fdd9a43975b00d5a3237db9db120897fa4a376e7682906043ed21",
+    "sha256": "c063db4bb8ef30f4072f7baeef2668af9d1a33993907469bcb5e6e306d246b98",
+    "bytes": 11232
+  },
+  "zh-04-10": {
+    "text": "允许",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a8d29021db8c4ba958763c5866fb114e082641c2405c710e27430288a9734363",
+    "sha256": "71b275e46942378732b3869bbab5fe14fe88de5e4ea026e0280011d1a35c2851",
+    "bytes": 11232
+  },
+  "zh-04-11": {
+    "text": "肚子",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "fe5bcf04453938c625fd7ca5c1b287e8d6c9465994389d75106fff7ce5f3fa6f",
+    "sha256": "684a81f172a04535b4fc042ca1f27d99a20cfd6072f97f521e6cc3162f2e5cbf",
+    "bytes": 11232
+  },
+  "zh-04-12": {
+    "text": "休息",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "02effb0acb3b8187fab15518e78cec3c2f91d3f6af1ccacc912f8c2998736b25",
+    "sha256": "4ff3d2f2251c3ed1aa5055e4210519b7359e78117a3ba33c80473d9fcb07976d",
+    "bytes": 11232
+  },
+  "zh-04-15": {
+    "text": "好处",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b65db738744ed937b75cbc0f745c57499395405620d69bc99fd24fca8401fa59",
+    "sha256": "ae494ad3f8b26571b286ce9b68db8f2166aa4f875b1c7e1f019983f3394bc174",
+    "bytes": 11232
+  },
+  "zh-04-14": {
+    "text": "请假",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "64e8b008b92d986eb0fbd589dbf68ca6c0878b95d3a82ed93549a5735fb1aef1",
+    "sha256": "aa6094e934da35d3345986f0727768cfdf396b0938a900d5366040b16720f938",
+    "bytes": 11232
+  },
+  "zh-04-13": {
+    "text": "困",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "953f5fd18a42a5cd376818385fbec854d35bd0a25ffb6dc4a7edc8647f344605",
+    "sha256": "1121fce34305993fa94c25b4d58eba4b965529ca0370e716920a4b66577bd3cd",
+    "bytes": 11232
+  },
+  "zh-05-01": {
+    "text": "信用卡",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b4c3c0e83162e6f3b169059f62e4628da72903062574cc289921fecdec2cbb74",
+    "sha256": "893c2e579dea78c7cb37a0aec7034e87e53e6df6db83af57e00df83f33c39b8d",
+    "bytes": 11232
+  },
+  "zh-05-02": {
+    "text": "商场",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "462126b4a482f37b8559823e42b330a792f04a35a4053ab454edccd194da4b5b",
+    "sha256": "04ce0d059d3e84fd6dc719e0f4274424b314b59b45df1d2d71abbf59dc03debc",
+    "bytes": 11232
+  },
+  "zh-05-03": {
+    "text": "打折",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "8af40a90104a30f3c445e88dc940333b27a95ad48a924132cf4b0b44b617a19c",
+    "sha256": "4ebf23eb9ba2cbd1406feb092e60ab1a7f9ba37e87555d0e4dccc73c083bdba4",
+    "bytes": 11232
+  },
+  "zh-05-04": {
+    "text": "便宜",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "02c6bfe48031db14792bba0a0ddb2c4fecdb5259b04d7ab36f4fffdf0d5a4ede",
+    "sha256": "0c74301aec45b57cd8457576ab1ddbeac76973efba8f794e69c342781f2c1c49",
+    "bytes": 11232
+  },
+  "zh-05-05": {
+    "text": "零钱",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "017b0e5997f21d02c6fe215c517e5b95f849a1c20ab73a6f380c7f9a0c91a80f",
+    "sha256": "2164e14efeb70577ef5723a0f5038eceab0abe8c3fcc504265afebf543207c38",
+    "bytes": 11232
+  },
+  "zh-05-07": {
+    "text": "味道",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "78767030c8954dca49bb9beae18b4d2c326da61dfb6fd52753d1ae33b2a0db4c",
+    "sha256": "c623d5e95ddd9ad7f0f46fa768256021a5127af77c7247b74ec7a3e2949ebe24",
+    "bytes": 11232
+  },
+  "zh-05-06": {
+    "text": "逛街",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "656bed37d6e387f42767447e3514879eb3eb7bbd7d853a487e144bfae78d8772",
+    "sha256": "c0ebcf22d5d7f627b2e7700079a52506b170cf01e419b7eb497ce15fdfd01c27",
+    "bytes": 11232
+  },
+  "zh-05-08": {
+    "text": "尝",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "aee75d7456b0c7f0111014dc6221cf13b03f13d008b492542be22617766af85f",
+    "sha256": "ae031a1795a7f512b16b1a56261d5dd69726b8b548aa9940d73734f56a2c7d59",
+    "bytes": 11232
+  },
+  "zh-05-09": {
+    "text": "果汁",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "400c62313c8b87e12de53e4570511b307e67a028f6e64a9ef80e60a135d8e21b",
+    "sha256": "82b934407ca4a457b285e1ea9a58f20d547aac8f955e0c7e27e30dab901575ca",
+    "bytes": 11232
+  },
+  "zh-05-11": {
+    "text": "包子",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "fce59a3126ed94546a4339a9d7041b8b94b96ba2fd7f7af62d3e0799f7d0c10d",
+    "sha256": "d6833382b5a797011a14b53ed5c0134c3dbda25e93ecb4e7d8149719369104e2",
+    "bytes": 11232
+  },
+  "zh-05-10": {
+    "text": "饼干",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "7e6e8f2e1e4f452688498d0fe8e5092c963039e6c3b78f9c210d0e1c9d4c8f5e",
+    "sha256": "23d92a594ca5a0831eb466e122ecb5b954777352b8724285ff037c55c1fafd19",
+    "bytes": 11232
+  },
+  "zh-05-12": {
+    "text": "价格",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "64069b711b5367e894763f6e5e471b5d783c27502735c2c10a3035160a87d4c9",
+    "sha256": "f7265f326a1340beb9f11949d7f8216e0023d046c724550e6c5cf8aee9461898",
+    "bytes": 11232
+  },
+  "zh-05-13": {
+    "text": "质量",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "79d77c18a54cd48df2cff1b4d2d4d6e518bea2a69bb57854d234c6e2d1ffe6ee",
+    "sha256": "39a347d559f2345fbf141cf228dc47c1e847293adb58ed61aa77a97175e56240",
+    "bytes": 11232
+  },
+  "zh-05-14": {
+    "text": "袜子",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "815836652ce662ed0cf5e59bba243074208eb145007df784ea9fe6311acc54f6",
+    "sha256": "ebe9d674eaa5f482574f84edd6334bf899e31d9fa069916db535031263fd6cf5",
+    "bytes": 11232
+  },
+  "zh-06-02": {
+    "text": "密码",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "380898a1f131dcaf02fd24f92523899c3cfd79ff7ee407431e9f056e2f99ffcf",
+    "sha256": "b0b01482bf8aa4af75eef85174fc480309e0bcce7ca1c443f5adfedf060f52d9",
+    "bytes": 11232
+  },
+  "zh-06-01": {
+    "text": "钥匙",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "740b50c484aabe3f3844bf4523046606f9148e129ebde8802a65b6a2ea31be92",
+    "sha256": "6bf9d84cef3f6b1b2baff08c09664b16f35336483e778b34913042c2f642bbeb",
+    "bytes": 11232
+  },
+  "zh-06-03": {
+    "text": "重新",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "fd9096c634203c29c6a44919f9842e9f599afcd7cd656312fbeb7e441a6f5744",
+    "sha256": "54b12676d8eae772f8109407f8ffedaea0a1cf240e15a084c6c202271332aefd",
+    "bytes": 11232
+  },
+  "zh-05-15": {
+    "text": "香",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "d9a41232a173c2e998f6a698b1062d22e666d923aec049e8a2bc13bed1facef7",
+    "sha256": "6b35a830a6dde5ff3684b29ae29fcdb441011f2d61d36839e2dcbd79915d2d05",
+    "bytes": 11232
+  },
+  "zh-06-04": {
+    "text": "收拾",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "c64cd0f7aae2967ec47c7bcd8a7708980b36cde2d0394a040682581d1ff6dfa5",
+    "sha256": "279c0e9e2c40765ce7e1db2a402ce001d2221e4b4dc19e60fb6db5f739de0e57",
+    "bytes": 11232
+  },
+  "zh-06-05": {
+    "text": "整齐",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "af77c1662baa800244590d194aec495ebebfc9d52bb18b369ecc5da4f1c86d72",
+    "sha256": "b1dc7804ece513f37c4bee68bc98f2da946e291570128f8274abcf69c77e03d8",
+    "bytes": 11232
+  },
+  "zh-06-06": {
+    "text": "沙发",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b499e538c789ba25feac52444d4df791a32ab5d07cf50b59974c52dcc37aa878",
+    "sha256": "1a2e239c090dd85cc21d84994485264ebdf70d865cc4797d50f6d908176d58f3",
+    "bytes": 11232
+  },
+  "zh-06-07": {
+    "text": "客厅",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "11b534d6179e5fb2d74202fe2762008ac44dda5722931009f42f66665e610495",
+    "sha256": "338aa6a5f748981cf47f2ea5ef8262551cd5a11d1ac987ed59c4669f0d9a43b7",
+    "bytes": 11232
+  },
+  "zh-06-09": {
+    "text": "挂",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "306293213366eb54a7e103eed335212002a1cb13f16e6ebd8db736978a5913b6",
+    "sha256": "a1a4e0fb43be2e20be346597ac4f0e66b471451cd5c6c48e6cd5c35b23c4d288",
+    "bytes": 11232
+  },
+  "zh-06-08": {
+    "text": "抬",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "587c39fddd1f716c0bbb99813ecf1be84a0558b77c3fbb8e212c1b5a60c3c8c3",
+    "sha256": "403c3c56f4a5b87243e50504b7d77f40ab50c834e850726c5038f2d014c88478",
+    "bytes": 11232
+  },
+  "zh-06-12": {
+    "text": "擦",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "6901e59d30a0e632d8cae7a517f917a4802852986ea35bc53d1d565fb78308d9",
+    "sha256": "040cf1d2619dcd50ace16026dc4ea6e4c1e63cd048971a9bab410fd1978f7582",
+    "bytes": 11232
+  },
+  "zh-06-14": {
+    "text": "正常",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "f4be362c9d70c1bfe904a50bf1b3e4bb9aff4cd8b3590735ae2823042807fe54",
+    "sha256": "19e1b6a5f8c28c31d8188edef97a0c3cf37c3c06bbf35a59b5a0fc42a16feb70",
+    "bytes": 11232
+  },
+  "zh-06-13": {
+    "text": "电梯",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a642fc30a9d2d4939e89fe54304c9a02390e60dca18a5237629cc70f8fdde82a",
+    "sha256": "37a58b530c7dea8f0a90eda4f6c8ae610a95151ac761f376a0367cf2e5ad3862",
+    "bytes": 11232
+  },
+  "zh-06-11": {
+    "text": "脏",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "5d07dfc88fbd5ec5612553189bae6e22b7879e3f6d24921c2fd620ff9854dd62",
+    "sha256": "26c3a8938d6ec6a927237762a5e67da63a1f688951d152e053c5c5a6745d5c61",
+    "bytes": 11232
+  },
+  "zh-06-10": {
+    "text": "墙",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a15b476b9ac1841181231f038e0aaba0b8e1aa69d98b20f9a50d02952bca8a94",
+    "sha256": "bbe41d0215576e5e08e9001711b90493f4c1d2fa42191e4dd7d93b407cd6662b",
+    "bytes": 11232
+  },
+  "zh-07-02": {
+    "text": "激动",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "f1d9be126a423be94aa9e76e2c5eb3dedeb676aa410e8576b291731a24fa321e",
+    "sha256": "f0de479093327b7f17c04a67b2cf4fe511fa754e5829845d938ec5a8a8d71877",
+    "bytes": 11232
+  },
+  "zh-07-01": {
+    "text": "羡慕",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "d278c16528221b6e59e0ff671bcbcbcebcf101b9098095134c7c804255647f3e",
+    "sha256": "9979324e9854c153cb475a3e87b6ba1d44589eb875832b72bd9ce7a9cd4f9d86",
+    "bytes": 11232
+  },
+  "zh-07-04": {
+    "text": "失望",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "bdbc9ecb018b808b36898b4be21ed078b35e9c23b7fa6b8316b8cd108b32fa7c",
+    "sha256": "dd3cc21ead1f6c51a3e01dcc710f11779d6267ed18459b076aea903cc9076644",
+    "bytes": 11232
+  },
+  "zh-07-03": {
+    "text": "消息",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "7f1282bae47de345a33d26a2b65f8e88e70952dc87f3735b76f2724ee1b9f27c",
+    "sha256": "ca0c369af39f9b4c16a236649b9c821ba92219c28ecef98580ec6a82fe3568fa",
+    "bytes": 11232
+  },
+  "zh-07-05": {
+    "text": "伤心",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "5f0dc4d5a077a43b3a0fbf7b9ccb5331a6b08af4510eca1caf4d15fdbe2598ce",
+    "sha256": "b36e6e7b37b89f34958e443265aba345a78a29c3a7c3879eab13dd901ee31c6c",
+    "bytes": 11232
+  },
+  "zh-07-06": {
+    "text": "机会",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "5b9c61887f9dbc6653ff494593761d0ef09e6a0bc3536eb777f75a0f1928cc61",
+    "sha256": "3c05d2660401b71f6141c3329e6d74ab509b2ff49395c83276d4c8709af01e18",
+    "bytes": 11232
+  },
+  "zh-07-07": {
+    "text": "理解",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a90ffe1611a1c82e1f9698c97810a2402377fa5ffbe1d50f9693e38a2ad102ca",
+    "sha256": "334135d37a2aae8bcb27eed5060f4a562174f77d54cfdecb039ee19bedb60d44",
+    "bytes": 11232
+  },
+  "zh-07-09": {
+    "text": "感动",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "c9078f5bc6f9b87b8cc70456aeca04ee5886f9b453829403a5fe7cbf29a629f0",
+    "sha256": "6f0bd70ce4d1418b370e298635d2308926b24ab79cd39cb7562a87b20f77f518",
+    "bytes": 11232
+  },
+  "zh-07-11": {
+    "text": "改变",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "d00ffdc0d49bc3ff264d2404e8c6e2c26918019331ffc90d289ba81f91b9f47b",
+    "sha256": "7bf7ed269761f5fc870cb3e867e69df5c291d47e3b308f4c54f00dee69052632",
+    "bytes": 11232
+  },
+  "zh-07-10": {
+    "text": "印象",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "ee31dd9745c78628178ffa27cd8568ae9b64fc3001c6dffb7205ae7ebdbbdc4c",
+    "sha256": "7635c37fc9eda09a870c88fded0ac84252923a17b4342fcbd6b6127fd28cb080",
+    "bytes": 11232
+  },
+  "zh-07-12": {
+    "text": "看法",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "2756a8cb79b96597d81b9d8942e1015d55f9d4e00dc49fd161fc8e0e88a1c4a9",
+    "sha256": "e4f9e786594ee05ee265ba141c8424fd28d4a58b2bc048b78ca540dd71376f19",
+    "bytes": 11232
+  },
+  "zh-07-13": {
+    "text": "意见",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "d7470e75812151b2bfcb61984131485e2abd92eb90d4c2404e015ca506675e2f",
+    "sha256": "3a07077218f65fb607b3a5d1b249d3bab31f89915a89f5d0531b12af8bac3ce5",
+    "bytes": 11232
+  },
+  "zh-07-14": {
+    "text": "聊天",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "f015ffd0da208dab46871891691032c5677e4d6942d4099ccc93ba75108a4bb7",
+    "sha256": "4f9c5b52dbd7e24764ce7fa30c3a1972b3457fbb237f7b34ea1e07cb7236c2e6",
+    "bytes": 11232
+  },
+  "zh-07-15": {
+    "text": "发脾气",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "41dcd666789de5457d91344a789e5c62d5b270d6e7eec040cffa0e18ba2add6c",
+    "sha256": "129c350f7a8097614e192144a5e8755353110b486ac61e9bbfcb3c1cfde85ee7",
+    "bytes": 11232
+  },
+  "zh-08-01": {
+    "text": "环境",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b9531d0f9db86bcf3ca1d85685df52868ad5b7e394bd78d19ecbe26ae91c67bb",
+    "sha256": "d1fdd410283907caae9c338441c4ed4dd67694f8233dca8a6177b6590bfc972a",
+    "bytes": 11232
+  },
+  "zh-08-02": {
+    "text": "保护",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "78ba4a50e3c16938ec493909d341f4076f25c1640904715f7ffe773dbb347819",
+    "sha256": "6817c58077993bdef0596e36ff813852da2d2397780c19dc6670aba2660b2815",
+    "bytes": 11232
+  },
+  "zh-08-03": {
+    "text": "责任",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "adf5cd96fb1d4e375c0e6a40acdef704be8b66db41c00c29869f3e87840ae12f",
+    "sha256": "77e5a8246b769e273c39dabfa6f8579069cd8e132c368bf8a1b05384612ba7e2",
+    "bytes": 11232
+  },
+  "zh-08-04": {
+    "text": "节约",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "c87d8615ec63121f5549e5b7185d69ff9cc7df964fc55435a9106c54a49ed89f",
+    "sha256": "d11327ae71634c6306f7bf2630729cd67105a9e47b2a394f6d8cea9caa21055c",
+    "bytes": 11232
+  },
+  "zh-08-05": {
+    "text": "养成",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "7a60f313e85b860dcc7b590d04b59e06cdbe255bb87c8681f8cd66d44236119c",
+    "sha256": "4c4e96157563c0ab93f1cd5a41888bee1885eff5c2588817d54090378333ecac",
+    "bytes": 11232
+  },
+  "zh-08-06": {
+    "text": "习惯",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "814e3e7cf6a5977b43382c5a9c67df471b7eda2a6c992a0106822bc7e2be6d99",
+    "sha256": "53b57ad56ea3f5fa6a8d343f49312ba2d1178cedafc59b731c5f694be487ab82",
+    "bytes": 11232
+  },
+  "zh-08-07": {
+    "text": "空气",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a956e522359e049e217e9632ae26338a06e9fd70ee367f46d53bf6bdc6377f95",
+    "sha256": "9fa96860a1d1e39476244600394654974e6849d4f0d77f86a7f1dd0a9a27dc04",
+    "bytes": 11232
+  },
+  "zh-08-08": {
+    "text": "湿润",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "41971e2eae716bc5b47b7c884a32377718732c5987b42e122e4c1ee3e3403fa4",
+    "sha256": "5ad1881658f3ee02876ab509d02e0f2f7e7efdc0c502a889837e67dbd46eba12",
+    "bytes": 11232
+  },
+  "zh-08-09": {
+    "text": "气候",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "30c11e039e58d92f36175799e972bd524e130ccf957103af63f342ddc1b0e7a1",
+    "sha256": "b32977e5b3e9772520f7c7d67233bcd2f9be7f3aa06831dd48cd0c030ba150d4",
+    "bytes": 11232
+  },
+  "zh-08-10": {
+    "text": "适应",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "71537df0bdd268628f1a0e9175596a80247a59025319075821f18abadf633a88",
+    "sha256": "29d2e09f70762ff105b22c8a46e10119b8369839f0e2a844781891193bb64752",
+    "bytes": 11232
+  },
+  "zh-08-11": {
+    "text": "植物",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "d47df4165792535f3ae0d773828e041e20668b08f1d15506203e22bd3f04f273",
+    "sha256": "b9b7eca6125ce4b32fe7cc12abc1a8ecb01fe58aefde51f39f64651dbcd891ac",
+    "bytes": 11232
+  },
+  "zh-08-12": {
+    "text": "阳光",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "8acbe43ba2dd5611657d97a072a9d6edd973e348d22b5aa32813756672b7d4c2",
+    "sha256": "787da92aefe730d661b8db4485d2b1569c13b814a452a24d9acacc582978f9a1",
+    "bytes": 11232
+  },
+  "zh-08-13": {
+    "text": "凉快",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "70eb2b79446781069c07a9c2390156845ff6afbe7fb3544f53fa4937e215810f",
+    "sha256": "1d447da7862bf5a8f63879b802a8c4278adf8ac903015f948a2c19c0beb49294",
+    "bytes": 11232
+  },
+  "zh-08-15": {
+    "text": "扔",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "a0f681bfbbbc8b49cbbdb015892ea39cd14215f89a6f5e5318aa8fc6d67524e7",
+    "sha256": "0c4b12a9c820ddde92423728be8ebb6fc3e03685a3516f1146cff442ad311f7f",
+    "bytes": 11232
+  },
+  "zh-09-01": {
+    "text": "顺利",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "fd1492cc5ee7e5ddb6c12fb24bf1c7fe04052faadc3b47c1b5fa5542569d5199",
+    "sha256": "ed6f52f30b12af73118eb91147816fc1e41b31b40e588dd0be7ce327cba1a114",
+    "bytes": 11232
+  },
+  "zh-08-14": {
+    "text": "垃圾桶",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "9371224100c04d20713f69df30362a92489177c4fabef60056487867b878ed45",
+    "sha256": "ea25414b09cc3ace35a2fef286fd3e2d61c4edbc32f5ea4cd7b711ff5fb1d5af",
+    "bytes": 11232
+  },
+  "zh-09-03": {
+    "text": "解决",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "73b0c030c4b12e95e1484f8c97fb9749c456621efb4a23b715b6ef62d0269319",
+    "sha256": "8965123bae0803dee0cde5b13f9a14f22cd3697d036bb8ef8a8bf317024ddd3a",
+    "bytes": 11232
+  },
+  "zh-09-04": {
+    "text": "商量",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b542c3fe193a8678d328252f8167497505fd3eff4a531a1b5a27fc25fba94688",
+    "sha256": "f998db02a003a99ef07135ffd48f608cc008ee603d33b22a4469cd83a7cd2d03",
+    "bytes": 11232
+  },
+  "zh-09-02": {
+    "text": "进行",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "50c1503f4cdde04a181f31f5b848155cbd4a6086752d4064173db71593992fb6",
+    "sha256": "433f3f357da53c1d0ed0a895e6e0c4a244844cef1e0e24752692e6012bf1c0e7",
+    "bytes": 11232
+  },
+  "zh-09-05": {
+    "text": "方法",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "e323c617509f3f8348a4b9b0f3823100b7a480e5ef7509cf3b5a74292cfaeb1e",
+    "sha256": "2836c1bfe8204290cdc64cdc139724bbe289add083dca4a23eb59fe26469d55d",
+    "bytes": 11232
+  },
+  "zh-09-06": {
+    "text": "减少",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "73949a75f1b4871b046d9c486d0784468b360ef679419281c114b091cb5d8617",
+    "sha256": "a2b3559cb321e794e68f582486655d6e5b94681124c04e223e82c553181df7d4",
+    "bytes": 11232
+  },
+  "zh-09-07": {
+    "text": "报名",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "2a5d7af28df435aa51027e2ed9d22d32a0994abab204f88a1dd3368458aa6943",
+    "sha256": "506d87ca98dc83cd1b0de4ac4e6160c10aad8719bdbebf152c0f06f0de499427",
+    "bytes": 11232
+  },
+  "zh-09-08": {
+    "text": "超过",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "af12e97ae3af8ec16d50b7b8cda71173750c5560b33836a9b915171ecd9ce37a",
+    "sha256": "dc7f50753feb819790e64dcace8bea96f9b95ccbd7d0810ad2e4bd9ea9f5d68e",
+    "bytes": 11232
+  },
+  "zh-09-09": {
+    "text": "逐渐",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "0a8c1cec44a46100356f3dbb3bdab1e9978d35f0a48d8f0e3093dd91d92f9448",
+    "sha256": "e966ea8823ed8ed9dd6f18c50219bd2a68c30d8c228c941019d006facee4d7d8",
+    "bytes": 11232
+  },
+  "zh-09-10": {
+    "text": "发展",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "1425b70c1c172a9797fdd9e9e3029c70c8fc5a2b6b7597a985a7ac2329c07fa0",
+    "sha256": "2461ac0499ef4db872024726209a211d0e45ffa614294a1249dd3e23ef56d98a",
+    "bytes": 11232
+  },
+  "zh-09-11": {
+    "text": "经济",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "c4a358f55b443f0293974c53d27711754ec31d6b4ca09f1ab26619ca2367822f",
+    "sha256": "66a9fe35269c817124f4fa845329fa3a8d04d2d3d2ea848061ac596ad8291f48",
+    "bytes": 11232
+  },
+  "zh-09-12": {
+    "text": "速度",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "d1c76d99a5f78e8742ab7b1ecca8ea79b86e2ba4c708bb5e58d9c3bb2f351bdc",
+    "sha256": "0c89c21c030207a24cdf79aba36760422a66434f882147560e09e4e497275c61",
+    "bytes": 11232
+  },
+  "zh-09-15": {
+    "text": "留学",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "467f2a2bd7a8356f97524a435c922b4064f47d46f57b1db46c48245fe409fc01",
+    "sha256": "19c0b99685e8c6ac24fbec0ccf9e648d49532bea96ad4cc65f802f5c4686b574",
+    "bytes": 11232
+  },
+  "zh-09-13": {
+    "text": "增长",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "c90977aa54062fe65d47a19d2803d24c10e931daab0ba0b36a895699d9dc9b56",
+    "sha256": "f179c732420418d6ecc8db80033c988ed0d43abdeb81d5b6692abd634c9ccf4d",
+    "bytes": 11232
+  },
+  "zh-09-14": {
+    "text": "暂时",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "5ff0d5f874c42cec89858ec1dfd5c2c30a9458af64fbce0ea25051fa44237e28",
+    "sha256": "de0633da9edafc8ab279b678b1c8f679a0f67a3c118894e054eaecb35fcf4a0f",
+    "bytes": 11232
+  },
+  "zh-10-02": {
+    "text": "京剧",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "1af169c4824362e4dfd421b6cf6feda17813b1c396f1523b132df7d028227f0b",
+    "sha256": "2059d6741c7afe44506d55254269adf1ccca6fe53bf6c70563f38244380fb2b9",
+    "bytes": 11232
+  },
+  "zh-10-01": {
+    "text": "演员",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "3cb03abe7bb2234befcfd804b75e8b5102ef762a90b46eb90a0d4efa4b9d5919",
+    "sha256": "b5c726e3883af4bc1093e81e780c2652c525639d9d8b7f46495d0820a3eb09c1",
+    "bytes": 11232
+  },
+  "zh-10-03": {
+    "text": "钢琴",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "d03d5f424bcd1ad79f2d11045617ab3ffd81ab9117177fb7f4d2c4987dc38c1c",
+    "sha256": "c419251bedad31a5f30387309a6f45aa149f2de8e0e63d4a6860510e051eb474",
+    "bytes": 11232
+  },
+  "zh-06-15": {
+    "text": "塑料袋",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "54381e230442384e3e2a545d92d3b473ce27144850636af1c38850ec540da834",
+    "sha256": "5323064dab19ee01c81ff2f43659f6cee5fad56b83c5e5c84d8c194d6f5eb691",
+    "bytes": 11232
+  },
+  "zh-10-05": {
+    "text": "表演",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "fe6f4b88409cd06ce07e427227d8cabfe79e928bd15cff6d679bb3712ad9f0e2",
+    "sha256": "add299d2879cf35622348dc3358d036979c64e837b77ec6505fcfd0fedbfe8ee",
+    "bytes": 11232
+  },
+  "zh-10-04": {
+    "text": "弹钢琴",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "c23e22660ae2c80cb5dc5cc340572943dc5faeed1acd4f0f983363415591cd59",
+    "sha256": "2ba57ceb05e16e22462da35b1b120cbb8b8abca2f5e7ae053b8d65e7625052ac",
+    "bytes": 11232
+  },
+  "zh-10-06": {
+    "text": "打扮",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "b052f55746eb88bda7969ea1c641d1c888e4d276f8b40a2e1fa16dfb665ec330",
+    "sha256": "8d1f2b5ff62587f036bb3d3eea932e84dc08ed1bf1d030845e9ade67057c499e",
+    "bytes": 11232
+  },
+  "zh-10-07": {
+    "text": "观众",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "7c026eb2eed1ac5893051f7ace2591383a0b7ecb0fc2c283056e8d7dd58e6e0b",
+    "sha256": "980e81fed45fab06396ebb3e71cd03c449bc9b15626e958ba2314c7d44c75136",
+    "bytes": 11232
+  },
+  "zh-10-08": {
+    "text": "著名",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "5f28ff0c59dd5291ff434155e8270d086e9aabb5e663a5af8d299d8796631d20",
+    "sha256": "d171aa5d50e57b87fc889a792cb1d409e0fa828dc6d6063c0da80086170bf59a",
+    "bytes": 11232
+  },
+  "zh-10-09": {
+    "text": "小说",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "f2fbe17bdcf49d5776a4eab44010c402e0eaa9ca59ca592e83170b1db943edac",
+    "sha256": "128aef611a1317f0667f17931f3a1b3227f1a77cbc6994f94da6529be111605d",
+    "bytes": 11232
+  },
+  "zh-10-10": {
+    "text": "作者",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "3ec42de34f78d62bb470604d8ac06594a43e32d79001819ec76c24ad4ab7c9ab",
+    "sha256": "c2d36465101f9a5d800d9d34d5b09e9867503881bea642c949bbb758911ed7f9",
+    "bytes": 11232
+  },
+  "zh-07-08": {
+    "text": "支持",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "4d484ac5bc1c020b6c795ee3ffd8afee8f2df2615ab1bbd748e4326619aff1eb",
+    "sha256": "5c37011d1428dd086a7e444d84f023e86139280e9acbb866cf416feca57c1621",
+    "bytes": 11232
+  },
+  "zh-10-12": {
+    "text": "坚持",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "ae60343058fba8d786a015bc0cab1320572ee4d704a69165bd2a0c821678d6d7",
+    "sha256": "df7e6ccce4092fad3d784d0e60205893844cb9fb22a30a74ca876b086741a97b",
+    "bytes": 11232
+  },
+  "zh-10-11": {
+    "text": "日记",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "78093e463029a89f1b1eb76675a619397468193b57367bb43d8ed6149cee06de",
+    "sha256": "2d8122d43da0f94a74b90510abed1f343165f4041e11b6844ab8c483a260638d",
+    "bytes": 11232
+  },
+  "zh-10-13": {
+    "text": "杂志",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "509b52948fac72c957d8149ddbf4fab53cf1cdeb26729c274abe320e5a92cbe9",
+    "sha256": "1c8722ae60be160125960612e78ff087d1be29b77ac1405d8992ba0f732d20d2",
+    "bytes": 11232
+  },
+  "zh-10-15": {
+    "text": "比赛",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "45ce06162f2aebe2c702d2fbb556886ee00ff653f71a9d83ba685c1b4bd3152b",
+    "sha256": "00b08e2dfe93b3d9ad83e728566cc006fbd4cefe17051870d1a8a9fe516eb6f4",
+    "bytes": 11232
+  },
+  "zh-10-14": {
+    "text": "笑话",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "textHash": "057d45b2f1b0c805b744afa7092beb3f0b47d16f5706cc41ec3df3a0fc05114c",
+    "sha256": "c0d113b0239991ee3ae3f94e4ea31f8fcf57cce0432f6ca16a687b9264bbe98a",
+    "bytes": 11232
+  }
+}
