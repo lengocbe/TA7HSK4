@@ -1,0 +1,19 @@
+{
+  "result": "passed",
+  "checks": [
+    "All vocabulary records remain identical to version 1.3",
+    "Fresh installs and older backups have empty new history",
+    "All four quiz modes track incorrect answers exactly once",
+    "Stale answer/next events do not count twice or skip questions",
+    "Round retry contains only missed words and retains quiz mode",
+    "Correct answers and flashcard ratings retain history",
+    "Mastered archive, restore and later-error reactivation",
+    "All language/course filters and sorted counts",
+    "Subset, all and one-word practice",
+    "Search and filter changes clear hidden selections",
+    "Native audio bridge",
+    "Reload, backup round trip and malformed import rejection",
+    "Light/dark layouts at 320/360/390/700 px"
+  ],
+  "limitation": "Browser with mocked Android bridge; actual Android device not tested."
+}

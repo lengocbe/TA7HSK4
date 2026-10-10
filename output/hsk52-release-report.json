@@ -1,0 +1,14 @@
+{
+  "version": "1.3.0",
+  "apkSha256": "6cbec8abcc35d0538112cd8f34fe9f0204659bcd4317c04f53104d6b90809f94",
+  "apkBytes": 28033163,
+  "wordCount": 2422,
+  "addedWords": 665,
+  "newLessons": 18,
+  "oldWordsPreserved": 1757,
+  "webAssetsMatch": true,
+  "regenerationIdempotent": true,
+  "hsK51RegenerationRetains52": true,
+  "sourceExcerptsAudited": 200,
+  "actualDeviceTested": false
+}

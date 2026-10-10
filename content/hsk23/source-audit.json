@@ -1,0 +1,6898 @@
+[
+  {
+    "id": "zh2-01-01",
+    "text": "旅游",
+    "source": {
+      "num": 1,
+      "text": "旅游",
+      "page": 16,
+      "ocr": "1.旅游",
+      "near": "luyou dgt. dulich",
+      "confidence": 0.9945413321256638
+    },
+    "examplePage": 16,
+    "example": "我要去北京旅游，你觉得什么时候去最好？"
+  },
+  {
+    "id": "zh2-01-02",
+    "text": "觉得",
+    "source": {
+      "num": 2,
+      "text": "觉得",
+      "page": 16,
+      "ocr": "2.觉得",
+      "near": "juéde dgt. chorang,",
+      "confidence": 0.9991399645805359
+    },
+    "examplePage": 16,
+    "example": "我要去北京旅游，你觉得什么时候去最好？"
+  },
+  {
+    "id": "zh2-01-03",
+    "text": "最",
+    "source": {
+      "num": 3,
+      "text": "最",
+      "page": 16,
+      "ocr": "3.最",
+      "near": "Inz pho. nhat",
+      "confidence": 0.9990030328432719
+    },
+    "examplePage": 16,
+    "example": "我要去北京旅游，你觉得什么时候去最好？"
+  },
+  {
+    "id": "zh2-01-04",
+    "text": "为什么",
+    "source": {
+      "num": 4,
+      "text": "为什么",
+      "page": 16,
+      "ocr": "4.为什么",
+      "near": "wei shenme taisao",
+      "confidence": 0.9998168349266052
+    },
+    "examplePage": 16,
+    "example": "为什么？"
+  },
+  {
+    "id": "zh2-01-05",
+    "text": "也",
+    "source": {
+      "num": 5,
+      "text": "也",
+      "page": 16,
+      "ocr": "5.也",
+      "near": "yé pho. cuing",
+      "confidence": 0.9996016422907511
+    },
+    "examplePage": 16,
+    "example": "九月的北京天气不冷也不热。"
+  },
+  {
+    "id": "zh2-01-06",
+    "text": "运动",
+    "source": {
+      "num": 6,
+      "text": "运动",
+      "page": 16,
+      "ocr": "6.运动",
+      "near": "yundongdt./dgt.mon thethao;",
+      "confidence": 0.9968651384115219
+    },
+    "examplePage": 16,
+    "example": "你喜欢什么运动？"
+  },
+  {
+    "id": "zh2-01-07",
+    "text": "踢足球",
+    "source": {
+      "num": 7,
+      "text": "踢足球",
+      "page": 16,
+      "ocr": "7.踢足球ti zuqiu",
+      "near": "dabong",
+      "confidence": 0.9451407194137573
+    },
+    "examplePage": 16,
+    "example": "我最喜欢踢足球。"
+  },
+  {
+    "id": "zh2-01-08",
+    "text": "一起",
+    "source": {
+      "num": 8,
+      "text": "一起",
+      "page": 16,
+      "ocr": "8.一起",
+      "near": "yiqi pho. cing",
+      "confidence": 0.9982224106788635
+    },
+    "examplePage": 16,
+    "example": "下午我们一起去踢足球吧。"
+  },
+  {
+    "id": "zh2-01-09",
+    "text": "要",
+    "source": {
+      "num": 9,
+      "text": "要",
+      "page": 17,
+      "ocr": "9.要",
+      "near": "yaotat.muon,can",
+      "confidence": 0.9989491502443949
+    },
+    "examplePage": 16,
+    "example": "我要去北京旅游，你觉得什么时候去最好？"
+  },
+  {
+    "id": "zh2-01-10",
+    "text": "新",
+    "source": {
+      "num": 10,
+      "text": "新",
+      "page": 17,
+      "ocr": "10.新",
+      "near": "xin tt. moi",
+      "confidence": 0.9998925924301147
+    },
+    "examplePage": 17,
+    "example": "我们要不要买几个新的椅子？"
+  },
+  {
+    "id": "zh2-01-11",
+    "text": "它",
+    "source": {
+      "num": 11,
+      "text": "它",
+      "page": 17,
+      "ocr": "11.它",
+      "near": "ta dt.no",
+      "confidence": 0.9880599975585938
+    },
+    "examplePage": 17,
+    "example": "我觉得它的眼睛最漂亮。"
+  },
+  {
+    "id": "zh2-01-12",
+    "text": "眼睛",
+    "source": {
+      "num": 12,
+      "text": "眼睛",
+      "page": 17,
+      "ocr": "12.眼睛yanjing",
+      "near": "dt.mat",
+      "confidence": 0.9527004534999529
+    },
+    "examplePage": 17,
+    "example": "我觉得它的眼睛最漂亮。"
+  },
+  {
+    "id": "zh2-02-01",
+    "text": "生病",
+    "source": {
+      "num": 1,
+      "text": "生病",
+      "page": 24,
+      "ocr": "1.生病",
+      "near": "sheng bing dgt.bibenh,biom",
+      "confidence": 0.9962765872478485
+    },
+    "examplePage": 24,
+    "example": "你很少生病，是不是喜欢运动？"
+  },
+  {
+    "id": "zh2-02-02",
+    "text": "每",
+    "source": {
+      "num": 2,
+      "text": "每",
+      "page": 24,
+      "ocr": "2.每",
+      "near": "mei dtt. moi",
+      "confidence": 0.9964268008867899
+    },
+    "examplePage": 24,
+    "example": "我每天早上都要出去跑步。"
+  },
+  {
+    "id": "zh2-02-03",
+    "text": "早上",
+    "source": {
+      "num": 3,
+      "text": "早上",
+      "page": 24,
+      "ocr": "3.早上",
+      "near": "zaoshang dt. buoisang",
+      "confidence": 0.9996774792671204
+    },
+    "examplePage": 24,
+    "example": "我每天早上都要出去跑步。"
+  },
+  {
+    "id": "zh2-02-04",
+    "text": "跑步",
+    "source": {
+      "num": 4,
+      "text": "跑步",
+      "page": 24,
+      "ocr": "4.跑步",
+      "near": "paobu dgt.chay bo",
+      "confidence": 0.9978628754615784
+    },
+    "examplePage": 24,
+    "example": "我每天早上都要出去跑步。"
+  },
+  {
+    "id": "zh2-02-05",
+    "text": "起床",
+    "source": {
+      "num": 5,
+      "text": "起床",
+      "page": 24,
+      "ocr": "5.起床qi chuang",
+      "near": "dgt.thicday",
+      "confidence": 0.9648446303147536
+    },
+    "examplePage": 24,
+    "example": "我每天六点起床。"
+  },
+  {
+    "id": "zh2-02-06",
+    "text": "药",
+    "source": {
+      "num": 6,
+      "text": "药",
+      "page": 24,
+      "ocr": "6.药",
+      "near": "yao dt. thuoc",
+      "confidence": 0.9975535869598389
+    },
+    "examplePage": 24,
+    "example": "吃药了吗？现在身体怎么样？"
+  },
+  {
+    "id": "zh2-02-07",
+    "text": "身体",
+    "source": {
+      "num": 7,
+      "text": "身体",
+      "page": 24,
+      "ocr": "7.身体",
+      "near": "shenti dt. sutckhoe,co the",
+      "confidence": 0.9997826218605042
+    },
+    "examplePage": 24,
+    "example": "吃药了吗？现在身体怎么样？"
+  },
+  {
+    "id": "zh2-02-08",
+    "text": "出院",
+    "source": {
+      "num": 8,
+      "text": "出院",
+      "page": 24,
+      "ocr": "8.出院",
+      "near": "chuyuan xuatvien",
+      "confidence": 0.9990440160036087
+    },
+    "examplePage": 24,
+    "example": "我每天早上都要出去跑步。"
+  },
+  {
+    "id": "zh2-02-09",
+    "text": "高",
+    "source": {
+      "num": 9,
+      "text": "高",
+      "page": 25,
+      "ocr": "9.高",
+      "near": "gao tt. cao",
+      "confidence": 0.9976439873377482
+    },
+    "examplePage": 25,
+    "example": "他多高？"
+  },
+  {
+    "id": "zh2-02-10",
+    "text": "米",
+    "source": {
+      "num": 10,
+      "text": "米",
+      "page": 25,
+      "ocr": "*10.米",
+      "near": "mi luong.met",
+      "confidence": 0.932268488407135
+    },
+    "examplePage": 25,
+    "example": "一米八几。"
+  },
+  {
+    "id": "zh2-02-11",
+    "text": "知道",
+    "source": {
+      "num": 11,
+      "text": "知道",
+      "page": 25,
+      "ocr": "11.知道zhidaodgt.",
+      "near": "biet",
+      "confidence": 0.9907539288202921
+    },
+    "examplePage": 25,
+    "example": "你怎么知道这么多啊？"
+  },
+  {
+    "id": "zh2-02-12",
+    "text": "休息",
+    "source": {
+      "num": 12,
+      "text": "休息",
+      "page": 25,
+      "ocr": "12.休息",
+      "near": "xiuxi dgt.nghingoi",
+      "confidence": 0.9995784640312195
+    },
+    "examplePage": 25,
+    "example": "他这几天很忙，没有时间休息。"
+  },
+  {
+    "id": "zh2-02-13",
+    "text": "忙",
+    "source": {
+      "num": 13,
+      "text": "忙",
+      "page": 25,
+      "ocr": "13.忙",
+      "near": "mang tt. ban",
+      "confidence": 0.9951703697443008
+    },
+    "examplePage": 25,
+    "example": "他这几天很忙，没有时间休息。"
+  },
+  {
+    "id": "zh2-02-14",
+    "text": "时间",
+    "source": {
+      "num": 14,
+      "text": "时间",
+      "page": 25,
+      "ocr": "14.时间shijian",
+      "near": "dt. thoigian",
+      "confidence": 0.9849260350068411
+    },
+    "examplePage": 25,
+    "example": "他这几天很忙，没有时间休息。"
+  },
+  {
+    "id": "zh2-03-01",
+    "text": "手表",
+    "source": {
+      "num": 1,
+      "text": "手表",
+      "page": 32,
+      "ocr": "1.手表shoubi?odt.dong ho deo tay",
+      "near": "",
+      "confidence": 0.9325708379348119
+    },
+    "examplePage": 32,
+    "example": "这块手表是你的吗？"
+  },
+  {
+    "id": "zh2-03-02",
+    "text": "千",
+    "source": {
+      "num": 2,
+      "text": "千",
+      "page": 32,
+      "ocr": "2.千",
+      "near": "qian so.nghin",
+      "confidence": 0.9994818965593973
+    },
+    "examplePage": 32,
+    "example": "三千多块。"
+  },
+  {
+    "id": "zh2-03-03",
+    "text": "报纸",
+    "source": {
+      "num": 3,
+      "text": "报纸",
+      "page": 32,
+      "ocr": "3.报纸",
+      "near": "baozhi Ydt.bao",
+      "confidence": 0.9988273531198502
+    },
+    "examplePage": 32,
+    "example": "是不是送报纸的来了？"
+  },
+  {
+    "id": "zh2-03-04",
+    "text": "送",
+    "source": {
+      "num": 4,
+      "text": "送",
+      "page": 32,
+      "ocr": "4.送",
+      "near": "song dgt.giao,dua",
+      "confidence": 0.9989551504453024
+    },
+    "examplePage": 32,
+    "example": "是不是送报纸的来了？"
+  },
+  {
+    "id": "zh2-03-05",
+    "text": "一下",
+    "source": {
+      "num": 5,
+      "text": "一下",
+      "page": 32,
+      "ocr": "5.一下yixia",
+      "near": "sl. duoc dung sau dong tir de",
+      "confidence": 0.9466246962547302
+    },
+    "examplePage": 32,
+    "example": "我看一下。不是，是送牛奶的。"
+  },
+  {
+    "id": "zh2-03-06",
+    "text": "牛奶",
+    "source": {
+      "num": 6,
+      "text": "牛奶",
+      "page": 32,
+      "ocr": "6.牛奶 niunäi dt. suia bo",
+      "near": "",
+      "confidence": 0.8449374255926713
+    },
+    "examplePage": 32,
+    "example": "我看一下。不是，是送牛奶的。"
+  },
+  {
+    "id": "zh2-03-07",
+    "text": "房间",
+    "source": {
+      "num": 7,
+      "text": "房间",
+      "page": 33,
+      "ocr": "7.房间",
+      "near": "fangjian dt. phong",
+      "confidence": 0.9994398802518845
+    },
+    "examplePage": 33,
+    "example": "这是我和我丈夫的，旁边那个小的房间是我女儿的。"
+  },
+  {
+    "id": "zh2-03-08",
+    "text": "丈夫",
+    "source": {
+      "num": 8,
+      "text": "丈夫",
+      "page": 33,
+      "ocr": "8.丈夫",
+      "near": "zhangfu dt. chong",
+      "confidence": 0.9959923624992371
+    },
+    "examplePage": 33,
+    "example": "这是我和我丈夫的，旁边那个小的房间是我女儿的。"
+  },
+  {
+    "id": "zh2-03-09",
+    "text": "旁边",
+    "source": {
+      "num": 9,
+      "text": "旁边",
+      "page": 33,
+      "ocr": "9.旁边",
+      "near": "pangbian dt. bencanh",
+      "confidence": 0.9986429214477539
+    },
+    "examplePage": 33,
+    "example": "这是我和我丈夫的，旁边那个小的房间是我女儿的。"
+  },
+  {
+    "id": "zh2-03-10",
+    "text": "真",
+    "source": {
+      "num": 10,
+      "text": "真",
+      "page": 33,
+      "ocr": "10.真",
+      "near": "zhen pho. that,quala",
+      "confidence": 0.9996425211429596
+    },
+    "examplePage": 33,
+    "example": "你女儿的房间真漂亮！都是粉色的。"
+  },
+  {
+    "id": "zh2-03-11",
+    "text": "粉色",
+    "source": {
+      "num": 11,
+      "text": "粉色",
+      "page": 33,
+      "ocr": "*11.粉色",
+      "near": "fense dt. mauhong",
+      "confidence": 0.9965870976448059
+    },
+    "examplePage": 33,
+    "example": "你女儿的房间真漂亮！都是粉色的。"
+  },
+  {
+    "id": "zh2-03-12",
+    "text": "颜色",
+    "source": {
+      "num": 12,
+      "text": "颜色",
+      "page": 33,
+      "ocr": "12.颜色",
+      "near": "yanse dt. mau,mau sac",
+      "confidence": 0.9997031092643738
+    },
+    "examplePage": 33,
+    "example": "粉色是我女儿最喜欢的颜色。"
+  },
+  {
+    "id": "zh2-03-13",
+    "text": "左边",
+    "source": {
+      "num": 13,
+      "text": "左边",
+      "page": 33,
+      "ocr": "13.左边",
+      "near": "zuobian bentrai",
+      "confidence": 0.9984665036201477
+    },
+    "examplePage": 33,
+    "example": "左边那个红色的是我的。"
+  },
+  {
+    "id": "zh2-03-14",
+    "text": "红色",
+    "source": {
+      "num": 14,
+      "text": "红色",
+      "page": 33,
+      "ocr": "14.红色",
+      "near": "hongse dt. maudo",
+      "confidence": 0.9972564816474915
+    },
+    "examplePage": 33,
+    "example": "左边那个红色的是我的。"
+  },
+  {
+    "id": "zh2-04-01",
+    "text": "生日",
+    "source": {
+      "num": 1,
+      "text": "生日",
+      "page": 40,
+      "ocr": "1.生日shengri dt.",
+      "near": "sinhnhat",
+      "confidence": 0.9636263251304626
+    },
+    "examplePage": 40,
+    "example": "生日快乐！这是送给你的！"
+  },
+  {
+    "id": "zh2-04-02",
+    "text": "快乐",
+    "source": {
+      "num": 2,
+      "text": "快乐",
+      "page": 40,
+      "ocr": "2.快乐kuaile",
+      "near": "tt. vuive",
+      "confidence": 0.919314044713974
+    },
+    "examplePage": 40,
+    "example": "生日快乐！这是送给你的！"
+  },
+  {
+    "id": "zh2-04-03",
+    "text": "给",
+    "source": {
+      "num": 3,
+      "text": "给",
+      "page": 40,
+      "ocr": "3.给",
+      "near": "géi gioi.(duoc dung sau",
+      "confidence": 0.998161236445109
+    },
+    "examplePage": 40,
+    "example": "生日快乐！这是送给你的！"
+  },
+  {
+    "id": "zh2-04-04",
+    "text": "接",
+    "source": {
+      "num": 4,
+      "text": "接",
+      "page": 40,
+      "ocr": "*4.接",
+      "near": "jie dgt.nhan,nghe/tra",
+      "confidence": 0.9959692507982254
+    },
+    "examplePage": 40,
+    "example": "不知道，是儿子接的。"
+  },
+  {
+    "id": "zh2-04-05",
+    "text": "晚上",
+    "source": {
+      "num": 5,
+      "text": "晚上",
+      "page": 40,
+      "ocr": "5.晚上·wanshangdt.buoitoi",
+      "near": "",
+      "confidence": 0.9249054970948593
+    },
+    "examplePage": 40,
+    "example": "晚上我问一下儿子。"
+  },
+  {
+    "id": "zh2-04-06",
+    "text": "问",
+    "source": {
+      "num": 6,
+      "text": "问",
+      "page": 40,
+      "ocr": "6.问",
+      "near": "wen dgt.hoi",
+      "confidence": 0.9979940056800842
+    },
+    "examplePage": 40,
+    "example": "晚上我问一下儿子。"
+  },
+  {
+    "id": "zh2-04-07",
+    "text": "非常",
+    "source": {
+      "num": 7,
+      "text": "非常",
+      "page": 41,
+      "ocr": "7.非常",
+      "near": "feichang pho.rat,vocung",
+      "confidence": 0.9996472746133804
+    },
+    "examplePage": 41,
+    "example": "非常喜欢。"
+  },
+  {
+    "id": "zh2-04-08",
+    "text": "开始",
+    "source": {
+      "num": 8,
+      "text": "开始",
+      "page": 41,
+      "ocr": "8.开始",
+      "near": "kaishi dgt. batdau",
+      "confidence": 0.9995653331279755
+    },
+    "examplePage": 41,
+    "example": "我十一岁的时候开始踢足球，已经踢了十年了。"
+  },
+  {
+    "id": "zh2-04-09",
+    "text": "已经",
+    "source": {
+      "num": 9,
+      "text": "已经",
+      "page": 41,
+      "ocr": "9.已经",
+      "near": "yijing pho. da",
+      "confidence": 0.9897169470787048
+    },
+    "examplePage": 41,
+    "example": "我十一岁的时候开始踢足球，已经踢了十年了。"
+  },
+  {
+    "id": "zh2-04-10",
+    "text": "长",
+    "source": {
+      "num": 10,
+      "text": "长",
+      "page": 41,
+      "ocr": "10.长",
+      "near": "chang tt. dai,lau",
+      "confidence": 0.999480739235878
+    },
+    "examplePage": 41,
+    "example": "你在这儿工作多长时间了？"
+  },
+  {
+    "id": "zh2-04-11",
+    "text": "两",
+    "source": {
+      "num": 11,
+      "text": "两",
+      "page": 41,
+      "ocr": "11.两",
+      "near": "liäng so. hai",
+      "confidence": 0.9992798417806625
+    },
+    "examplePage": 41,
+    "example": "已经两年多了。"
+  },
+  {
+    "id": "zh2-04-12",
+    "text": "帮",
+    "source": {
+      "num": 12,
+      "text": "帮",
+      "page": 41,
+      "ocr": "12.帮",
+      "near": "bang dgt. giip,giip do",
+      "confidence": 0.9993010759353638
+    },
+    "examplePage": 41,
+    "example": "这个工作是他帮我介绍的。"
+  },
+  {
+    "id": "zh2-04-13",
+    "text": "介绍",
+    "source": {
+      "num": 13,
+      "text": "介绍",
+      "page": 41,
+      "ocr": "13.介绍jieshao",
+      "near": "dgt.gioithieu",
+      "confidence": 0.9538528422514597
+    },
+    "examplePage": 41,
+    "example": "这个工作是他帮我介绍的。"
+  },
+  {
+    "id": "zh2-05-01",
+    "text": "外面",
+    "source": {
+      "num": 1,
+      "text": "外面",
+      "page": 48,
+      "ocr": "1.外面waimiandt.benngoai",
+      "near": "",
+      "confidence": 0.9687568111853166
+    },
+    "examplePage": 48,
+    "example": "我不想去外面吃，我想在家吃。"
+  },
+  {
+    "id": "zh2-05-02",
+    "text": "准备",
+    "source": {
+      "num": 2,
+      "text": "准备",
+      "page": 48,
+      "ocr": "2.准备zhunbeidgt.dinh,dudinh",
+      "near": "",
+      "confidence": 0.9560893476009369
+    },
+    "examplePage": 48,
+    "example": "那你准备做什么呢？"
+  },
+  {
+    "id": "zh2-05-03",
+    "text": "就",
+    "source": {
+      "num": 3,
+      "text": "就",
+      "page": 48,
+      "ocr": "3.就",
+      "near": "jiu pho.duoc dung de chi mot ket",
+      "confidence": 0.9603705604871114
+    },
+    "examplePage": 48,
+    "example": "就做你爱吃的鱼吧。"
+  },
+  {
+    "id": "zh2-05-04",
+    "text": "鱼",
+    "source": {
+      "num": 4,
+      "text": "鱼",
+      "page": 48,
+      "ocr": "4.鱼",
+      "near": "yu dt.ca,monca",
+      "confidence": 0.9945750832557678
+    },
+    "examplePage": 48,
+    "example": "就做你爱吃的鱼吧。"
+  },
+  {
+    "id": "zh2-05-05",
+    "text": "吧",
+    "source": {
+      "num": 5,
+      "text": "吧",
+      "page": 48,
+      "ocr": "5.吧",
+      "near": "ba tro.duoc dung cuoi cau dechi",
+      "confidence": 0.9962282379468282
+    },
+    "examplePage": 48,
+    "example": "就做你爱吃的鱼吧。"
+  },
+  {
+    "id": "zh2-05-06",
+    "text": "件",
+    "source": {
+      "num": 6,
+      "text": "件",
+      "page": 48,
+      "ocr": "6.件",
+      "near": " jian lugng. (duoc dung cho ao)",
+      "confidence": 0.9998707969983419
+    },
+    "examplePage": 48,
+    "example": "帮我看一下这件衣服怎么样。"
+  },
+  {
+    "id": "zh2-05-07",
+    "text": "还",
+    "source": {
+      "num": 7,
+      "text": "还",
+      "page": 48,
+      "ocr": "7.还",
+      "near": "hai pho. cing,kha",
+      "confidence": 0.9970526297887167
+    },
+    "examplePage": 48,
+    "example": "颜色还可以，就是有点儿大。"
+  },
+  {
+    "id": "zh2-05-08",
+    "text": "可以",
+    "source": {
+      "num": 8,
+      "text": "可以",
+      "page": 48,
+      "ocr": "8.可以",
+      "near": "keyi tt. khongte,tam duoc",
+      "confidence": 0.9991581737995148
+    },
+    "examplePage": 48,
+    "example": "颜色还可以，就是有点儿大。"
+  },
+  {
+    "id": "zh2-05-09",
+    "text": "不错",
+    "source": {
+      "num": 9,
+      "text": "不错",
+      "page": 48,
+      "ocr": "9.不错",
+      "near": "bucuo tt. tuyet,kha tot",
+      "confidence": 0.9994798749685287
+    },
+    "examplePage": 48,
+    "example": "这件不错，就买这件吧。"
+  },
+  {
+    "id": "zh2-05-10",
+    "text": "考试",
+    "source": {
+      "num": 10,
+      "text": "考试",
+      "page": 49,
+      "ocr": "10.考试kaoshidt.cuoc thi,baikiem",
+      "near": "",
+      "confidence": 0.9563974062601726
+    },
+    "examplePage": 49,
+    "example": "是在想昨天的考试吗？"
+  },
+  {
+    "id": "zh2-05-11",
+    "text": "意思",
+    "source": {
+      "num": 11,
+      "text": "意思",
+      "page": 49,
+      "ocr": "11.意思",
+      "near": "yisi dt.nghia,ynghia",
+      "confidence": 0.9989919066429138
+    },
+    "examplePage": 49,
+    "example": "我都不知道是什么意思。"
+  },
+  {
+    "id": "zh2-05-12",
+    "text": "咖啡",
+    "source": {
+      "num": 12,
+      "text": "咖啡",
+      "page": 49,
+      "ocr": "12.咖啡",
+      "near": "kafei dt.caphé",
+      "confidence": 0.9996110677719117
+    },
+    "examplePage": 49,
+    "example": "咖啡喝多了对身体不好。"
+  },
+  {
+    "id": "zh2-05-13",
+    "text": "对",
+    "source": {
+      "num": 13,
+      "text": "对",
+      "page": 49,
+      "ocr": "13.对",
+      "near": "dui gioi.(duoc dung truoc",
+      "confidence": 0.9998607337474823
+    },
+    "examplePage": 49,
+    "example": "咖啡喝多了对身体不好。"
+  },
+  {
+    "id": "zh2-05-14",
+    "text": "以后",
+    "source": {
+      "num": 14,
+      "text": "以后",
+      "page": 49,
+      "ocr": "14.以后yihoudt.saunay",
+      "near": "",
+      "confidence": 0.9919526200545462
+    },
+    "examplePage": 49,
+    "example": "以后我少喝一点儿，每天喝一杯。"
+  },
+  {
+    "id": "zh2-06-01",
+    "text": "门",
+    "source": {
+      "num": 1,
+      "text": "门",
+      "page": 56,
+      "ocr": "1.门",
+      "near": "men dt.cia,cong",
+      "confidence": 0.997931957244873
+    },
+    "examplePage": 56,
+    "example": "我在门外看见他的自行车了。"
+  },
+  {
+    "id": "zh2-06-02",
+    "text": "外",
+    "source": {
+      "num": 2,
+      "text": "外",
+      "page": 56,
+      "ocr": "2.外",
+      "near": "wai dt.ben ngoai",
+      "confidence": 0.9985010425249735
+    },
+    "examplePage": 56,
+    "example": "我在门外看见他的自行车了。"
+  },
+  {
+    "id": "zh2-06-03",
+    "text": "自行车",
+    "source": {
+      "num": 3,
+      "text": "自行车",
+      "page": 56,
+      "ocr": "*3.自行车zixingchedt.xedap",
+      "near": "",
+      "confidence": 0.9903003832568293
+    },
+    "examplePage": 56,
+    "example": "我在门外看见他的自行车了。"
+  },
+  {
+    "id": "zh2-06-04",
+    "text": "羊肉",
+    "source": {
+      "num": 4,
+      "text": "羊肉",
+      "page": 56,
+      "ocr": "4.羊肉",
+      "near": "yangrou dt. thitde/ciu",
+      "confidence": 0.9997308254241943
+    },
+    "examplePage": 56,
+    "example": "今天的羊肉很好吃，你怎么不吃了？"
+  },
+  {
+    "id": "zh2-06-05",
+    "text": "好吃",
+    "source": {
+      "num": 5,
+      "text": "好吃",
+      "page": 56,
+      "ocr": "5.好吃",
+      "near": "haochi tt. ngon",
+      "confidence": 0.9986646175384521
+    },
+    "examplePage": 56,
+    "example": "今天的羊肉很好吃，你怎么不吃了？"
+  },
+  {
+    "id": "zh2-06-06",
+    "text": "面条",
+    "source": {
+      "num": 6,
+      "text": "面条",
+      "page": 56,
+      "ocr": "6.面条",
+      "near": "miantiáodt.misoi",
+      "confidence": 0.9990636706352234
+    },
+    "examplePage": 56,
+    "example": "来一点儿面条吧。"
+  },
+  {
+    "id": "zh2-06-07",
+    "text": "打篮球",
+    "source": {
+      "num": 7,
+      "text": "打篮球",
+      "page": 57,
+      "ocr": "7.打篮球dolanqiu",
+      "near": "choibongro?",
+      "confidence": 0.935801978294666
+    },
+    "examplePage": 57,
+    "example": "昨天你们怎么都没去打篮球？"
+  },
+  {
+    "id": "zh2-06-08",
+    "text": "因为",
+    "source": {
+      "num": 8,
+      "text": "因为",
+      "page": 57,
+      "ocr": "8.因为",
+      "near": "yinwei lien. boivi",
+      "confidence": 0.9995044469833374
+    },
+    "examplePage": 57,
+    "example": "因为昨天下雨，所以我们都没去。"
+  },
+  {
+    "id": "zh2-06-09",
+    "text": "所以",
+    "source": {
+      "num": 9,
+      "text": "所以",
+      "page": 57,
+      "ocr": "9.所以",
+      "near": "suoyy lien. chonen",
+      "confidence": 0.9997115880250931
+    },
+    "examplePage": 57,
+    "example": "因为昨天下雨，所以我们都没去。"
+  },
+  {
+    "id": "zh2-06-10",
+    "text": "游泳",
+    "source": {
+      "num": 10,
+      "text": "游泳",
+      "page": 57,
+      "ocr": "10.游泳",
+      "near": "you yong dgt. boi",
+      "confidence": 0.9999493598937989
+    },
+    "examplePage": 57,
+    "example": "你经常游泳吗？"
+  },
+  {
+    "id": "zh2-06-11",
+    "text": "经常",
+    "source": {
+      "num": 11,
+      "text": "经常",
+      "page": 57,
+      "ocr": "*11.经常",
+      "near": "jingchang pho. thutongxuyen",
+      "confidence": 0.9995238482952118
+    },
+    "examplePage": 57,
+    "example": "你经常游泳吗？"
+  },
+  {
+    "id": "zh2-06-12",
+    "text": "公斤",
+    "source": {
+      "num": 12,
+      "text": "公斤",
+      "page": 57,
+      "ocr": "*12.公斤",
+      "near": "gongjin luong.kilogram",
+      "confidence": 0.9958085715770721
+    },
+    "examplePage": 57,
+    "example": "我现在七十公斤了。"
+  },
+  {
+    "id": "zh2-06-13",
+    "text": "姐姐",
+    "source": {
+      "num": 13,
+      "text": "姐姐",
+      "page": 57,
+      "ocr": "13.姐姐jiejiedt.chigai",
+      "near": "",
+      "confidence": 0.9459449470043182
+    },
+    "examplePage": 57,
+    "example": "听说是去看他姐姐。"
+  },
+  {
+    "id": "zh2-07-01",
+    "text": "教室",
+    "source": {
+      "num": 1,
+      "text": "教室",
+      "page": 64,
+      "ocr": "1.教室",
+      "near": "jiaoshidt.lop hoc",
+      "confidence": 0.999732255935669
+    },
+    "examplePage": 64,
+    "example": "他还在教室学习呢。"
+  },
+  {
+    "id": "zh2-07-02",
+    "text": "机场",
+    "source": {
+      "num": 2,
+      "text": "机场",
+      "page": 64,
+      "ocr": "2.机场jichängdt.san bay",
+      "near": "",
+      "confidence": 0.9341654436928886
+    },
+    "examplePage": 64,
+    "example": "在去机场的路上。"
+  },
+  {
+    "id": "zh2-07-03",
+    "text": "路",
+    "source": {
+      "num": 3,
+      "text": "路",
+      "page": 64,
+      "ocr": "3.路",
+      "near": "lu dt.duong,loidi",
+      "confidence": 0.9974141319592794
+    },
+    "examplePage": 64,
+    "example": "在去机场的路上。"
+  },
+  {
+    "id": "zh2-07-04",
+    "text": "离",
+    "source": {
+      "num": 4,
+      "text": "离",
+      "page": 65,
+      "ocr": "4.离",
+      "near": "dgt.cach",
+      "confidence": 0.9994810620943705
+    },
+    "examplePage": 65,
+    "example": "你家离公司远吗？"
+  },
+  {
+    "id": "zh2-07-05",
+    "text": "公司",
+    "source": {
+      "num": 5,
+      "text": "公司",
+      "page": 65,
+      "ocr": "5.公司",
+      "near": "gongsi dt. congty",
+      "confidence": 0.9997121393680573
+    },
+    "examplePage": 65,
+    "example": "你家离公司远吗？"
+  },
+  {
+    "id": "zh2-07-06",
+    "text": "远",
+    "source": {
+      "num": 6,
+      "text": "远",
+      "page": 65,
+      "ocr": "6.远",
+      "near": "yudn tt. xa",
+      "confidence": 0.9977156122525533
+    },
+    "examplePage": 65,
+    "example": "你家离公司远吗？"
+  },
+  {
+    "id": "zh2-07-07",
+    "text": "公共汽车",
+    "source": {
+      "num": 7,
+      "text": "公共汽车",
+      "page": 65,
+      "ocr": "7.公共汽车gonggong qichexebuyt",
+      "near": "",
+      "confidence": 0.9838311626360967
+    },
+    "examplePage": 65,
+    "example": "坐公共汽车要一个多小时呢！"
+  },
+  {
+    "id": "zh2-07-08",
+    "text": "小时",
+    "source": {
+      "num": 8,
+      "text": "小时",
+      "page": 65,
+      "ocr": "8.小时",
+      "near": "xidoshi gio(dongho)",
+      "confidence": 0.9981282651424408
+    },
+    "examplePage": 65,
+    "example": "坐公共汽车要一个多小时呢！"
+  },
+  {
+    "id": "zh2-07-09",
+    "text": "慢",
+    "source": {
+      "num": 9,
+      "text": "慢",
+      "page": 65,
+      "ocr": "9.慢",
+      "near": "man tt. cham",
+      "confidence": 0.9987760980923971
+    },
+    "examplePage": 65,
+    "example": "坐公共汽车太慢了，你怎么不开车？"
+  },
+  {
+    "id": "zh2-07-10",
+    "text": "快",
+    "source": {
+      "num": 10,
+      "text": "快",
+      "page": 65,
+      "ocr": "10.快",
+      "near": "kuai tt. nhanh",
+      "confidence": 0.9998471438884735
+    },
+    "examplePage": 65,
+    "example": "开车也不快，路上车太多了！"
+  },
+  {
+    "id": "zh2-07-11",
+    "text": "过",
+    "source": {
+      "num": 11,
+      "text": "过",
+      "page": 65,
+      "ocr": "*11.过",
+      "near": "guo dgt.an(ming),traiqua",
+      "confidence": 0.9848126173019409
+    },
+    "examplePage": 65,
+    "example": "今天晚上我们一起吃饭吧，给你过生日。"
+  },
+  {
+    "id": "zh2-07-12",
+    "text": "走",
+    "source": {
+      "num": 12,
+      "text": "走",
+      "page": 65,
+      "ocr": "12.走",
+      "near": "zou dgt.di,dibo",
+      "confidence": 0.9989209175109863
+    },
+    "examplePage": 65,
+    "example": "走几分钟就到了。"
+  },
+  {
+    "id": "zh2-07-13",
+    "text": "到",
+    "source": {
+      "num": 13,
+      "text": "到",
+      "page": 65,
+      "ocr": "13.到",
+      "near": "daodgt.den,toi",
+      "confidence": 0.9993987679481506
+    },
+    "examplePage": 65,
+    "example": "走几分钟就到了。"
+  },
+  {
+    "id": "zh2-08-01",
+    "text": "再",
+    "source": {
+      "num": 1,
+      "text": "再",
+      "page": 72,
+      "ocr": "1.再",
+      "near": "zai pho.lai, lan nia,",
+      "confidence": 0.9892107446988424
+    },
+    "examplePage": 72,
+    "example": "明天下午再去吧。"
+  },
+  {
+    "id": "zh2-08-02",
+    "text": "让",
+    "source": {
+      "num": 2,
+      "text": "让",
+      "page": 72,
+      "ocr": "2.让",
+      "near": "rang dgt. de,bao",
+      "confidence": 0.9968640208244324
+    },
+    "examplePage": 72,
+    "example": "让我想想再告诉你。"
+  },
+  {
+    "id": "zh2-08-03",
+    "text": "告诉",
+    "source": {
+      "num": 3,
+      "text": "告诉",
+      "page": 72,
+      "ocr": "3.告诉",
+      "near": "gaosudgt. noichobiet",
+      "confidence": 0.9996683746576309
+    },
+    "examplePage": 72,
+    "example": "让我想想再告诉你。"
+  },
+  {
+    "id": "zh2-08-04",
+    "text": "等",
+    "source": {
+      "num": 4,
+      "text": "等",
+      "page": 72,
+      "ocr": "4.等",
+      "near": "deng dgt.doi",
+      "confidence": 0.9981777469317118
+    },
+    "examplePage": 72,
+    "example": "你等等我，好吗？"
+  },
+  {
+    "id": "zh2-08-05",
+    "text": "找",
+    "source": {
+      "num": 5,
+      "text": "找",
+      "page": 72,
+      "ocr": "5.找",
+      "near": "zhäo dgt.tim",
+      "confidence": 0.9970826903978983
+    },
+    "examplePage": 72,
+    "example": "找大卫有什么事情吗？"
+  },
+  {
+    "id": "zh2-08-06",
+    "text": "事情",
+    "source": {
+      "num": 6,
+      "text": "事情",
+      "page": 72,
+      "ocr": "6.事情·shiqingdt.suviec",
+      "near": "",
+      "confidence": 0.9212505420049032
+    },
+    "examplePage": 72,
+    "example": "找大卫有什么事情吗？"
+  },
+  {
+    "id": "zh2-08-07",
+    "text": "服务员",
+    "source": {
+      "num": 7,
+      "text": "服务员",
+      "page": 73,
+      "ocr": "7.服务员",
+      "near": "fuwuyuandt.",
+      "confidence": 0.9987352848052978
+    },
+    "examplePage": 73,
+    "example": "服务员，我房间的门打不开了。"
+  },
+  {
+    "id": "zh2-08-08",
+    "text": "白",
+    "source": {
+      "num": 8,
+      "text": "白",
+      "page": 73,
+      "ocr": "8.白",
+      "near": "bái tt.comau trang",
+      "confidence": 0.9979514678319296
+    },
+    "examplePage": 73,
+    "example": "这件白的有点儿长，那件黑的有点儿贵。"
+  },
+  {
+    "id": "zh2-08-09",
+    "text": "黑",
+    "source": {
+      "num": 9,
+      "text": "黑",
+      "page": 73,
+      "ocr": "9.黑",
+      "near": "hei tt.comauden",
+      "confidence": 0.9988874594370524
+    },
+    "examplePage": 73,
+    "example": "这件白的有点儿长，那件黑的有点儿贵。"
+  },
+  {
+    "id": "zh2-08-10",
+    "text": "贵",
+    "source": {
+      "num": 10,
+      "text": "贵",
+      "page": 73,
+      "ocr": "10.贵guitt.aat",
+      "near": "",
+      "confidence": 0.9085714496099032
+    },
+    "examplePage": 73,
+    "example": "这件白的有点儿长，那件黑的有点儿贵。"
+  },
+  {
+    "id": "zh2-09-01",
+    "text": "错",
+    "source": {
+      "num": 1,
+      "text": "错",
+      "page": 80,
+      "ocr": "1.错cuott.sainham",
+      "near": "",
+      "confidence": 0.9717472717165947
+    },
+    "examplePage": 80,
+    "example": "你打错了。"
+  },
+  {
+    "id": "zh2-09-02",
+    "text": "从",
+    "source": {
+      "num": 2,
+      "text": "从",
+      "page": 80,
+      "ocr": "2.从",
+      "near": "cong gioi. tit",
+      "confidence": 0.997669517993927
+    },
+    "examplePage": 80,
+    "example": "您从几岁开始学习跳舞？"
+  },
+  {
+    "id": "zh2-09-03",
+    "text": "跳舞",
+    "source": {
+      "num": 3,
+      "text": "跳舞",
+      "page": 80,
+      "ocr": "3.跳舞",
+      "near": "tidowu dgt. mia,khieuvu",
+      "confidence": 0.9988260865211487
+    },
+    "examplePage": 80,
+    "example": "您从几岁开始学习跳舞？"
+  },
+  {
+    "id": "zh2-09-04",
+    "text": "第一",
+    "source": {
+      "num": 4,
+      "text": "第一",
+      "page": 80,
+      "ocr": "4.第一",
+      "near": "diyi so. thitnhat,dau",
+      "confidence": 0.9980987161397934
+    },
+    "examplePage": 80,
+    "example": "我第一次跳舞是在七岁的时候。"
+  },
+  {
+    "id": "zh2-09-05",
+    "text": "希望",
+    "source": {
+      "num": 5,
+      "text": "希望",
+      "page": 80,
+      "ocr": "5.希望",
+      "near": "xiwang dgt. mong,hy vong",
+      "confidence": 0.9997896701097488
+    },
+    "examplePage": 80,
+    "example": "我希望她能跟您学跳舞。"
+  },
+  {
+    "id": "zh2-09-06",
+    "text": "问题",
+    "source": {
+      "num": 6,
+      "text": "问题",
+      "page": 80,
+      "ocr": "6.问题",
+      "near": "wenti dt. vande,cauhoi",
+      "confidence": 0.9996498376131058
+    },
+    "examplePage": 80,
+    "example": "没问题，非常欢迎。"
+  },
+  {
+    "id": "zh2-09-07",
+    "text": "欢迎",
+    "source": {
+      "num": 7,
+      "text": "欢迎",
+      "page": 80,
+      "ocr": "*7.欢迎huanying",
+      "near": "dgt.hoannghenh",
+      "confidence": 0.9907931272800152
+    },
+    "examplePage": 80,
+    "example": "没问题，非常欢迎。"
+  },
+  {
+    "id": "zh2-09-08",
+    "text": "上班",
+    "source": {
+      "num": 8,
+      "text": "上班",
+      "page": 81,
+      "ocr": "8.上班shang bandgt.dilam",
+      "near": "",
+      "confidence": 0.9687510620463978
+    },
+    "examplePage": 81,
+    "example": "他从什么时候开始上班？"
+  },
+  {
+    "id": "zh2-09-09",
+    "text": "懂",
+    "source": {
+      "num": 9,
+      "text": "懂",
+      "page": 81,
+      "ocr": "9.懂",
+      "near": "dong dgt. hieu,biet",
+      "confidence": 0.9940779805183411
+    },
+    "examplePage": 81,
+    "example": "你都听懂了吗？"
+  },
+  {
+    "id": "zh2-09-10",
+    "text": "完",
+    "source": {
+      "num": 10,
+      "text": "完",
+      "page": 81,
+      "ocr": "10.完",
+      "near": "wan dgt. xong,het",
+      "confidence": 0.9987265914678574
+    },
+    "examplePage": 81,
+    "example": "题太多，我没做完。"
+  },
+  {
+    "id": "zh2-09-11",
+    "text": "题",
+    "source": {
+      "num": 11,
+      "text": "题",
+      "page": 81,
+      "ocr": "11.题",
+      "near": "ti dt. cauhoi",
+      "confidence": 0.9996979087591171
+    },
+    "examplePage": 80,
+    "example": "没问题，非常欢迎。"
+  },
+  {
+    "id": "zh2-10-01",
+    "text": "课",
+    "source": {
+      "num": 1,
+      "text": "课",
+      "page": 88,
+      "ocr": "1.课",
+      "near": "ke dt.giohoc,mon,bai",
+      "confidence": 0.9952894647916158
+    },
+    "examplePage": 88,
+    "example": "明天上午还有汉语课呢。"
+  },
+  {
+    "id": "zh2-10-02",
+    "text": "帮助",
+    "source": {
+      "num": 2,
+      "text": "帮助",
+      "page": 88,
+      "ocr": "2.帮助bangzhudgt.giipich,giuip do",
+      "near": "",
+      "confidence": 0.9142237459459612
+    },
+    "examplePage": 88,
+    "example": "看电视对学汉语有帮助。"
+  },
+  {
+    "id": "zh2-10-03",
+    "text": "别",
+    "source": {
+      "num": 3,
+      "text": "别",
+      "page": 88,
+      "ocr": "3.别biépho.ding",
+      "near": "",
+      "confidence": 0.9271660617419651
+    },
+    "examplePage": 88,
+    "example": "别看报纸了。"
+  },
+  {
+    "id": "zh2-10-04",
+    "text": "哥哥",
+    "source": {
+      "num": 4,
+      "text": "哥哥",
+      "page": 89,
+      "ocr": "4.哥哥",
+      "near": "gege dt. anhtrai",
+      "confidence": 0.9980899095535278
+    },
+    "examplePage": 89,
+    "example": "哥哥今天中午回来吃饭。"
+  },
+  {
+    "id": "zh2-10-05",
+    "text": "鸡蛋",
+    "source": {
+      "num": 5,
+      "text": "鸡蛋",
+      "page": 89,
+      "ocr": "5.鸡蛋",
+      "near": "jidan dt. tringga",
+      "confidence": 0.9993354976177216
+    },
+    "examplePage": 89,
+    "example": "羊肉、鸡蛋、面条、西瓜"
+  },
+  {
+    "id": "zh2-10-06",
+    "text": "西瓜",
+    "source": {
+      "num": 6,
+      "text": "西瓜",
+      "page": 89,
+      "ocr": "6.西瓜",
+      "near": "xigua dt. duahau",
+      "confidence": 0.9994524568319321
+    },
+    "examplePage": 89,
+    "example": "羊肉、鸡蛋、面条、西瓜"
+  },
+  {
+    "id": "zh2-10-07",
+    "text": "正在",
+    "source": {
+      "num": 7,
+      "text": "正在",
+      "page": 89,
+      "ocr": "7.正在zhengzai",
+      "near": "ipho.dang",
+      "confidence": 0.9971762448549271
+    },
+    "examplePage": 89,
+    "example": "正在准备午饭呢！"
+  },
+  {
+    "id": "zh2-10-08",
+    "text": "手机",
+    "source": {
+      "num": 8,
+      "text": "手机",
+      "page": 89,
+      "ocr": "8.手机shoujidt.",
+      "near": "",
+      "confidence": 0.9529695189916171
+    },
+    "examplePage": 89,
+    "example": "你看见我的手机了吗？"
+  },
+  {
+    "id": "zh2-10-09",
+    "text": "洗",
+    "source": {
+      "num": 9,
+      "text": "洗",
+      "page": 89,
+      "ocr": "9.洗xidgt.giat,rita",
+      "near": "",
+      "confidence": 0.8739486436049143
+    },
+    "examplePage": 89,
+    "example": "那件衣服我帮你洗了。"
+  },
+  {
+    "id": "zh2-11-01",
+    "text": "唱歌",
+    "source": {
+      "num": 1,
+      "text": "唱歌",
+      "page": 96,
+      "ocr": "1.唱歌changgedgt.hat",
+      "near": "",
+      "confidence": 0.9822632074356079
+    },
+    "examplePage": 96,
+    "example": "昨天和你一起唱歌的人是谁？"
+  },
+  {
+    "id": "zh2-11-02",
+    "text": "男",
+    "source": {
+      "num": 2,
+      "text": "男",
+      "page": 96,
+      "ocr": "2.男",
+      "near": "nán tt. thuocve",
+      "confidence": 0.9976796706517538
+    },
+    "examplePage": 96,
+    "example": "是不是男朋友？"
+  },
+  {
+    "id": "zh2-11-03",
+    "text": "女",
+    "source": {
+      "num": 3,
+      "text": "女",
+      "page": 96,
+      "ocr": "3.女",
+      "near": "nu tt. thuoc venit gioi",
+      "confidence": 0.9995682040850321
+    },
+    "examplePage": 96,
+    "example": "左边这个看报纸的女孩子是你姐姐吗？"
+  },
+  {
+    "id": "zh2-11-04",
+    "text": "孩子",
+    "source": {
+      "num": 4,
+      "text": "孩子",
+      "page": 96,
+      "ocr": "4.孩子háizi",
+      "near": "dt. trecon,treem",
+      "confidence": 0.9475287331475152
+    },
+    "examplePage": 96,
+    "example": "左边这个看报纸的女孩子是你姐姐吗？"
+  },
+  {
+    "id": "zh2-11-05",
+    "text": "右边",
+    "source": {
+      "num": 5,
+      "text": "右边",
+      "page": 96,
+      "ocr": "5.右边youbiandt.benphai",
+      "near": "",
+      "confidence": 0.9677795171737671
+    },
+    "examplePage": 96,
+    "example": "右边写字的那个人是我哥哥。"
+  },
+  {
+    "id": "zh2-11-06",
+    "text": "比",
+    "source": {
+      "num": 6,
+      "text": "比",
+      "page": 96,
+      "ocr": "6.比",
+      "near": "bi gioi. hon (dung trong",
+      "confidence": 0.9953640302022299
+    },
+    "examplePage": 97,
+    "example": "比昨天便宜。"
+  },
+  {
+    "id": "zh2-11-07",
+    "text": "便宜",
+    "source": {
+      "num": 7,
+      "text": "便宜",
+      "page": 97,
+      "ocr": "7.便宜pianyitt.re",
+      "near": "",
+      "confidence": 0.9422740181287129
+    },
+    "examplePage": 97,
+    "example": "比昨天便宜。"
+  },
+  {
+    "id": "zh2-11-08",
+    "text": "说话",
+    "source": {
+      "num": 8,
+      "text": "说话",
+      "page": 97,
+      "ocr": "8.说话shuohua",
+      "near": "dgt.noichuyen",
+      "confidence": 0.9781054637648843
+    },
+    "examplePage": 97,
+    "example": "说话的那个人就是我的汉语老师。"
+  },
+  {
+    "id": "zh2-11-09",
+    "text": "可能",
+    "source": {
+      "num": 9,
+      "text": "可能",
+      "page": 97,
+      "ocr": "9.可能",
+      "near": "keneng tdt. co the,c6 le",
+      "confidence": 0.9994658976793289
+    },
+    "examplePage": 97,
+    "example": "你可能不认识她。"
+  },
+  {
+    "id": "zh2-11-10",
+    "text": "去年",
+    "source": {
+      "num": 10,
+      "text": "去年",
+      "page": 97,
+      "ocr": "10.去年",
+      "near": "qunian dt. namngoai",
+      "confidence": 0.999845540523529
+    },
+    "examplePage": 97,
+    "example": "是去年来的，她姓王。"
+  },
+  {
+    "id": "zh2-11-11",
+    "text": "姓",
+    "source": {
+      "num": 11,
+      "text": "姓",
+      "page": 97,
+      "ocr": "11.姓",
+      "near": "xing dgt. mang ho",
+      "confidence": 0.9989487379789352
+    },
+    "examplePage": 97,
+    "example": "是去年来的，她姓王。"
+  },
+  {
+    "id": "zh2-12-01",
+    "text": "得",
+    "source": {
+      "num": 1,
+      "text": "得",
+      "page": 104,
+      "ocr": "？1.得detro.dugc dung saui dong",
+      "near": "",
+      "confidence": 0.9256830739563909
+    },
+    "examplePage": 104,
+    "example": "我睡得也早。"
+  },
+  {
+    "id": "zh2-12-02",
+    "text": "妻子",
+    "source": {
+      "num": 2,
+      "text": "妻子",
+      "page": 104,
+      "ocr": "2.妻子qizidt.vg",
+      "near": "",
+      "confidence": 0.8930460214614868
+    },
+    "examplePage": 104,
+    "example": "我妻子比我做得好。"
+  },
+  {
+    "id": "zh2-12-03",
+    "text": "雪",
+    "source": {
+      "num": 3,
+      "text": "雪",
+      "page": 105,
+      "ocr": "3.雪",
+      "near": "xue dt. tuyet",
+      "confidence": 0.9965331157048544
+    },
+    "examplePage": 105,
+    "example": "下雪了，今天真冷。"
+  },
+  {
+    "id": "zh2-12-04",
+    "text": "零",
+    "source": {
+      "num": 4,
+      "text": "零",
+      "page": 105,
+      "ocr": "4.零",
+      "near": "ling so. sokhong",
+      "confidence": 0.9991572896639506
+    },
+    "examplePage": 105,
+    "example": "有零下10度吧？"
+  },
+  {
+    "id": "zh2-12-05",
+    "text": "度",
+    "source": {
+      "num": 5,
+      "text": "度",
+      "page": 105,
+      "ocr": "*5.度",
+      "near": "du dt. do(don vidonhiet do)",
+      "confidence": 0.9350815415382385
+    },
+    "examplePage": 105,
+    "example": "有零下10度吧？"
+  },
+  {
+    "id": "zh2-12-06",
+    "text": "穿",
+    "source": {
+      "num": 6,
+      "text": "穿",
+      "page": 105,
+      "ocr": "6.穿",
+      "near": "chuan dgt. mac,mang",
+      "confidence": 0.9996612866719564
+    },
+    "examplePage": 105,
+    "example": "你穿得太少了，我们进房间吧。"
+  },
+  {
+    "id": "zh2-12-07",
+    "text": "进",
+    "source": {
+      "num": 7,
+      "text": "进",
+      "page": 105,
+      "ocr": "7.进",
+      "near": "jin dgt.vao",
+      "confidence": 0.9977218707402548
+    },
+    "examplePage": 105,
+    "example": "你穿得太少了，我们进房间吧。"
+  },
+  {
+    "id": "zh2-12-08",
+    "text": "弟弟",
+    "source": {
+      "num": 8,
+      "text": "弟弟",
+      "page": 105,
+      "ocr": "8.弟弟",
+      "near": "didi dt. emtrai",
+      "confidence": 0.9986142665147781
+    },
+    "examplePage": 105,
+    "example": "我弟弟让我帮他找个房子。"
+  },
+  {
+    "id": "zh2-12-09",
+    "text": "近",
+    "source": {
+      "num": 9,
+      "text": "近",
+      "page": 105,
+      "ocr": "9.近",
+      "near": "jin tt. gan",
+      "confidence": 0.9986743330955505
+    },
+    "examplePage": 105,
+    "example": "他也希望能住得近一点儿。"
+  },
+  {
+    "id": "zh2-13-01",
+    "text": "着",
+    "source": {
+      "num": 1,
+      "text": "着",
+      "page": 112,
+      "ocr": "1.着zhetro.duroc dung de chi",
+      "near": "",
+      "confidence": 0.9196118270909345
+    },
+    "examplePage": 112,
+    "example": "门开着呢，请进。"
+  },
+  {
+    "id": "zh2-13-02",
+    "text": "手",
+    "source": {
+      "num": 2,
+      "text": "手",
+      "page": 112,
+      "ocr": "2.手",
+      "near": "shou dt. tay",
+      "confidence": 0.9993714491526285
+    },
+    "examplePage": 112,
+    "example": "那个手里拿着铅笔的呢？"
+  },
+  {
+    "id": "zh2-13-03",
+    "text": "拿",
+    "source": {
+      "num": 3,
+      "text": "拿",
+      "page": 112,
+      "ocr": "*3.拿",
+      "near": "ná dgt. cam",
+      "confidence": 0.8756680488586426
+    },
+    "examplePage": 112,
+    "example": "那个手里拿着铅笔的呢？"
+  },
+  {
+    "id": "zh2-13-04",
+    "text": "铅笔",
+    "source": {
+      "num": 4,
+      "text": "铅笔",
+      "page": 112,
+      "ocr": "4.铅笔",
+      "near": "qianbi dt. bitchi",
+      "confidence": 0.9951113760471344
+    },
+    "examplePage": 112,
+    "example": "那个手里拿着铅笔的呢？"
+  },
+  {
+    "id": "zh2-13-05",
+    "text": "班",
+    "source": {
+      "num": 5,
+      "text": "班",
+      "page": 113,
+      "ocr": "*5.班",
+      "near": "ban dt. lophoc",
+      "confidence": 0.957876518368721
+    },
+    "examplePage": 113,
+    "example": "我们班那个长着两个大眼睛，非常爱笑的女孩儿。"
+  },
+  {
+    "id": "zh2-13-06",
+    "text": "长",
+    "source": {
+      "num": 6,
+      "text": "长",
+      "page": 113,
+      "ocr": "*6.长zhäng",
+      "near": "dgt. sinhra,moc",
+      "confidence": 0.9465916554133097
+    },
+    "examplePage": 113,
+    "example": "我们班那个长着两个大眼睛，非常爱笑的女孩儿。"
+  },
+  {
+    "id": "zh2-13-07",
+    "text": "笑",
+    "source": {
+      "num": 7,
+      "text": "笑",
+      "page": 113,
+      "ocr": "7.笑xido",
+      "near": "dgt.cuoi",
+      "confidence": 0.9811443260737828
+    },
+    "examplePage": 113,
+    "example": "我们班那个长着两个大眼睛，非常爱笑的女孩儿。"
+  },
+  {
+    "id": "zh2-13-08",
+    "text": "宾馆",
+    "source": {
+      "num": 8,
+      "text": "宾馆",
+      "page": 113,
+      "ocr": "8.宾馆",
+      "near": "binguan dt. khachsan",
+      "confidence": 0.9993773251771927
+    },
+    "examplePage": 113,
+    "example": "这儿离新京宾馆远吗？"
+  },
+  {
+    "id": "zh2-13-09",
+    "text": "一直",
+    "source": {
+      "num": 9,
+      "text": "一直",
+      "page": 113,
+      "ocr": "*9.一直",
+      "near": "yizhi pho. thang",
+      "confidence": 0.9883613109588623
+    },
+    "examplePage": 113,
+    "example": "从这儿一直往前走，到了前面的路口再往右走。"
+  },
+  {
+    "id": "zh2-13-10",
+    "text": "往",
+    "source": {
+      "num": 10,
+      "text": "往",
+      "page": 113,
+      "ocr": "10.往",
+      "near": "wäng gioi. vephia",
+      "confidence": 0.9987078756093979
+    },
+    "examplePage": 113,
+    "example": "从这儿一直往前走，到了前面的路口再往右走。"
+  },
+  {
+    "id": "zh2-13-11",
+    "text": "路口",
+    "source": {
+      "num": 11,
+      "text": "路口",
+      "page": 113,
+      "ocr": "11.路口",
+      "near": "lukou dt. giao lo",
+      "confidence": 0.9996592402458191
+    },
+    "examplePage": 113,
+    "example": "从这儿一直往前走，到了前面的路口再往右走。"
+  },
+  {
+    "id": "zh2-14-01",
+    "text": "意思",
+    "source": {
+      "num": 1,
+      "text": "有意思",
+      "page": 120,
+      "ocr": "1.有意思",
+      "near": "you yisi thiivi",
+      "confidence": 0.9987064242362976
+    },
+    "examplePage": 120,
+    "example": "听说很有意思。"
+  },
+  {
+    "id": "zh2-14-02",
+    "text": "但是",
+    "source": {
+      "num": 2,
+      "text": "但是",
+      "page": 120,
+      "ocr": "2.但是",
+      "near": "danshi lién.nhung",
+      "confidence": 0.9996999800205231
+    },
+    "examplePage": 120,
+    "example": "可以，但是我女朋友也想去。"
+  },
+  {
+    "id": "zh2-14-03",
+    "text": "虽然",
+    "source": {
+      "num": 3,
+      "text": "虽然",
+      "page": 120,
+      "ocr": "3.虽然",
+      "near": "suiran lien. macdi,tuy",
+      "confidence": 0.9990856349468231
+    },
+    "examplePage": 120,
+    "example": "我虽然去过好几次，但是还想再去玩儿玩儿。"
+  },
+  {
+    "id": "zh2-14-04",
+    "text": "次",
+    "source": {
+      "num": 4,
+      "text": "次",
+      "page": 120,
+      "ocr": "4.次",
+      "near": "ci luong. lan",
+      "confidence": 0.9980412721633911
+    },
+    "examplePage": 120,
+    "example": "我虽然去过好几次，但是还想再去玩儿玩儿。"
+  },
+  {
+    "id": "zh2-14-05",
+    "text": "玩儿",
+    "source": {
+      "num": 5,
+      "text": "玩儿",
+      "page": 120,
+      "ocr": "5.玩儿wánr：dgt.",
+      "near": "choi,choi dia",
+      "confidence": 0.958561374590947
+    },
+    "examplePage": 120,
+    "example": "我虽然去过好几次，但是还想再去玩儿玩儿。"
+  },
+  {
+    "id": "zh2-14-06",
+    "text": "晴",
+    "source": {
+      "num": 6,
+      "text": "晴",
+      "page": 121,
+      "ocr": "6. 晴 qing tt.  co nang, nang rao",
+      "near": "",
+      "confidence": 0.871065080165863
+    },
+    "examplePage": 121,
+    "example": "虽然是晴天，但是很冷。"
+  },
+  {
+    "id": "zh2-14-07",
+    "text": "百",
+    "source": {
+      "num": 7,
+      "text": "百",
+      "page": 121,
+      "ocr": "7.百bäiso.mot tram,tram",
+      "near": "",
+      "confidence": 0.9150673584504561
+    },
+    "examplePage": 121,
+    "example": "两百块还可以。"
+  },
+  {
+    "id": "zh2-15-01",
+    "text": "日",
+    "source": {
+      "num": 1,
+      "text": "日",
+      "page": 128,
+      "ocr": "1.日",
+      "near": "ri dt.ngay",
+      "confidence": 0.990529457728068
+    },
+    "examplePage": 128,
+    "example": "今天是12月20日，新年就要到了。"
+  },
+  {
+    "id": "zh2-15-02",
+    "text": "新年",
+    "source": {
+      "num": 2,
+      "text": "新年",
+      "page": 128,
+      "ocr": "2.新年",
+      "near": "xinnián dt.nammoi,Tet",
+      "confidence": 0.999866858124733
+    },
+    "examplePage": 128,
+    "example": "今天是12月20日，新年就要到了。"
+  },
+  {
+    "id": "zh2-15-03",
+    "text": "票",
+    "source": {
+      "num": 3,
+      "text": "票",
+      "page": 128,
+      "ocr": "3.票",
+      "near": "piao dt.vé",
+      "confidence": 0.9981717665990194
+    },
+    "examplePage": 128,
+    "example": "明天就去火车站买票。"
+  },
+  {
+    "id": "zh2-15-04",
+    "text": "火车站",
+    "source": {
+      "num": 4,
+      "text": "火车站",
+      "page": 128,
+      "ocr": "4.火车站huochezhandt.ga tauhoa",
+      "near": "",
+      "confidence": 0.9826935021965592
+    },
+    "examplePage": 128,
+    "example": "明天就去火车站买票。"
+  },
+  {
+    "id": "zh2-15-05",
+    "text": "大家",
+    "source": {
+      "num": 5,
+      "text": "大家",
+      "page": 128,
+      "ocr": "5.大家",
+      "near": "dajiadt.moinguoi",
+      "confidence": 0.9988188296556473
+    },
+    "examplePage": 128,
+    "example": "谢谢大家这一年对我的帮助！"
+  },
+  {
+    "id": "zh2-15-06",
+    "text": "更",
+    "source": {
+      "num": 6,
+      "text": "更",
+      "page": 128,
+      "ocr": "*6.更",
+      "near": "geng pho. cang,hon nita",
+      "confidence": 0.9919489026069641
+    },
+    "examplePage": 128,
+    "example": "希望我们的公司明年更好！"
+  },
+  {
+    "id": "zh2-15-07",
+    "text": "妹妹",
+    "source": {
+      "num": 7,
+      "text": "妹妹",
+      "page": 129,
+      "ocr": "7.妹妹meimeidt.emgai",
+      "near": "",
+      "confidence": 0.9715688659085168
+    },
+    "examplePage": 129,
+    "example": "你妹妹怎么还没来？"
+  },
+  {
+    "id": "zh2-15-08",
+    "text": "阴",
+    "source": {
+      "num": 8,
+      "text": "阴",
+      "page": 129,
+      "ocr": "8.阴yintt.uam,nhieumay",
+      "near": "",
+      "confidence": 0.9707057788258507
+    },
+    "examplePage": 129,
+    "example": "天阴了，我要回去了。"
+  },
+  {
+    "id": "zh3-01-01",
+    "text": "周末",
+    "source": {
+      "num": 1,
+      "text": "周末",
+      "page": 18,
+      "ocr": "1.周末zhoumodt.cuoituan",
+      "near": "",
+      "confidence": 0.9550488988558451
+    },
+    "examplePage": 18,
+    "example": "周末你有什么打算？"
+  },
+  {
+    "id": "zh3-01-02",
+    "text": "打算",
+    "source": {
+      "num": 2,
+      "text": "打算",
+      "page": 18,
+      "ocr": "2.打算dasuan",
+      "near": "dt./dgt.",
+      "confidence": 0.9659839272499084
+    },
+    "examplePage": 18,
+    "example": "周末你有什么打算？"
+  },
+  {
+    "id": "zh3-01-03",
+    "text": "啊",
+    "source": {
+      "num": 3,
+      "text": "啊",
+      "page": 18,
+      "ocr": "3.啊atro.duoc dung  cuoi cau",
+      "near": "",
+      "confidence": 0.9042843094578495
+    },
+    "examplePage": 18,
+    "example": "那也不能一直玩儿啊。"
+  },
+  {
+    "id": "zh3-01-04",
+    "text": "跟",
+    "source": {
+      "num": 4,
+      "text": "跟",
+      "page": 18,
+      "ocr": "4.跟gengioi.cung,voi",
+      "near": "",
+      "confidence": 0.9248639643192291
+    },
+    "examplePage": 18,
+    "example": "你能跟我一起去吗？"
+  },
+  {
+    "id": "zh3-01-05",
+    "text": "一直",
+    "source": {
+      "num": 5,
+      "text": "一直",
+      "page": 18,
+      "ocr": "5.一直yizhi",
+      "near": "pho..suot,lien tuc",
+      "confidence": 0.9424606892797682
+    },
+    "examplePage": 18,
+    "example": "那也不能一直玩儿啊。"
+  },
+  {
+    "id": "zh3-01-06",
+    "text": "游戏",
+    "source": {
+      "num": 6,
+      "text": "游戏",
+      "page": 18,
+      "ocr": "6.游戏youxi",
+      "near": "dt. trochoi",
+      "confidence": 0.9758762982156541
+    },
+    "examplePage": 18,
+    "example": "你一直玩儿电脑游戏，作业写完了吗？"
+  },
+  {
+    "id": "zh3-01-07",
+    "text": "作业",
+    "source": {
+      "num": 7,
+      "text": "作业",
+      "page": 18,
+      "ocr": "7.作业zuoye",
+      "near": "dt. baitapvenha",
+      "confidence": 0.9762316743532816
+    },
+    "examplePage": 18,
+    "example": "你一直玩儿电脑游戏，作业写完了吗？"
+  },
+  {
+    "id": "zh3-01-08",
+    "text": "着急",
+    "source": {
+      "num": 8,
+      "text": "着急",
+      "page": 18,
+      "ocr": "8.着急zháoji",
+      "near": "tt. lo lang",
+      "confidence": 0.920923238992691
+    },
+    "examplePage": 18,
+    "example": "你怎么一点儿也不着急？"
+  },
+  {
+    "id": "zh3-01-09",
+    "text": "复习",
+    "source": {
+      "num": 9,
+      "text": "复习",
+      "page": 18,
+      "ocr": "9.复习fuxi",
+      "near": "dgt. on tap",
+      "confidence": 0.9912559762597084
+    },
+    "examplePage": 18,
+    "example": "我早就复习好了。"
+  },
+  {
+    "id": "zh3-01-10",
+    "text": "南方",
+    "source": {
+      "num": 10,
+      "text": "南（方）",
+      "page": 18,
+      "ocr": "10.南（方）nán（fang）dt.",
+      "near": "",
+      "confidence": 0.9248104660134566
+    },
+    "examplePage": 18,
+    "example": "南方太热了，北方好一些。"
+  },
+  {
+    "id": "zh3-01-11",
+    "text": "北方",
+    "source": {
+      "num": 11,
+      "text": "北方",
+      "page": 18,
+      "ocr": "11北方",
+      "near": "beifang dt.",
+      "confidence": 0.9169659912586212
+    },
+    "examplePage": 18,
+    "example": "南方太热了，北方好一些。"
+  },
+  {
+    "id": "zh3-01-12",
+    "text": "面包",
+    "source": {
+      "num": 12,
+      "text": "面包",
+      "page": 19,
+      "ocr": "12.面包",
+      "near": "mianbao",
+      "confidence": 0.9997290849685669
+    },
+    "examplePage": 19,
+    "example": "水果、面包、茶都准备好了，我们还带什么？"
+  },
+  {
+    "id": "zh3-01-13",
+    "text": "带",
+    "source": {
+      "num": 13,
+      "text": "带",
+      "page": 19,
+      "ocr": "13.带",
+      "near": "dai",
+      "confidence": 0.9972192198038101
+    },
+    "examplePage": 19,
+    "example": "水果、面包、茶都准备好了，我们还带什么？"
+  },
+  {
+    "id": "zh3-01-14",
+    "text": "地图",
+    "source": {
+      "num": 14,
+      "text": "地图",
+      "page": 19,
+      "ocr": "14.地图",
+      "near": "ditu",
+      "confidence": 0.9996737837791443
+    },
+    "examplePage": 19,
+    "example": "手机、电脑、地图，一个也不能少。"
+  },
+  {
+    "id": "zh3-01-15",
+    "text": "搬",
+    "source": {
+      "num": 15,
+      "text": "搬",
+      "page": 19,
+      "ocr": "15.搬",
+      "near": "ban",
+      "confidence": 0.9975584000349045
+    },
+    "examplePage": 19,
+    "example": "不是搬家。"
+  },
+  {
+    "id": "zh3-02-01",
+    "text": "腿",
+    "source": {
+      "num": 1,
+      "text": "腿",
+      "page": 28,
+      "ocr": "1.腿",
+      "near": "tui dt.chan",
+      "confidence": 0.9449633359909058
+    },
+    "examplePage": 28,
+    "example": "我现在腿也疼，脚也疼。"
+  },
+  {
+    "id": "zh3-02-02",
+    "text": "疼",
+    "source": {
+      "num": 2,
+      "text": "疼",
+      "page": 28,
+      "ocr": "2.疼",
+      "near": "teng tt.dau,nhiic",
+      "confidence": 0.9982746243476868
+    },
+    "examplePage": 28,
+    "example": "我现在腿也疼，脚也疼。"
+  },
+  {
+    "id": "zh3-02-03",
+    "text": "脚",
+    "source": {
+      "num": 3,
+      "text": "脚",
+      "page": 28,
+      "ocr": "3.脚",
+      "near": "jiäo dt.ban chan",
+      "confidence": 0.9997720321019491
+    },
+    "examplePage": 28,
+    "example": "我现在腿也疼，脚也疼。"
+  },
+  {
+    "id": "zh3-02-04",
+    "text": "树",
+    "source": {
+      "num": 4,
+      "text": "树",
+      "page": 28,
+      "ocr": "4.树",
+      "near": "shu dt.cay",
+      "confidence": 0.9995819727579752
+    },
+    "examplePage": 28,
+    "example": "那边树多，我们过去坐一下吧。"
+  },
+  {
+    "id": "zh3-02-05",
+    "text": "容易",
+    "source": {
+      "num": 5,
+      "text": "容易",
+      "page": 28,
+      "ocr": "5.容易",
+      "near": "rongyi tt.de,de dang",
+      "confidence": 0.9993680864572525
+    },
+    "examplePage": 28,
+    "example": "上山容易下山难。"
+  },
+  {
+    "id": "zh3-02-06",
+    "text": "难",
+    "source": {
+      "num": 6,
+      "text": "难",
+      "page": 28,
+      "ocr": "6.难",
+      "near": "nán tt.kho,khokhan",
+      "confidence": 0.9995010495185852
+    },
+    "examplePage": 28,
+    "example": "上山容易下山难。"
+  },
+  {
+    "id": "zh3-02-07",
+    "text": "太太",
+    "source": {
+      "num": 7,
+      "text": "太太",
+      "page": 28,
+      "ocr": "*7.太太",
+      "near": "taitai dt.ba",
+      "confidence": 0.998555040359497
+    },
+    "examplePage": 28,
+    "example": "周太太"
+  },
+  {
+    "id": "zh3-02-08",
+    "text": "秘书",
+    "source": {
+      "num": 8,
+      "text": "秘书",
+      "page": 28,
+      "ocr": "*8.秘书",
+      "near": "mishu dt.t thuky",
+      "confidence": 0.993080198764801
+    },
+    "examplePage": 28,
+    "example": "秘书"
+  },
+  {
+    "id": "zh3-02-09",
+    "text": "经理",
+    "source": {
+      "num": 9,
+      "text": "经理",
+      "page": 28,
+      "ocr": "9.经理",
+      "near": "jingli dt.giamdoc",
+      "confidence": 0.9997658729553223
+    },
+    "examplePage": 28,
+    "example": "周经理出去了，不在办公室。"
+  },
+  {
+    "id": "zh3-02-10",
+    "text": "办公室",
+    "source": {
+      "num": 10,
+      "text": "办公室",
+      "page": 28,
+      "ocr": "10.办公室bangongshi dt.van phong",
+      "near": "",
+      "confidence": 0.9713679510971596
+    },
+    "examplePage": 28,
+    "example": "周经理出去了，不在办公室。"
+  },
+  {
+    "id": "zh3-02-11",
+    "text": "辆",
+    "source": {
+      "num": 11,
+      "text": "辆",
+      "page": 28,
+      "ocr": "11.辆",
+      "near": "liangluong.(duoc dung cho",
+      "confidence": 0.9890964776277542
+    },
+    "examplePage": 28,
+    "example": "我出去叫辆出租车就行了。"
+  },
+  {
+    "id": "zh3-02-12",
+    "text": "楼",
+    "source": {
+      "num": 12,
+      "text": "楼",
+      "page": 28,
+      "ocr": "12.楼",
+      "near": "l6u dt. toa nha,lau",
+      "confidence": 0.987456664443016
+    },
+    "examplePage": 28,
+    "example": "我上楼去给你拿把伞。"
+  },
+  {
+    "id": "zh3-02-13",
+    "text": "拿",
+    "source": {
+      "num": 13,
+      "text": "拿",
+      "page": 28,
+      "ocr": "13.拿",
+      "near": "ná dgt. cam,lay",
+      "confidence": 0.9920523911714554
+    },
+    "examplePage": 28,
+    "example": "我上楼去给你拿把伞。"
+  },
+  {
+    "id": "zh3-02-14",
+    "text": "把",
+    "source": {
+      "num": 14,
+      "text": "把",
+      "page": 28,
+      "ocr": "14.把",
+      "near": "ba luong. (duoc dung cho",
+      "confidence": 0.9989087283611298
+    },
+    "examplePage": 28,
+    "example": "我上楼去给你拿把伞。"
+  },
+  {
+    "id": "zh3-02-15",
+    "text": "伞",
+    "source": {
+      "num": 15,
+      "text": "伞",
+      "page": 28,
+      "ocr": "15.伞säin",
+      "near": "dt. 6 (di)",
+      "confidence": 0.8635748066008091
+    },
+    "examplePage": 28,
+    "example": "我上楼去给你拿把伞。"
+  },
+  {
+    "id": "zh3-02-16",
+    "text": "胖",
+    "source": {
+      "num": 16,
+      "text": "胖",
+      "page": 29,
+      "ocr": "16.胖pangtt.beo",
+      "near": "来",
+      "confidence": 0.9329314402171544
+    },
+    "examplePage": 29,
+    "example": "我这么胖，怎么办呢？"
+  },
+  {
+    "id": "zh3-02-17",
+    "text": "其实",
+    "source": {
+      "num": 17,
+      "text": "其实",
+      "page": 29,
+      "ocr": "17.其实qishipho.thatra",
+      "near": "",
+      "confidence": 0.9751069813966751
+    },
+    "examplePage": 29,
+    "example": "其实我每天都运动。"
+  },
+  {
+    "id": "zh3-02-18",
+    "text": "瘦",
+    "source": {
+      "num": 18,
+      "text": "瘦",
+      "page": 29,
+      "ocr": "18.瘦shoutt.",
+      "near": "gay,gay com",
+      "confidence": 0.977834322235801
+    },
+    "examplePage": 29,
+    "example": "但是你一点儿也没瘦！"
+  },
+  {
+    "id": "zh3-03-01",
+    "text": "还是",
+    "source": {
+      "num": 1,
+      "text": "还是",
+      "page": 37,
+      "ocr": "1.还是",
+      "near": "haishi lién.hay",
+      "confidence": 0.999748095870018
+    },
+    "examplePage": 37,
+    "example": "明天是晴天还是阴天？"
+  },
+  {
+    "id": "zh3-03-02",
+    "text": "爬山",
+    "source": {
+      "num": 2,
+      "text": "爬山",
+      "page": 37,
+      "ocr": "2.爬山pá shan",
+      "near": "dgt.leonii",
+      "confidence": 0.9489439454945651
+    },
+    "examplePage": 37,
+    "example": "爬山的时候要小心点儿。"
+  },
+  {
+    "id": "zh3-03-03",
+    "text": "小心",
+    "source": {
+      "num": 3,
+      "text": "小心",
+      "page": 37,
+      "ocr": "3.小心xidoxin",
+      "near": "tt. canthan",
+      "confidence": 0.9394477497447621
+    },
+    "examplePage": 37,
+    "example": "爬山的时候要小心点儿。"
+  },
+  {
+    "id": "zh3-03-04",
+    "text": "条",
+    "source": {
+      "num": 4,
+      "text": "条",
+      "page": 37,
+      "ocr": "4.条",
+      "near": "tiáoluong. (duoc dung cho",
+      "confidence": 0.9965683619181315
+    },
+    "examplePage": 37,
+    "example": "你觉得这条裤子怎么样？"
+  },
+  {
+    "id": "zh3-03-05",
+    "text": "裤子",
+    "source": {
+      "num": 5,
+      "text": "裤子",
+      "page": 37,
+      "ocr": "5.裤子kuzi",
+      "near": "dt. quan",
+      "confidence": 0.9907902926206589
+    },
+    "examplePage": 37,
+    "example": "你觉得这条裤子怎么样？"
+  },
+  {
+    "id": "zh3-03-06",
+    "text": "记得",
+    "source": {
+      "num": 6,
+      "text": "记得",
+      "page": 37,
+      "ocr": "6.记得 jidedgt.",
+      "near": "nho,connho",
+      "confidence": 0.938174674144158
+    },
+    "examplePage": 37,
+    "example": "我记得你已经有两条这样的裤子了。"
+  },
+  {
+    "id": "zh3-03-07",
+    "text": "衬衫",
+    "source": {
+      "num": 7,
+      "text": "衬衫",
+      "page": 37,
+      "ocr": "7.衬衫chenshan dt. ao somi",
+      "near": "",
+      "confidence": 0.9570880010724068
+    },
+    "examplePage": 37,
+    "example": "这件衬衫怎么样？"
+  },
+  {
+    "id": "zh3-03-08",
+    "text": "元",
+    "source": {
+      "num": 8,
+      "text": "元",
+      "page": 37,
+      "ocr": "8.元yuan lugng.",
+      "near": "(don vi tien té)",
+      "confidence": 0.8571982128279549
+    },
+    "examplePage": 37,
+    "example": "这上面写着320元。"
+  },
+  {
+    "id": "zh3-03-09",
+    "text": "新鲜",
+    "source": {
+      "num": 9,
+      "text": "新鲜",
+      "page": 37,
+      "ocr": "9.新鲜xinxian",
+      "near": "tuoi",
+      "confidence": 0.9925776340744712
+    },
+    "examplePage": 37,
+    "example": "这些水果真新鲜。"
+  },
+  {
+    "id": "zh3-03-10",
+    "text": "甜",
+    "source": {
+      "num": 10,
+      "text": "甜",
+      "page": 37,
+      "ocr": "10.甜",
+      "near": "tiáin tt. ngot",
+      "confidence": 0.995276004076004
+    },
+    "examplePage": 37,
+    "example": "西瓜不甜不要钱。"
+  },
+  {
+    "id": "zh3-03-11",
+    "text": "只",
+    "source": {
+      "num": 11,
+      "text": "只",
+      "page": 37,
+      "ocr": "11.只",
+      "near": "zhi pho. chi",
+      "confidence": 0.9818247258663177
+    },
+    "examplePage": 37,
+    "example": "今天晚上只吃水果不吃饭！"
+  },
+  {
+    "id": "zh3-03-12",
+    "text": "放",
+    "source": {
+      "num": 12,
+      "text": "放",
+      "page": 38,
+      "ocr": "12.放",
+      "near": "fang dgt. dat, de",
+      "confidence": 0.9994344264268875
+    },
+    "examplePage": 38,
+    "example": "桌子上放着很多饮料。"
+  },
+  {
+    "id": "zh3-03-13",
+    "text": "饮料",
+    "source": {
+      "num": 13,
+      "text": "饮料",
+      "page": 38,
+      "ocr": "13.饮料yinliao",
+      "near": "dt. do uong,",
+      "confidence": 0.9608208934466044
+    },
+    "examplePage": 38,
+    "example": "桌子上放着很多饮料。"
+  },
+  {
+    "id": "zh3-03-14",
+    "text": "或者",
+    "source": {
+      "num": 14,
+      "text": "或者",
+      "page": 38,
+      "ocr": "14.或者huozhe",
+      "near": "lien. hoac",
+      "confidence": 0.9616897051984613
+    },
+    "examplePage": 38,
+    "example": "茶或者咖啡都可以。"
+  },
+  {
+    "id": "zh3-03-15",
+    "text": "舒服",
+    "source": {
+      "num": 15,
+      "text": "舒服",
+      "page": 38,
+      "ocr": "15.舒服",
+      "near": "shufu tt. dechiu",
+      "confidence": 0.9993113160133362
+    },
+    "examplePage": 38,
+    "example": "喝杯热茶会很舒服。"
+  },
+  {
+    "id": "zh3-03-16",
+    "text": "花",
+    "source": {
+      "num": 16,
+      "text": "花",
+      "page": 38,
+      "ocr": "16.花",
+      "near": "hua dt. hoa",
+      "confidence": 0.9980755746364594
+    },
+    "examplePage": 38,
+    "example": "花茶、绿茶、红茶，我都喜欢。"
+  },
+  {
+    "id": "zh3-03-17",
+    "text": "绿",
+    "source": {
+      "num": 17,
+      "text": "绿",
+      "page": 38,
+      "ocr": "17.绿",
+      "near": "tt. comau",
+      "confidence": 0.9981829226016998
+    },
+    "examplePage": 38,
+    "example": "花茶、绿茶、红茶，我都喜欢。"
+  },
+  {
+    "id": "zh3-04-01",
+    "text": "比赛",
+    "source": {
+      "num": 1,
+      "text": "比赛",
+      "page": 46,
+      "ocr": "1.比赛bisai",
+      "near": "dt. cuoc thi dau",
+      "confidence": 0.9920348723729452
+    },
+    "examplePage": 46,
+    "example": "这是你们比赛的照片吗？"
+  },
+  {
+    "id": "zh3-04-02",
+    "text": "照片",
+    "source": {
+      "num": 2,
+      "text": "照片",
+      "page": 46,
+      "ocr": "2.照片zhaopiandt.",
+      "near": "biicanh",
+      "confidence": 0.9524390975634257
+    },
+    "examplePage": 46,
+    "example": "这是你们比赛的照片吗？"
+  },
+  {
+    "id": "zh3-04-03",
+    "text": "年级",
+    "source": {
+      "num": 3,
+      "text": "年级",
+      "page": 46,
+      "ocr": "3.年级niánji",
+      "near": "dt.lop",
+      "confidence": 0.9284510225057602
+    },
+    "examplePage": 46,
+    "example": "你们都是一个年级的吗？"
+  },
+  {
+    "id": "zh3-04-04",
+    "text": "又",
+    "source": {
+      "num": 4,
+      "text": "又",
+      "page": 46,
+      "ocr": "4.又you",
+      "near": "pho.va",
+      "confidence": 0.9911182920138041
+    },
+    "examplePage": 46,
+    "example": "那个又高又漂亮的女孩儿是二年级的。"
+  },
+  {
+    "id": "zh3-04-05",
+    "text": "聪明",
+    "source": {
+      "num": 5,
+      "text": "聪明",
+      "page": 46,
+      "ocr": "5.聪明congming tt.",
+      "near": "thongminh",
+      "confidence": 0.9709033779799938
+    },
+    "examplePage": 46,
+    "example": "她又聪明又热情，也很努力。"
+  },
+  {
+    "id": "zh3-04-06",
+    "text": "热情",
+    "source": {
+      "num": 6,
+      "text": "热情",
+      "page": 46,
+      "ocr": "6.热情reqing",
+      "near": "tt. nhiettinh",
+      "confidence": 0.9935791313648223
+    },
+    "examplePage": 46,
+    "example": "她又聪明又热情，也很努力。"
+  },
+  {
+    "id": "zh3-04-07",
+    "text": "努力",
+    "source": {
+      "num": 7,
+      "text": "努力",
+      "page": 46,
+      "ocr": "7.努力nili",
+      "near": "tt. hing hai,",
+      "confidence": 0.9277722798287868
+    },
+    "examplePage": 46,
+    "example": "她又聪明又热情，也很努力。"
+  },
+  {
+    "id": "zh3-04-08",
+    "text": "总是",
+    "source": {
+      "num": 8,
+      "text": "总是",
+      "page": 46,
+      "ocr": "8.总是zongshi",
+      "near": "pho.luonluon",
+      "confidence": 0.9935135841369629
+    },
+    "examplePage": 46,
+    "example": "她总是笑着回答老师的问题。"
+  },
+  {
+    "id": "zh3-04-09",
+    "text": "回答",
+    "source": {
+      "num": 9,
+      "text": "回答",
+      "page": 46,
+      "ocr": "9.回答huida",
+      "near": "dgt.tra loi",
+      "confidence": 0.9561213056246439
+    },
+    "examplePage": 46,
+    "example": "她总是笑着回答老师的问题。"
+  },
+  {
+    "id": "zh3-04-10",
+    "text": "站",
+    "source": {
+      "num": 10,
+      "text": "站",
+      "page": 46,
+      "ocr": "10.站",
+      "near": "zhan dgt.ding",
+      "confidence": 0.9992557615041733
+    },
+    "examplePage": 46,
+    "example": "拿着鲜花站在门口的，都是等她的。"
+  },
+  {
+    "id": "zh3-04-11",
+    "text": "饿",
+    "source": {
+      "num": 11,
+      "text": "饿",
+      "page": 46,
+      "ocr": "11.饿",
+      "near": "é tt.aoi",
+      "confidence": 0.9961475282907486
+    },
+    "examplePage": 46,
+    "example": "我有点儿饿了，我们进超市买点儿东西吧。"
+  },
+  {
+    "id": "zh3-04-12",
+    "text": "超市",
+    "source": {
+      "num": 12,
+      "text": "超市",
+      "page": 46,
+      "ocr": "12.超市",
+      "near": "chaoshi dt.sieuthi",
+      "confidence": 0.9991593480110168
+    },
+    "examplePage": 46,
+    "example": "我有点儿饿了，我们进超市买点儿东西吧。"
+  },
+  {
+    "id": "zh3-04-13",
+    "text": "蛋糕",
+    "source": {
+      "num": 13,
+      "text": "蛋糕",
+      "page": 46,
+      "ocr": "13.蛋糕dangaodt.banhkem",
+      "near": "",
+      "confidence": 0.9925121863683065
+    },
+    "examplePage": 46,
+    "example": "这家超市的蛋糕又便宜又好吃。"
+  },
+  {
+    "id": "zh3-04-14",
+    "text": "年轻",
+    "source": {
+      "num": 14,
+      "text": "年轻",
+      "page": 47,
+      "ocr": "14.年轻 nianqing tt. tre tuoi",
+      "near": "",
+      "confidence": 0.9146960300427897
+    },
+    "examplePage": 47,
+    "example": "我们这儿年轻、漂亮的服务员有很多。"
+  },
+  {
+    "id": "zh3-04-15",
+    "text": "认真",
+    "source": {
+      "num": 15,
+      "text": "认真",
+      "page": 47,
+      "ocr": "15.认真renzhentt.nghiem tic,",
+      "near": "",
+      "confidence": 0.9552014676424173
+    },
+    "examplePage": 47,
+    "example": "她工作又认真又热情。"
+  },
+  {
+    "id": "zh3-04-16",
+    "text": "客人",
+    "source": {
+      "num": 16,
+      "text": "客人",
+      "page": 47,
+      "ocr": "16.客人kerén",
+      "near": "dt.khach,khach 话",
+      "confidence": 0.9851732552051544
+    },
+    "examplePage": 47,
+    "example": "她总是笑着跟客人说话。"
+  },
+  {
+    "id": "zh3-05-01",
+    "text": "发烧",
+    "source": {
+      "num": 1,
+      "text": "发烧",
+      "page": 54,
+      "ocr": "1.发烧",
+      "near": "fa shao dgt. sot",
+      "confidence": 0.9994978308677673
+    },
+    "examplePage": 54,
+    "example": "前几天有点儿发烧，现在好多了。"
+  },
+  {
+    "id": "zh3-05-02",
+    "text": "为",
+    "source": {
+      "num": 2,
+      "text": "为",
+      "page": 54,
+      "ocr": "2.为",
+      "near": "wei gioi.cho",
+      "confidence": 0.9994527896245321
+    },
+    "examplePage": 54,
+    "example": "这是我为你买的绿茶。"
+  },
+  {
+    "id": "zh3-05-03",
+    "text": "照顾",
+    "source": {
+      "num": 3,
+      "text": "照顾",
+      "page": 54,
+      "ocr": "3.照顾zhaogudgt.chamsoc",
+      "near": "",
+      "confidence": 0.9745420472962516
+    },
+    "examplePage": 54,
+    "example": "我儿子生病了，我要在家照顾他。"
+  },
+  {
+    "id": "zh3-05-04",
+    "text": "用",
+    "source": {
+      "num": 4,
+      "text": "用",
+      "page": 54,
+      "ocr": "4.用",
+      "near": "yong dgt. can",
+      "confidence": 0.9990192254384359
+    },
+    "examplePage": 54,
+    "example": "不用去医院，昨天吃了感冒药。"
+  },
+  {
+    "id": "zh3-05-05",
+    "text": "感冒",
+    "source": {
+      "num": 5,
+      "text": "感冒",
+      "page": 54,
+      "ocr": "5.感冒ganmaodgt.bicam",
+      "near": "",
+      "confidence": 0.9642950923819291
+    },
+    "examplePage": 54,
+    "example": "不用去医院，昨天吃了感冒药。"
+  },
+  {
+    "id": "zh3-05-06",
+    "text": "季节",
+    "source": {
+      "num": 6,
+      "text": "季节",
+      "page": 54,
+      "ocr": "6.季节",
+      "near": "jié dt.mua",
+      "confidence": 0.9987544566392899
+    },
+    "examplePage": 54,
+    "example": "你最喜欢哪个季节？"
+  },
+  {
+    "id": "zh3-05-07",
+    "text": "当然",
+    "source": {
+      "num": 7,
+      "text": "当然",
+      "page": 54,
+      "ocr": "7.当然",
+      "near": "dangranpho.",
+      "confidence": 0.9985592663288116
+    },
+    "examplePage": 54,
+    "example": "当然是春天。"
+  },
+  {
+    "id": "zh3-05-08",
+    "text": "春天",
+    "source": {
+      "num": 8,
+      "text": "春",
+      "page": 54,
+      "ocr": "8.春(天)chun (tian)dt.",
+      "near": "",
+      "confidence": 0.9393636643886566
+    },
+    "examplePage": 54,
+    "example": "当然是春天。"
+  },
+  {
+    "id": "zh3-05-09",
+    "text": "草",
+    "source": {
+      "num": 9,
+      "text": "草",
+      "page": 54,
+      "ocr": "9.草",
+      "near": "cao dt. co",
+      "confidence": 0.9907559752464294
+    },
+    "examplePage": 54,
+    "example": "草和树都绿了，花也开了。"
+  },
+  {
+    "id": "zh3-05-10",
+    "text": "夏天",
+    "source": {
+      "num": 10,
+      "text": "夏（天）",
+      "page": 54,
+      "ocr": "10.夏（天）xid(tian)",
+      "near": "dt.",
+      "confidence": 0.8917007073760033
+    },
+    "examplePage": 54,
+    "example": "我最喜欢夏天，因为我可以穿漂亮的裙子了。"
+  },
+  {
+    "id": "zh3-05-11",
+    "text": "裙子",
+    "source": {
+      "num": 11,
+      "text": "裙子",
+      "page": 54,
+      "ocr": "11.裙子",
+      "near": "qunzi dt.vay",
+      "confidence": 0.9843343257904053
+    },
+    "examplePage": 54,
+    "example": "我最喜欢夏天，因为我可以穿漂亮的裙子了。"
+  },
+  {
+    "id": "zh3-05-12",
+    "text": "最近",
+    "source": {
+      "num": 12,
+      "text": "最近",
+      "page": 55,
+      "ocr": "12.最近zuijinph6.  gan day,",
+      "near": "",
+      "confidence": 0.9155077004432678
+    },
+    "examplePage": 55,
+    "example": "我最近越来越胖了。"
+  },
+  {
+    "id": "zh3-05-13",
+    "text": "越",
+    "source": {
+      "num": 13,
+      "text": "越",
+      "page": 55,
+      "ocr": "13.越",
+      "near": "yue pho.cang",
+      "confidence": 0.9966042637825012
+    },
+    "examplePage": 55,
+    "example": "我最近越来越胖了。"
+  },
+  {
+    "id": "zh3-06-01",
+    "text": "眼镜",
+    "source": {
+      "num": 1,
+      "text": "眼镜",
+      "page": 63,
+      "ocr": "*1.眼镜yanjing",
+      "near": "dt. matkinh",
+      "confidence": 0.9767172733942667
+    },
+    "examplePage": 63,
+    "example": "我的眼镜呢？怎么突然找不到了？"
+  },
+  {
+    "id": "zh3-06-02",
+    "text": "突然",
+    "source": {
+      "num": 2,
+      "text": "突然",
+      "page": 63,
+      "ocr": "2.突然turan",
+      "near": "pho. bong nhien,",
+      "confidence": 0.9608163568708632
+    },
+    "examplePage": 63,
+    "example": "我的眼镜呢？怎么突然找不到了？"
+  },
+  {
+    "id": "zh3-06-03",
+    "text": "离开",
+    "source": {
+      "num": 3,
+      "text": "离开",
+      "page": 63,
+      "ocr": "3.离开likai",
+      "near": "dgt. roikhoi,",
+      "confidence": 0.9256178273095025
+    },
+    "examplePage": 63,
+    "example": "我离不开眼镜。"
+  },
+  {
+    "id": "zh3-06-04",
+    "text": "清楚",
+    "source": {
+      "num": 4,
+      "text": "清楚",
+      "page": 63,
+      "ocr": "4.清楚qingchutt.",
+      "near": "rorang",
+      "confidence": 0.9788867064884731
+    },
+    "examplePage": 63,
+    "example": "我一个字也看不清楚。"
+  },
+  {
+    "id": "zh3-06-05",
+    "text": "刚才",
+    "source": {
+      "num": 5,
+      "text": "刚才",
+      "page": 63,
+      "ocr": "5.刚才gangcai dt.",
+      "near": "luic nay",
+      "confidence": 0.969179634253184
+    },
+    "examplePage": 63,
+    "example": "是不是刚才放在桌子上了？"
+  },
+  {
+    "id": "zh3-06-06",
+    "text": "帮忙",
+    "source": {
+      "num": 6,
+      "text": "帮忙",
+      "page": 63,
+      "ocr": "6.帮忙 bang mang dgt. giuip,",
+      "near": "",
+      "confidence": 0.9590715490854703
+    },
+    "examplePage": 63,
+    "example": "你快过来帮忙啊。"
+  },
+  {
+    "id": "zh3-06-07",
+    "text": "特别",
+    "source": {
+      "num": 7,
+      "text": "特别",
+      "page": 63,
+      "ocr": "7.特别tebié",
+      "near": "pho.vo cung,rat",
+      "confidence": 0.9877444836828444
+    },
+    "examplePage": 63,
+    "example": "今天这些题特别难。"
+  },
+  {
+    "id": "zh3-06-08",
+    "text": "讲",
+    "source": {
+      "num": 8,
+      "text": "讲",
+      "page": 63,
+      "ocr": "8.讲",
+      "near": "jiäng dgt.giaithich,",
+      "confidence": 0.9906035661697388
+    },
+    "examplePage": 63,
+    "example": "电话里讲不明白。"
+  },
+  {
+    "id": "zh3-06-09",
+    "text": "明白",
+    "source": {
+      "num": 9,
+      "text": "明白",
+      "page": 63,
+      "ocr": "9.明白mingbai",
+      "near": "rorang,",
+      "confidence": 0.9963719140399586
+    },
+    "examplePage": 63,
+    "example": "电话里讲不明白。"
+  },
+  {
+    "id": "zh3-06-10",
+    "text": "锻炼",
+    "source": {
+      "num": 10,
+      "text": "锻炼",
+      "page": 63,
+      "ocr": "10.锻炼duanliandgt.taptheduc",
+      "near": "",
+      "confidence": 0.9813090150172894
+    },
+    "examplePage": 63,
+    "example": "我锻炼完了就过去。"
+  },
+  {
+    "id": "zh3-06-11",
+    "text": "音乐",
+    "source": {
+      "num": 11,
+      "text": "音乐",
+      "page": 63,
+      "ocr": "11.音乐yinyue",
+      "near": "dt.am nhac",
+      "confidence": 0.9793324253775857
+    },
+    "examplePage": 63,
+    "example": "她喜欢听音乐。"
+  },
+  {
+    "id": "zh3-06-12",
+    "text": "公园",
+    "source": {
+      "num": 12,
+      "text": "公园",
+      "page": 63,
+      "ocr": "12.公园gongyuandt.cong vien",
+      "near": "",
+      "confidence": 0.939769994020462
+    },
+    "examplePage": 63,
+    "example": "那去公园走走，聊聊天儿吧。"
+  },
+  {
+    "id": "zh3-06-13",
+    "text": "聊天",
+    "source": {
+      "num": 13,
+      "text": "聊天（儿）",
+      "page": 63,
+      "ocr": "13.聊天（儿）liáo tian(r)dgt.",
+      "near": "",
+      "confidence": 0.9014181345701218
+    },
+    "examplePage": 63,
+    "example": "那去公园走走，聊聊天儿吧。"
+  },
+  {
+    "id": "zh3-06-14",
+    "text": "睡着",
+    "source": {
+      "num": 14,
+      "text": "睡着",
+      "page": 64,
+      "ocr": "*14.睡着shuizháodgt.nguiduoc",
+      "near": "",
+      "confidence": 0.9504130322199601
+    },
+    "examplePage": 64,
+    "example": "你不是说晚上睡不着觉吗？"
+  },
+  {
+    "id": "zh3-06-15",
+    "text": "更",
+    "source": {
+      "num": 15,
+      "text": "更",
+      "page": 64,
+      "ocr": "15.更geng",
+      "near": "pho.cang,honnita",
+      "confidence": 0.9970447868108749
+    },
+    "examplePage": 64,
+    "example": "可以睡得更好些。"
+  },
+  {
+    "id": "zh3-07-01",
+    "text": "同事",
+    "source": {
+      "num": 1,
+      "text": "同事",
+      "page": 72,
+      "ocr": "1.同事 tongshi dt.dong nghiep",
+      "near": "",
+      "confidence": 0.9472081352163244
+    },
+    "examplePage": 72,
+    "example": "那个漂亮的新同事是谁？"
+  },
+  {
+    "id": "zh3-07-02",
+    "text": "以前",
+    "source": {
+      "num": 2,
+      "text": "以前",
+      "page": 72,
+      "ocr": "2.以前yiqián",
+      "near": "dt.truoc day,",
+      "confidence": 0.9614749550819397
+    },
+    "examplePage": 72,
+    "example": "以前她在哪儿工作？"
+  },
+  {
+    "id": "zh3-07-03",
+    "text": "银行",
+    "source": {
+      "num": 3,
+      "text": "银行",
+      "page": 72,
+      "ocr": "3.银行yinhangdt.nganhang",
+      "near": "",
+      "confidence": 0.977800502018495
+    },
+    "examplePage": 72,
+    "example": "她在银行工作了两年。"
+  },
+  {
+    "id": "zh3-07-04",
+    "text": "久",
+    "source": {
+      "num": 4,
+      "text": "久",
+      "page": 72,
+      "ocr": "4.久",
+      "near": "jiutt lau,laudai",
+      "confidence": 0.987246592839559
+    },
+    "examplePage": 72,
+    "example": "你们唱了多久？"
+  },
+  {
+    "id": "zh3-07-05",
+    "text": "感兴趣",
+    "source": {
+      "num": 5,
+      "text": "感兴趣",
+      "page": 72,
+      "ocr": "5.感兴趣ganxingqucohuing thui,",
+      "near": "",
+      "confidence": 0.9152728021144867
+    },
+    "examplePage": 72,
+    "example": "你们都对音乐感兴趣吗？"
+  },
+  {
+    "id": "zh3-07-06",
+    "text": "结婚",
+    "source": {
+      "num": 6,
+      "text": "结婚",
+      "page": 72,
+      "ocr": "6.结婚jié hun",
+      "near": "dgt.kethon,cuoi",
+      "confidence": 0.9702153422615745
+    },
+    "examplePage": 72,
+    "example": "我跟小丽下个月结婚，到时候欢迎你来。"
+  },
+  {
+    "id": "zh3-07-07",
+    "text": "欢迎",
+    "source": {
+      "num": 7,
+      "text": "欢迎",
+      "page": 72,
+      "ocr": "7.欢迎huanying dgt.hoannghenh,",
+      "near": "",
+      "confidence": 0.9659623908145087
+    },
+    "examplePage": 72,
+    "example": "我跟小丽下个月结婚，到时候欢迎你来。"
+  },
+  {
+    "id": "zh3-07-08",
+    "text": "迟到",
+    "source": {
+      "num": 8,
+      "text": "迟到",
+      "page": 73,
+      "ocr": "8.迟到",
+      "near": "]chidao dgt. denmuon",
+      "confidence": 0.9888612776994705
+    },
+    "examplePage": 73,
+    "example": "你看看手表，怎么迟到了？"
+  },
+  {
+    "id": "zh3-07-09",
+    "text": "半",
+    "source": {
+      "num": 9,
+      "text": "半",
+      "page": 73,
+      "ocr": "9.半",
+      "near": "ban so. mot nia,ruoi",
+      "confidence": 0.9963841835657755
+    },
+    "examplePage": 73,
+    "example": "你不是说七点半来接我吗？"
+  },
+  {
+    "id": "zh3-07-10",
+    "text": "接",
+    "source": {
+      "num": 10,
+      "text": "接",
+      "page": 73,
+      "ocr": "10.接",
+      "near": "jie dgt. don",
+      "confidence": 0.9986985921859741
+    },
+    "examplePage": 73,
+    "example": "你不是说七点半来接我吗？"
+  },
+  {
+    "id": "zh3-07-11",
+    "text": "刻",
+    "source": {
+      "num": 11,
+      "text": "刻",
+      "page": 73,
+      "ocr": "11.刻",
+      "near": "ke lugng.muoi lam phuit",
+      "confidence": 0.9986453354358673
+    },
+    "examplePage": 73,
+    "example": "你迟到了一刻钟。"
+  },
+  {
+    "id": "zh3-07-12",
+    "text": "差",
+    "source": {
+      "num": 12,
+      "text": "差",
+      "page": 73,
+      "ocr": "12.差",
+      "near": "cha dgt. kem,thieu",
+      "confidence": 0.9968352168798447
+    },
+    "examplePage": 73,
+    "example": "已经差一刻八点了！"
+  },
+  {
+    "id": "zh3-08-01",
+    "text": "又",
+    "source": {
+      "num": 1,
+      "text": "又",
+      "page": 81,
+      "ocr": "1.又",
+      "near": "you pho. lai",
+      "confidence": 0.9858389298121134
+    },
+    "examplePage": 81,
+    "example": "今天又去看了看。"
+  },
+  {
+    "id": "zh3-08-02",
+    "text": "满意",
+    "source": {
+      "num": 2,
+      "text": "满意",
+      "page": 81,
+      "ocr": "2.满意manyi",
+      "near": "dgt. hai long,",
+      "confidence": 0.9325529634952545
+    },
+    "examplePage": 81,
+    "example": "都不满意吗？"
+  },
+  {
+    "id": "zh3-08-03",
+    "text": "电梯",
+    "source": {
+      "num": 3,
+      "text": "电梯",
+      "page": 81,
+      "ocr": "3.电梯",
+      "near": "dianti dt. thangmay 儿",
+      "confidence": 0.9962068498134613
+    },
+    "examplePage": 81,
+    "example": "一个有电梯，但是在二十层。"
+  },
+  {
+    "id": "zh3-08-04",
+    "text": "层",
+    "source": {
+      "num": 4,
+      "text": "层",
+      "page": 81,
+      "ocr": "4.层",
+      "near": "céng luong. tang",
+      "confidence": 0.9946728944778442
+    },
+    "examplePage": 81,
+    "example": "一个有电梯，但是在二十层。"
+  },
+  {
+    "id": "zh3-08-05",
+    "text": "害怕",
+    "source": {
+      "num": 5,
+      "text": "害怕",
+      "page": 81,
+      "ocr": "5.害怕",
+      "near": "hai pa dgt. sg",
+      "confidence": 0.9971967041492462
+    },
+    "examplePage": 81,
+    "example": "往下看多害怕啊！"
+  },
+  {
+    "id": "zh3-08-06",
+    "text": "熊猫",
+    "source": {
+      "num": 6,
+      "text": "熊猫",
+      "page": 81,
+      "ocr": "6.熊猫xiongmao dt.gau truic,panda",
+      "near": "",
+      "confidence": 0.9519188000309852
+    },
+    "examplePage": 81,
+    "example": "这个小熊猫送给你。"
+  },
+  {
+    "id": "zh3-08-07",
+    "text": "见面",
+    "source": {
+      "num": 7,
+      "text": "见面",
+      "page": 81,
+      "ocr": "7.见面jian miandgt.gap,gap nhau",
+      "near": "",
+      "confidence": 0.9324436331617421
+    },
+    "examplePage": 81,
+    "example": "希望以后能再见面。"
+  },
+  {
+    "id": "zh3-08-08",
+    "text": "安静",
+    "source": {
+      "num": 8,
+      "text": "安静",
+      "page": 81,
+      "ocr": "8.安静",
+      "near": "anjingtt.yen tinh",
+      "confidence": 0.9991956800222397
+    },
+    "examplePage": 81,
+    "example": "坐这儿吧，这儿安静。"
+  },
+  {
+    "id": "zh3-08-09",
+    "text": "可乐",
+    "source": {
+      "num": 9,
+      "text": "可乐",
+      "page": 81,
+      "ocr": "*9.可乐",
+      "near": "kele dt.coca-cola",
+      "confidence": 0.9928511500358581
+    },
+    "examplePage": 81,
+    "example": "喝可乐吧。"
+  },
+  {
+    "id": "zh3-08-10",
+    "text": "一会儿",
+    "source": {
+      "num": 10,
+      "text": "一会儿",
+      "page": 81,
+      "ocr": "10.一会儿yihuirdt.choc lat,mot lat",
+      "near": "",
+      "confidence": 0.9483932179789389
+    },
+    "examplePage": 81,
+    "example": "你等我一会儿，我马上回来。"
+  },
+  {
+    "id": "zh3-08-11",
+    "text": "马上",
+    "source": {
+      "num": 11,
+      "text": "马上",
+      "page": 81,
+      "ocr": "11.马上",
+      "near": "mashang pho.lien, ngay",
+      "confidence": 0.9040701746940613
+    },
+    "examplePage": 81,
+    "example": "你等我一会儿，我马上回来。"
+  },
+  {
+    "id": "zh3-08-12",
+    "text": "洗手间",
+    "source": {
+      "num": 12,
+      "text": "洗手间",
+      "page": 81,
+      "ocr": "12.洗手间xishoujiandt.nha ve sinh",
+      "near": "",
+      "confidence": 0.9435463567574819
+    },
+    "examplePage": 81,
+    "example": "我去洗手间。"
+  },
+  {
+    "id": "zh3-08-13",
+    "text": "老",
+    "source": {
+      "num": 13,
+      "text": "老",
+      "page": 82,
+      "ocr": "13.老o",
+      "near": "tt.gia,cu",
+      "confidence": 0.971925926208496
+    },
+    "examplePage": 82,
+    "example": "老同学"
+  },
+  {
+    "id": "zh3-08-14",
+    "text": "几乎",
+    "source": {
+      "num": 14,
+      "text": "几乎",
+      "page": 82,
+      "ocr": "14.几乎jihu",
+      "near": "pho.hau nhu,",
+      "confidence": 0.9668761359320747
+    },
+    "examplePage": 82,
+    "example": "你几乎没变化。"
+  },
+  {
+    "id": "zh3-08-15",
+    "text": "变化",
+    "source": {
+      "num": 15,
+      "text": "变化",
+      "page": 82,
+      "ocr": "15.变化bianhud",
+      "near": "dgt.thay dor",
+      "confidence": 0.9560815890630087
+    },
+    "examplePage": 82,
+    "example": "你几乎没变化。"
+  },
+  {
+    "id": "zh3-08-16",
+    "text": "健康",
+    "source": {
+      "num": 16,
+      "text": "健康",
+      "page": 82,
+      "ocr": "16.健康jiankang",
+      "near": "gtt. khoemanh",
+      "confidence": 0.982229966383714
+    },
+    "examplePage": 82,
+    "example": "健康最重要。"
+  },
+  {
+    "id": "zh3-08-17",
+    "text": "重要",
+    "source": {
+      "num": 17,
+      "text": "重要",
+      "page": 82,
+      "ocr": "17.重要zhongyaott.",
+      "near": "quantrong",
+      "confidence": 0.9642813764512539
+    },
+    "examplePage": 82,
+    "example": "健康最重要。"
+  },
+  {
+    "id": "zh3-09-01",
+    "text": "中文",
+    "source": {
+      "num": 1,
+      "text": "中文",
+      "page": 89,
+      "ocr": "1.中文Zhongwendt.tieng",
+      "near": "",
+      "confidence": 0.9845913946628571
+    },
+    "examplePage": 89,
+    "example": "你的中文越说越好了！"
+  },
+  {
+    "id": "zh3-09-02",
+    "text": "班",
+    "source": {
+      "num": 2,
+      "text": "班",
+      "page": 89,
+      "ocr": "2.班",
+      "near": "ban dt. lop 跟",
+      "confidence": 0.9994879563649496
+    },
+    "examplePage": 89,
+    "example": "我们班李静说得更好。"
+  },
+  {
+    "id": "zh3-09-03",
+    "text": "一样",
+    "source": {
+      "num": 3,
+      "text": "一样",
+      "page": 89,
+      "ocr": "3.一样yiyang",
+      "near": "tt.giong nhau, 国",
+      "confidence": 0.9858797311782836
+    },
+    "examplePage": 89,
+    "example": "她的汉语说得跟中国人一样好。"
+  },
+  {
+    "id": "zh3-09-04",
+    "text": "最后",
+    "source": {
+      "num": 4,
+      "text": "最后",
+      "page": 89,
+      "ocr": "4.最后 zuihou dt.(cai cuoi cuing",
+      "near": "",
+      "confidence": 0.9102766931056976
+    },
+    "examplePage": 89,
+    "example": "这是最后一块。"
+  },
+  {
+    "id": "zh3-09-05",
+    "text": "放心",
+    "source": {
+      "num": 5,
+      "text": "放心",
+      "page": 89,
+      "ocr": "5.放心fangxindgt.yentam",
+      "near": "",
+      "confidence": 0.9740053103083656
+    },
+    "examplePage": 89,
+    "example": "你放心，我一定不会变胖。"
+  },
+  {
+    "id": "zh3-09-06",
+    "text": "一定",
+    "source": {
+      "num": 6,
+      "text": "一定",
+      "page": 89,
+      "ocr": "6.一定yiding",
+      "near": "pho.nhatdinh,",
+      "confidence": 0.9844612181186676
+    },
+    "examplePage": 89,
+    "example": "你放心，我一定不会变胖。"
+  },
+  {
+    "id": "zh3-09-07",
+    "text": "担心",
+    "source": {
+      "num": 7,
+      "text": "担心",
+      "page": 89,
+      "ocr": "7. 担心dan xin",
+      "near": "dgt. lo lang",
+      "confidence": 0.9542673627535502
+    },
+    "examplePage": 89,
+    "example": "不用担心，有我呢，我对这儿比较了解。"
+  },
+  {
+    "id": "zh3-09-08",
+    "text": "比较",
+    "source": {
+      "num": 8,
+      "text": "比较",
+      "page": 89,
+      "ocr": "8.比较 bijiao",
+      "near": "pho. tuong doi, kha",
+      "confidence": 0.9540095383470709
+    },
+    "examplePage": 89,
+    "example": "不用担心，有我呢，我对这儿比较了解。"
+  },
+  {
+    "id": "zh3-09-09",
+    "text": "了解",
+    "source": {
+      "num": 9,
+      "text": "了解",
+      "page": 89,
+      "ocr": "9.了解 liaojie",
+      "near": "dgt.hieuro",
+      "confidence": 0.8795087113976479
+    },
+    "examplePage": 89,
+    "example": "不用担心，有我呢，我对这儿比较了解。"
+  },
+  {
+    "id": "zh3-09-10",
+    "text": "先",
+    "source": {
+      "num": 10,
+      "text": "先",
+      "page": 89,
+      "ocr": "10.先xian",
+      "near": "pho.truoc,truochet",
+      "confidence": 0.9705856889486313
+    },
+    "examplePage": 89,
+    "example": "那我们先休息一下。"
+  },
+  {
+    "id": "zh3-09-11",
+    "text": "中间",
+    "source": {
+      "num": 11,
+      "text": "中间",
+      "page": 89,
+      "ocr": "11.中间 zhongjian dt.gita，chinh",
+      "near": "",
+      "confidence": 0.9578402062942242
+    },
+    "examplePage": 89,
+    "example": "我们可以从中间这条路上去。"
+  },
+  {
+    "id": "zh3-09-12",
+    "text": "参加",
+    "source": {
+      "num": 12,
+      "text": "参加",
+      "page": 90,
+      "ocr": "12.参加canjia",
+      "near": "agt.tham gia",
+      "confidence": 0.9923336831006137
+    },
+    "examplePage": 90,
+    "example": "下个月的篮球比赛，你能参加吗？"
+  },
+  {
+    "id": "zh3-09-13",
+    "text": "影响",
+    "source": {
+      "num": 13,
+      "text": "影响",
+      "page": 90,
+      "ocr": "13.影响yingxiangdt.anh huong",
+      "near": "",
+      "confidence": 0.9607432817037289
+    },
+    "examplePage": 90,
+    "example": "一点儿影响也没有。"
+  },
+  {
+    "id": "zh3-10-01",
+    "text": "个子",
+    "source": {
+      "num": 1,
+      "text": "个子",
+      "page": 98,
+      "ocr": "1.个子gezi dt.voc dang,than hinh",
+      "near": "",
+      "confidence": 0.9625371734301249
+    },
+    "examplePage": 98,
+    "example": "你和马可谁个子高？"
+  },
+  {
+    "id": "zh3-10-02",
+    "text": "矮",
+    "source": {
+      "num": 2,
+      "text": "矮",
+      "page": 98,
+      "ocr": "2.矮",
+      "near": "ai tt.thap",
+      "confidence": 0.9799074729283651
+    },
+    "examplePage": 98,
+    "example": "我比马可矮一点儿。"
+  },
+  {
+    "id": "zh3-10-03",
+    "text": "历史",
+    "source": {
+      "num": 3,
+      "text": "历史",
+      "page": 98,
+      "ocr": "3.历史lishi",
+      "near": "dt.monLich Si",
+      "confidence": 0.9967689977751838
+    },
+    "examplePage": 98,
+    "example": "我喜欢历史课、体育课，不喜欢数学课。"
+  },
+  {
+    "id": "zh3-10-04",
+    "text": "体育",
+    "source": {
+      "num": 4,
+      "text": "体育",
+      "page": 98,
+      "ocr": "4.体育tiyu",
+      "near": "dt.mon TheDuc",
+      "confidence": 0.9697335287928581
+    },
+    "examplePage": 98,
+    "example": "我喜欢历史课、体育课，不喜欢数学课。"
+  },
+  {
+    "id": "zh3-10-05",
+    "text": "数学",
+    "source": {
+      "num": 5,
+      "text": "数学",
+      "page": 98,
+      "ocr": "5.数学shuxué",
+      "near": "dt.monToan",
+      "confidence": 0.955425250530243
+    },
+    "examplePage": 98,
+    "example": "我喜欢历史课、体育课，不喜欢数学课。"
+  },
+  {
+    "id": "zh3-10-06",
+    "text": "方便",
+    "source": {
+      "num": 6,
+      "text": "方便",
+      "page": 98,
+      "ocr": "6.方便f",
+      "near": "fangbiantt.thuan tien",
+      "confidence": 0.92521071434021
+    },
+    "examplePage": 98,
+    "example": "那很方便啊。"
+  },
+  {
+    "id": "zh3-10-07",
+    "text": "自行车",
+    "source": {
+      "num": 7,
+      "text": "自行车",
+      "page": 98,
+      "ocr": "7.自行车 zixingche dt. xe dap",
+      "near": "",
+      "confidence": 0.9609720959113195
+    },
+    "examplePage": 98,
+    "example": "我还打算买辆自行车，骑车七八分钟就能到。"
+  },
+  {
+    "id": "zh3-10-08",
+    "text": "骑",
+    "source": {
+      "num": 8,
+      "text": "骑",
+      "page": 98,
+      "ocr": "8.骑",
+      "near": "qi dgt. cuoi,di",
+      "confidence": 0.9888901313145956
+    },
+    "examplePage": 98,
+    "example": "我还打算买辆自行车，骑车七八分钟就能到。"
+  },
+  {
+    "id": "zh3-10-09",
+    "text": "旧",
+    "source": {
+      "num": 9,
+      "text": "旧",
+      "page": 98,
+      "ocr": "9.旧",
+      "near": "jiu tt. ci",
+      "confidence": 0.9959472020467123
+    },
+    "examplePage": 98,
+    "example": "那辆太旧了，要换一辆。"
+  },
+  {
+    "id": "zh3-10-10",
+    "text": "换",
+    "source": {
+      "num": 10,
+      "text": "换",
+      "page": 98,
+      "ocr": "10.换",
+      "near": "huan dgt. doi,thay",
+      "confidence": 0.998799666762352
+    },
+    "examplePage": 98,
+    "example": "那辆太旧了，要换一辆。"
+  },
+  {
+    "id": "zh3-10-11",
+    "text": "地方",
+    "source": {
+      "num": 11,
+      "text": "地方",
+      "page": 99,
+      "ocr": "11.地方difang",
+      "near": "dt.cho,noi",
+      "confidence": 0.9985319050875577
+    },
+    "examplePage": 99,
+    "example": "这两个地方的房子一样吗？"
+  },
+  {
+    "id": "zh3-10-12",
+    "text": "中介",
+    "source": {
+      "num": 12,
+      "text": "中介",
+      "page": 99,
+      "ocr": "*12.中介zhongjiedt.moigioi",
+      "near": "",
+      "confidence": 0.9866452241937319
+    },
+    "examplePage": 99,
+    "example": "中介"
+  },
+  {
+    "id": "zh3-10-13",
+    "text": "主要",
+    "source": {
+      "num": 13,
+      "text": "主要",
+      "page": 99,
+      "ocr": "13.主要zhuyaott.chuiyeu",
+      "near": "",
+      "confidence": 0.9029014096373603
+    },
+    "examplePage": 99,
+    "example": "主要是环境。"
+  },
+  {
+    "id": "zh3-10-14",
+    "text": "环境",
+    "source": {
+      "num": 14,
+      "text": "环境",
+      "page": 99,
+      "ocr": "14.环境huanjingdt.moitrong",
+      "near": "",
+      "confidence": 0.9568168520927429
+    },
+    "examplePage": 99,
+    "example": "主要是环境。"
+  },
+  {
+    "id": "zh3-10-15",
+    "text": "附近",
+    "source": {
+      "num": 15,
+      "text": "附近",
+      "page": 99,
+      "ocr": "15.附近fujin",
+      "near": "dt.ving lan can",
+      "confidence": 0.9514313519001008
+    },
+    "examplePage": 99,
+    "example": "附近有三四个车站。"
+  },
+  {
+    "id": "zh3-11-01",
+    "text": "图书馆",
+    "source": {
+      "num": 1,
+      "text": "图书馆",
+      "page": 107,
+      "ocr": "1.图书馆",
+      "near": "tushuguandt.thuvien",
+      "confidence": 0.9995037198066712
+    },
+    "examplePage": 107,
+    "example": "我去图书馆借本书。"
+  },
+  {
+    "id": "zh3-11-02",
+    "text": "借",
+    "source": {
+      "num": 2,
+      "text": "借",
+      "page": 107,
+      "ocr": "2.借",
+      "near": "jie dgt.muon,vay",
+      "confidence": 0.9996162056922913
+    },
+    "examplePage": 107,
+    "example": "我去图书馆借本书。"
+  },
+  {
+    "id": "zh3-11-03",
+    "text": "词典",
+    "source": {
+      "num": 3,
+      "text": "词典",
+      "page": 107,
+      "ocr": "3.词典",
+      "near": "cidian dt. tirdien",
+      "confidence": 0.9992295056581497
+    },
+    "examplePage": 107,
+    "example": "帮我把这本词典还了吧。"
+  },
+  {
+    "id": "zh3-11-04",
+    "text": "还",
+    "source": {
+      "num": 4,
+      "text": "还",
+      "page": 107,
+      "ocr": "4.还",
+      "near": "huan dgt. tra",
+      "confidence": 0.9901302258173624
+    },
+    "examplePage": 107,
+    "example": "帮我把这本词典还了吧。"
+  },
+  {
+    "id": "zh3-11-05",
+    "text": "灯",
+    "source": {
+      "num": 5,
+      "text": "灯",
+      "page": 107,
+      "ocr": "5.灯",
+      "near": "deng dt. den",
+      "confidence": 0.9998289346694946
+    },
+    "examplePage": 107,
+    "example": "记得把灯关了。"
+  },
+  {
+    "id": "zh3-11-06",
+    "text": "会议",
+    "source": {
+      "num": 6,
+      "text": "会议",
+      "page": 107,
+      "ocr": "6.会议huiyidt.hoinghi,cuochop",
+      "near": "",
+      "confidence": 0.9679545340714631
+    },
+    "examplePage": 107,
+    "example": "会议结束后，别忘记把空调关了。"
+  },
+  {
+    "id": "zh3-11-07",
+    "text": "结束",
+    "source": {
+      "num": 7,
+      "text": "结束",
+      "page": 107,
+      "ocr": "7.结束jiéshu",
+      "near": "dgt.ketthuic,cham",
+      "confidence": 0.9857106685638428
+    },
+    "examplePage": 107,
+    "example": "会议结束后，别忘记把空调关了。"
+  },
+  {
+    "id": "zh3-11-08",
+    "text": "忘记",
+    "source": {
+      "num": 8,
+      "text": "忘记",
+      "page": 107,
+      "ocr": "8.忘记wangji",
+      "near": "dgt. quen",
+      "confidence": 0.9845049321651459
+    },
+    "examplePage": 107,
+    "example": "会议结束后，别忘记把空调关了。"
+  },
+  {
+    "id": "zh3-11-09",
+    "text": "空调",
+    "source": {
+      "num": 9,
+      "text": "空调",
+      "page": 107,
+      "ocr": "9.空调kongtiáodt.may dieuhoa",
+      "near": "",
+      "confidence": 0.9440832757032834
+    },
+    "examplePage": 107,
+    "example": "会议结束后，别忘记把空调关了。"
+  },
+  {
+    "id": "zh3-11-10",
+    "text": "关",
+    "source": {
+      "num": 10,
+      "text": "关",
+      "page": 107,
+      "ocr": "10.关",
+      "near": "guan dgt. tat, dong",
+      "confidence": 0.9996154755353928
+    },
+    "examplePage": 107,
+    "example": "记得把灯关了。"
+  },
+  {
+    "id": "zh3-11-11",
+    "text": "地铁",
+    "source": {
+      "num": 11,
+      "text": "地铁",
+      "page": 107,
+      "ocr": "11.地铁ditie",
+      "near": "dt.tau dienngam",
+      "confidence": 0.9918024361133575
+    },
+    "examplePage": 107,
+    "example": "他正坐地铁来我们公司呢。"
+  },
+  {
+    "id": "zh3-11-12",
+    "text": "双",
+    "source": {
+      "num": 12,
+      "text": "双",
+      "page": 107,
+      "ocr": "12.双",
+      "near": "shuang lugng.doi",
+      "confidence": 0.9979436248540878
+    },
+    "examplePage": 107,
+    "example": "还差一双筷子，你去拿一下。"
+  },
+  {
+    "id": "zh3-11-13",
+    "text": "筷子",
+    "source": {
+      "num": 13,
+      "text": "筷子",
+      "page": 107,
+      "ocr": "13.筷子 kudizi",
+      "near": "dt. dia",
+      "confidence": 0.9439013451337814
+    },
+    "examplePage": 107,
+    "example": "还差一双筷子，你去拿一下。"
+  },
+  {
+    "id": "zh3-11-14",
+    "text": "啤酒",
+    "source": {
+      "num": 14,
+      "text": "啤酒",
+      "page": 107,
+      "ocr": "14.啤酒 pijiu",
+      "near": "dt. bia,ruou bia",
+      "confidence": 0.8795348514210094
+    },
+    "examplePage": 107,
+    "example": "那我们今天喝点儿啤酒吧。"
+  },
+  {
+    "id": "zh3-11-15",
+    "text": "口",
+    "source": {
+      "num": 15,
+      "text": "口",
+      "page": 107,
+      "ocr": "15.口",
+      "near": "kou luong.mieng,",
+      "confidence": 0.9931868314743042
+    },
+    "examplePage": 107,
+    "example": "医生说你爸爸一口酒都不能喝。"
+  },
+  {
+    "id": "zh3-11-16",
+    "text": "瓶子",
+    "source": {
+      "num": 16,
+      "text": "瓶子",
+      "page": 107,
+      "ocr": "16.瓶子pingzi",
+      "near": "dt. lo,binh",
+      "confidence": 0.9980032010511919
+    },
+    "examplePage": 107,
+    "example": "别让他看见酒瓶子。"
+  },
+  {
+    "id": "zh3-11-17",
+    "text": "笔记本",
+    "source": {
+      "num": 17,
+      "text": "笔记本（电脑）",
+      "page": 108,
+      "ocr": "17.笔记本（电脑）bijibén（diannao)",
+      "near": "",
+      "confidence": 0.9100679067464975
+    },
+    "examplePage": 108,
+    "example": "这个笔记本电脑我去年买的时候要五千块左右。"
+  },
+  {
+    "id": "zh3-11-18",
+    "text": "电子邮件",
+    "source": {
+      "num": 18,
+      "text": "电子邮件",
+      "page": 108,
+      "ocr": "18.电子邮件dianziyoujian",
+      "near": "",
+      "confidence": 0.991740158200264
+    },
+    "examplePage": 108,
+    "example": "看电子邮件。"
+  },
+  {
+    "id": "zh3-11-19",
+    "text": "习惯",
+    "source": {
+      "num": 19,
+      "text": "习惯",
+      "page": 108,
+      "ocr": "19.习惯",
+      "near": "xiguandgt./dt.",
+      "confidence": 0.9992932200431823
+    },
+    "examplePage": 108,
+    "example": "已经习惯用电脑来学习和工作了。"
+  },
+  {
+    "id": "zh3-12-01",
+    "text": "太阳",
+    "source": {
+      "num": 1,
+      "text": "太阳",
+      "page": 115,
+      "ocr": "1.太阳",
+      "near": "日taiyangdt.mait troi",
+      "confidence": 0.9998742341995239
+    },
+    "examplePage": 115,
+    "example": "今天太阳从西边出来了吗？"
+  },
+  {
+    "id": "zh3-12-02",
+    "text": "西",
+    "source": {
+      "num": 2,
+      "text": "西",
+      "page": 115,
+      "ocr": "2.西",
+      "near": "xi dt.phiatay,",
+      "confidence": 0.9957782626152039
+    },
+    "examplePage": 115,
+    "example": "今天太阳从西边出来了吗？"
+  },
+  {
+    "id": "zh3-12-03",
+    "text": "生气",
+    "source": {
+      "num": 3,
+      "text": "生气",
+      "page": 115,
+      "ocr": "3.生气sheng qidgt.gian,tuic gian",
+      "near": "",
+      "confidence": 0.9278475940227509
+    },
+    "examplePage": 115,
+    "example": "经理生气了。"
+  },
+  {
+    "id": "zh3-12-04",
+    "text": "行李箱",
+    "source": {
+      "num": 4,
+      "text": "行李箱",
+      "page": 115,
+      "ocr": "4.行李箱xinglixiang dt.hanh ly,vali",
+      "near": "",
+      "confidence": 0.9505326990038157
+    },
+    "examplePage": 115,
+    "example": "那我帮你把衣服放到行李箱里吧。"
+  },
+  {
+    "id": "zh3-12-05",
+    "text": "自己",
+    "source": {
+      "num": 5,
+      "text": "自己",
+      "page": 115,
+      "ocr": "5.自己zijdt.tuminh,ban than",
+      "near": "",
+      "confidence": 0.9326425158977508
+    },
+    "examplePage": 115,
+    "example": "你要自己照顾好自己。"
+  },
+  {
+    "id": "zh3-12-06",
+    "text": "包",
+    "source": {
+      "num": 6,
+      "text": "包",
+      "page": 115,
+      "ocr": "6.包",
+      "near": "baodt.cap,tui",
+      "confidence": 0.999409039815267
+    },
+    "examplePage": 115,
+    "example": "我已经把我的照片放在你的包里了。"
+  },
+  {
+    "id": "zh3-12-07",
+    "text": "发现",
+    "source": {
+      "num": 7,
+      "text": "发现",
+      "page": 115,
+      "ocr": "7.发现",
+      "near": "faxiandgt.phathien",
+      "confidence": 0.9988495409488678
+    },
+    "examplePage": 115,
+    "example": "我才发现忘带护照了。"
+  },
+  {
+    "id": "zh3-12-08",
+    "text": "护照",
+    "source": {
+      "num": 8,
+      "text": "护照",
+      "page": 115,
+      "ocr": "8.护照",
+      "near": "huzhao dt.ho chieu",
+      "confidence": 0.9966696351766586
+    },
+    "examplePage": 115,
+    "example": "我才发现忘带护照了。"
+  },
+  {
+    "id": "zh3-12-09",
+    "text": "起飞",
+    "source": {
+      "num": 9,
+      "text": "起飞",
+      "page": 115,
+      "ocr": "9.起飞",
+      "near": "qifei dgt.cait canh (may",
+      "confidence": 0.9973904490470886
+    },
+    "examplePage": 115,
+    "example": "飞机就要起飞了。"
+  },
+  {
+    "id": "zh3-12-10",
+    "text": "司机",
+    "source": {
+      "num": 10,
+      "text": "司机",
+      "page": 115,
+      "ocr": "10.司机sij",
+      "near": "dt. tai xe",
+      "confidence": 0.9079535380005836
+    },
+    "examplePage": 115,
+    "example": "司机把我送到机场的时候"
+  },
+  {
+    "id": "zh3-12-11",
+    "text": "教",
+    "source": {
+      "num": 11,
+      "text": "教",
+      "page": 116,
+      "ocr": "11.教",
+      "near": "jiao dgt. day",
+      "confidence": 0.9990754425525665
+    },
+    "examplePage": 116,
+    "example": "我是一个中学老师，教学生画画儿。"
+  },
+  {
+    "id": "zh3-12-12",
+    "text": "画",
+    "source": {
+      "num": 12,
+      "text": "画",
+      "page": 116,
+      "ocr": "12.画",
+      "near": "hua dgt./dt. ve;tranh",
+      "confidence": 0.9984399676322937
+    },
+    "examplePage": 116,
+    "example": "我是一个中学老师，教学生画画儿。"
+  },
+  {
+    "id": "zh3-12-13",
+    "text": "需要",
+    "source": {
+      "num": 13,
+      "text": "需要",
+      "page": 116,
+      "ocr": "13.需要",
+      "near": "xuydo dgt. can",
+      "confidence": 0.9998366475105286
+    },
+    "examplePage": 116,
+    "example": "我都会把下次学生需要带的东西写在黑板上。"
+  },
+  {
+    "id": "zh3-12-14",
+    "text": "黑板",
+    "source": {
+      "num": 14,
+      "text": "黑板",
+      "page": 116,
+      "ocr": "14.黑板",
+      "near": "heibän dt. bang den",
+      "confidence": 0.999679446220398
+    },
+    "examplePage": 116,
+    "example": "我都会把下次学生需要带的东西写在黑板上。"
+  },
+  {
+    "id": "zh3-13-01",
+    "text": "终于",
+    "source": {
+      "num": 1,
+      "text": "终于",
+      "page": 124,
+      "ocr": "1.终于zhongyu pho.cuoi cing",
+      "near": "",
+      "confidence": 0.91418128490448
+    },
+    "examplePage": 124,
+    "example": "你终于回来了！"
+  },
+  {
+    "id": "zh3-13-02",
+    "text": "爷爷",
+    "source": {
+      "num": 2,
+      "text": "爷爷",
+      "page": 124,
+      "ocr": "2.爷爷yéye",
+      "near": "dt. ongnoi",
+      "confidence": 0.940997801721096
+    },
+    "examplePage": 124,
+    "example": "这是给爷爷的礼物。"
+  },
+  {
+    "id": "zh3-13-03",
+    "text": "礼物",
+    "source": {
+      "num": 3,
+      "text": "礼物",
+      "page": 124,
+      "ocr": "3.礼物liwu",
+      "near": "dt. qua bieu,",
+      "confidence": 0.9355685263872147
+    },
+    "examplePage": 124,
+    "example": "这是给爷爷的礼物。"
+  },
+  {
+    "id": "zh3-13-04",
+    "text": "奶奶",
+    "source": {
+      "num": 4,
+      "text": "奶奶",
+      "page": 124,
+      "ocr": "4.奶奶nainai",
+      "near": "dt. banoi",
+      "confidence": 0.9645525991916657
+    },
+    "examplePage": 124,
+    "example": "看看爷爷奶奶。"
+  },
+  {
+    "id": "zh3-13-05",
+    "text": "遇到",
+    "source": {
+      "num": 5,
+      "text": "遇到",
+      "page": 124,
+      "ocr": "5.遇到",
+      "near": "yudaodgt.tinh cagap",
+      "confidence": 0.9995196610689163
+    },
+    "examplePage": 124,
+    "example": "她是我今天在路上遇到的一个老同学。"
+  },
+  {
+    "id": "zh3-13-06",
+    "text": "一边",
+    "source": {
+      "num": 6,
+      "text": "一边",
+      "page": 124,
+      "ocr": "6.一边yibianpho.vua(duoc",
+      "near": "",
+      "confidence": 0.9280483749779788
+    },
+    "examplePage": 124,
+    "example": "一边喝咖啡一边说了些过去的事。"
+  },
+  {
+    "id": "zh3-13-07",
+    "text": "过去",
+    "source": {
+      "num": 7,
+      "text": "过去",
+      "page": 124,
+      "ocr": "7.过去guoqudt.quakhut",
+      "near": "",
+      "confidence": 0.965787947177887
+    },
+    "examplePage": 124,
+    "example": "一边喝咖啡一边说了些过去的事。"
+  },
+  {
+    "id": "zh3-13-08",
+    "text": "一般",
+    "source": {
+      "num": 8,
+      "text": "一般",
+      "page": 124,
+      "ocr": "8.一般yiban",
+      "near": "tt.thong thuong",
+      "confidence": 0.9931343727641635
+    },
+    "examplePage": 124,
+    "example": "周末你一般跟小刚出去看电影吗？"
+  },
+  {
+    "id": "zh3-13-09",
+    "text": "愿意",
+    "source": {
+      "num": 9,
+      "text": "愿意",
+      "page": 124,
+      "ocr": "9.愿意yuanyidgt.muon",
+      "near": "",
+      "confidence": 0.9894466631942325
+    },
+    "examplePage": 124,
+    "example": "我更愿意在家看电视。"
+  },
+  {
+    "id": "zh3-13-10",
+    "text": "起来",
+    "source": {
+      "num": 10,
+      "text": "起来",
+      "page": 124,
+      "ocr": "10.起来qilai",
+      "near": "dgt. (chi su di",
+      "confidence": 0.9344458699226379
+    },
+    "examplePage": 124,
+    "example": "站起来休息一会儿。"
+  },
+  {
+    "id": "zh3-13-11",
+    "text": "应该",
+    "source": {
+      "num": 11,
+      "text": "应该",
+      "page": 124,
+      "ocr": "11. 应该 yinggai dgt. nen,can phai",
+      "near": "",
+      "confidence": 0.9474729560315609
+    },
+    "examplePage": 124,
+    "example": "你应该多出去走走。"
+  },
+  {
+    "id": "zh3-13-12",
+    "text": "生活",
+    "source": {
+      "num": 12,
+      "text": "生活",
+      "page": 124,
+      "ocr": "*12.生活shenghu6dt.doi song,",
+      "near": "",
+      "confidence": 0.9630391253874853
+    },
+    "examplePage": 124,
+    "example": "有他在，我的生活已经很有意思了。"
+  },
+  {
+    "id": "zh3-13-13",
+    "text": "校长",
+    "source": {
+      "num": 13,
+      "text": "校长",
+      "page": 125,
+      "ocr": "13.校长xidozhang dt.hieu truong",
+      "near": "",
+      "confidence": 0.9390672239763983
+    },
+    "examplePage": 125,
+    "example": "现在他已经是校长了。"
+  },
+  {
+    "id": "zh3-13-14",
+    "text": "坏",
+    "source": {
+      "num": 14,
+      "text": "坏",
+      "page": 125,
+      "ocr": "14.坏huai",
+      "near": "tt.qua,quamic",
+      "confidence": 0.9625972658395767
+    },
+    "examplePage": 125,
+    "example": "我真怕他累坏了。"
+  },
+  {
+    "id": "zh3-13-15",
+    "text": "经常",
+    "source": {
+      "num": 15,
+      "text": "经常",
+      "page": 125,
+      "ocr": "15.经常 jingchang pho.",
+      "near": "",
+      "confidence": 0.9270515531301499
+    },
+    "examplePage": 125,
+    "example": "可以经常和我还有孩子在一起。"
+  },
+  {
+    "id": "zh3-14-01",
+    "text": "打扫",
+    "source": {
+      "num": 1,
+      "text": "打扫",
+      "page": 133,
+      "ocr": "1.打扫dosáo",
+      "near": "dgt.quet don",
+      "confidence": 0.8613111939695146
+    },
+    "examplePage": 133,
+    "example": "他们会把房间打扫干净。"
+  },
+  {
+    "id": "zh3-14-02",
+    "text": "干净",
+    "source": {
+      "num": 2,
+      "text": "干净",
+      "page": 133,
+      "ocr": "2.干净ganjing",
+      "near": "tt. sachse",
+      "confidence": 0.9820112260905179
+    },
+    "examplePage": 133,
+    "example": "他们会把房间打扫干净。"
+  },
+  {
+    "id": "zh3-14-03",
+    "text": "然后",
+    "source": {
+      "num": 3,
+      "text": "然后",
+      "page": 133,
+      "ocr": "3.然后ranhou",
+      "near": "lien. sau d6",
+      "confidence": 0.9661593794822693
+    },
+    "examplePage": 133,
+    "example": "然后把冰箱里的西瓜拿出来。"
+  },
+  {
+    "id": "zh3-14-04",
+    "text": "冰箱",
+    "source": {
+      "num": 4,
+      "text": "冰箱",
+      "page": 133,
+      "ocr": "4.冰箱bingxiangdt.ti lanh",
+      "near": "",
+      "confidence": 0.9623880723248357
+    },
+    "examplePage": 133,
+    "example": "然后把冰箱里的西瓜拿出来。"
+  },
+  {
+    "id": "zh3-14-05",
+    "text": "洗澡",
+    "source": {
+      "num": 5,
+      "text": "洗澡",
+      "page": 133,
+      "ocr": "5.洗澡xizäodgt.tam,tamrita",
+      "near": "",
+      "confidence": 0.9035484803219637
+    },
+    "examplePage": 133,
+    "example": "我刚洗了个澡，没听见。"
+  },
+  {
+    "id": "zh3-14-06",
+    "text": "节目",
+    "source": {
+      "num": 6,
+      "text": "节目",
+      "page": 133,
+      "ocr": "6.节目jiémudt.chuong trinh",
+      "near": "",
+      "confidence": 0.9431215350826582
+    },
+    "examplePage": 133,
+    "example": "你先把电视节目看完吧。"
+  },
+  {
+    "id": "zh3-14-07",
+    "text": "月亮",
+    "source": {
+      "num": 7,
+      "text": "月亮",
+      "page": 133,
+      "ocr": "7.月亮yueliang dt.mat trang",
+      "near": "",
+      "confidence": 0.9726540780067444
+    },
+    "examplePage": 133,
+    "example": "今晚的月亮真漂亮，像白色的盘子一样。"
+  },
+  {
+    "id": "zh3-14-08",
+    "text": "像",
+    "source": {
+      "num": 8,
+      "text": "像",
+      "page": 133,
+      "ocr": "8.像",
+      "near": "xiang dgt.giong",
+      "confidence": 0.9971943100293478
+    },
+    "examplePage": 133,
+    "example": "今晚的月亮真漂亮，像白色的盘子一样。"
+  },
+  {
+    "id": "zh3-14-09",
+    "text": "盘子",
+    "source": {
+      "num": 9,
+      "text": "盘子",
+      "page": 133,
+      "ocr": "9.盘子 pánzi",
+      "near": "dt.dia,mam",
+      "confidence": 0.910571026802063
+    },
+    "examplePage": 133,
+    "example": "今晚的月亮真漂亮，像白色的盘子一样。"
+  },
+  {
+    "id": "zh3-14-10",
+    "text": "刮风",
+    "source": {
+      "num": 10,
+      "text": "刮风",
+      "page": 133,
+      "ocr": "10.刮风gua feng dgt.noi gio",
+      "near": "",
+      "confidence": 0.9342249703407287
+    },
+    "examplePage": 133,
+    "example": "外边也不刮风。"
+  },
+  {
+    "id": "zh3-14-11",
+    "text": "叔叔",
+    "source": {
+      "num": 11,
+      "text": "叔叔",
+      "page": 133,
+      "ocr": "11.叔叔shushu",
+      "near": "dt.chui",
+      "confidence": 0.9626564058390531
+    },
+    "examplePage": 133,
+    "example": "我们听叔叔阿姨讲讲他们年轻时候的故事。"
+  },
+  {
+    "id": "zh3-14-12",
+    "text": "阿姨",
+    "source": {
+      "num": 12,
+      "text": "阿姨",
+      "page": 133,
+      "ocr": "12.阿姨ayi",
+      "near": "dt. di, co",
+      "confidence": 0.9771521613001823
+    },
+    "examplePage": 133,
+    "example": "我们听叔叔阿姨讲讲他们年轻时候的故事。"
+  },
+  {
+    "id": "zh3-14-13",
+    "text": "故事",
+    "source": {
+      "num": 13,
+      "text": "故事",
+      "page": 133,
+      "ocr": "13.故事gushi",
+      "near": "dt.truyen,",
+      "confidence": 0.9991701543331146
+    },
+    "examplePage": 133,
+    "example": "我们听叔叔阿姨讲讲他们年轻时候的故事。"
+  },
+  {
+    "id": "zh3-14-14",
+    "text": "声音",
+    "source": {
+      "num": 14,
+      "text": "声音",
+      "page": 133,
+      "ocr": "14.声音shengyindt.amthanh,",
+      "near": "",
+      "confidence": 0.9813793301582336
+    },
+    "examplePage": 133,
+    "example": "你听外边的声音。"
+  },
+  {
+    "id": "zh3-14-15",
+    "text": "菜单",
+    "source": {
+      "num": 15,
+      "text": "菜单",
+      "page": 134,
+      "ocr": "15.菜单caidan",
+      "near": "dt.thucdon",
+      "confidence": 0.9631444161588495
+    },
+    "examplePage": 134,
+    "example": "你在饭馆儿的菜单上见过水果饭吗？"
+  },
+  {
+    "id": "zh3-14-16",
+    "text": "简单",
+    "source": {
+      "num": 16,
+      "text": "简单",
+      "page": 134,
+      "ocr": "16.简单jiandan",
+      "near": "tt.dongian",
+      "confidence": 0.9389538715283076
+    },
+    "examplePage": 134,
+    "example": "其实做水果饭很简单。"
+  },
+  {
+    "id": "zh3-14-17",
+    "text": "香蕉",
+    "source": {
+      "num": 17,
+      "text": "香蕉",
+      "page": 134,
+      "ocr": "17.香蕉xiangjiaodt.chuoitieu",
+      "near": "",
+      "confidence": 0.9797992683373965
+    },
+    "examplePage": 134,
+    "example": "你可以做苹果饭、香蕉饭。"
+  },
+  {
+    "id": "zh3-15-01",
+    "text": "留学",
+    "source": {
+      "num": 1,
+      "text": "留学",
+      "page": 142,
+      "ocr": "1.留学",
+      "near": "liuxué dgt. duhoc",
+      "confidence": 0.9991234838962555
+    },
+    "examplePage": 142,
+    "example": "我来中国留学两年了，但是我的汉语水平提高得一点儿也不快啊。"
+  },
+  {
+    "id": "zh3-15-02",
+    "text": "水平",
+    "source": {
+      "num": 2,
+      "text": "水平",
+      "page": 142,
+      "ocr": "2.水平",
+      "near": "shuiping dt. trinhdo",
+      "confidence": 0.9996053725481033
+    },
+    "examplePage": 142,
+    "example": "我来中国留学两年了，但是我的汉语水平提高得一点儿也不快啊。"
+  },
+  {
+    "id": "zh3-15-03",
+    "text": "提高",
+    "source": {
+      "num": 3,
+      "text": "提高",
+      "page": 142,
+      "ocr": "3.提高ti gao",
+      "near": "dgt. nangcao,",
+      "confidence": 0.9618844628334046
+    },
+    "examplePage": 142,
+    "example": "我来中国留学两年了，但是我的汉语水平提高得一点儿也不快啊。"
+  },
+  {
+    "id": "zh3-15-04",
+    "text": "练习",
+    "source": {
+      "num": 4,
+      "text": "练习",
+      "page": 142,
+      "ocr": "4.练习",
+      "near": "lianxi dt. baitap",
+      "confidence": 0.9986269176006317
+    },
+    "examplePage": 142,
+    "example": "做练习、完成作业"
+  },
+  {
+    "id": "zh3-15-05",
+    "text": "完成",
+    "source": {
+      "num": 5,
+      "text": "完成",
+      "page": 142,
+      "ocr": "5.完成",
+      "near": "wan cheng dgt.hoan thanh",
+      "confidence": 0.9980679303407669
+    },
+    "examplePage": 142,
+    "example": "做练习、完成作业"
+  },
+  {
+    "id": "zh3-15-06",
+    "text": "句子",
+    "source": {
+      "num": 6,
+      "text": "句子",
+      "page": 142,
+      "ocr": "6.句子",
+      "near": "juzi dt. cau",
+      "confidence": 0.9907657653093338
+    },
+    "examplePage": 142,
+    "example": "除了这个句子意思有些不清楚外，其他都没什么问题。"
+  },
+  {
+    "id": "zh3-15-07",
+    "text": "其他",
+    "source": {
+      "num": 7,
+      "text": "其他",
+      "page": 142,
+      "ocr": "7.其他",
+      "near": "qita dt. caikhac",
+      "confidence": 0.9998490661382675
+    },
+    "examplePage": 142,
+    "example": "除了这个句子意思有些不清楚外，其他都没什么问题。"
+  },
+  {
+    "id": "zh3-15-08",
+    "text": "发",
+    "source": {
+      "num": 8,
+      "text": "发",
+      "page": 142,
+      "ocr": "8.发",
+      "near": "fa dgt. gii,giidi",
+      "confidence": 0.9979511300722758
+    },
+    "examplePage": 142,
+    "example": "可以给我打电话或者发电子邮件。"
+  },
+  {
+    "id": "zh3-15-09",
+    "text": "要求",
+    "source": {
+      "num": 9,
+      "text": "要求",
+      "page": 142,
+      "ocr": "9.要求",
+      "near": "yaoqiudt.yeucau",
+      "confidence": 0.9995937347412109
+    },
+    "examplePage": 142,
+    "example": "这次比赛的要求和一些需要注意的地方"
+  },
+  {
+    "id": "zh3-15-10",
+    "text": "注意",
+    "source": {
+      "num": 10,
+      "text": "注意",
+      "page": 142,
+      "ocr": "10.注意",
+      "near": "zhuyi dgt.chuy",
+      "confidence": 0.9998290657997131
+    },
+    "examplePage": 142,
+    "example": "这次比赛的要求和一些需要注意的地方"
+  },
+  {
+    "id": "zh3-15-11",
+    "text": "上网",
+    "source": {
+      "num": 11,
+      "text": "上网",
+      "page": 142,
+      "ocr": "11.上网",
+      "near": "shang wang dgt.",
+      "confidence": 0.9997493505477906
+    },
+    "examplePage": 142,
+    "example": "现在用电脑上网真方便啊！"
+  },
+  {
+    "id": "zh3-15-12",
+    "text": "除了",
+    "source": {
+      "num": 12,
+      "text": "除了",
+      "page": 142,
+      "ocr": "12.除了",
+      "near": "chule gioi.ngoai...ra",
+      "confidence": 0.9987036466598511
+    },
+    "examplePage": 142,
+    "example": "除了这个句子意思有些不清楚外，其他都没什么问题。"
+  },
+  {
+    "id": "zh3-15-13",
+    "text": "新闻",
+    "source": {
+      "num": 13,
+      "text": "新闻",
+      "page": 142,
+      "ocr": "13.新闻",
+      "near": "xinwen dt. tintic",
+      "confidence": 0.9985089302062988
+    },
+    "examplePage": 142,
+    "example": "除了看新闻，人们还可以在网上听歌、看电影、买东西。"
+  },
+  {
+    "id": "zh3-15-14",
+    "text": "花",
+    "source": {
+      "num": 14,
+      "text": "花",
+      "page": 142,
+      "ocr": "14.花",
+      "near": "hua dgt.ton,tieu ton",
+      "confidence": 0.9994648545980453
+    },
+    "examplePage": 142,
+    "example": "不用花钱，还有新衣服穿，他满意极了。"
+  },
+  {
+    "id": "zh3-15-15",
+    "text": "极了",
+    "source": {
+      "num": 15,
+      "text": "极（了）",
+      "page": 142,
+      "ocr": "15.极（了）ji（le)",
+      "near": "pho.het suic,",
+      "confidence": 0.8107785009420835
+    },
+    "examplePage": 142,
+    "example": "不用花钱，还有新衣服穿，他满意极了。"
+  },
+  {
+    "id": "zh3-15-16",
+    "text": "节日",
+    "source": {
+      "num": 16,
+      "text": "节日",
+      "page": 143,
+      "ocr": "16.节日jiéri",
+      "near": "dt. ngay le",
+      "confidence": 0.9862312912940979
+    },
+    "examplePage": 143,
+    "example": "这里很重要的一个节日"
+  },
+  {
+    "id": "zh3-15-17",
+    "text": "举行",
+    "source": {
+      "num": 17,
+      "text": "举行",
+      "page": 143,
+      "ocr": "*17.举行juxing",
+      "near": "dgt.tochuic(hoi",
+      "confidence": 0.9913829763730367
+    },
+    "examplePage": 143,
+    "example": "每年夏天都要举行一次啤酒节。"
+  },
+  {
+    "id": "zh3-15-18",
+    "text": "世界",
+    "source": {
+      "num": 18,
+      "text": "世界",
+      "page": 143,
+      "ocr": "18.世界shijie",
+      "near": "dt.the gioi",
+      "confidence": 0.9427289312536066
+    },
+    "examplePage": 143,
+    "example": "你可以在街道两边看到世界上不同地方的歌舞。"
+  },
+  {
+    "id": "zh3-15-19",
+    "text": "街道",
+    "source": {
+      "num": 19,
+      "text": "街道",
+      "page": 143,
+      "ocr": "19.街道jiedao",
+      "near": "dt.duong,duong",
+      "confidence": 0.9629592462019487
+    },
+    "examplePage": 143,
+    "example": "你可以在街道两边看到世界上不同地方的歌舞。"
+  },
+  {
+    "id": "zh3-15-20",
+    "text": "各",
+    "source": {
+      "num": 20,
+      "text": "各",
+      "page": 143,
+      "ocr": "*20.各ge",
+      "near": "dt.moi",
+      "confidence": 0.9836940169334412
+    },
+    "examplePage": 143,
+    "example": "你想不想了解世界各个地方的啤酒文化？"
+  },
+  {
+    "id": "zh3-15-21",
+    "text": "文化",
+    "source": {
+      "num": 21,
+      "text": "文化",
+      "page": 143,
+      "ocr": "21.文化wénhua dt.van hoa",
+      "near": "",
+      "confidence": 0.9233763028274883
+    },
+    "examplePage": 143,
+    "example": "你想不想了解世界各个地方的啤酒文化？"
+  },
+  {
+    "id": "zh3-16-01",
+    "text": "城市",
+    "source": {
+      "num": 1,
+      "text": "城市",
+      "page": 152,
+      "ocr": "1.城市chéngshi dt.thanh pho",
+      "near": "",
+      "confidence": 0.9728018426895142
+    },
+    "examplePage": 152,
+    "example": "我不喜欢一直住在同一个城市。"
+  },
+  {
+    "id": "zh3-16-02",
+    "text": "如果",
+    "source": {
+      "num": 2,
+      "text": "如果",
+      "page": 152,
+      "ocr": "2.如果ruguo",
+      "near": "lien.neu",
+      "confidence": 0.9885432521502177
+    },
+    "examplePage": 152,
+    "example": "如果有钱，就去了。"
+  },
+  {
+    "id": "zh3-16-03",
+    "text": "认为",
+    "source": {
+      "num": 3,
+      "text": "认为",
+      "page": 152,
+      "ocr": "3.认为renwéi",
+      "near": "dgt.chorang",
+      "confidence": 0.9597549140453339
+    },
+    "examplePage": 152,
+    "example": "我认为现在您有时间也不会出去玩儿。"
+  },
+  {
+    "id": "zh3-16-04",
+    "text": "皮鞋",
+    "source": {
+      "num": 4,
+      "text": "皮鞋",
+      "page": 152,
+      "ocr": "4.皮鞋pixié",
+      "near": "dt.giay da",
+      "confidence": 0.9861785107188754
+    },
+    "examplePage": 152,
+    "example": "你送的小皮鞋和小帽子真漂亮！"
+  },
+  {
+    "id": "zh3-16-05",
+    "text": "帽子",
+    "source": {
+      "num": 5,
+      "text": "帽子",
+      "page": 152,
+      "ocr": "5.帽子maozi",
+      "near": "dt.mi,non",
+      "confidence": 0.9718162152502272
+    },
+    "examplePage": 152,
+    "example": "你送的小皮鞋和小帽子真漂亮！"
+  },
+  {
+    "id": "zh3-16-06",
+    "text": "长",
+    "source": {
+      "num": 6,
+      "text": "长",
+      "page": 152,
+      "ocr": "6.长",
+      "near": "zhang dgt.truong thanh,",
+      "confidence": 0.9952926834424337
+    },
+    "examplePage": 152,
+    "example": "你女儿长得白白的、胖胖的，真可爱！"
+  },
+  {
+    "id": "zh3-16-07",
+    "text": "可爱",
+    "source": {
+      "num": 7,
+      "text": "可爱",
+      "page": 152,
+      "ocr": "7.可爱keai",
+      "near": "tt. dangyeu,de",
+      "confidence": 0.9324226304888725
+    },
+    "examplePage": 152,
+    "example": "你女儿长得白白的、胖胖的，真可爱！"
+  },
+  {
+    "id": "zh3-16-08",
+    "text": "米",
+    "source": {
+      "num": 8,
+      "text": "米",
+      "page": 152,
+      "ocr": "8.米",
+      "near": "mi dt. met",
+      "confidence": 0.9997331897417704
+    },
+    "examplePage": 152,
+    "example": "快1米了，25公斤。"
+  },
+  {
+    "id": "zh3-16-09",
+    "text": "公斤",
+    "source": {
+      "num": 9,
+      "text": "公斤",
+      "page": 152,
+      "ocr": "9.公斤 gongjin dt.",
+      "near": "kilogram",
+      "confidence": 0.9539457112550735
+    },
+    "examplePage": 152,
+    "example": "快1米了，25公斤。"
+  },
+  {
+    "id": "zh3-16-10",
+    "text": "鼻子",
+    "source": {
+      "num": 10,
+      "text": "鼻子",
+      "page": 152,
+      "ocr": "10.鼻子bizi",
+      "near": "dt. mii",
+      "confidence": 0.9937719636493259
+    },
+    "examplePage": 152,
+    "example": "你看她鼻子小小的，头发黑黑的。"
+  },
+  {
+    "id": "zh3-16-11",
+    "text": "头发",
+    "source": {
+      "num": 11,
+      "text": "头发",
+      "page": 152,
+      "ocr": "11.头发toufa",
+      "near": "dt. toc",
+      "confidence": 0.9909578859806061
+    },
+    "examplePage": 152,
+    "example": "你看她鼻子小小的，头发黑黑的。"
+  },
+  {
+    "id": "zh3-16-12",
+    "text": "检查",
+    "source": {
+      "num": 12,
+      "text": "检查",
+      "page": 152,
+      "ocr": "12.检查jiancha",
+      "near": "dgt.kiem tra,",
+      "confidence": 0.9341699033975601
+    },
+    "examplePage": 152,
+    "example": "就去医院检查一下吧。"
+  },
+  {
+    "id": "zh3-16-13",
+    "text": "刷牙",
+    "source": {
+      "num": 13,
+      "text": "刷牙",
+      "page": 152,
+      "ocr": "13.刷牙shuayádgt.chairang",
+      "near": "",
+      "confidence": 0.9732317509858505
+    },
+    "examplePage": 152,
+    "example": "回家好好儿刷牙。"
+  },
+  {
+    "id": "zh3-16-14",
+    "text": "关系",
+    "source": {
+      "num": 14,
+      "text": "关系",
+      "page": 153,
+      "ocr": "14.关系guanxidt.quanhe",
+      "near": "",
+      "confidence": 0.9903393715620041
+    },
+    "examplePage": 153,
+    "example": "和别人的关系就会变得更好。"
+  },
+  {
+    "id": "zh3-16-15",
+    "text": "别人",
+    "source": {
+      "num": 15,
+      "text": "别人",
+      "page": 153,
+      "ocr": "15.别人biéréndt.nguoikhac",
+      "near": "",
+      "confidence": 0.9344152937764707
+    },
+    "examplePage": 153,
+    "example": "和别人的关系就会变得更好。"
+  },
+  {
+    "id": "zh3-16-16",
+    "text": "词语",
+    "source": {
+      "num": 16,
+      "text": "词语",
+      "page": 153,
+      "ocr": "*16.词语ciyu",
+      "near": "dt.tingu",
+      "confidence": 0.9826036393642426
+    },
+    "examplePage": 153,
+    "example": "多用一些“您好”“谢谢”这样的词语"
+  },
+  {
+    "id": "zh3-17-01",
+    "text": "请假",
+    "source": {
+      "num": 1,
+      "text": "请假",
+      "page": 160,
+      "ocr": "1.请假qing jiadgt.xin nghiphep",
+      "near": "",
+      "confidence": 0.9386589271681649
+    },
+    "examplePage": 160,
+    "example": "下个星期我可以请几天假吗？"
+  },
+  {
+    "id": "zh3-17-02",
+    "text": "一共",
+    "source": {
+      "num": 2,
+      "text": "一共",
+      "page": 160,
+      "ocr": "2.一共 yigongpho.tong cong",
+      "near": "",
+      "confidence": 0.9636883015433947
+    },
+    "examplePage": 160,
+    "example": "你一共想请几天假？"
+  },
+  {
+    "id": "zh3-17-03",
+    "text": "邻居",
+    "source": {
+      "num": 3,
+      "text": "邻居",
+      "page": 160,
+      "ocr": "3.邻居linju",
+      "near": "dt.lang gieng",
+      "confidence": 0.9463368786705865
+    },
+    "examplePage": 160,
+    "example": "我们过去是邻居，后来是大学同学。"
+  },
+  {
+    "id": "zh3-17-04",
+    "text": "后来",
+    "source": {
+      "num": 4,
+      "text": "后来",
+      "page": 160,
+      "ocr": "4.后来houlai dt.saunay,sau d6",
+      "near": "",
+      "confidence": 0.9338515555417096
+    },
+    "examplePage": 160,
+    "example": "我们过去是邻居，后来是大学同学。"
+  },
+  {
+    "id": "zh3-17-05",
+    "text": "爱好",
+    "source": {
+      "num": 5,
+      "text": "爱好",
+      "page": 160,
+      "ocr": "5.爱好aihaodt.sothich",
+      "near": "",
+      "confidence": 0.9804457300587704
+    },
+    "examplePage": 160,
+    "example": "他有很多爱好。"
+  },
+  {
+    "id": "zh3-17-06",
+    "text": "办法",
+    "source": {
+      "num": 6,
+      "text": "办法",
+      "page": 160,
+      "ocr": "6.办法banfä",
+      "near": "dt.cach,bien",
+      "confidence": 0.9231254723336961
+    },
+    "examplePage": 160,
+    "example": "谁都有办法看好你的“病”。"
+  },
+  {
+    "id": "zh3-17-07",
+    "text": "饱",
+    "source": {
+      "num": 7,
+      "text": "饱",
+      "page": 160,
+      "ocr": "7.饱",
+      "near": "bäo tt. no",
+      "confidence": 0.9141263167063395
+    },
+    "examplePage": 160,
+    "example": "你吃饱了就睡。"
+  },
+  {
+    "id": "zh3-17-08",
+    "text": "为了",
+    "source": {
+      "num": 8,
+      "text": "为了",
+      "page": 160,
+      "ocr": "8.为了",
+      "near": "weile gioi. de, vi",
+      "confidence": 0.9935669153928757
+    },
+    "examplePage": 160,
+    "example": "为了健康，我真应该多锻炼锻炼了。"
+  },
+  {
+    "id": "zh3-17-09",
+    "text": "决定",
+    "source": {
+      "num": 9,
+      "text": "决定",
+      "page": 160,
+      "ocr": "9.决定juéding",
+      "near": "dgt.quyet dinh",
+      "confidence": 0.9668552279472351
+    },
+    "examplePage": 160,
+    "example": "我决定每天去长跑。"
+  },
+  {
+    "id": "zh3-17-10",
+    "text": "选择",
+    "source": {
+      "num": 10,
+      "text": "选择",
+      "page": 161,
+      "ocr": "10.选择xuanzédgt.luachon",
+      "near": "",
+      "confidence": 0.962988945570859
+    },
+    "examplePage": 161,
+    "example": "要选择“对”的时间。"
+  },
+  {
+    "id": "zh3-17-11",
+    "text": "冬天",
+    "source": {
+      "num": 11,
+      "text": "冬",
+      "page": 161,
+      "ocr": "11.冬(天)dong (tian) dt.",
+      "near": "",
+      "confidence": 0.9179402698170055
+    },
+    "examplePage": 161,
+    "example": "冬天要再晚一些。"
+  },
+  {
+    "id": "zh3-17-12",
+    "text": "必须",
+    "source": {
+      "num": 12,
+      "text": "必须",
+      "page": 161,
+      "ocr": "12.必须bixu",
+      "near": "pho.can phai",
+      "confidence": 0.9943009813626608
+    },
+    "examplePage": 161,
+    "example": "必须要根据自己的健康情况运动。"
+  },
+  {
+    "id": "zh3-17-13",
+    "text": "根据",
+    "source": {
+      "num": 13,
+      "text": "根据",
+      "page": 161,
+      "ocr": "13.根据genju",
+      "near": "gioi. can cit vao, 病",
+      "confidence": 0.9960497796535492
+    },
+    "examplePage": 161,
+    "example": "必须要根据自己的健康情况运动。"
+  },
+  {
+    "id": "zh3-17-14",
+    "text": "情况",
+    "source": {
+      "num": 14,
+      "text": "情况",
+      "page": 161,
+      "ocr": "*14.情况qingkuangdt.tinhhinh，",
+      "near": "",
+      "confidence": 0.9654155870278677
+    },
+    "examplePage": 161,
+    "example": "必须要根据自己的健康情况运动。"
+  },
+  {
+    "id": "zh3-17-15",
+    "text": "口",
+    "source": {
+      "num": 15,
+      "text": "口",
+      "page": 161,
+      "ocr": "15.口",
+      "near": "kou dt. mieng",
+      "confidence": 0.9888220429420471
+    },
+    "examplePage": 161,
+    "example": "刚运动完口渴的时候，不要马上喝水。"
+  },
+  {
+    "id": "zh3-17-16",
+    "text": "渴",
+    "source": {
+      "num": 16,
+      "text": "渴",
+      "page": 161,
+      "ocr": "16.渴",
+      "near": "ké tt. khat",
+      "confidence": 0.9987601041793823
+    },
+    "examplePage": 161,
+    "example": "刚运动完口渴的时候，不要马上喝水。"
+  },
+  {
+    "id": "zh3-18-01",
+    "text": "向",
+    "source": {
+      "num": 1,
+      "text": "向",
+      "page": 14,
+      "ocr": "向",
+      "near": "向 xidng gioi. doivoi,vephia（chi huong cua hanh dong) 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 199,
+          "ocr": "向 xidng gioi. doivoi,vephia（chi huong cua hanh dong) 18"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "坐火车的时候，我喜欢向外看。"
+  },
+  {
+    "id": "zh3-18-02",
+    "text": "万",
+    "source": {
+      "num": 2,
+      "text": "万",
+      "page": 14,
+      "ocr": "万",
+      "near": "万 wan so. van,muoinghin 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 199,
+          "ocr": "万 wan so. van,muoinghin 18"
+        }
+      ]
+    },
+    "examplePage": null,
+    "example": ""
+  },
+  {
+    "id": "zh3-18-03",
+    "text": "只",
+    "source": {
+      "num": 3,
+      "text": "只",
+      "page": 14,
+      "ocr": "只",
+      "near": "只 zhi luong. (dugc dung cho dong vat) con 18 只 zhi pho. chi 3 只有... zhiyou..... lien. chico...(thi) moi.. 20",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 201,
+          "ocr": "只 zhi luong. (dugc dung cho dong vat) con 18"
+        },
+        {
+          "page": 201,
+          "ocr": "只 zhi pho. chi 3"
+        },
+        {
+          "page": 201,
+          "ocr": "只有... zhiyou..... lien. chico...(thi) moi.. 20"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "一只动物"
+  },
+  {
+    "id": "zh3-18-04",
+    "text": "嘴",
+    "source": {
+      "num": 4,
+      "text": "嘴",
+      "page": 14,
+      "ocr": "嘴",
+      "near": "嘴 zui dt. mieng 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 201,
+          "ocr": "嘴 zui dt. mieng 18"
+        }
+      ]
+    },
+    "examplePage": null,
+    "example": ""
+  },
+  {
+    "id": "zh3-18-05",
+    "text": "动物",
+    "source": {
+      "num": 5,
+      "text": "动物",
+      "page": 14,
+      "ocr": "动物",
+      "near": "动物 dongwu dt. dongvat,loaivat 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 194,
+          "ocr": "动物 dongwu dt. dongvat,loaivat 18"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "一只动物"
+  },
+  {
+    "id": "zh3-18-06",
+    "text": "段",
+    "source": {
+      "num": 6,
+      "text": "段",
+      "page": 14,
+      "ocr": "段",
+      "near": "段 duan luong. khoang,quang 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 194,
+          "ocr": "段 duan luong. khoang,quang 18"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "只要经过一段时间，就会慢慢地习惯的。"
+  },
+  {
+    "id": "zh3-18-07",
+    "text": "不但……而且……",
+    "source": {
+      "num": 7,
+      "text": "不但……而且……",
+      "page": 14,
+      "ocr": "不但……而且……",
+      "near": "不但.. budan..... lien. khongnhieng...macon... 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 193,
+          "ocr": "不但.. budan..... lien. khongnhieng...macon... 18"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "这家饭馆不但菜很好吃，而且环境很好。"
+  },
+  {
+    "id": "zh3-18-08",
+    "text": "有名",
+    "source": {
+      "num": 8,
+      "text": "有名",
+      "page": 14,
+      "ocr": "有名",
+      "near": "有名 youming tt. c6 tieng,nor tieng 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 200,
+          "ocr": "有名 youming tt. c6 tieng,nor tieng 18"
+        }
+      ]
+    },
+    "examplePage": 175,
+    "example": "黄河是中国有名的大河。"
+  },
+  {
+    "id": "zh3-18-09",
+    "text": "同意",
+    "source": {
+      "num": 9,
+      "text": "同意",
+      "page": 14,
+      "ocr": "同意",
+      "near": "同意 tongyi dgt. dongy,tanthanh 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 199,
+          "ocr": "同意 tongyi dgt. dongy,tanthanh 18"
+        }
+      ]
+    },
+    "examplePage": 167,
+    "example": "我相信他们会同意的。"
+  },
+  {
+    "id": "zh3-18-10",
+    "text": "相信",
+    "source": {
+      "num": 10,
+      "text": "相信",
+      "page": 14,
+      "ocr": "相信",
+      "near": "相信 xiangxin dgt. tin,tintuong 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 199,
+          "ocr": "相信 xiangxin dgt. tin,tintuong 18"
+        }
+      ]
+    },
+    "examplePage": 167,
+    "example": "我相信他们会同意的。"
+  },
+  {
+    "id": "zh3-18-11",
+    "text": "关于",
+    "source": {
+      "num": 11,
+      "text": "关于",
+      "page": 14,
+      "ocr": "关于",
+      "near": "关于 guanyu gioi. ve 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 195,
+          "ocr": "关于 guanyu gioi. ve 18"
+        }
+      ]
+    },
+    "examplePage": 168,
+    "example": "我最近看了一些关于中国文化的电影。"
+  },
+  {
+    "id": "zh3-18-12",
+    "text": "机会",
+    "source": {
+      "num": 12,
+      "text": "机会",
+      "page": 14,
+      "ocr": "机会",
+      "near": "机会 jihui dt. cohoi 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 195,
+          "ocr": "机会 jihui dt. cohoi 18"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "谢谢您给我这个机会。"
+  },
+  {
+    "id": "zh3-18-13",
+    "text": "国家",
+    "source": {
+      "num": 13,
+      "text": "国家",
+      "page": 14,
+      "ocr": "国家",
+      "near": "国家 guojia dt. dat nuoc,quoc gia 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 195,
+          "ocr": "国家 guojia dt. dat nuoc,quoc gia 18"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "你是从哪个国家来的？"
+  },
+  {
+    "id": "zh3-18-14",
+    "text": "种",
+    "source": {
+      "num": 14,
+      "text": "种",
+      "page": 14,
+      "ocr": "种",
+      "near": "种 zhong luqng. loai 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 201,
+          "ocr": "种 zhong luqng. loai 18"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "每种文化都有自己的特点。"
+  },
+  {
+    "id": "zh3-18-15",
+    "text": "特点",
+    "source": {
+      "num": 15,
+      "text": "特点",
+      "page": 14,
+      "ocr": "特点",
+      "near": "",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": []
+    },
+    "examplePage": 169,
+    "example": "每种文化都有自己的特点。"
+  },
+  {
+    "id": "zh3-18-16",
+    "text": "奇怪",
+    "source": {
+      "num": 16,
+      "text": "奇怪",
+      "page": 14,
+      "ocr": "奇怪",
+      "near": "奇怪 qiguai tt. ky la,la ling 18",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 198,
+          "ocr": "奇怪 qiguai tt. ky la,la ling 18"
+        }
+      ]
+    },
+    "examplePage": 170,
+    "example": "为什么有的人到了一个新环境会觉得有些奇怪？"
+  },
+  {
+    "id": "zh3-18-17",
+    "text": "地",
+    "source": {
+      "num": 17,
+      "text": "地",
+      "page": 14,
+      "ocr": "地",
+      "near": "地 de tro. dugc dung de noi trang ngu v6i dong tiu ma n6 18 地方 difang dt. cho,noi 10 地铁 ditie dt. tau dien ngam 11 地图 ditu dt. bando 1",
+      "confidence": null,
+      "kind": "contents-index",
+      "index": [
+        {
+          "page": 194,
+          "ocr": "地 de tro. dugc dung de noi trang ngu v6i dong tiu ma n6 18"
+        },
+        {
+          "page": 194,
+          "ocr": "地方 difang dt. cho,noi 10"
+        },
+        {
+          "page": 194,
+          "ocr": "地铁 ditie dt. tau dien ngam 11"
+        },
+        {
+          "page": 194,
+          "ocr": "地图 ditu dt. bando 1"
+        }
+      ]
+    },
+    "examplePage": 169,
+    "example": "只要经过一段时间，就会慢慢地习惯的。"
+  },
+  {
+    "id": "zh3-19-01",
+    "text": "耳朵",
+    "source": {
+      "num": 1,
+      "text": "耳朵",
+      "page": 174,
+      "ocr": "1.耳朵erduodt.tai",
+      "near": "",
+      "confidence": 0.967173453172048
+    },
+    "examplePage": 174,
+    "example": "女儿最近喜欢把头发放在耳朵后面。"
+  },
+  {
+    "id": "zh3-19-02",
+    "text": "脸",
+    "source": {
+      "num": 2,
+      "text": "脸",
+      "page": 174,
+      "ocr": "2.脸",
+      "near": "liän dt.mat,khuonmat",
+      "confidence": 0.9991807142893473
+    },
+    "examplePage": 174,
+    "example": "这样可以使她的脸看上去漂亮一些。"
+  },
+  {
+    "id": "zh3-19-03",
+    "text": "短",
+    "source": {
+      "num": 3,
+      "text": "短",
+      "page": 174,
+      "ocr": "3.短",
+      "near": "duantt.ngan",
+      "confidence": 0.9980735381444296
+    },
+    "examplePage": 174,
+    "example": "她小时候喜欢短头发。"
+  },
+  {
+    "id": "zh3-19-04",
+    "text": "马",
+    "source": {
+      "num": 4,
+      "text": "马",
+      "page": 174,
+      "ocr": "4.马",
+      "near": "ma dt. ngua",
+      "confidence": 0.9984550674756368
+    },
+    "examplePage": 174,
+    "example": "上次我们参加骑马比赛的照片，我选了几张洗出来了。"
+  },
+  {
+    "id": "zh3-19-05",
+    "text": "张",
+    "source": {
+      "num": 5,
+      "text": "张",
+      "page": 174,
+      "ocr": "5.张zhang",
+      "near": "gluong.(duoc dung",
+      "confidence": 0.9982115179300308
+    },
+    "examplePage": 174,
+    "example": "上次我们参加骑马比赛的照片，我选了几张洗出来了。"
+  },
+  {
+    "id": "zh3-19-06",
+    "text": "位",
+    "source": {
+      "num": 6,
+      "text": "位",
+      "page": 174,
+      "ocr": "6.位wei luong.(duoc dung cho",
+      "near": "",
+      "confidence": 0.9530356415995845
+    },
+    "examplePage": 174,
+    "example": "骑得最快的这位是谁？"
+  },
+  {
+    "id": "zh3-19-07",
+    "text": "蓝",
+    "source": {
+      "num": 7,
+      "text": "蓝",
+      "page": 174,
+      "ocr": "7.蓝lantt.comauxanhda troi",
+      "near": "",
+      "confidence": 0.9374362325668335
+    },
+    "examplePage": 174,
+    "example": "他今天穿蓝西服。"
+  },
+  {
+    "id": "zh3-19-08",
+    "text": "秋天",
+    "source": {
+      "num": 8,
+      "text": "秋（天）",
+      "page": 174,
+      "ocr": "8.秋（天）qiu(tian）dt.（mua)thu",
+      "near": "",
+      "confidence": 0.910878626199869
+    },
+    "examplePage": 174,
+    "example": "她去年秋天出生的，刚过完一岁生日。"
+  },
+  {
+    "id": "zh3-19-09",
+    "text": "过",
+    "source": {
+      "num": 9,
+      "text": "过",
+      "page": 174,
+      "ocr": "9.过guodgt.an(ming),trai qua",
+      "near": "",
+      "confidence": 0.9457047603748463
+    },
+    "examplePage": 174,
+    "example": "她去年秋天出生的，刚过完一岁生日。"
+  },
+  {
+    "id": "zh3-19-10",
+    "text": "鸟",
+    "source": {
+      "num": 10,
+      "text": "鸟",
+      "page": 174,
+      "ocr": "10.鸟niodt.chim",
+      "near": "",
+      "confidence": 0.9954772293567657
+    },
+    "examplePage": 174,
+    "example": "她就喜欢听她爸爸学鸟叫。"
+  },
+  {
+    "id": "zh3-19-11",
+    "text": "哭",
+    "source": {
+      "num": 11,
+      "text": "哭",
+      "page": 174,
+      "ocr": "11.哭kudgt.khoc",
+      "near": "",
+      "confidence": 0.9925344118050167
+    },
+    "examplePage": 174,
+    "example": "哭的时候只要他爸爸学小鸟叫，她马上就安静下来了。"
+  },
+  {
+    "id": "zh3-19-12",
+    "text": "黄河",
+    "source": {
+      "num": 12,
+      "text": "黄河",
+      "page": 175,
+      "ocr": "12.黄河Huang Hédt.Hoang Ha",
+      "near": "",
+      "confidence": 0.9349520479639372
+    },
+    "examplePage": 175,
+    "example": "黄河是中国有名的大河，我坐在船上，一边看一边照相。"
+  },
+  {
+    "id": "zh3-19-13",
+    "text": "船",
+    "source": {
+      "num": 13,
+      "text": "船",
+      "page": 175,
+      "ocr": "13.船",
+      "near": "chuandt.thuyen,tau",
+      "confidence": 0.999319389462471
+    },
+    "examplePage": 175,
+    "example": "黄河是中国有名的大河，我坐在船上，一边看一边照相。"
+  },
+  {
+    "id": "zh3-19-14",
+    "text": "经过",
+    "source": {
+      "num": 14,
+      "text": "经过",
+      "page": 175,
+      "ocr": "14.经过jingguodgt.dingangqua",
+      "near": "",
+      "confidence": 0.9734236208292154
+    },
+    "examplePage": 175,
+    "example": "一路上经过了很多地方。"
+  },
+  {
+    "id": "zh3-20-01",
+    "text": "照相机",
+    "source": {
+      "num": 1,
+      "text": "照相机",
+      "page": 183,
+      "ocr": "1.照相机zhaoxiangjidt.",
+      "near": "",
+      "confidence": 0.9520692637092188
+    },
+    "examplePage": 183,
+    "example": "我的照相机被谁拿走了？"
+  },
+  {
+    "id": "zh3-20-02",
+    "text": "被",
+    "source": {
+      "num": 2,
+      "text": "被",
+      "page": 183,
+      "ocr": "2.被bei",
+      "near": "gioi. (duoc dung de chi",
+      "confidence": 0.9661989212036133
+    },
+    "examplePage": 183,
+    "example": "我的照相机被谁拿走了？"
+  },
+  {
+    "id": "zh3-20-03",
+    "text": "难过",
+    "source": {
+      "num": 3,
+      "text": "难过",
+      "page": 183,
+      "ocr": "3.难过",
+      "near": "nanguo tt.buon",
+      "confidence": 0.9996231943368912
+    },
+    "examplePage": 183,
+    "example": "别难过，再买一个吧。"
+  },
+  {
+    "id": "zh3-20-04",
+    "text": "东",
+    "source": {
+      "num": 4,
+      "text": "东",
+      "page": 183,
+      "ocr": "4.东",
+      "near": "dong dt.phia dong",
+      "confidence": 0.9996299147605896
+    },
+    "examplePage": 183,
+    "example": "公司东门外不就有一个大商场吗？"
+  },
+  {
+    "id": "zh3-20-05",
+    "text": "信用卡",
+    "source": {
+      "num": 5,
+      "text": "信用卡",
+      "page": 183,
+      "ocr": "5.信用卡xinyongkadt.thetin",
+      "near": "",
+      "confidence": 0.9633823037147522
+    },
+    "examplePage": 183,
+    "example": "我这个月信用卡里的钱已经花得差不多了。"
+  },
+  {
+    "id": "zh3-20-06",
+    "text": "关心",
+    "source": {
+      "num": 6,
+      "text": "关心",
+      "page": 183,
+      "ocr": "6.关心guanxindgt.quan tam,",
+      "near": "",
+      "confidence": 0.974882202843825
+    },
+    "examplePage": 183,
+    "example": "你怎么突然关心起体育来了？"
+  },
+  {
+    "id": "zh3-20-07",
+    "text": "只有……才……",
+    "source": {
+      "num": 7,
+      "text": "只有",
+      "page": 183,
+      "ocr": "7.只有..",
+      "near": "",
+      "confidence": 0.7477015107870102
+    },
+    "examplePage": 183,
+    "example": "看来只有爱，才能让人有变化。"
+  },
+  {
+    "id": "zh3-20-08",
+    "text": "成绩",
+    "source": {
+      "num": 8,
+      "text": "成绩",
+      "page": 183,
+      "ocr": "8.成绩chengjidt.thanh tich,ket",
+      "near": "",
+      "confidence": 0.9562137169497353
+    },
+    "examplePage": 183,
+    "example": "我的成绩差极了。"
+  },
+  {
+    "id": "zh3-20-09",
+    "text": "碗",
+    "source": {
+      "num": 9,
+      "text": "碗",
+      "page": 183,
+      "ocr": "9.碗wandt.bat",
+      "near": "",
+      "confidence": 0.9603832910458246
+    },
+    "examplePage": 183,
+    "example": "那个拿着碗吃饭的人是你哥哥吗？"
+  },
+  {
+    "id": "zh3-20-10",
+    "text": "分",
+    "source": {
+      "num": 10,
+      "text": "分",
+      "page": 183,
+      "ocr": "10.分fendgt.phan biet",
+      "near": "",
+      "confidence": 0.9638392269611359
+    },
+    "examplePage": 183,
+    "example": "只有你们的爸爸妈妈才能分出来哪个是哥哥，哪个是弟弟吧。"
+  },
+  {
+    "id": "zh3-20-11",
+    "text": "解决",
+    "source": {
+      "num": 11,
+      "text": "解决",
+      "page": 184,
+      "ocr": "11.解决jiejuédgt.giaiquyet",
+      "near": "",
+      "confidence": 0.9226190807918707
+    },
+    "examplePage": 184,
+    "example": "不同的问题有不同的解决办法。"
+  },
+  {
+    "id": "zh3-20-12",
+    "text": "试",
+    "source": {
+      "num": 12,
+      "text": "试",
+      "page": 184,
+      "ocr": "12.试shi",
+      "near": "dgt.thi²",
+      "confidence": 0.998292054448809
+    },
+    "examplePage": 184,
+    "example": "所以得试着做做。"
+  },
+  {
+    "id": "zh3-20-13",
+    "text": "真正",
+    "source": {
+      "num": 13,
+      "text": "真正",
+      "page": 184,
+      "ocr": "*13.真正zhenzhengpho.thatsu",
+      "near": "",
+      "confidence": 0.9565049743652344
+    },
+    "examplePage": 184,
+    "example": "只有真正做事情的时候，才能了解有多难。"
+  },
+  {
+    "id": "zh3-20-14",
+    "text": "多么",
+    "source": {
+      "num": 14,
+      "text": "多么",
+      "page": 184,
+      "ocr": "14.多么duomepho.（muicdo",
+      "near": "",
+      "confidence": 0.932122711624418
+    },
+    "examplePage": 184,
+    "example": "多么难的问题，都会被解决的。"
+  }
+]

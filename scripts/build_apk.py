@@ -37,7 +37,15 @@ run([JAVA/'jar.exe','cf',BUILD/'classes.jar','-C',BUILD/'classes','.'])
 run([JAVA/'java.exe','-cp',BT/'lib/d8.jar','com.android.tools.r8.D8','--min-api','26','--lib',JAR,'--output',BUILD/'dex',BUILD/'classes.jar'])
 run([BT/'aapt2.exe','compile','--dir',BUILD/'res','-o',BUILD/'resources.zip'])
 run([BT/'aapt2.exe','link','-o',BUILD/'unsigned.apk','-I',JAR,'--manifest',BUILD/'AndroidManifest.xml','-A',BUILD/'assets','--min-sdk-version','26','--target-sdk-version','35','-0','mp3',BUILD/'resources.zip'])
-with zipfile.ZipFile(BUILD/'unsigned.apk','a') as z:
+# Rebuild the unsigned ZIP to keep local and central headers consistent.
+# Appending with Python to aapt2's ZIP can leave data-descriptor flag mismatches.
+shutil.move(BUILD/'unsigned.apk',BUILD/'resources.apk')
+with zipfile.ZipFile(BUILD/'resources.apk') as source_zip, zipfile.ZipFile(BUILD/'unsigned.apk','w') as z:
+    for entry in source_zip.infolist():
+        clean=zipfile.ZipInfo(entry.filename,entry.date_time)
+        clean.compress_type=entry.compress_type
+        clean.external_attr=entry.external_attr
+        z.writestr(clean,source_zip.read(entry.filename))
     z.write(BUILD/'dex/classes.dex','classes.dex',compress_type=zipfile.ZIP_DEFLATED)
 run([BT/'zipalign.exe','-f','-p','4',BUILD/'unsigned.apk',BUILD/'aligned.apk'])
 SIGNING=ROOT/'signing';SIGNING.mkdir(exist_ok=True)
@@ -51,8 +59,8 @@ if key.exists():shutil.copy(key,temp_key)
 if not key.exists():
     run([JAVA/'keytool.exe','-genkeypair','-keystore',temp_key,'-storepass',password,'-keypass',password,'-alias','lingo','-keyalg','RSA','-keysize','3072','-validity','10000','-dname','CN=Lingo Vocabulary, OU=Personal, O=LNB, C=VN'])
     shutil.copy(temp_key,key)
-apk=OUT/'Lingo-SoTuVung-1.0.0.apk'
-temp_apk=BUILD/'Lingo-SoTuVung-1.0.0.apk'
+apk=OUT/'Lingo-SoTuVung-1.5.0.apk'
+temp_apk=BUILD/'Lingo-SoTuVung-1.5.0.apk'
 run([JAVA/'java.exe','-jar',BT/'lib/apksigner.jar','sign','--ks',temp_key,'--ks-key-alias','lingo','--ks-pass','file:'+str(temp_password),'--out',temp_apk,BUILD/'aligned.apk'])
 run([JAVA/'java.exe','-jar',BT/'lib/apksigner.jar','verify','--verbose',temp_apk])
 run([BT/'zipalign.exe','-c','-p','4',temp_apk])

@@ -55,7 +55,12 @@ for row in chinese_rows:
 for name in names:
     ids=[w['id'] for w in words if w['lang']=='zh' and any(o['file']==name+'.pdf' for o in w['occurrences'])]
     lessons.append(dict(id='zh-'+name.lower(),lang='zh',kind='test',short=name,title='Từ vựng theo đề '+name,description='Các từ đã biên soạn xuất hiện trong đề này. Tiến độ dùng chung với bài theo chủ đề.',source=name+'.pdf · Từ vựng đối chiếu trên toàn bộ đề',words=ids,symbol='卷'))
-result=dict(version=1,lessons=lessons,words=words)
+from build_hsk5 import append_hsk5
+result=append_hsk5(dict(version=1,lessons=lessons,words=words))
+from build_hsk4 import append_hsk4
+result=append_hsk4(result)
+from build_hsk52 import append_hsk52
+result=append_hsk52(result)
 (ROOT/'www/data.js').write_text('const DATA = '+json.dumps(result,ensure_ascii=False,separators=(',',':'))+';\n',encoding='utf-8')
 (ROOT/'content/catalog.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
 print(f'Built {len(words)} words in {len(lessons)} lesson views: '+str({lang:sum(w['lang']==lang for w in words) for lang in ['en','zh']}))

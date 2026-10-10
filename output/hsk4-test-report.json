@@ -1,0 +1,17 @@
+{
+  "result": "passed",
+  "addedWords": 620,
+  "book4.1": 309,
+  "book4.2": 311,
+  "lessons": 20,
+  "previousWordsPreserved": 1137,
+  "checks": [
+    "textbook numbering and excerpts",
+    "course separation",
+    "old backup migration",
+    "independent due queues",
+    "course choices",
+    "narrow and dark layouts"
+  ],
+  "limitation": "Browser with simulated Android bridge; actual device not tested."
+}

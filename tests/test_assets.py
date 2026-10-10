@@ -7,20 +7,22 @@ ROOT=Path(__file__).resolve().parents[1]
 catalog=json.loads((ROOT/'content/catalog.json').read_text(encoding='utf-8'))
 manifest=json.loads((ROOT/'content/audio-manifest.json').read_text(encoding='utf-8'))
 words=catalog['words'];ids={w['id'] for w in words}
-assert len(ids)==len(words)==414
+assert len(ids)==len(words)
+assert len([w for w in words if w.get('level') not in [2,3]])==2422
 assert len([w for w in words if w['lang']=='en'])==264
-assert len([w for w in words if w['lang']=='zh'])==150
+assert len([w for w in words if w['lang']=='zh' and w.get('level') not in [2,3]])==2158
 for l in catalog['lessons']:
     assert l['words'] and all(id in ids for id in l['words'])
     assert len(l['words'])==len(set(l['words']))
 for w in words:
-    assert all(w[k] for k in ['text','pron','meaning','pos','example','translation','source','sourceFile','sourcePage'])
+    assert all(w[k] for k in ['text','pron','meaning','pos','source','sourceFile','sourcePage'])
     if w['lang']=='zh':assert w['occurrences']
-apk=ROOT/'output/Lingo-SoTuVung-1.0.0.apk'
+    assert (w['example'] and w['translation']) or w.get('exampleKind')=='pending'
+apk=ROOT/'output/Lingo-SoTuVung-1.5.0.apk'
 with zipfile.ZipFile(apk) as z:
     assert z.testzip() is None
     assert 'classes.dex' in z.namelist()
-    assert len([n for n in z.namelist() if n.endswith('.mp3')])==414
+    assert len([n for n in z.namelist() if n.endswith('.mp3')])==len(words)
     for w in words:
         data=(ROOT/'www/audio'/(w['id']+'.mp3')).read_bytes()
         assert z.read('assets/www/audio/'+w['id']+'.mp3')==data
@@ -51,6 +53,6 @@ with sync_playwright() as p:
 for recording in decoded:
     assert .25<recording['duration']<12,recording
     assert recording['peak']>.02 and recording['rms']>.003,recording
-report={'result':'passed','words':414,'english':264,'chinese':150,'lessonViews':len(catalog['lessons']),'checks':['All lessons resolve to valid unique IDs','Word fields and Chinese PDF occurrences present','APK zip CRC integrity','All 414 MP3 assets match their manifests and package uncompressed','All recordings decode and contain non-silent audio'],'durationRangeSeconds':[min(d['duration'] for d in decoded),max(d['duration'] for d in decoded)]}
+report={'result':'passed','words':len(words),'english':264,'chinese':len([w for w in words if w['lang']=='zh']),'hsk5':1388,'hsk51':723,'hsk52':665,'lessonViews':len(catalog['lessons']),'checks':['All lessons resolve to valid unique IDs','Word fields and Chinese PDF occurrences present','APK zip CRC integrity',f'All {len(words)} MP3 assets match their manifests and package uncompressed','All recordings decode and contain non-silent audio'],'durationRangeSeconds':[min(d['duration'] for d in decoded),max(d['duration'] for d in decoded)]}
 (ROOT/'output/asset-test-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 print('All content and packaged audio checks passed.')

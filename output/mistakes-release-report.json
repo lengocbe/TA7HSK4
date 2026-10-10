@@ -1,0 +1,11 @@
+{
+  "version": "1.4.0",
+  "versionCode": 5,
+  "package": "vn.lnb.sotuvung",
+  "apk": "Lingo-SoTuVung-1.4.0.apk",
+  "bytes": 28037259,
+  "sha256": "c8c09d17f4c727a98bf8ebfdfcdc58857790f0d352c7b4f142c55ca78aaed34f",
+  "allPreviousVocabularyAndAudioIdentical": true,
+  "packagedFrontendMatchesSource": true,
+  "realDeviceTested": false
+}

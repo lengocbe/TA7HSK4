@@ -34,9 +34,11 @@ const BYID = WORDS.reduce((map, w) => {
   map[w.id] = w;
   return map;
 }, /* @__PURE__ */ Object.create(null));
-const defaults = () => ({ schema: 1, progress: {}, favorites: [], last: {}, daily: {}, settings: { dark: false, slow: false, goal: 15 } });
-let state = defaults(), page = "home", lang = "en", lessonId = null, currentWord = null, section = "units", study = null, search = "", wordFilter = "all", lastDetail = "lesson", saveError = false;
+const defaults = () => ({ schema: 1, progress: {}, mistakes: {}, favorites: [], last: {}, lastCourses: {}, daily: {}, settings: { dark: false, slow: false, goal: 15 } });
+let state = defaults(), page = "home", lang = "en", hskLevel = 4, hskBook = "legacy", hsk5Book = "5.1", lessonId = null, currentWord = null, section = "units", study = null, search = "", wordFilter = "all", lastDetail = "lesson", saveError = false;
 let browserAudio = null;
+let mistakeScope = "all", mistakeStatus = "active", mistakeSelection = [], mistakeSearch = "", mistakeMode = "meaning";
+const QUIZ_MODES = ["meaning", "reverse", "listening", "typing"];
 function readState() {
   try {
     const raw = window.Android ? Android.load() : localStorage.getItem("lingo-state");
@@ -47,7 +49,7 @@ function readState() {
   }
 }
 function validateState(input) {
-  var _a, _b, _c, _d;
+  var _a, _b, _c, _d, _e, _f, _g;
   if (!input || input.schema !== 1 || typeof input.progress !== "object" || Array.isArray(input.progress) || !input.progress) throw Error("Invalid backup");
   const out = defaults();
   for (const [id, p] of Object.entries(input.progress)) {
@@ -56,11 +58,27 @@ function validateState(input) {
     out.progress[id] = { due: p.due, interval: p.interval, reps: p.reps, lapses: p.lapses, last: typeof p.last === "string" ? p.last : "" };
   }
   out.favorites = Array.isArray(input.favorites) ? [...new Set(input.favorites.filter((id) => BYID[id]))] : [];
+  if (input.mistakes !== void 0) {
+    if (!input.mistakes || typeof input.mistakes !== "object" || Array.isArray(input.mistakes)) throw Error("Invalid mistakes");
+    for (const [id, m] of Object.entries(input.mistakes)) {
+      if (!BYID[id]) continue;
+      if (!m || !Number.isSafeInteger(m.count) || m.count < 1 || !Number.isFinite(m.lastWrong) || m.lastWrong < 0 || m.lastWrong > 864e13 || m.mastered !== void 0 && typeof m.mastered !== "boolean" || m.mode !== void 0 && !QUIZ_MODES.includes(m.mode)) throw Error("Invalid mistake record");
+      out.mistakes[id] = { count: m.count, lastWrong: m.lastWrong, mastered: m.mastered === true, mode: m.mode || "meaning" };
+    }
+  }
   for (const l of ["en", "zh"]) if (((_a = input.last) == null ? void 0 : _a[l]) && LESSONS.some((x) => x.id === input.last[l] && x.lang === l)) out.last[l] = input.last[l];
+  for (const level of [2, 3, 4, 5]) {
+    const id = ((_b = input.lastCourses) == null ? void 0 : _b[level]) || (level === 4 ? (_c = input.last) == null ? void 0 : _c.zh : null);
+    if (LESSONS.some((l) => l.id === id && l.lang === "zh" && (l.level || 4) === level && (level < 4 ? itemBook(l) === String(level) : level === 5 ? itemBook(l) === "5.1" : !l.course))) out.lastCourses[level] = id;
+  }
+  for (const course of ["4.1", "4.2", "5.2"]) {
+    const id = (_d = input.lastCourses) == null ? void 0 : _d[course];
+    if (LESSONS.some((l) => l.id === id && l.course === course)) out.lastCourses[course] = id;
+  }
   if (input.daily && typeof input.daily === "object") {
     for (const [key, value] of Object.entries(input.daily)) if (/^\d{4}-\d{2}-\d{2}$/.test(key) && Number.isInteger(value) && value >= 0 && value < 1e5) out.daily[key] = value;
   }
-  out.settings = { dark: !!((_b = input.settings) == null ? void 0 : _b.dark), slow: !!((_c = input.settings) == null ? void 0 : _c.slow), goal: [5, 10, 15, 20, 30].includes((_d = input.settings) == null ? void 0 : _d.goal) ? input.settings.goal : 15 };
+  out.settings = { dark: !!((_e = input.settings) == null ? void 0 : _e.dark), slow: !!((_f = input.settings) == null ? void 0 : _f.slow), goal: [5, 10, 15, 20, 30].includes((_g = input.settings) == null ? void 0 : _g.goal) ? input.settings.goal : 15 };
   return out;
 }
 function save() {
@@ -83,6 +101,31 @@ function todayCount() {
 function languageName(l) {
   return l === "en" ? "Ti\u1EBFng Anh" : "Ti\u1EBFng Hoa";
 }
+function itemBook(item) {
+  return item.course || ((item.level || 4) === 5 ? "5.1" : "legacy");
+}
+function selectedBook() {
+  return hskLevel < 4 ? String(hskLevel) : hskLevel === 5 ? hsk5Book : hskBook;
+}
+function selectItemBook(item) {
+  if ((item.level || 4) < 4) return;
+  if ((item.level || 4) === 5) hsk5Book = itemBook(item);
+  else hskBook = itemBook(item);
+}
+function inCourse(item) {
+  return item.lang === lang && (lang !== "zh" || (item.level || 4) === hskLevel && itemBook(item) === selectedBook());
+}
+function courseKey() {
+  return hskLevel < 4 ? hskLevel : hskLevel === 5 ? hsk5Book === "5.1" ? 5 : hsk5Book : hskBook === "legacy" ? 4 : hskBook;
+}
+function bookPills() {
+  if (lang !== "zh" || hskLevel < 4) return "";
+  const books = hskLevel === 5 ? [["5.1", "Gi\xE1o tr\xECnh 5.1"], ["5.2", "Gi\xE1o tr\xECnh 5.2"]] : [["4.1", "Gi\xE1o tr\xECnh 4.1"], ["4.2", "Gi\xE1o tr\xECnh 4.2"], ["legacy", "Luy\u1EC7n theo \u0111\u1EC1"]];
+  return '<div class="pillbar" aria-label="Gi\xE1o tr\xECnh HSK '.concat(hskLevel, '">').concat(books.map(([v, t]) => '<button class="pill '.concat(selectedBook() === v ? "active" : "", '" data-action="hsk-book" data-book="').concat(v, '" aria-pressed="').concat(selectedBook() === v, '">').concat(t, "</button>")).join(""), "</div>");
+}
+function coursePills() {
+  return lang === "zh" ? '<div class="pillbar course-pills" aria-label="Tr\xECnh \u0111\u1ED9 ti\u1EBFng Hoa">'.concat([2, 3, 4, 5].map((n) => '<button class="pill '.concat(hskLevel === n ? "active" : "", '" data-action="hsk-level" data-level="').concat(n, '" aria-pressed="').concat(hskLevel === n, '">HSK ').concat(n, "</button>")).join(""), "</div>") : "";
+}
 function lessonWords(id) {
   const lesson = LESSONS.find((l) => l.id === id);
   return lesson ? lesson.words.map((id2) => BYID[id2]).filter(Boolean) : [];
@@ -93,8 +136,8 @@ function learned(words) {
     return (((_a = state.progress[w.id]) == null ? void 0 : _a.reps) || 0) > 0;
   }).length;
 }
-function dueWords(l) {
-  return WORDS.filter((w) => (!l || w.lang === l) && state.progress[w.id] && state.progress[w.id].due <= Date.now());
+function dueWords(l, level = null, course = null) {
+  return WORDS.filter((w) => (!l || w.lang === l) && (!level || (w.level || 4) === level) && (!course || itemBook(w) === course) && state.progress[w.id] && state.progress[w.id].due <= Date.now());
 }
 function streak() {
   let n = 0, d = /* @__PURE__ */ new Date();
@@ -107,6 +150,51 @@ function streak() {
 }
 function percentage(n, total) {
   return total ? Math.round(n * 100 / total) : 0;
+}
+function mistakeWords(scope = "all", mastered = false) {
+  return WORDS.filter((w) => {
+    const m = state.mistakes[w.id];
+    return m && m.mastered === mastered && (scope === "all" || scope === "en" && w.lang === "en" || scope === "zh" && w.lang === "zh" && (w.level || 4) === hskLevel && itemBook(w) === selectedBook());
+  }).sort((a, b) => state.mistakes[b.id].count - state.mistakes[a.id].count || state.mistakes[b.id].lastWrong - state.mistakes[a.id].lastWrong);
+}
+function visibleMistakes() {
+  const q = normalizeSearch(mistakeSearch);
+  return mistakeWords(mistakeScope, mistakeStatus === "mastered").filter((w) => !q || normalizeSearch([w.text, w.meaning, w.pron].join(" ")).includes(q));
+}
+function normalizeSearch(value) {
+  return value.trim().toLocaleLowerCase("vi").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+function clearMistakeSelection() {
+  mistakeSelection = [];
+}
+function renderKeepScroll() {
+  const position = window.scrollY;
+  render();
+  window.scrollTo(0, position);
+}
+function recordWrong(id, mode) {
+  const m = state.mistakes[id];
+  state.mistakes[id] = { count: Math.min(Number.MAX_SAFE_INTEGER, ((m == null ? void 0 : m.count) || 0) + 1), lastWrong: Date.now(), mastered: false, mode };
+}
+function setMastered(id, mastered) {
+  if (!BYID[id] || !state.mistakes[id]) return;
+  state.mistakes[id].mastered = mastered;
+  mistakeSelection = mistakeSelection.filter((x) => x !== id);
+  save();
+  renderKeepScroll();
+  toast(mastered ? "\u0110\xE3 n\u1EAFm v\u1EEFng. L\u1ECBch s\u1EED sai v\u1EABn \u0111\u01B0\u1EE3c gi\u1EEF." : "\u0110\xE3 \u0111\u01B0a t\u1EEB tr\u1EDF l\u1EA1i danh s\xE1ch c\u1EA7n luy\u1EC7n.");
+}
+function mistakesEntry(scope = "all") {
+  const count = mistakeWords(scope).length;
+  return '<button class="lesson mistakes-entry" data-action="open-mistakes" data-scope="'.concat(scope, '"><div class="lesson-icon">').concat(icon("layers"), '</div><div class="lesson-main"><h3>T\u1EEB hay sai</h3><p>').concat(count ? "".concat(count, " t\u1EEB c\u1EA7n luy\u1EC7n \xB7 \xD4n theo c\xE1ch c\u1EE7a b\u1EA1n") : "Ghi nh\u1EDB nh\u1EEFng t\u1EEB b\u1EA1n t\u1EEBng tr\u1EA3 l\u1EDDi sai", "</p></div>").concat(icon("chevron", "chevron"), "</button>");
+}
+function mistakeRow(w) {
+  const m = state.mistakes[w.id], l = LESSONS.find((x) => x.id === w.lesson), date = new Date(m.lastWrong).toLocaleString("vi-VN", { day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit" });
+  return '<article class="card mistake-item" data-word-id="'.concat(w.id, '"><div class="mistake-top">').concat(m.mastered ? "" : '<label class="mistake-check"><input type="checkbox" data-action="select-mistake" data-id="'.concat(w.id, '" aria-label="Ch\u1ECDn ').concat(esc(w.text), '" ').concat(mistakeSelection.includes(w.id) ? "checked" : "", "></label>"), '<button class="word-info" data-action="word" data-id="').concat(w.id, '"><b>').concat(esc(w.text), "</b><span>").concat(esc(w.pron), " \xB7 ").concat(esc(w.meaning), "</span></button>").concat(audioButton(w.id), '</div><p class="small muted">').concat(esc((l == null ? void 0 : l.short) || languageName(w.lang)), '</p><div class="mistake-meta"><span class="mistake-count">Sai ').concat(m.count, ' l\u1EA7n</span><span class="small muted">L\u1EA7n g\u1EA7n nh\u1EA5t: ').concat(esc(date), '</span></div><div class="mistake-actions">').concat(m.mastered ? '<button class="secondary" data-action="restore-mistake" data-id="'.concat(w.id, '">\u0110\u01B0a v\u1EC1 c\u1EA7n luy\u1EC7n</button>') : '<button class="secondary" data-action="review-mistake" data-id="'.concat(w.id, '">').concat(icon("book"), 'Luy\u1EC7n t\u1EEB n\xE0y</button><button class="link-button" data-action="master-mistake" data-id="').concat(w.id, '">').concat(icon("check"), "\u0110\xE3 n\u1EAFm v\u1EEFng</button>"), "</div></article>");
+}
+function mistakesPage() {
+  const words = visibleMistakes(), selected = words.filter((w) => mistakeSelection.includes(w.id)), active = mistakeStatus === "active";
+  return '<div class="page-head">'.concat(backButton("Trang ch\u1EE7"), '<h1>T\u1EEB hay sai</h1><p>\u01AFu ti\xEAn t\u1EEB sai nhi\u1EC1u nh\u1EA5t. Tr\u1EA3 l\u1EDDi \u0111\xFAng v\u1EABn gi\u1EEF l\u1ECBch s\u1EED \u0111\u1EC3 b\u1EA1n theo d\xF5i.</p></div><div class="pillbar" aria-label="Ng\xF4n ng\u1EEF c\u1EE7a t\u1EEB hay sai">').concat([["all", "T\u1EA5t c\u1EA3"], ["en", "Ti\u1EBFng Anh"], ["zh", "Ti\u1EBFng Hoa"]].map(([v, t]) => '<button class="pill '.concat(mistakeScope === v ? "active" : "", '" data-action="mistake-scope" data-scope="').concat(v, '" aria-pressed="').concat(mistakeScope === v, '">').concat(t, "</button>")).join(""), "</div>").concat(mistakeScope === "zh" ? coursePills() + bookPills() : "", '<div class="pillbar">').concat([["active", "C\u1EA7n luy\u1EC7n"], ["mastered", "\u0110\xE3 n\u1EAFm v\u1EEFng"]].map(([v, t]) => '<button class="pill '.concat(mistakeStatus === v ? "active" : "", '" data-action="mistake-status" data-status="').concat(v, '">').concat(t, "</button>")).join(""), '</div><label class="search">').concat(icon("search"), '<input id="mistake-search" value="').concat(esc(mistakeSearch), '" placeholder="T\xECm t\u1EEB, ngh\u0129a ho\u1EB7c pinyin\u2026" aria-label="T\xECm t\u1EEB hay sai" autocomplete="off"></label><p class="filter-count">').concat(words.length, " t\u1EEB theo b\u1ED9 l\u1ECDc").concat(active && selected.length ? " \xB7 \u0110\xE3 ch\u1ECDn ".concat(selected.length) : "", "</p>").concat(active && words.length ? '<div class="card mistake-toolbar"><label for="mistake-mode">C\xE1ch luy\u1EC7n</label><select id="mistake-mode" aria-label="C\xE1ch luy\u1EC7n t\u1EEB hay sai">'.concat([["meaning", "Ch\u1ECDn ngh\u0129a \u0111\xFAng"], ["reverse", "Nh\u1EDB t\u1EEB qua ngh\u0129a"], ["listening", "Nghe v\xE0 nh\u1EADn di\u1EC7n"], ["typing", "Nh\u1EADp t\u1EEB"], ["cards", "H\u1ECDc th\u1EBB"]].map(([v, t]) => '<option value="'.concat(v, '" ').concat(mistakeMode === v ? "selected" : "", ">").concat(t, "</option>")).join(""), '</select><button class="primary" data-action="review-mistakes" data-selection="all">Luy\u1EC7n t\u1EA5t c\u1EA3 (').concat(words.length, ") ").concat(icon("arrow"), '</button><button class="secondary" data-action="review-mistakes" data-selection="selected" ').concat(selected.length ? "" : "disabled", ">Luy\u1EC7n ").concat(selected.length, ' t\u1EEB \u0111\xE3 ch\u1ECDn</button><button class="link-button" data-action="select-visible-mistakes">').concat(selected.length === words.length ? "B\u1ECF ch\u1ECDn t\u1EA5t c\u1EA3" : "Ch\u1ECDn t\u1EA5t c\u1EA3 t\u1EEB \u0111ang hi\u1EC3n th\u1ECB", "</button></div>") : "", '<div class="stack">').concat(words.length ? words.map(mistakeRow).join("") : '<div class="card empty">'.concat(mistakeSearch ? "Kh\xF4ng t\xECm th\u1EA5y t\u1EEB ph\xF9 h\u1EE3p." : active ? "Ch\u01B0a c\xF3 t\u1EEB c\u1EA7n luy\u1EC7n trong m\u1EE5c n\xE0y. Nh\u1EEFng t\u1EEB tr\u1EA3 l\u1EDDi sai khi luy\u1EC7n t\u1EADp s\u1EBD \u0111\u01B0\u1EE3c l\u01B0u \u1EDF \u0111\xE2y." : "Ch\u01B0a c\xF3 t\u1EEB \u0111\u01B0\u1EE3c \u0111\xE1nh d\u1EA5u n\u1EAFm v\u1EEFng trong m\u1EE5c n\xE0y.", "</div>"), "</div>").concat(!active ? '<p class="notice">L\u1ECBch s\u1EED sai v\u1EABn \u0111\u01B0\u1EE3c gi\u1EEF. Ch\u1ECDn \u201C\u0110\u01B0a v\u1EC1 c\u1EA7n luy\u1EC7n\u201D khi b\u1EA1n mu\u1ED1n \xF4n l\u1EA1i m\u1ED9t t\u1EEB.</p>' : "");
 }
 function toast(message) {
   const el = $("#toast");
@@ -154,16 +242,16 @@ function home() {
   const count = todayCount(), goal = state.settings.goal;
   return '<div class="topbar"><div class="brand"><b>lingo</b><small>S\u1ED4 T\u1EEA V\u1EF0NG C\u1EE6A B\u1EA0N</small></div><button class="iconbtn avatar" data-action="nav" data-page="stats" aria-label="Xem chu\u1ED7i ng\xE0y h\u1ECDc">'.concat(icon("flame"), '</button></div>\n <div class="welcome"><div class="eyebrow">M\u1ED7i ng\xE0y m\u1ED9t b\u01B0\u1EDBc ti\u1EBFn</div><h1 style="margin-top:8px">H\xF4m nay, h\u1ECDc g\xEC nh\u1EC9?</h1><p>Ch\u1ECDn ng\xF4n ng\u1EEF v\xE0 b\u1EAFt \u0111\u1EA7u h\xE0nh tr\xECnh c\u1EE7a b\u1EA1n.</p></div>\n <div class="card goal-card"><div class="goal-ring" style="--pct:').concat(Math.min(100, count / goal * 100), '%"><span>').concat(Math.min(count, goal), "/").concat(goal, "</span></div><div><h3>").concat(count >= goal ? "B\u1EA1n \u0111\xE3 \u0111\u1EA1t m\u1EE5c ti\xEAu h\xF4m nay!" : "M\u1ED9t ch\xFAt m\u1ED7i ng\xE0y, nh\u1EDB l\xE2u h\u01A1n", "</h3><p>").concat(count, " l\u01B0\u1EE3t \xF4n h\xF4m nay \xB7 M\u1EE5c ti\xEAu ").concat(goal, ' l\u01B0\u1EE3t</p><button class="link-button" data-action="nav" data-page="settings">\u0110i\u1EC1u ch\u1EC9nh m\u1EE5c ti\xEAu ').concat(icon("chevron", "chevron"), '</button></div></div>\n <div class="section-head"><h2>Ch\u1ECDn ng\xF4n ng\u1EEF</h2><span>2 h\xE0nh tr\xECnh</span></div><div class="stack languages">').concat(["en", "zh"].map((l) => {
     const words = WORDS.filter((w) => w.lang === l), done = learned(words), lesson = LESSONS.find((x) => x.id === state.last[l]);
-    return '<button class="language-card '.concat(l, '" data-action="open-language" data-lang="').concat(l, '"><div class="lang-top"><div class="language-symbol">').concat(l === "en" ? "Aa" : "\u6C49", "</div><div><h2>").concat(languageName(l), "</h2><p>").concat(l === "en" ? "Global Success \xB7 L\u1EDBp 7" : "HSK 4 \xB7 Ch\u1EEF gi\u1EA3n th\u1EC3", '</p></div></div><span class="badge">').concat(LESSONS.filter((x) => x.lang === l && x.kind === "unit").length, " ").concat(l === "en" ? "Unit" : "b\xE0i", " \xB7 ").concat(words.length, ' t\u1EEB v\u1EF1ng</span><div class="progress"><i style="width:').concat(percentage(done, words.length), '%"></i></div><div class="row between small muted"><span>').concat(done, " t\u1EEB \u0111\xE3 h\u1ECDc</span><span>").concat(percentage(done, words.length), '%</span></div><div class="continue"><span>').concat(lesson ? "H\u1ECDc ti\u1EBFp \xB7 " + esc(lesson.short) : "Kh\xE1m ph\xE1 b\xE0i h\u1ECDc", "</span>").concat(icon("arrow"), "</div></button>");
-  }).join(""), "</div>").concat(dueWords().length ? '<div class="review-banner"><div><b>'.concat(dueWords().length, ' t\u1EEB \u0111\u1EBFn h\u1EA1n \xF4n</b><span>C\u1EE7ng c\u1ED1 nh\u1EEFng t\u1EEB b\u1EA1n \u0111\xE3 h\u1ECDc</span></div><button data-action="review" data-lang="all">\xD4n ngay</button></div>') : "", '<div class="offline-note">').concat(icon("offline"), "T\u1EEB v\u1EF1ng v\xE0 gi\u1ECDng \u0111\u1ECDc c\xF3 s\u1EB5n \xB7 H\u1ECDc ngo\u1EA1i tuy\u1EBFn</div>");
+    return '<button class="language-card '.concat(l, '" data-action="open-language" data-lang="').concat(l, '"><div class="lang-top"><div class="language-symbol">').concat(l === "en" ? "Aa" : "\u6C49", "</div><div><h2>").concat(languageName(l), "</h2><p>").concat(l === "en" ? "Global Success \xB7 L\u1EDBp 7" : "HSK 2\u20135 \xB7 Ch\u1EEF gi\u1EA3n th\u1EC3", '</p></div></div><span class="badge">').concat(LESSONS.filter((x) => x.lang === l && x.kind === "unit").length, " ").concat(l === "en" ? "Unit" : "b\xE0i", " \xB7 ").concat(words.length, ' t\u1EEB v\u1EF1ng</span><div class="progress"><i style="width:').concat(percentage(done, words.length), '%"></i></div><div class="row between small muted"><span>').concat(done, " t\u1EEB \u0111\xE3 h\u1ECDc</span><span>").concat(percentage(done, words.length), '%</span></div><div class="continue"><span>').concat(l === "zh" ? "Ch\u1ECDn tr\xECnh \u0111\u1ED9 HSK 2\u20135" : lesson ? "H\u1ECDc ti\u1EBFp \xB7 " + esc(lesson.short) : "Kh\xE1m ph\xE1 b\xE0i h\u1ECDc", "</span>").concat(icon("arrow"), "</div></button>");
+  }).join(""), "</div>").concat(mistakesEntry()).concat(dueWords().length ? '<div class="review-banner"><div><b>'.concat(dueWords().length, ' t\u1EEB \u0111\u1EBFn h\u1EA1n \xF4n</b><span>C\u1EE7ng c\u1ED1 nh\u1EEFng t\u1EEB b\u1EA1n \u0111\xE3 h\u1ECDc</span></div><button data-action="review" data-lang="all">\xD4n ngay</button></div>') : "", '<div class="offline-note">').concat(icon("offline"), "T\u1EEB v\u1EF1ng v\xE0 gi\u1ECDng \u0111\u1ECDc c\xF3 s\u1EB5n \xB7 H\u1ECDc ngo\u1EA1i tuy\u1EBFn</div>");
 }
 function lessonTile(l) {
   const words = lessonWords(l.id), n = learned(words);
   return '<button class="lesson" data-action="lesson" data-id="'.concat(l.id, '"><div class="lesson-icon">').concat(esc(l.symbol || l.number || "\u21BB"), '</div><div class="lesson-main"><div class="eyebrow">').concat(esc(l.short), "</div><h3>").concat(esc(l.title), "</h3><p>").concat(words.length, " t\u1EEB \xB7 ").concat(n, " \u0111\xE3 h\u1ECDc").concat(dueWords(l.lang).filter((w) => l.words.includes(w.id)).length ? " \xB7 C\xF3 t\u1EEB c\u1EA7n \xF4n" : "", '</p><div class="progress"><i style="width:').concat(percentage(n, words.length), '%"></i></div></div>').concat(icon("chevron", "chevron"), "</button>");
 }
 function library() {
-  const filtered = LESSONS.filter((l) => l.lang === lang && l.kind === ({ units: "unit", review: "review", tests: "test" }[section] || "unit"));
-  return '<div class="page-head">'.concat(backButton("Trang ch\u1EE7"), "<h1>").concat(languageName(lang), "</h1><p>").concat(lang === "en" ? "T\u1EEB v\u1EF1ng theo s\xE1ch Global Success l\u1EDBp 7" : "B\xE0i h\u1ECDc bi\xEAn so\u1EA1n t\u1EEB 13 \u0111\u1EC1 HSK 4", "</p></div>").concat(languagePills(), '<div class="pillbar"><button class="pill ').concat(section === "units" ? "active" : "", '" data-action="section" data-section="units">').concat(lang === "en" ? "12 Unit" : "Theo ch\u1EE7 \u0111\u1EC1", '</button><button class="pill ').concat(section === (lang === "en" ? "review" : "tests") ? "active" : "", '" data-action="section" data-section="').concat(lang === "en" ? "review" : "tests", '">').concat(lang === "en" ? "\xD4n t\u1EADp Review" : "Theo \u0111\u1EC1 HSK", '</button></div><div class="stack">').concat(filtered.map(lessonTile).join(""), "</div>");
+  const filtered = LESSONS.filter((l) => inCourse(l) && l.kind === ({ units: "unit", review: "review", tests: "test" }[section] || "unit"));
+  return '<div class="page-head">'.concat(backButton("Trang ch\u1EE7"), "<h1>").concat(languageName(lang), "</h1><p>").concat(lang === "en" ? "T\u1EEB v\u1EF1ng theo s\xE1ch Global Success l\u1EDBp 7" : selectedBook() === "legacy" ? "B\xE0i h\u1ECDc bi\xEAn so\u1EA1n t\u1EEB 13 \u0111\u1EC1 HSK 4" : "Gi\xE1o tr\xECnh chu\u1EA9n HSK ".concat(selectedBook(), " \xB7 T\u1EEB m\u1EDBi theo t\u1EEBng b\xE0i"), "</p></div>").concat(languagePills()).concat(coursePills()).concat(bookPills()).concat(lang === "zh" && state.lastCourses[courseKey()] ? '<button class="secondary" style="margin-bottom:16px" data-action="lesson" data-id="'.concat(esc(state.lastCourses[courseKey()]), '">').concat(icon("arrow"), "H\u1ECDc ti\u1EBFp ").concat(esc(LESSONS.find((l) => l.id === state.lastCourses[courseKey()]).short), "</button>") : "", '<div class="pillbar"><button class="pill ').concat(section === "units" ? "active" : "", '" data-action="section" data-section="units">').concat(lang === "en" ? "12 Unit" : hskLevel !== 4 || hskBook !== "legacy" ? "Theo b\xE0i gi\xE1o tr\xECnh" : "Theo ch\u1EE7 \u0111\u1EC1", "</button>").concat(lang === "zh" && (hskLevel !== 4 || hskBook !== "legacy") ? "" : '<button class="pill '.concat(section === (lang === "en" ? "review" : "tests") ? "active" : "", '" data-action="section" data-section="').concat(lang === "en" ? "review" : "tests", '">').concat(lang === "en" ? "\xD4n t\u1EADp Review" : "Theo \u0111\u1EC1 HSK", "</button>"), '</div><div class="stack">').concat(filtered.map(lessonTile).join(""), "</div>");
 }
 function wordRow(w) {
   const p = state.progress[w.id];
@@ -182,7 +270,7 @@ function lessonPage() {
   return '<div class="page-head">'.concat(backButton("Danh s\xE1ch b\xE0i"), '<div class="card hero-lesson" style="margin-top:13px"><div class="eyebrow">').concat(esc(l.short), "</div><h2>").concat(esc(l.title), "</h2><p>").concat(esc(l.description), '</p><div class="progress"><i style="width:').concat(percentage(learned(words), words.length), '%"></i></div><p>').concat(learned(words), "/").concat(words.length, " t\u1EEB \u0111\xE3 h\u1ECDc \xB7 ").concat(reviewCount, ' \u0111\u1EBFn h\u1EA1n \xF4n</p></div></div>\n <div class="actions"><button class="primary" data-action="learn" data-mode="new">').concat(icon("book"), " ").concat(newCount ? "H\u1ECDc t\u1EEB m\u1EDBi \xB7 ".concat(newCount, " t\u1EEB") : "H\u1ECDc l\u1EA1i to\xE0n b\u1ED9 b\xE0i", '</button><div class="two"><button class="secondary" data-action="learn" data-mode="due">').concat(icon("clock"), "\xD4n \u0111\u1EBFn h\u1EA1n (").concat(reviewCount, ')</button><button class="secondary" data-action="quiz-menu">').concat(icon("layers"), 'Luy\u1EC7n t\u1EADp</button></div></div><div class="section-head"><h2>T\u1EEB v\u1EF1ng trong b\xE0i</h2><span>').concat(words.length, ' t\u1EEB</span></div><div class="card list-panel">').concat(words.map(wordRow).join(""), '</div><p class="source">').concat(esc(l.source), "</p>");
 }
 function wordsPage() {
-  let words = WORDS.filter((w) => w.lang === lang);
+  let words = WORDS.filter(inCourse);
   const q = search.trim().toLocaleLowerCase("vi").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   if (q) words = words.filter((w) => [w.text, w.meaning, w.pron].join(" ").toLocaleLowerCase("vi").normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(q));
   if (wordFilter === "saved") words = words.filter((w) => state.favorites.includes(w.id));
@@ -194,14 +282,14 @@ function wordsPage() {
     var _a;
     return ((_a = state.progress[w.id]) == null ? void 0 : _a.due) <= Date.now();
   });
-  return '<div class="page-head"><div class="eyebrow">T\u1EEB \u0111i\u1EC3n nh\u1ECF c\u1EE7a b\u1EA1n</div><h1>Kho t\u1EEB v\u1EF1ng</h1><p>T\xECm t\u1EEB, nghe ph\xE1t \xE2m v\xE0 l\u01B0u nh\u1EEFng t\u1EEB c\u1EA7n nh\u1EDB.</p></div>'.concat(languagePills(), '<label class="search">').concat(icon("search"), '<input id="search" value="').concat(esc(search), '" placeholder="T\xECm t\u1EEB, ngh\u0129a ho\u1EB7c pinyin\u2026" aria-label="T\xECm t\u1EEB v\u1EF1ng" autocomplete="off"></label><div class="pillbar">').concat([["all", "T\u1EA5t c\u1EA3"], ["saved", "\u0110\xE3 l\u01B0u"], ["new", "Ch\u01B0a h\u1ECDc"], ["due", "C\u1EA7n \xF4n"]].map(([v, t]) => '<button class="pill '.concat(wordFilter === v ? "active" : "", '" data-action="filter" data-filter="').concat(v, '">').concat(t, "</button>")).join(""), '</div><p class="filter-count">').concat(words.length, ' t\u1EEB ph\xF9 h\u1EE3p</p><div class="card list-panel" id="word-results">').concat(words.length ? words.map(wordRow).join("") : '<div class="empty">Ch\u01B0a c\xF3 t\u1EEB ph\xF9 h\u1EE3p.</div>', "</div>");
+  return '<div class="page-head"><div class="eyebrow">T\u1EEB \u0111i\u1EC3n nh\u1ECF c\u1EE7a b\u1EA1n</div><h1>Kho t\u1EEB v\u1EF1ng</h1><p>T\xECm t\u1EEB, nghe ph\xE1t \xE2m v\xE0 l\u01B0u nh\u1EEFng t\u1EEB c\u1EA7n nh\u1EDB.</p></div>'.concat(languagePills()).concat(coursePills()).concat(bookPills()).concat(mistakesEntry(lang === "en" ? "en" : "zh"), '<label class="search">').concat(icon("search"), '<input id="search" value="').concat(esc(search), '" placeholder="T\xECm t\u1EEB, ngh\u0129a ho\u1EB7c pinyin\u2026" aria-label="T\xECm t\u1EEB v\u1EF1ng" autocomplete="off"></label><div class="pillbar">').concat([["all", "T\u1EA5t c\u1EA3"], ["saved", "\u0110\xE3 l\u01B0u"], ["new", "Ch\u01B0a h\u1ECDc"], ["due", "C\u1EA7n \xF4n"]].map(([v, t]) => '<button class="pill '.concat(wordFilter === v ? "active" : "", '" data-action="filter" data-filter="').concat(v, '">').concat(t, "</button>")).join(""), '</div><p class="filter-count">').concat(words.length, ' t\u1EEB ph\xF9 h\u1EE3p</p><div class="card list-panel" id="word-results">').concat(words.length ? words.map(wordRow).join("") : '<div class="empty">Ch\u01B0a c\xF3 t\u1EEB ph\xF9 h\u1EE3p.</div>', "</div>");
 }
 function detailPage() {
   const w = BYID[currentWord];
-  return "".concat(backButton(lastDetail === "words" ? "Kho t\u1EEB v\u1EF1ng" : "T\u1EEB v\u1EF1ng trong b\xE0i"), '<div class="word-detail">').concat(wordCard(w, true, true), '</div><button class="secondary" data-action="review-word" data-id="').concat(w.id, '">').concat(icon("book"), "\xD4n t\u1EEB n\xE0y</button>");
+  return "".concat(backButton(lastDetail === "words" ? "Kho t\u1EEB v\u1EF1ng" : lastDetail === "mistakes" ? "T\u1EEB hay sai" : "T\u1EEB v\u1EF1ng trong b\xE0i"), '<div class="word-detail">').concat(wordCard(w, true, true), '</div><button class="secondary" data-action="review-word" data-id="').concat(w.id, '">').concat(icon("book"), "\xD4n t\u1EEB n\xE0y</button>");
 }
 function wordCard(w, reveal, detail = false) {
-  return '<div class="card study-card">'.concat(detail ? '<button class="favorite '.concat(state.favorites.includes(w.id) ? "saved" : "", '" data-action="favorite" data-id="').concat(w.id, '" aria-label="').concat(state.favorites.includes(w.id) ? "B\u1ECF l\u01B0u t\u1EEB" : "L\u01B0u t\u1EEB", '">').concat(icon("star"), "</button>") : "", '<div class="eyebrow">').concat(w.lang === "en" ? "English vocabulary" : "\u6C49\u8BED\u8BCD\u6C47", '</div><div class="word">').concat(esc(w.text), "</div>").concat(w.lang === "en" || reveal ? '<div class="pronunciation">'.concat(esc(w.pron), "</div>") : '<div class="pronunciation">\u0110o\xE1n c\xE1ch \u0111\u1ECDc v\xE0 ngh\u0129a</div>').concat(audioButton(w.id)).concat(reveal ? '<div class="meaning">'.concat(esc(w.meaning), '</div><div class="type-tag">').concat(esc(w.pos), "</div>").concat(w.example ? '<div class="example"><b>'.concat(esc(w.example), "</b>").concat(w.examplePron ? '<p class="small muted">'.concat(esc(w.examplePron), "</p>") : "", '<p class="translation">').concat(esc(w.translation), "</p></div>") : "", '<p class="source">').concat(esc(w.source), "</p>") : "", "</div>");
+  return '<div class="card study-card">'.concat(detail ? '<button class="favorite '.concat(state.favorites.includes(w.id) ? "saved" : "", '" data-action="favorite" data-id="').concat(w.id, '" aria-label="').concat(state.favorites.includes(w.id) ? "B\u1ECF l\u01B0u t\u1EEB" : "L\u01B0u t\u1EEB", '">').concat(icon("star"), "</button>") : "", '<div class="eyebrow">').concat(w.lang === "en" ? "English vocabulary" : w.level === 5 ? "HSK ".concat(itemBook(w), " \xB7 \u6C49\u8BED\u8BCD\u6C47") : w.course ? "HSK ".concat(w.course, " \xB7 \u6C49\u8BED\u8BCD\u6C47") : "HSK 4 \xB7 \u6C49\u8BED\u8BCD\u6C47", '</div><div class="word">').concat(esc(w.text), "</div>").concat(w.lang === "en" || reveal ? '<div class="pronunciation">'.concat(esc(w.pron), "</div>") : '<div class="pronunciation">\u0110o\xE1n c\xE1ch \u0111\u1ECDc v\xE0 ngh\u0129a</div>').concat(audioButton(w.id)).concat(w.audioContext ? '<p class="small muted">'.concat(esc(w.audioContext), "</p>") : "").concat(reveal ? '<div class="meaning">'.concat(esc(w.meaning), '</div><div class="type-tag">').concat(esc(w.pos), "</div>").concat(w.example ? '<div class="example">'.concat(w.exampleKind === "title" ? '<div class="eyebrow">Tr\xEDch ti\xEAu \u0111\u1EC1 b\xE0i</div>' : w.exampleKind === "exercise-completed" ? '<div class="eyebrow">C\xE2u b\xE0i t\u1EADp \u0111\xE3 \u0111i\u1EC1n \u0111\xE1p \xE1n</div>' : "", "<b>").concat(esc(w.example), "</b>").concat(w.examplePron ? '<p class="small muted">'.concat(esc(w.examplePron), "</p>") : "", '<p class="translation">').concat(esc(w.translation), "</p></div>") : "").concat(w.exampleNote ? '<p class="notice">'.concat(esc(w.exampleNote), "</p>") : "", '<p class="source">').concat(esc(w.source), "</p>") : "", "</div>");
 }
 function shuffle(array) {
   const out = [...array];
@@ -217,7 +305,7 @@ function startStudy(words, mode = "cards", label = "\xD4n t\u1EADp", context = "
     return;
   }
   stopAudio();
-  study = { queue: mode === "cards" ? [...words] : shuffle(words), index: 0, reveal: false, mode, label, context, correct: 0, answered: false, choice: null, options: null };
+  study = { queue: mode === "cards" ? [...words] : shuffle(words), index: 0, reveal: false, mode, label, context, correct: 0, wrongIds: [], answered: false, choice: null, options: null };
   page = "study";
   render();
 }
@@ -226,13 +314,17 @@ function quizMenu() {
   return '<div class="page-head">'.concat(backButton("V\u1EC1 b\xE0i h\u1ECDc"), "<h1>Luy\u1EC7n t\u1EADp</h1><p>").concat(esc(l.title), ' \xB7 Ch\u1ECDn c\xE1ch b\u1EA1n mu\u1ED1n luy\u1EC7n</p></div><div class="stack">').concat([["meaning", "Ch\u1ECDn ngh\u0129a \u0111\xFAng", "Nh\xECn t\u1EEB v\xE0 ch\u1ECDn ngh\u0129a ti\u1EBFng Vi\u1EC7t.", "book"], ["reverse", "Nh\u1EDB t\u1EEB qua ngh\u0129a", "Ch\u1ECDn t\u1EEB ph\xF9 h\u1EE3p v\u1EDBi ngh\u0129a cho tr\u01B0\u1EDBc.", "layers"], ["listening", "Nghe v\xE0 nh\u1EADn di\u1EC7n", "Nghe ph\xE1t \xE2m r\u1ED3i ch\u1ECDn t\u1EEB \u0111\xFAng.", "sound"], ["typing", lang === "en" ? "Luy\u1EC7n ch\xEDnh t\u1EA3" : "Nh\u1EADp ch\u1EEF H\xE1n", "Nh\xECn ngh\u0129a v\xE0 nh\u1EADp t\u1EEB b\u1EB1ng b\xE0n ph\xEDm.", "settings"]].map(([mode, title, desc, i]) => '<button class="lesson" data-action="start-quiz" data-mode="'.concat(mode, '"><div class="lesson-icon">').concat(icon(i), '</div><div class="lesson-main"><h3>').concat(title, "</h3><p>").concat(desc, "</p></div>").concat(icon("chevron", "chevron"), "</button>")).join(""), "</div>");
 }
 function makeOptions(w) {
-  const pool = shuffle(WORDS.filter((x) => x.lang === w.lang && x.id !== w.id && x.meaning !== w.meaning));
+  const pool = shuffle(WORDS.filter((x) => x.lang === w.lang && (x.lang !== "zh" || (x.level || 4) === (w.level || 4) && itemBook(x) === itemBook(w)) && x.text !== w.text && x.id !== w.id && x.meaning !== w.meaning));
   return shuffle([w, ...pool.slice(0, 3)]);
 }
 function studyPage() {
   if (study.index >= study.queue.length) return donePage();
   const w = study.queue[study.index];
   lang = w.lang;
+  if (lang === "zh") {
+    hskLevel = w.level || 4;
+    selectItemBook(w);
+  }
   const header = '<div class="study-top"><button class="iconbtn" data-action="exit-study" aria-label="Tho\xE1t l\u01B0\u1EE3t h\u1ECDc">'.concat(icon("close"), "</button><span>").concat(esc(study.label), '</span><b class="small">').concat(study.index + 1, "/").concat(study.queue.length, '</b></div><div class="progress"><i style="width:').concat(percentage(study.index, study.queue.length), '%"></i></div>');
   if (study.mode === "cards") return "".concat(header).concat(wordCard(w, study.reveal), '<button class="speed-toggle ').concat(state.settings.slow ? "active" : "", '" data-action="slow">').concat(icon("sound"), "Gi\u1ECDng \u0111\u1ECDc ").concat(state.settings.slow ? "ch\u1EADm" : "b\xECnh th\u01B0\u1EDDng", " \xB7 B\u1EA5m \u0111\u1EC3 \u0111\u1ED5i</button>").concat(study.reveal ? '<p class="hint">B\u1EA1n nh\u1EDB t\u1EEB n\xE0y \u1EDF m\u1EE9c n\xE0o?</p><div class="ratings">'.concat([["again", "Qu\xEAn", "10 ph\xFAt"], ["hard", "Kh\xF3", "1 ng\xE0y"], ["good", "Nh\u1EDB", "Gi\xE3n l\u1ECBch \xF4n"], ["easy", "D\u1EC5", "\xD4n xa h\u01A1n"]].map(([v, t, d]) => '<button class="rating" data-action="rate" data-rating="'.concat(v, '">').concat(t, "<small>").concat(d, "</small></button>")).join(""), "</div>") : '<p class="hint">Th\u1EED nh\u1EDB ngh\u0129a tr\u01B0\u1EDBc khi m\u1EDF th\u1EBB nh\xE9.</p><button class="primary" data-action="reveal">Hi\u1EC7n ngh\u0129a '.concat(icon("arrow"), "</button>"));
   const mode = study.mode;
@@ -255,10 +347,11 @@ function markRated(id, rating) {
   save();
 }
 function donePage() {
-  return '<div class="done"><div class="big-symbol">'.concat(icon("trophy"), '</div><div class="eyebrow">M\u1ED9t b\u01B0\u1EDBc ti\u1EBFn m\u1EDBi</div><h1 style="margin-top:10px">B\u1EA1n l\xE0m t\u1ED1t l\u1EAFm!</h1><p>').concat(study.mode === "cards" ? "\u0110\xE3 \xF4n ".concat(study.queue.length, " t\u1EEB. App \u0111\xE3 l\u01B0u ti\u1EBFn \u0111\u1ED9 v\xE0 l\xEAn l\u1ECBch \xF4n ti\u1EBFp.") : "B\u1EA1n tr\u1EA3 l\u1EDDi \u0111\xFAng ".concat(study.correct, "/").concat(study.queue.length, " c\xE2u. C\xE1c t\u1EEB \u0111\xE3 \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt l\u1ECBch \xF4n."), '</p></div><div class="stats-grid"><div class="card stat"><strong>').concat(study.queue.length, "</strong><span>").concat(study.mode === "cards" ? "T\u1EEB v\u1EEBa \xF4n" : "C\xE2u luy\u1EC7n t\u1EADp", '</span></div><div class="card stat"><strong>').concat(streak(), '</strong><span>Ng\xE0y h\u1ECDc li\xEAn ti\u1EBFp</span></div></div><button class="primary" data-action="exit-study">V\u1EC1 b\xE0i h\u1ECDc ').concat(icon("arrow"), "</button>");
+  const quiz = study.mode !== "cards", wrong = study.wrongIds.map((id) => BYID[id]).filter(Boolean), destination = study.context === "mistakes" ? "V\u1EC1 T\u1EEB hay sai" : study.context === "lesson" ? "V\u1EC1 b\xE0i h\u1ECDc" : "Ho\xE0n t\u1EA5t";
+  return '<div class="done"><div class="big-symbol">'.concat(icon("trophy"), '</div><div class="eyebrow">M\u1ED9t b\u01B0\u1EDBc ti\u1EBFn m\u1EDBi</div><h1 style="margin-top:10px">B\u1EA1n l\xE0m t\u1ED1t l\u1EAFm!</h1><p>').concat(quiz ? "B\u1EA1n tr\u1EA3 l\u1EDDi \u0111\xFAng ".concat(study.correct, "/").concat(study.queue.length, " c\xE2u. C\xE1c t\u1EEB \u0111\xE3 \u0111\u01B0\u1EE3c c\u1EADp nh\u1EADt l\u1ECBch \xF4n.") : "\u0110\xE3 \xF4n ".concat(study.queue.length, " t\u1EEB. App \u0111\xE3 l\u01B0u ti\u1EBFn \u0111\u1ED9 v\xE0 l\xEAn l\u1ECBch \xF4n ti\u1EBFp."), '</p></div><div class="stats-grid"><div class="card stat"><strong>').concat(study.queue.length, "</strong><span>").concat(quiz ? "C\xE2u luy\u1EC7n t\u1EADp" : "T\u1EEB v\u1EEBa \xF4n", '</span></div><div class="card stat"><strong>').concat(quiz ? study.queue.length - study.correct : streak(), "</strong><span>").concat(quiz ? "C\xE2u tr\u1EA3 l\u1EDDi sai" : "Ng\xE0y h\u1ECDc li\xEAn ti\u1EBFp", "</span></div></div>").concat(quiz ? (wrong.length ? '<div class="section-head"><h2>T\u1EEB c\u1EA7n luy\u1EC7n l\u1EA1i</h2><span>'.concat(wrong.length, ' t\u1EEB</span></div><div class="card list-panel">').concat(wrong.map((w) => '<div class="word-row"><div class="word-info"><b>'.concat(esc(w.text), "</b><span>").concat(esc(w.pron), " \xB7 ").concat(esc(w.meaning), "</span></div>").concat(audioButton(w.id), "</div>")).join(""), '</div><div class="notice">Nh\u1EEFng t\u1EEB n\xE0y \u0111\xE3 \u0111\u01B0\u1EE3c l\u01B0u v\xE0o T\u1EEB hay sai. Luy\u1EC7n \u0111\xFAng s\u1EBD gi\u1EEF l\u1ECBch s\u1EED; b\u1EA1n c\xF3 th\u1EC3 \u0111\xE1nh d\u1EA5u \u201C\u0110\xE3 n\u1EAFm v\u1EEFng\u201D khi t\u1EF1 tin.</div><button class="primary" data-action="retry-wrong">Luy\u1EC7n l\u1EA1i c\xE2u sai (').concat(wrong.length, ") ").concat(icon("arrow"), "</button>") : '<p class="notice">Kh\xF4ng c\xF3 c\xE2u sai trong l\u01B0\u1EE3t n\xE0y. L\u1ECBch s\u1EED sai \u1EDF c\xE1c l\u01B0\u1EE3t tr\u01B0\u1EDBc v\u1EABn \u0111\u01B0\u1EE3c gi\u1EEF.</p>') + '<button class="secondary" style="margin-top:12px" data-action="open-mistakes" data-scope="all">'.concat(icon("layers"), "M\u1EDF T\u1EEB hay sai</button>") : "", '<button class="').concat(quiz ? "secondary" : "primary", '" style="margin-top:12px" data-action="exit-study">').concat(destination, " ").concat(icon("arrow"), "</button>");
 }
 function statsPage() {
-  const words = WORDS.filter((w) => w.lang === lang), n = learned(words), due = dueWords(lang).length;
+  const words = WORDS.filter(inCourse), n = learned(words), due = dueWords(lang, lang === "zh" ? hskLevel : null, lang === "zh" ? selectedBook() : null).length;
   const days = [];
   for (let i = 6; i >= 0; i--) {
     const d = /* @__PURE__ */ new Date();
@@ -266,10 +359,10 @@ function statsPage() {
     days.push({ label: d.getDate() + "/" + (d.getMonth() + 1), value: state.daily[localDay(d)] || 0 });
   }
   const max = Math.max(...days.map((x) => x.value), state.settings.goal);
-  return '<div class="page-head"><div class="eyebrow">T\xEDch l\u0169y t\u1EEBng ng\xE0y</div><h1>Ti\u1EBFn \u0111\u1ED9 c\u1EE7a b\u1EA1n</h1><p>'.concat(streak(), " ng\xE0y h\u1ECDc li\xEAn ti\u1EBFp \xB7 ").concat(todayCount(), " l\u01B0\u1EE3t \xF4n h\xF4m nay</p></div>").concat(languagePills(), '<div class="stats-grid">').concat([[n, "T\u1EEB \u0111\xE3 h\u1ECDc", "book"], [due, "T\u1EEB \u0111\u1EBFn h\u1EA1n \xF4n", "clock"], [words.length - n, "T\u1EEB ch\u01B0a h\u1ECDc", "layers"], [percentage(n, words.length) + "%", "Ti\u1EBFn \u0111\u1ED9 h\u1ECDc t\u1EEB", "chart"]].map(([v, t, i]) => '<div class="card stat">'.concat(icon(i), "<strong>").concat(v, "</strong><span>").concat(t, "</span></div>")).join(""), '</div><div class="card"><h3>7 ng\xE0y g\u1EA7n \u0111\xE2y</h3><p class="small muted">L\u01B0\u1EE3t \xF4n c\u1EE7a c\u1EA3 hai ng\xF4n ng\u1EEF</p><div class="daily-bars">').concat(days.map((x) => '<div class="day-bar"><b>'.concat(x.value, '</b><i style="height:').concat(Math.max(4, x.value / max * 65), 'px"></i><span>').concat(x.label, "</span></div>")).join(""), "</div></div>").concat(due ? '<button class="primary" style="margin-top:18px" data-action="review" data-lang="'.concat(lang, '">\xD4n ').concat(due, " t\u1EEB \u0111\u1EBFn h\u1EA1n ").concat(icon("arrow"), "</button>") : "", '<div class="section-head"><h2>Theo b\xE0i h\u1ECDc</h2></div><div class="stack">').concat(LESSONS.filter((l) => l.lang === lang && l.kind === "unit").map(lessonTile).join(""), "</div>");
+  return '<div class="page-head"><div class="eyebrow">T\xEDch l\u0169y t\u1EEBng ng\xE0y</div><h1>Ti\u1EBFn \u0111\u1ED9 c\u1EE7a b\u1EA1n</h1><p>'.concat(streak(), " ng\xE0y h\u1ECDc li\xEAn ti\u1EBFp \xB7 ").concat(todayCount(), " l\u01B0\u1EE3t \xF4n h\xF4m nay</p></div>").concat(languagePills()).concat(coursePills()).concat(bookPills(), '<div class="stats-grid">').concat([[n, "T\u1EEB \u0111\xE3 h\u1ECDc", "book"], [due, "T\u1EEB \u0111\u1EBFn h\u1EA1n \xF4n", "clock"], [words.length - n, "T\u1EEB ch\u01B0a h\u1ECDc", "layers"], [percentage(n, words.length) + "%", "Ti\u1EBFn \u0111\u1ED9 h\u1ECDc t\u1EEB", "chart"]].map(([v, t, i]) => '<div class="card stat">'.concat(icon(i), "<strong>").concat(v, "</strong><span>").concat(t, "</span></div>")).join(""), '</div><div class="card"><h3>7 ng\xE0y g\u1EA7n \u0111\xE2y</h3><p class="small muted">L\u01B0\u1EE3t \xF4n c\u1EE7a c\u1EA3 hai ng\xF4n ng\u1EEF</p><div class="daily-bars">').concat(days.map((x) => '<div class="day-bar"><b>'.concat(x.value, '</b><i style="height:').concat(Math.max(4, x.value / max * 65), 'px"></i><span>').concat(x.label, "</span></div>")).join(""), "</div></div>").concat(due ? '<button class="primary" style="margin-top:18px" data-action="review" data-lang="'.concat(lang, '">\xD4n ').concat(due, " t\u1EEB \u0111\u1EBFn h\u1EA1n ").concat(icon("arrow"), "</button>") : "", '<div class="section-head"><h2>Theo b\xE0i h\u1ECDc</h2></div><div class="stack">').concat(LESSONS.filter((l) => inCourse(l) && l.kind === "unit").map(lessonTile).join(""), "</div>");
 }
 function settingsPage() {
-  return '<div class="page-head"><div class="eyebrow">Theo c\xE1ch c\u1EE7a b\u1EA1n</div><h1>C\xE0i \u0111\u1EB7t</h1><p>M\u1ED9t kh\xF4ng gian h\u1ECDc tho\u1EA3i m\xE1i v\xE0 ri\xEAng t\u01B0.</p></div><div class="card"><div class="setting-row"><div><b>Giao di\u1EC7n t\u1ED1i</b><p>D\u1ECBu m\u1EAFt khi h\u1ECDc bu\u1ED5i t\u1ED1i</p></div><button class="toggle '.concat(state.settings.dark ? "on" : "", '" data-action="dark" aria-label="Giao di\u1EC7n t\u1ED1i" aria-pressed="').concat(state.settings.dark, '"><span></span></button></div><div class="setting-row"><div><b>\u0110\u1ECDc ch\u1EADm</b><p>Gi\u1EA3m t\u1ED1c \u0111\u1ED9, gi\u1EEF nguy\xEAn cao \u0111\u1ED9 gi\u1ECDng</p></div><button class="toggle ').concat(state.settings.slow ? "on" : "", '" data-action="slow" aria-label="\u0110\u1ECDc ch\u1EADm" aria-pressed="').concat(state.settings.slow, '"><span></span></button></div><div class="setting-row"><div><b>M\u1EE5c ti\xEAu m\u1ED7i ng\xE0y</b><p>S\u1ED1 l\u01B0\u1EE3t \xF4n t\u1EEB v\u1EF1ng</p></div><select id="daily-goal" aria-label="M\u1EE5c ti\xEAu m\u1ED7i ng\xE0y">').concat([5, 10, 15, 20, 30].map((n) => '<option value="'.concat(n, '" ').concat(state.settings.goal === n ? "selected" : "", ">").concat(n, " l\u01B0\u1EE3t</option>")).join(""), '</select></div></div><div class="section-head"><h2>Sao l\u01B0u ti\u1EBFn \u0111\u1ED9</h2></div><div class="stack"><button class="secondary" data-action="export">').concat(icon("download"), 'Xu\u1EA5t b\u1EA3n sao l\u01B0u</button><button class="secondary" data-action="import">').concat(icon("upload"), 'Kh\xF4i ph\u1EE5c t\u1EEB b\u1EA3n sao l\u01B0u</button></div><div class="notice">B\u1EA3n sao l\u01B0u g\u1ED3m ti\u1EBFn \u0111\u1ED9, t\u1EEB \u0111\xE3 l\u01B0u v\xE0 c\xE0i \u0111\u1EB7t. Kh\xF4i ph\u1EE5c s\u1EBD thay th\u1EBF ti\u1EBFn \u0111\u1ED9 hi\u1EC7n t\u1EA1i sau khi b\u1EA1n x\xE1c nh\u1EADn. N\xEAn sao l\u01B0u tr\u01B0\u1EDBc khi \u0111\u1ED5i \u0111i\u1EC7n tho\u1EA1i ho\u1EB7c g\u1EE1 app.</div><div class="section-head"><h2>V\u1EC1 Lingo</h2><span>Phi\xEAn b\u1EA3n 1.0.0</span></div><div class="card stack"><div><b>Ti\u1EBFng Anh</b><p class="small muted">T\u1EEB tr\u1ECDng t\xE2m theo Glossary c\u1EE7a s\xE1ch Ti\u1EBFng Anh 7 Global Success. C\xE2u v\xED d\u1EE5 trong app \u0111\u01B0\u1EE3c bi\xEAn so\u1EA1n b\u1ED5 sung.</p></div><div><b>Ti\u1EBFng Hoa</b><p class="small muted">Ch\u1EEF gi\u1EA3n th\u1EC3, pinyin v\xE0 ngh\u0129a ti\u1EBFng Vi\u1EC7t. T\u1EEB v\xE0 c\xE2u ngu\u1ED3n \u0111\u01B0\u1EE3c \u0111\u1ED1i chi\u1EBFu v\u1EDBi 13 PDF \u0111\u1EC1 HSK 4 \u0111\xE3 cung c\u1EA5p; \u0111\xE2y kh\xF4ng ph\u1EA3i danh s\xE1ch \u0111\u1EA7y \u0111\u1EE7 m\u1ECDi t\u1EEB HSK 4.</p></div><div><b>Gi\u1ECDng \u0111\u1ECDc ngo\u1EA1i tuy\u1EBFn</b><p class="small muted">\xC2m thanh t\u1ED5ng h\u1EE3p cho t\u1EEBng t\u1EEB \u0111\u01B0\u1EE3c \u0111\xF3ng g\xF3i s\u1EB5n. Kh\xF4ng c\u1EA7n t\u1EA3i gi\u1ECDng \u0111\u1ECDc, kh\xF4ng c\u1EA7n t\xE0i kho\u1EA3n hay k\u1EBFt n\u1ED1i m\u1EA1ng. C\xE2u v\xED d\u1EE5 hi\u1EC7n hi\u1EC3n th\u1ECB b\u1EB1ng ch\u1EEF.</p></div></div>');
+  return '<div class="page-head"><div class="eyebrow">Theo c\xE1ch c\u1EE7a b\u1EA1n</div><h1>C\xE0i \u0111\u1EB7t</h1><p>M\u1ED9t kh\xF4ng gian h\u1ECDc tho\u1EA3i m\xE1i v\xE0 ri\xEAng t\u01B0.</p></div><div class="card"><div class="setting-row"><div><b>Giao di\u1EC7n t\u1ED1i</b><p>D\u1ECBu m\u1EAFt khi h\u1ECDc bu\u1ED5i t\u1ED1i</p></div><button class="toggle '.concat(state.settings.dark ? "on" : "", '" data-action="dark" aria-label="Giao di\u1EC7n t\u1ED1i" aria-pressed="').concat(state.settings.dark, '"><span></span></button></div><div class="setting-row"><div><b>\u0110\u1ECDc ch\u1EADm</b><p>Gi\u1EA3m t\u1ED1c \u0111\u1ED9, gi\u1EEF nguy\xEAn cao \u0111\u1ED9 gi\u1ECDng</p></div><button class="toggle ').concat(state.settings.slow ? "on" : "", '" data-action="slow" aria-label="\u0110\u1ECDc ch\u1EADm" aria-pressed="').concat(state.settings.slow, '"><span></span></button></div><div class="setting-row"><div><b>M\u1EE5c ti\xEAu m\u1ED7i ng\xE0y</b><p>S\u1ED1 l\u01B0\u1EE3t \xF4n t\u1EEB v\u1EF1ng</p></div><select id="daily-goal" aria-label="M\u1EE5c ti\xEAu m\u1ED7i ng\xE0y">').concat([5, 10, 15, 20, 30].map((n) => '<option value="'.concat(n, '" ').concat(state.settings.goal === n ? "selected" : "", ">").concat(n, " l\u01B0\u1EE3t</option>")).join(""), '</select></div></div><div class="section-head"><h2>Sao l\u01B0u ti\u1EBFn \u0111\u1ED9</h2></div><div class="stack"><button class="secondary" data-action="export">').concat(icon("download"), 'Xu\u1EA5t b\u1EA3n sao l\u01B0u</button><button class="secondary" data-action="import">').concat(icon("upload"), 'Kh\xF4i ph\u1EE5c t\u1EEB b\u1EA3n sao l\u01B0u</button></div><div class="notice">B\u1EA3n sao l\u01B0u g\u1ED3m ti\u1EBFn \u0111\u1ED9, t\u1EEB \u0111\xE3 l\u01B0u, l\u1ECBch s\u1EED tr\u1EA3 l\u1EDDi sai v\xE0 c\xE0i \u0111\u1EB7t. Kh\xF4i ph\u1EE5c s\u1EBD thay th\u1EBF ti\u1EBFn \u0111\u1ED9 hi\u1EC7n t\u1EA1i sau khi b\u1EA1n x\xE1c nh\u1EADn. N\xEAn sao l\u01B0u tr\u01B0\u1EDBc khi \u0111\u1ED5i \u0111i\u1EC7n tho\u1EA1i ho\u1EB7c g\u1EE1 app.</div><div class="section-head"><h2>V\u1EC1 Lingo</h2><span>Phi\xEAn b\u1EA3n 1.5.0</span></div><div class="card stack"><div><b>Ti\u1EBFng Anh</b><p class="small muted">T\u1EEB tr\u1ECDng t\xE2m theo Glossary c\u1EE7a s\xE1ch Ti\u1EBFng Anh 7 Global Success. C\xE2u v\xED d\u1EE5 trong app \u0111\u01B0\u1EE3c bi\xEAn so\u1EA1n b\u1ED5 sung.</p></div><div><b>Ti\u1EBFng Hoa</b><p class="small muted">Ch\u1EEF gi\u1EA3n th\u1EC3, pinyin v\xE0 ngh\u0129a ti\u1EBFng Vi\u1EC7t. T\u1EEB v\xE0 c\xE2u ngu\u1ED3n \u0111\u01B0\u1EE3c \u0111\u1ED1i chi\u1EBFu v\u1EDBi 13 PDF \u0111\u1EC1 HSK 4 \u0111\xE3 cung c\u1EA5p; \u0111\xE2y kh\xF4ng ph\u1EA3i danh s\xE1ch \u0111\u1EA7y \u0111\u1EE7 m\u1ECDi t\u1EEB HSK 4. Gi\xE1o tr\xECnh HSK 2 v\xE0 HSK 3 c\xF3 t\u1EEB v\u1EF1ng theo t\u1EEBng b\xE0i, k\xE8m pinyin v\xE0 trang ngu\u1ED3n. Gi\xE1o tr\xECnh HSK 4.1 v\xE0 4.2 \u0111\u01B0\u1EE3c chia th\xE0nh 20 b\xE0i theo s\xE1ch. HSK 5.1 v\xE0 5.2 \u0111\u01B0\u1EE3c chia theo t\u1EEBng b\xE0i gi\xE1o tr\xECnh, c\xF3 c\xE2u v\xED d\u1EE5 tr\xEDch t\u1EEB s\xE1ch v\xE0 trang ngu\u1ED3n.</p></div><div><b>Gi\u1ECDng \u0111\u1ECDc ngo\u1EA1i tuy\u1EBFn</b><p class="small muted">\xC2m thanh t\u1ED5ng h\u1EE3p cho t\u1EEBng t\u1EEB \u0111\u01B0\u1EE3c \u0111\xF3ng g\xF3i s\u1EB5n. Kh\xF4ng c\u1EA7n t\u1EA3i gi\u1ECDng \u0111\u1ECDc, kh\xF4ng c\u1EA7n t\xE0i kho\u1EA3n hay k\u1EBFt n\u1ED1i m\u1EA1ng. C\xE2u v\xED d\u1EE5 hi\u1EC7n hi\u1EC3n th\u1ECB b\u1EB1ng ch\u1EEF.</p></div></div>');
 }
 function render() {
   applyTheme();
@@ -286,6 +379,9 @@ function render() {
       break;
     case "words":
       body = wordsPage();
+      break;
+    case "mistakes":
+      body = mistakesPage();
       break;
     case "detail":
       body = detailPage();
@@ -314,6 +410,11 @@ function openLesson(id) {
   if (!l) return;
   lessonId = id;
   lang = l.lang;
+  if (lang === "zh") {
+    hskLevel = l.level || 4;
+    selectItemBook(l);
+    state.lastCourses[courseKey()] = id;
+  }
   state.last[lang] = id;
   save();
   page = "lesson";
@@ -342,6 +443,7 @@ window.receiveBackup = (raw) => {
     const proposed = validateState(JSON.parse(raw));
     if (!confirm("Kh\xF4i ph\u1EE5c b\u1EA3n sao l\u01B0u v\xE0 thay th\u1EBF ti\u1EBFn \u0111\u1ED9 hi\u1EC7n t\u1EA1i?")) return;
     state = proposed;
+    clearMistakeSelection();
     save();
     render();
     toast("\u0110\xE3 kh\xF4i ph\u1EE5c ti\u1EBFn \u0111\u1ED9.");
@@ -363,11 +465,26 @@ document.addEventListener("click", (e) => {
     case "open-language":
       lang = el.dataset.lang;
       section = "units";
-      if (state.last[lang]) openLesson(state.last[lang]);
+      if (lang === "en" && state.last[lang]) openLesson(state.last[lang]);
       else {
         page = "library";
         render();
       }
+      break;
+    case "hsk-book":
+      clearMistakeSelection();
+      if (hskLevel === 5) hsk5Book = el.dataset.book;
+      else hskBook = el.dataset.book;
+      section = "units";
+      search = "";
+      render();
+      break;
+    case "hsk-level":
+      clearMistakeSelection();
+      hskLevel = Number(el.dataset.level);
+      section = "units";
+      search = "";
+      render();
       break;
     case "lang":
       lang = el.dataset.lang;
@@ -393,6 +510,61 @@ document.addEventListener("click", (e) => {
       page = "detail";
       render();
       break;
+    case "open-mistakes":
+      stopAudio();
+      if (page === "study" && (study == null ? void 0 : study.index) >= study.queue.length) study = null;
+      mistakeScope = el.dataset.scope || "all";
+      if (mistakeScope === "zh") lang = "zh";
+      mistakeStatus = "active";
+      mistakeSearch = "";
+      clearMistakeSelection();
+      page = "mistakes";
+      render();
+      break;
+    case "mistake-scope":
+      mistakeScope = el.dataset.scope;
+      if (mistakeScope !== "all") lang = mistakeScope;
+      clearMistakeSelection();
+      render();
+      break;
+    case "mistake-status":
+      mistakeStatus = el.dataset.status;
+      clearMistakeSelection();
+      render();
+      break;
+    case "select-visible-mistakes": {
+      const words = visibleMistakes();
+      mistakeSelection = words.every((w) => mistakeSelection.includes(w.id)) ? [] : words.map((w) => w.id);
+      renderKeepScroll();
+      break;
+    }
+    case "review-mistakes": {
+      if (mistakeStatus !== "active") break;
+      const words = visibleMistakes().filter((w) => el.dataset.selection !== "selected" || mistakeSelection.includes(w.id));
+      if (!words.length) {
+        toast("B\u1EA1n ch\u1ECDn t\u1EEB c\u1EA7n luy\u1EC7n tr\u01B0\u1EDBc nh\xE9.");
+        break;
+      }
+      startStudy(words, mistakeMode, "T\u1EEB hay sai", "mistakes");
+      break;
+    }
+    case "review-mistake": {
+      const w = BYID[el.dataset.id];
+      if (w && state.mistakes[w.id] && !state.mistakes[w.id].mastered) startStudy([w], mistakeMode, "T\u1EEB hay sai", "mistakes");
+      break;
+    }
+    case "master-mistake":
+      setMastered(el.dataset.id, true);
+      break;
+    case "restore-mistake":
+      setMastered(el.dataset.id, false);
+      break;
+    case "retry-wrong": {
+      if (!study || study.index < study.queue.length || !study.wrongIds.length) break;
+      const words = study.wrongIds.map((id) => BYID[id]).filter(Boolean);
+      startStudy(words, study.mode, "Luy\u1EC7n l\u1EA1i c\xE2u sai", study.context);
+      break;
+    }
     case "favorite": {
       const id = el.dataset.id;
       state.favorites = state.favorites.includes(id) ? state.favorites.filter((x) => x !== id) : [...state.favorites, id];
@@ -422,7 +594,7 @@ document.addEventListener("click", (e) => {
     }
     case "review": {
       const l = el.dataset.lang === "all" ? null : el.dataset.lang;
-      startStudy(dueWords(l), "cards", l ? languageName(l) + " \xB7 \xD4n t\u1EADp" : "\xD4n t\u1EADp h\u1EB1ng ng\xE0y", page);
+      startStudy(dueWords(l, l === "zh" ? hskLevel : null, l === "zh" ? selectedBook() : null), "cards", l ? languageName(l) + " \xB7 \xD4n t\u1EADp" : "\xD4n t\u1EADp h\u1EB1ng ng\xE0y", page);
       break;
     }
     case "review-word":
@@ -459,10 +631,11 @@ document.addEventListener("click", (e) => {
         break;
       }
       const w = study.queue[study.index];
-      answerQuestion(normalizeAnswer(text) === normalizeAnswer(w.text) ? w.id : "wrong");
+      answerQuestion([w.text, ...w.alternatives || []].some((value) => normalizeAnswer(text) === normalizeAnswer(value)) ? w.id : "wrong");
       break;
     }
     case "next-question":
+      if (!study || !study.answered || study.index >= study.queue.length) break;
       stopAudio();
       study.index++;
       study.answered = false;
@@ -509,14 +682,31 @@ function normalizeAnswer(s) {
   return s.normalize("NFKC").toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?。！？]/g, "").replace(/\s+/g, " ").trim();
 }
 function answerQuestion(id) {
+  if (!study || study.mode === "cards" || study.answered || study.index >= study.queue.length) return;
   const w = study.queue[study.index];
   study.choice = id;
   study.answered = true;
   if (id === w.id) study.correct++;
+  else {
+    if (!study.wrongIds.includes(w.id)) study.wrongIds.push(w.id);
+    recordWrong(w.id, study.mode);
+  }
   markRated(w.id, id === w.id ? "good" : "again");
   render();
 }
 document.addEventListener("input", (e) => {
+  if (e.target.id === "mistake-search") {
+    const position = e.target.selectionStart;
+    mistakeSearch = e.target.value;
+    clearMistakeSelection();
+    const scroll = window.scrollY;
+    render();
+    const field = $("#mistake-search");
+    field.focus();
+    field.setSelectionRange(position, position);
+    window.scrollTo(0, scroll);
+    return;
+  }
   if (e.target.id === "search") {
     const position = e.target.selectionStart;
     search = e.target.value;
@@ -529,6 +719,16 @@ document.addEventListener("input", (e) => {
   }
 });
 document.addEventListener("change", (e) => {
+  if (e.target.dataset.action === "select-mistake") {
+    const id = e.target.dataset.id;
+    if (visibleMistakes().some((w) => w.id === id) && mistakeStatus === "active") mistakeSelection = e.target.checked ? [.../* @__PURE__ */ new Set([...mistakeSelection, id])] : mistakeSelection.filter((x) => x !== id);
+    renderKeepScroll();
+    return;
+  }
+  if (e.target.id === "mistake-mode") {
+    mistakeMode = e.target.value;
+    return;
+  }
   if (e.target.id === "daily-goal") {
     state.settings.goal = Number(e.target.value);
     save();

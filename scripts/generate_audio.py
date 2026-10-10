@@ -1,11 +1,11 @@
 """Generate word audio once at build time; the shipped app never uses a TTS service."""
-import asyncio, hashlib, json, sys
+import asyncio, hashlib, json, sys, shutil
 from pathlib import Path
 import edge_tts
 
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT=Path(__file__).resolve().parents[1]
-CATALOG=ROOT/'content/catalog.json'
+CATALOG=Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/'content/catalog.json'
 OUT=ROOT/'www/audio'
 OUT.mkdir(parents=True,exist_ok=True)
 VOICES={'en':'en-GB-SoniaNeural','zh':'zh-CN-XiaoxiaoNeural'}
@@ -14,23 +14,31 @@ completed=0
 manifest={}
 existing=ROOT/'content/audio-manifest.json'
 if existing.exists():manifest=json.loads(existing.read_text(encoding='utf-8'))
+reusable={entry['textHash']:(id,entry) for id,entry in manifest.items() if (OUT/(id+'.mp3')).exists()}
 lock=asyncio.Semaphore(5)
 
 async def generate(w):
     global completed
-    id=w['id'];voice=VOICES[w['lang']]
-    checksum=hashlib.sha256((voice+'|'+w['text']).encode()).hexdigest()
+    id=w['id'];voice=VOICES[w['lang']];spoken=w.get('speechText',w['text'])
+    checksum=hashlib.sha256((voice+'|'+w['text']+('|'+spoken if spoken!=w['text'] else '')).encode()).hexdigest()
     path=OUT/(id+'.mp3')
     if path.exists() and path.stat().st_size>2000 and manifest.get(id,{}).get('textHash')==checksum:
         completed+=1;return
+    if checksum in reusable:
+        source_id,entry=reusable[checksum]
+        source=OUT/(source_id+'.mp3')
+        if hashlib.sha256(source.read_bytes()).hexdigest()==entry['sha256']:
+            if source!=path:shutil.copyfile(source,path)
+            manifest[id]=dict(entry,text=w['text'],speechText=spoken)
+            completed+=1;return
     async with lock:
         for attempt in range(5):
             try:
                 tmp=path.with_suffix('.tmp')
-                await asyncio.wait_for(edge_tts.Communicate(w['text'],voice,rate='-8%').save(str(tmp)),45)
+                await asyncio.wait_for(edge_tts.Communicate(spoken,voice,rate='-8%').save(str(tmp)),45)
                 if tmp.stat().st_size<2000:raise ValueError('Audio too short')
                 tmp.replace(path)
-                manifest[id]={'text':w['text'],'voice':voice,'textHash':checksum,'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),'bytes':path.stat().st_size}
+                manifest[id]={'text':w['text'],'speechText':spoken,'voice':voice,'textHash':checksum,'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),'bytes':path.stat().st_size}
                 existing.write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
                 completed+=1
                 if completed%25==0:print(f'Audio: {completed}/{len(words)}',flush=True)
@@ -41,6 +49,7 @@ async def generate(w):
 
 async def main():
     await asyncio.gather(*(generate(w) for w in words))
+    existing.write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
     print(f'All {len(words)} word recordings ready. {sum(p.stat().st_size for p in OUT.glob("*.mp3"))/1048576:.1f} MiB.',flush=True)
 
 asyncio.run(main())

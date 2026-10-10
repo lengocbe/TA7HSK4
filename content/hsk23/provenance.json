@@ -1,0 +1,4000 @@
+{
+  "zh2-01-01": {
+    "num": 1,
+    "text": "旅游",
+    "page": 16,
+    "ocr": "1.旅游",
+    "near": "luyou dgt. dulich",
+    "confidence": 0.9945413321256638
+  },
+  "zh2-01-02": {
+    "num": 2,
+    "text": "觉得",
+    "page": 16,
+    "ocr": "2.觉得",
+    "near": "juéde dgt. chorang,",
+    "confidence": 0.9991399645805359
+  },
+  "zh2-01-03": {
+    "num": 3,
+    "text": "最",
+    "page": 16,
+    "ocr": "3.最",
+    "near": "Inz pho. nhat",
+    "confidence": 0.9990030328432719
+  },
+  "zh2-01-04": {
+    "num": 4,
+    "text": "为什么",
+    "page": 16,
+    "ocr": "4.为什么",
+    "near": "wei shenme taisao",
+    "confidence": 0.9998168349266052
+  },
+  "zh2-01-05": {
+    "num": 5,
+    "text": "也",
+    "page": 16,
+    "ocr": "5.也",
+    "near": "yé pho. cuing",
+    "confidence": 0.9996016422907511
+  },
+  "zh2-01-06": {
+    "num": 6,
+    "text": "运动",
+    "page": 16,
+    "ocr": "6.运动",
+    "near": "yundongdt./dgt.mon thethao;",
+    "confidence": 0.9968651384115219
+  },
+  "zh2-01-07": {
+    "num": 7,
+    "text": "踢足球",
+    "page": 16,
+    "ocr": "7.踢足球ti zuqiu",
+    "near": "dabong",
+    "confidence": 0.9451407194137573
+  },
+  "zh2-01-08": {
+    "num": 8,
+    "text": "一起",
+    "page": 16,
+    "ocr": "8.一起",
+    "near": "yiqi pho. cing",
+    "confidence": 0.9982224106788635
+  },
+  "zh2-01-09": {
+    "num": 9,
+    "text": "要",
+    "page": 17,
+    "ocr": "9.要",
+    "near": "yaotat.muon,can",
+    "confidence": 0.9989491502443949
+  },
+  "zh2-01-10": {
+    "num": 10,
+    "text": "新",
+    "page": 17,
+    "ocr": "10.新",
+    "near": "xin tt. moi",
+    "confidence": 0.9998925924301147
+  },
+  "zh2-01-11": {
+    "num": 11,
+    "text": "它",
+    "page": 17,
+    "ocr": "11.它",
+    "near": "ta dt.no",
+    "confidence": 0.9880599975585938
+  },
+  "zh2-01-12": {
+    "num": 12,
+    "text": "眼睛",
+    "page": 17,
+    "ocr": "12.眼睛yanjing",
+    "near": "dt.mat",
+    "confidence": 0.9527004534999529
+  },
+  "zh2-02-01": {
+    "num": 1,
+    "text": "生病",
+    "page": 24,
+    "ocr": "1.生病",
+    "near": "sheng bing dgt.bibenh,biom",
+    "confidence": 0.9962765872478485
+  },
+  "zh2-02-02": {
+    "num": 2,
+    "text": "每",
+    "page": 24,
+    "ocr": "2.每",
+    "near": "mei dtt. moi",
+    "confidence": 0.9964268008867899
+  },
+  "zh2-02-03": {
+    "num": 3,
+    "text": "早上",
+    "page": 24,
+    "ocr": "3.早上",
+    "near": "zaoshang dt. buoisang",
+    "confidence": 0.9996774792671204
+  },
+  "zh2-02-04": {
+    "num": 4,
+    "text": "跑步",
+    "page": 24,
+    "ocr": "4.跑步",
+    "near": "paobu dgt.chay bo",
+    "confidence": 0.9978628754615784
+  },
+  "zh2-02-05": {
+    "num": 5,
+    "text": "起床",
+    "page": 24,
+    "ocr": "5.起床qi chuang",
+    "near": "dgt.thicday",
+    "confidence": 0.9648446303147536
+  },
+  "zh2-02-06": {
+    "num": 6,
+    "text": "药",
+    "page": 24,
+    "ocr": "6.药",
+    "near": "yao dt. thuoc",
+    "confidence": 0.9975535869598389
+  },
+  "zh2-02-07": {
+    "num": 7,
+    "text": "身体",
+    "page": 24,
+    "ocr": "7.身体",
+    "near": "shenti dt. sutckhoe,co the",
+    "confidence": 0.9997826218605042
+  },
+  "zh2-02-08": {
+    "num": 8,
+    "text": "出院",
+    "page": 24,
+    "ocr": "8.出院",
+    "near": "chuyuan xuatvien",
+    "confidence": 0.9990440160036087
+  },
+  "zh2-02-09": {
+    "num": 9,
+    "text": "高",
+    "page": 25,
+    "ocr": "9.高",
+    "near": "gao tt. cao",
+    "confidence": 0.9976439873377482
+  },
+  "zh2-02-10": {
+    "num": 10,
+    "text": "米",
+    "page": 25,
+    "ocr": "*10.米",
+    "near": "mi luong.met",
+    "confidence": 0.932268488407135
+  },
+  "zh2-02-11": {
+    "num": 11,
+    "text": "知道",
+    "page": 25,
+    "ocr": "11.知道zhidaodgt.",
+    "near": "biet",
+    "confidence": 0.9907539288202921
+  },
+  "zh2-02-12": {
+    "num": 12,
+    "text": "休息",
+    "page": 25,
+    "ocr": "12.休息",
+    "near": "xiuxi dgt.nghingoi",
+    "confidence": 0.9995784640312195
+  },
+  "zh2-02-13": {
+    "num": 13,
+    "text": "忙",
+    "page": 25,
+    "ocr": "13.忙",
+    "near": "mang tt. ban",
+    "confidence": 0.9951703697443008
+  },
+  "zh2-02-14": {
+    "num": 14,
+    "text": "时间",
+    "page": 25,
+    "ocr": "14.时间shijian",
+    "near": "dt. thoigian",
+    "confidence": 0.9849260350068411
+  },
+  "zh2-03-01": {
+    "num": 1,
+    "text": "手表",
+    "page": 32,
+    "ocr": "1.手表shoubi?odt.dong ho deo tay",
+    "near": "",
+    "confidence": 0.9325708379348119
+  },
+  "zh2-03-02": {
+    "num": 2,
+    "text": "千",
+    "page": 32,
+    "ocr": "2.千",
+    "near": "qian so.nghin",
+    "confidence": 0.9994818965593973
+  },
+  "zh2-03-03": {
+    "num": 3,
+    "text": "报纸",
+    "page": 32,
+    "ocr": "3.报纸",
+    "near": "baozhi Ydt.bao",
+    "confidence": 0.9988273531198502
+  },
+  "zh2-03-04": {
+    "num": 4,
+    "text": "送",
+    "page": 32,
+    "ocr": "4.送",
+    "near": "song dgt.giao,dua",
+    "confidence": 0.9989551504453024
+  },
+  "zh2-03-05": {
+    "num": 5,
+    "text": "一下",
+    "page": 32,
+    "ocr": "5.一下yixia",
+    "near": "sl. duoc dung sau dong tir de",
+    "confidence": 0.9466246962547302
+  },
+  "zh2-03-06": {
+    "num": 6,
+    "text": "牛奶",
+    "page": 32,
+    "ocr": "6.牛奶 niunäi dt. suia bo",
+    "near": "",
+    "confidence": 0.8449374255926713
+  },
+  "zh2-03-07": {
+    "num": 7,
+    "text": "房间",
+    "page": 33,
+    "ocr": "7.房间",
+    "near": "fangjian dt. phong",
+    "confidence": 0.9994398802518845
+  },
+  "zh2-03-08": {
+    "num": 8,
+    "text": "丈夫",
+    "page": 33,
+    "ocr": "8.丈夫",
+    "near": "zhangfu dt. chong",
+    "confidence": 0.9959923624992371
+  },
+  "zh2-03-09": {
+    "num": 9,
+    "text": "旁边",
+    "page": 33,
+    "ocr": "9.旁边",
+    "near": "pangbian dt. bencanh",
+    "confidence": 0.9986429214477539
+  },
+  "zh2-03-10": {
+    "num": 10,
+    "text": "真",
+    "page": 33,
+    "ocr": "10.真",
+    "near": "zhen pho. that,quala",
+    "confidence": 0.9996425211429596
+  },
+  "zh2-03-11": {
+    "num": 11,
+    "text": "粉色",
+    "page": 33,
+    "ocr": "*11.粉色",
+    "near": "fense dt. mauhong",
+    "confidence": 0.9965870976448059
+  },
+  "zh2-03-12": {
+    "num": 12,
+    "text": "颜色",
+    "page": 33,
+    "ocr": "12.颜色",
+    "near": "yanse dt. mau,mau sac",
+    "confidence": 0.9997031092643738
+  },
+  "zh2-03-13": {
+    "num": 13,
+    "text": "左边",
+    "page": 33,
+    "ocr": "13.左边",
+    "near": "zuobian bentrai",
+    "confidence": 0.9984665036201477
+  },
+  "zh2-03-14": {
+    "num": 14,
+    "text": "红色",
+    "page": 33,
+    "ocr": "14.红色",
+    "near": "hongse dt. maudo",
+    "confidence": 0.9972564816474915
+  },
+  "zh2-04-01": {
+    "num": 1,
+    "text": "生日",
+    "page": 40,
+    "ocr": "1.生日shengri dt.",
+    "near": "sinhnhat",
+    "confidence": 0.9636263251304626
+  },
+  "zh2-04-02": {
+    "num": 2,
+    "text": "快乐",
+    "page": 40,
+    "ocr": "2.快乐kuaile",
+    "near": "tt. vuive",
+    "confidence": 0.919314044713974
+  },
+  "zh2-04-03": {
+    "num": 3,
+    "text": "给",
+    "page": 40,
+    "ocr": "3.给",
+    "near": "géi gioi.(duoc dung sau",
+    "confidence": 0.998161236445109
+  },
+  "zh2-04-04": {
+    "num": 4,
+    "text": "接",
+    "page": 40,
+    "ocr": "*4.接",
+    "near": "jie dgt.nhan,nghe/tra",
+    "confidence": 0.9959692507982254
+  },
+  "zh2-04-05": {
+    "num": 5,
+    "text": "晚上",
+    "page": 40,
+    "ocr": "5.晚上·wanshangdt.buoitoi",
+    "near": "",
+    "confidence": 0.9249054970948593
+  },
+  "zh2-04-06": {
+    "num": 6,
+    "text": "问",
+    "page": 40,
+    "ocr": "6.问",
+    "near": "wen dgt.hoi",
+    "confidence": 0.9979940056800842
+  },
+  "zh2-04-07": {
+    "num": 7,
+    "text": "非常",
+    "page": 41,
+    "ocr": "7.非常",
+    "near": "feichang pho.rat,vocung",
+    "confidence": 0.9996472746133804
+  },
+  "zh2-04-08": {
+    "num": 8,
+    "text": "开始",
+    "page": 41,
+    "ocr": "8.开始",
+    "near": "kaishi dgt. batdau",
+    "confidence": 0.9995653331279755
+  },
+  "zh2-04-09": {
+    "num": 9,
+    "text": "已经",
+    "page": 41,
+    "ocr": "9.已经",
+    "near": "yijing pho. da",
+    "confidence": 0.9897169470787048
+  },
+  "zh2-04-10": {
+    "num": 10,
+    "text": "长",
+    "page": 41,
+    "ocr": "10.长",
+    "near": "chang tt. dai,lau",
+    "confidence": 0.999480739235878
+  },
+  "zh2-04-11": {
+    "num": 11,
+    "text": "两",
+    "page": 41,
+    "ocr": "11.两",
+    "near": "liäng so. hai",
+    "confidence": 0.9992798417806625
+  },
+  "zh2-04-12": {
+    "num": 12,
+    "text": "帮",
+    "page": 41,
+    "ocr": "12.帮",
+    "near": "bang dgt. giip,giip do",
+    "confidence": 0.9993010759353638
+  },
+  "zh2-04-13": {
+    "num": 13,
+    "text": "介绍",
+    "page": 41,
+    "ocr": "13.介绍jieshao",
+    "near": "dgt.gioithieu",
+    "confidence": 0.9538528422514597
+  },
+  "zh2-05-01": {
+    "num": 1,
+    "text": "外面",
+    "page": 48,
+    "ocr": "1.外面waimiandt.benngoai",
+    "near": "",
+    "confidence": 0.9687568111853166
+  },
+  "zh2-05-02": {
+    "num": 2,
+    "text": "准备",
+    "page": 48,
+    "ocr": "2.准备zhunbeidgt.dinh,dudinh",
+    "near": "",
+    "confidence": 0.9560893476009369
+  },
+  "zh2-05-03": {
+    "num": 3,
+    "text": "就",
+    "page": 48,
+    "ocr": "3.就",
+    "near": "jiu pho.duoc dung de chi mot ket",
+    "confidence": 0.9603705604871114
+  },
+  "zh2-05-04": {
+    "num": 4,
+    "text": "鱼",
+    "page": 48,
+    "ocr": "4.鱼",
+    "near": "yu dt.ca,monca",
+    "confidence": 0.9945750832557678
+  },
+  "zh2-05-05": {
+    "num": 5,
+    "text": "吧",
+    "page": 48,
+    "ocr": "5.吧",
+    "near": "ba tro.duoc dung cuoi cau dechi",
+    "confidence": 0.9962282379468282
+  },
+  "zh2-05-06": {
+    "num": 6,
+    "text": "件",
+    "page": 48,
+    "ocr": "6.件",
+    "near": " jian lugng. (duoc dung cho ao)",
+    "confidence": 0.9998707969983419
+  },
+  "zh2-05-07": {
+    "num": 7,
+    "text": "还",
+    "page": 48,
+    "ocr": "7.还",
+    "near": "hai pho. cing,kha",
+    "confidence": 0.9970526297887167
+  },
+  "zh2-05-08": {
+    "num": 8,
+    "text": "可以",
+    "page": 48,
+    "ocr": "8.可以",
+    "near": "keyi tt. khongte,tam duoc",
+    "confidence": 0.9991581737995148
+  },
+  "zh2-05-09": {
+    "num": 9,
+    "text": "不错",
+    "page": 48,
+    "ocr": "9.不错",
+    "near": "bucuo tt. tuyet,kha tot",
+    "confidence": 0.9994798749685287
+  },
+  "zh2-05-10": {
+    "num": 10,
+    "text": "考试",
+    "page": 49,
+    "ocr": "10.考试kaoshidt.cuoc thi,baikiem",
+    "near": "",
+    "confidence": 0.9563974062601726
+  },
+  "zh2-05-11": {
+    "num": 11,
+    "text": "意思",
+    "page": 49,
+    "ocr": "11.意思",
+    "near": "yisi dt.nghia,ynghia",
+    "confidence": 0.9989919066429138
+  },
+  "zh2-05-12": {
+    "num": 12,
+    "text": "咖啡",
+    "page": 49,
+    "ocr": "12.咖啡",
+    "near": "kafei dt.caphé",
+    "confidence": 0.9996110677719117
+  },
+  "zh2-05-13": {
+    "num": 13,
+    "text": "对",
+    "page": 49,
+    "ocr": "13.对",
+    "near": "dui gioi.(duoc dung truoc",
+    "confidence": 0.9998607337474823
+  },
+  "zh2-05-14": {
+    "num": 14,
+    "text": "以后",
+    "page": 49,
+    "ocr": "14.以后yihoudt.saunay",
+    "near": "",
+    "confidence": 0.9919526200545462
+  },
+  "zh2-06-01": {
+    "num": 1,
+    "text": "门",
+    "page": 56,
+    "ocr": "1.门",
+    "near": "men dt.cia,cong",
+    "confidence": 0.997931957244873
+  },
+  "zh2-06-02": {
+    "num": 2,
+    "text": "外",
+    "page": 56,
+    "ocr": "2.外",
+    "near": "wai dt.ben ngoai",
+    "confidence": 0.9985010425249735
+  },
+  "zh2-06-03": {
+    "num": 3,
+    "text": "自行车",
+    "page": 56,
+    "ocr": "*3.自行车zixingchedt.xedap",
+    "near": "",
+    "confidence": 0.9903003832568293
+  },
+  "zh2-06-04": {
+    "num": 4,
+    "text": "羊肉",
+    "page": 56,
+    "ocr": "4.羊肉",
+    "near": "yangrou dt. thitde/ciu",
+    "confidence": 0.9997308254241943
+  },
+  "zh2-06-05": {
+    "num": 5,
+    "text": "好吃",
+    "page": 56,
+    "ocr": "5.好吃",
+    "near": "haochi tt. ngon",
+    "confidence": 0.9986646175384521
+  },
+  "zh2-06-06": {
+    "num": 6,
+    "text": "面条",
+    "page": 56,
+    "ocr": "6.面条",
+    "near": "miantiáodt.misoi",
+    "confidence": 0.9990636706352234
+  },
+  "zh2-06-07": {
+    "num": 7,
+    "text": "打篮球",
+    "page": 57,
+    "ocr": "7.打篮球dolanqiu",
+    "near": "choibongro?",
+    "confidence": 0.935801978294666
+  },
+  "zh2-06-08": {
+    "num": 8,
+    "text": "因为",
+    "page": 57,
+    "ocr": "8.因为",
+    "near": "yinwei lien. boivi",
+    "confidence": 0.9995044469833374
+  },
+  "zh2-06-09": {
+    "num": 9,
+    "text": "所以",
+    "page": 57,
+    "ocr": "9.所以",
+    "near": "suoyy lien. chonen",
+    "confidence": 0.9997115880250931
+  },
+  "zh2-06-10": {
+    "num": 10,
+    "text": "游泳",
+    "page": 57,
+    "ocr": "10.游泳",
+    "near": "you yong dgt. boi",
+    "confidence": 0.9999493598937989
+  },
+  "zh2-06-11": {
+    "num": 11,
+    "text": "经常",
+    "page": 57,
+    "ocr": "*11.经常",
+    "near": "jingchang pho. thutongxuyen",
+    "confidence": 0.9995238482952118
+  },
+  "zh2-06-12": {
+    "num": 12,
+    "text": "公斤",
+    "page": 57,
+    "ocr": "*12.公斤",
+    "near": "gongjin luong.kilogram",
+    "confidence": 0.9958085715770721
+  },
+  "zh2-06-13": {
+    "num": 13,
+    "text": "姐姐",
+    "page": 57,
+    "ocr": "13.姐姐jiejiedt.chigai",
+    "near": "",
+    "confidence": 0.9459449470043182
+  },
+  "zh2-07-01": {
+    "num": 1,
+    "text": "教室",
+    "page": 64,
+    "ocr": "1.教室",
+    "near": "jiaoshidt.lop hoc",
+    "confidence": 0.999732255935669
+  },
+  "zh2-07-02": {
+    "num": 2,
+    "text": "机场",
+    "page": 64,
+    "ocr": "2.机场jichängdt.san bay",
+    "near": "",
+    "confidence": 0.9341654436928886
+  },
+  "zh2-07-03": {
+    "num": 3,
+    "text": "路",
+    "page": 64,
+    "ocr": "3.路",
+    "near": "lu dt.duong,loidi",
+    "confidence": 0.9974141319592794
+  },
+  "zh2-07-04": {
+    "num": 4,
+    "text": "离",
+    "page": 65,
+    "ocr": "4.离",
+    "near": "dgt.cach",
+    "confidence": 0.9994810620943705
+  },
+  "zh2-07-05": {
+    "num": 5,
+    "text": "公司",
+    "page": 65,
+    "ocr": "5.公司",
+    "near": "gongsi dt. congty",
+    "confidence": 0.9997121393680573
+  },
+  "zh2-07-06": {
+    "num": 6,
+    "text": "远",
+    "page": 65,
+    "ocr": "6.远",
+    "near": "yudn tt. xa",
+    "confidence": 0.9977156122525533
+  },
+  "zh2-07-07": {
+    "num": 7,
+    "text": "公共汽车",
+    "page": 65,
+    "ocr": "7.公共汽车gonggong qichexebuyt",
+    "near": "",
+    "confidence": 0.9838311626360967
+  },
+  "zh2-07-08": {
+    "num": 8,
+    "text": "小时",
+    "page": 65,
+    "ocr": "8.小时",
+    "near": "xidoshi gio(dongho)",
+    "confidence": 0.9981282651424408
+  },
+  "zh2-07-09": {
+    "num": 9,
+    "text": "慢",
+    "page": 65,
+    "ocr": "9.慢",
+    "near": "man tt. cham",
+    "confidence": 0.9987760980923971
+  },
+  "zh2-07-10": {
+    "num": 10,
+    "text": "快",
+    "page": 65,
+    "ocr": "10.快",
+    "near": "kuai tt. nhanh",
+    "confidence": 0.9998471438884735
+  },
+  "zh2-07-11": {
+    "num": 11,
+    "text": "过",
+    "page": 65,
+    "ocr": "*11.过",
+    "near": "guo dgt.an(ming),traiqua",
+    "confidence": 0.9848126173019409
+  },
+  "zh2-07-12": {
+    "num": 12,
+    "text": "走",
+    "page": 65,
+    "ocr": "12.走",
+    "near": "zou dgt.di,dibo",
+    "confidence": 0.9989209175109863
+  },
+  "zh2-07-13": {
+    "num": 13,
+    "text": "到",
+    "page": 65,
+    "ocr": "13.到",
+    "near": "daodgt.den,toi",
+    "confidence": 0.9993987679481506
+  },
+  "zh2-08-01": {
+    "num": 1,
+    "text": "再",
+    "page": 72,
+    "ocr": "1.再",
+    "near": "zai pho.lai, lan nia,",
+    "confidence": 0.9892107446988424
+  },
+  "zh2-08-02": {
+    "num": 2,
+    "text": "让",
+    "page": 72,
+    "ocr": "2.让",
+    "near": "rang dgt. de,bao",
+    "confidence": 0.9968640208244324
+  },
+  "zh2-08-03": {
+    "num": 3,
+    "text": "告诉",
+    "page": 72,
+    "ocr": "3.告诉",
+    "near": "gaosudgt. noichobiet",
+    "confidence": 0.9996683746576309
+  },
+  "zh2-08-04": {
+    "num": 4,
+    "text": "等",
+    "page": 72,
+    "ocr": "4.等",
+    "near": "deng dgt.doi",
+    "confidence": 0.9981777469317118
+  },
+  "zh2-08-05": {
+    "num": 5,
+    "text": "找",
+    "page": 72,
+    "ocr": "5.找",
+    "near": "zhäo dgt.tim",
+    "confidence": 0.9970826903978983
+  },
+  "zh2-08-06": {
+    "num": 6,
+    "text": "事情",
+    "page": 72,
+    "ocr": "6.事情·shiqingdt.suviec",
+    "near": "",
+    "confidence": 0.9212505420049032
+  },
+  "zh2-08-07": {
+    "num": 7,
+    "text": "服务员",
+    "page": 73,
+    "ocr": "7.服务员",
+    "near": "fuwuyuandt.",
+    "confidence": 0.9987352848052978
+  },
+  "zh2-08-08": {
+    "num": 8,
+    "text": "白",
+    "page": 73,
+    "ocr": "8.白",
+    "near": "bái tt.comau trang",
+    "confidence": 0.9979514678319296
+  },
+  "zh2-08-09": {
+    "num": 9,
+    "text": "黑",
+    "page": 73,
+    "ocr": "9.黑",
+    "near": "hei tt.comauden",
+    "confidence": 0.9988874594370524
+  },
+  "zh2-08-10": {
+    "num": 10,
+    "text": "贵",
+    "page": 73,
+    "ocr": "10.贵guitt.aat",
+    "near": "",
+    "confidence": 0.9085714496099032
+  },
+  "zh2-09-01": {
+    "num": 1,
+    "text": "错",
+    "page": 80,
+    "ocr": "1.错cuott.sainham",
+    "near": "",
+    "confidence": 0.9717472717165947
+  },
+  "zh2-09-02": {
+    "num": 2,
+    "text": "从",
+    "page": 80,
+    "ocr": "2.从",
+    "near": "cong gioi. tit",
+    "confidence": 0.997669517993927
+  },
+  "zh2-09-03": {
+    "num": 3,
+    "text": "跳舞",
+    "page": 80,
+    "ocr": "3.跳舞",
+    "near": "tidowu dgt. mia,khieuvu",
+    "confidence": 0.9988260865211487
+  },
+  "zh2-09-04": {
+    "num": 4,
+    "text": "第一",
+    "page": 80,
+    "ocr": "4.第一",
+    "near": "diyi so. thitnhat,dau",
+    "confidence": 0.9980987161397934
+  },
+  "zh2-09-05": {
+    "num": 5,
+    "text": "希望",
+    "page": 80,
+    "ocr": "5.希望",
+    "near": "xiwang dgt. mong,hy vong",
+    "confidence": 0.9997896701097488
+  },
+  "zh2-09-06": {
+    "num": 6,
+    "text": "问题",
+    "page": 80,
+    "ocr": "6.问题",
+    "near": "wenti dt. vande,cauhoi",
+    "confidence": 0.9996498376131058
+  },
+  "zh2-09-07": {
+    "num": 7,
+    "text": "欢迎",
+    "page": 80,
+    "ocr": "*7.欢迎huanying",
+    "near": "dgt.hoannghenh",
+    "confidence": 0.9907931272800152
+  },
+  "zh2-09-08": {
+    "num": 8,
+    "text": "上班",
+    "page": 81,
+    "ocr": "8.上班shang bandgt.dilam",
+    "near": "",
+    "confidence": 0.9687510620463978
+  },
+  "zh2-09-09": {
+    "num": 9,
+    "text": "懂",
+    "page": 81,
+    "ocr": "9.懂",
+    "near": "dong dgt. hieu,biet",
+    "confidence": 0.9940779805183411
+  },
+  "zh2-09-10": {
+    "num": 10,
+    "text": "完",
+    "page": 81,
+    "ocr": "10.完",
+    "near": "wan dgt. xong,het",
+    "confidence": 0.9987265914678574
+  },
+  "zh2-09-11": {
+    "num": 11,
+    "text": "题",
+    "page": 81,
+    "ocr": "11.题",
+    "near": "ti dt. cauhoi",
+    "confidence": 0.9996979087591171
+  },
+  "zh2-10-01": {
+    "num": 1,
+    "text": "课",
+    "page": 88,
+    "ocr": "1.课",
+    "near": "ke dt.giohoc,mon,bai",
+    "confidence": 0.9952894647916158
+  },
+  "zh2-10-02": {
+    "num": 2,
+    "text": "帮助",
+    "page": 88,
+    "ocr": "2.帮助bangzhudgt.giipich,giuip do",
+    "near": "",
+    "confidence": 0.9142237459459612
+  },
+  "zh2-10-03": {
+    "num": 3,
+    "text": "别",
+    "page": 88,
+    "ocr": "3.别biépho.ding",
+    "near": "",
+    "confidence": 0.9271660617419651
+  },
+  "zh2-10-04": {
+    "num": 4,
+    "text": "哥哥",
+    "page": 89,
+    "ocr": "4.哥哥",
+    "near": "gege dt. anhtrai",
+    "confidence": 0.9980899095535278
+  },
+  "zh2-10-05": {
+    "num": 5,
+    "text": "鸡蛋",
+    "page": 89,
+    "ocr": "5.鸡蛋",
+    "near": "jidan dt. tringga",
+    "confidence": 0.9993354976177216
+  },
+  "zh2-10-06": {
+    "num": 6,
+    "text": "西瓜",
+    "page": 89,
+    "ocr": "6.西瓜",
+    "near": "xigua dt. duahau",
+    "confidence": 0.9994524568319321
+  },
+  "zh2-10-07": {
+    "num": 7,
+    "text": "正在",
+    "page": 89,
+    "ocr": "7.正在zhengzai",
+    "near": "ipho.dang",
+    "confidence": 0.9971762448549271
+  },
+  "zh2-10-08": {
+    "num": 8,
+    "text": "手机",
+    "page": 89,
+    "ocr": "8.手机shoujidt.",
+    "near": "",
+    "confidence": 0.9529695189916171
+  },
+  "zh2-10-09": {
+    "num": 9,
+    "text": "洗",
+    "page": 89,
+    "ocr": "9.洗xidgt.giat,rita",
+    "near": "",
+    "confidence": 0.8739486436049143
+  },
+  "zh2-11-01": {
+    "num": 1,
+    "text": "唱歌",
+    "page": 96,
+    "ocr": "1.唱歌changgedgt.hat",
+    "near": "",
+    "confidence": 0.9822632074356079
+  },
+  "zh2-11-02": {
+    "num": 2,
+    "text": "男",
+    "page": 96,
+    "ocr": "2.男",
+    "near": "nán tt. thuocve",
+    "confidence": 0.9976796706517538
+  },
+  "zh2-11-03": {
+    "num": 3,
+    "text": "女",
+    "page": 96,
+    "ocr": "3.女",
+    "near": "nu tt. thuoc venit gioi",
+    "confidence": 0.9995682040850321
+  },
+  "zh2-11-04": {
+    "num": 4,
+    "text": "孩子",
+    "page": 96,
+    "ocr": "4.孩子háizi",
+    "near": "dt. trecon,treem",
+    "confidence": 0.9475287331475152
+  },
+  "zh2-11-05": {
+    "num": 5,
+    "text": "右边",
+    "page": 96,
+    "ocr": "5.右边youbiandt.benphai",
+    "near": "",
+    "confidence": 0.9677795171737671
+  },
+  "zh2-11-06": {
+    "num": 6,
+    "text": "比",
+    "page": 96,
+    "ocr": "6.比",
+    "near": "bi gioi. hon (dung trong",
+    "confidence": 0.9953640302022299
+  },
+  "zh2-11-07": {
+    "num": 7,
+    "text": "便宜",
+    "page": 97,
+    "ocr": "7.便宜pianyitt.re",
+    "near": "",
+    "confidence": 0.9422740181287129
+  },
+  "zh2-11-08": {
+    "num": 8,
+    "text": "说话",
+    "page": 97,
+    "ocr": "8.说话shuohua",
+    "near": "dgt.noichuyen",
+    "confidence": 0.9781054637648843
+  },
+  "zh2-11-09": {
+    "num": 9,
+    "text": "可能",
+    "page": 97,
+    "ocr": "9.可能",
+    "near": "keneng tdt. co the,c6 le",
+    "confidence": 0.9994658976793289
+  },
+  "zh2-11-10": {
+    "num": 10,
+    "text": "去年",
+    "page": 97,
+    "ocr": "10.去年",
+    "near": "qunian dt. namngoai",
+    "confidence": 0.999845540523529
+  },
+  "zh2-11-11": {
+    "num": 11,
+    "text": "姓",
+    "page": 97,
+    "ocr": "11.姓",
+    "near": "xing dgt. mang ho",
+    "confidence": 0.9989487379789352
+  },
+  "zh2-12-01": {
+    "num": 1,
+    "text": "得",
+    "page": 104,
+    "ocr": "？1.得detro.dugc dung saui dong",
+    "near": "",
+    "confidence": 0.9256830739563909
+  },
+  "zh2-12-02": {
+    "num": 2,
+    "text": "妻子",
+    "page": 104,
+    "ocr": "2.妻子qizidt.vg",
+    "near": "",
+    "confidence": 0.8930460214614868
+  },
+  "zh2-12-03": {
+    "num": 3,
+    "text": "雪",
+    "page": 105,
+    "ocr": "3.雪",
+    "near": "xue dt. tuyet",
+    "confidence": 0.9965331157048544
+  },
+  "zh2-12-04": {
+    "num": 4,
+    "text": "零",
+    "page": 105,
+    "ocr": "4.零",
+    "near": "ling so. sokhong",
+    "confidence": 0.9991572896639506
+  },
+  "zh2-12-05": {
+    "num": 5,
+    "text": "度",
+    "page": 105,
+    "ocr": "*5.度",
+    "near": "du dt. do(don vidonhiet do)",
+    "confidence": 0.9350815415382385
+  },
+  "zh2-12-06": {
+    "num": 6,
+    "text": "穿",
+    "page": 105,
+    "ocr": "6.穿",
+    "near": "chuan dgt. mac,mang",
+    "confidence": 0.9996612866719564
+  },
+  "zh2-12-07": {
+    "num": 7,
+    "text": "进",
+    "page": 105,
+    "ocr": "7.进",
+    "near": "jin dgt.vao",
+    "confidence": 0.9977218707402548
+  },
+  "zh2-12-08": {
+    "num": 8,
+    "text": "弟弟",
+    "page": 105,
+    "ocr": "8.弟弟",
+    "near": "didi dt. emtrai",
+    "confidence": 0.9986142665147781
+  },
+  "zh2-12-09": {
+    "num": 9,
+    "text": "近",
+    "page": 105,
+    "ocr": "9.近",
+    "near": "jin tt. gan",
+    "confidence": 0.9986743330955505
+  },
+  "zh2-13-01": {
+    "num": 1,
+    "text": "着",
+    "page": 112,
+    "ocr": "1.着zhetro.duroc dung de chi",
+    "near": "",
+    "confidence": 0.9196118270909345
+  },
+  "zh2-13-02": {
+    "num": 2,
+    "text": "手",
+    "page": 112,
+    "ocr": "2.手",
+    "near": "shou dt. tay",
+    "confidence": 0.9993714491526285
+  },
+  "zh2-13-03": {
+    "num": 3,
+    "text": "拿",
+    "page": 112,
+    "ocr": "*3.拿",
+    "near": "ná dgt. cam",
+    "confidence": 0.8756680488586426
+  },
+  "zh2-13-04": {
+    "num": 4,
+    "text": "铅笔",
+    "page": 112,
+    "ocr": "4.铅笔",
+    "near": "qianbi dt. bitchi",
+    "confidence": 0.9951113760471344
+  },
+  "zh2-13-05": {
+    "num": 5,
+    "text": "班",
+    "page": 113,
+    "ocr": "*5.班",
+    "near": "ban dt. lophoc",
+    "confidence": 0.957876518368721
+  },
+  "zh2-13-06": {
+    "num": 6,
+    "text": "长",
+    "page": 113,
+    "ocr": "*6.长zhäng",
+    "near": "dgt. sinhra,moc",
+    "confidence": 0.9465916554133097
+  },
+  "zh2-13-07": {
+    "num": 7,
+    "text": "笑",
+    "page": 113,
+    "ocr": "7.笑xido",
+    "near": "dgt.cuoi",
+    "confidence": 0.9811443260737828
+  },
+  "zh2-13-08": {
+    "num": 8,
+    "text": "宾馆",
+    "page": 113,
+    "ocr": "8.宾馆",
+    "near": "binguan dt. khachsan",
+    "confidence": 0.9993773251771927
+  },
+  "zh2-13-09": {
+    "num": 9,
+    "text": "一直",
+    "page": 113,
+    "ocr": "*9.一直",
+    "near": "yizhi pho. thang",
+    "confidence": 0.9883613109588623
+  },
+  "zh2-13-10": {
+    "num": 10,
+    "text": "往",
+    "page": 113,
+    "ocr": "10.往",
+    "near": "wäng gioi. vephia",
+    "confidence": 0.9987078756093979
+  },
+  "zh2-13-11": {
+    "num": 11,
+    "text": "路口",
+    "page": 113,
+    "ocr": "11.路口",
+    "near": "lukou dt. giao lo",
+    "confidence": 0.9996592402458191
+  },
+  "zh2-14-01": {
+    "num": 1,
+    "text": "有意思",
+    "page": 120,
+    "ocr": "1.有意思",
+    "near": "you yisi thiivi",
+    "confidence": 0.9987064242362976
+  },
+  "zh2-14-02": {
+    "num": 2,
+    "text": "但是",
+    "page": 120,
+    "ocr": "2.但是",
+    "near": "danshi lién.nhung",
+    "confidence": 0.9996999800205231
+  },
+  "zh2-14-03": {
+    "num": 3,
+    "text": "虽然",
+    "page": 120,
+    "ocr": "3.虽然",
+    "near": "suiran lien. macdi,tuy",
+    "confidence": 0.9990856349468231
+  },
+  "zh2-14-04": {
+    "num": 4,
+    "text": "次",
+    "page": 120,
+    "ocr": "4.次",
+    "near": "ci luong. lan",
+    "confidence": 0.9980412721633911
+  },
+  "zh2-14-05": {
+    "num": 5,
+    "text": "玩儿",
+    "page": 120,
+    "ocr": "5.玩儿wánr：dgt.",
+    "near": "choi,choi dia",
+    "confidence": 0.958561374590947
+  },
+  "zh2-14-06": {
+    "num": 6,
+    "text": "晴",
+    "page": 121,
+    "ocr": "6. 晴 qing tt.  co nang, nang rao",
+    "near": "",
+    "confidence": 0.871065080165863
+  },
+  "zh2-14-07": {
+    "num": 7,
+    "text": "百",
+    "page": 121,
+    "ocr": "7.百bäiso.mot tram,tram",
+    "near": "",
+    "confidence": 0.9150673584504561
+  },
+  "zh2-15-01": {
+    "num": 1,
+    "text": "日",
+    "page": 128,
+    "ocr": "1.日",
+    "near": "ri dt.ngay",
+    "confidence": 0.990529457728068
+  },
+  "zh2-15-02": {
+    "num": 2,
+    "text": "新年",
+    "page": 128,
+    "ocr": "2.新年",
+    "near": "xinnián dt.nammoi,Tet",
+    "confidence": 0.999866858124733
+  },
+  "zh2-15-03": {
+    "num": 3,
+    "text": "票",
+    "page": 128,
+    "ocr": "3.票",
+    "near": "piao dt.vé",
+    "confidence": 0.9981717665990194
+  },
+  "zh2-15-04": {
+    "num": 4,
+    "text": "火车站",
+    "page": 128,
+    "ocr": "4.火车站huochezhandt.ga tauhoa",
+    "near": "",
+    "confidence": 0.9826935021965592
+  },
+  "zh2-15-05": {
+    "num": 5,
+    "text": "大家",
+    "page": 128,
+    "ocr": "5.大家",
+    "near": "dajiadt.moinguoi",
+    "confidence": 0.9988188296556473
+  },
+  "zh2-15-06": {
+    "num": 6,
+    "text": "更",
+    "page": 128,
+    "ocr": "*6.更",
+    "near": "geng pho. cang,hon nita",
+    "confidence": 0.9919489026069641
+  },
+  "zh2-15-07": {
+    "num": 7,
+    "text": "妹妹",
+    "page": 129,
+    "ocr": "7.妹妹meimeidt.emgai",
+    "near": "",
+    "confidence": 0.9715688659085168
+  },
+  "zh2-15-08": {
+    "num": 8,
+    "text": "阴",
+    "page": 129,
+    "ocr": "8.阴yintt.uam,nhieumay",
+    "near": "",
+    "confidence": 0.9707057788258507
+  },
+  "zh3-01-01": {
+    "num": 1,
+    "text": "周末",
+    "page": 18,
+    "ocr": "1.周末zhoumodt.cuoituan",
+    "near": "",
+    "confidence": 0.9550488988558451
+  },
+  "zh3-01-02": {
+    "num": 2,
+    "text": "打算",
+    "page": 18,
+    "ocr": "2.打算dasuan",
+    "near": "dt./dgt.",
+    "confidence": 0.9659839272499084
+  },
+  "zh3-01-03": {
+    "num": 3,
+    "text": "啊",
+    "page": 18,
+    "ocr": "3.啊atro.duoc dung  cuoi cau",
+    "near": "",
+    "confidence": 0.9042843094578495
+  },
+  "zh3-01-04": {
+    "num": 4,
+    "text": "跟",
+    "page": 18,
+    "ocr": "4.跟gengioi.cung,voi",
+    "near": "",
+    "confidence": 0.9248639643192291
+  },
+  "zh3-01-05": {
+    "num": 5,
+    "text": "一直",
+    "page": 18,
+    "ocr": "5.一直yizhi",
+    "near": "pho..suot,lien tuc",
+    "confidence": 0.9424606892797682
+  },
+  "zh3-01-06": {
+    "num": 6,
+    "text": "游戏",
+    "page": 18,
+    "ocr": "6.游戏youxi",
+    "near": "dt. trochoi",
+    "confidence": 0.9758762982156541
+  },
+  "zh3-01-07": {
+    "num": 7,
+    "text": "作业",
+    "page": 18,
+    "ocr": "7.作业zuoye",
+    "near": "dt. baitapvenha",
+    "confidence": 0.9762316743532816
+  },
+  "zh3-01-08": {
+    "num": 8,
+    "text": "着急",
+    "page": 18,
+    "ocr": "8.着急zháoji",
+    "near": "tt. lo lang",
+    "confidence": 0.920923238992691
+  },
+  "zh3-01-09": {
+    "num": 9,
+    "text": "复习",
+    "page": 18,
+    "ocr": "9.复习fuxi",
+    "near": "dgt. on tap",
+    "confidence": 0.9912559762597084
+  },
+  "zh3-01-10": {
+    "num": 10,
+    "text": "南（方）",
+    "page": 18,
+    "ocr": "10.南（方）nán（fang）dt.",
+    "near": "",
+    "confidence": 0.9248104660134566
+  },
+  "zh3-01-11": {
+    "num": 11,
+    "text": "北方",
+    "page": 18,
+    "ocr": "11北方",
+    "near": "beifang dt.",
+    "confidence": 0.9169659912586212
+  },
+  "zh3-01-12": {
+    "num": 12,
+    "text": "面包",
+    "page": 19,
+    "ocr": "12.面包",
+    "near": "mianbao",
+    "confidence": 0.9997290849685669
+  },
+  "zh3-01-13": {
+    "num": 13,
+    "text": "带",
+    "page": 19,
+    "ocr": "13.带",
+    "near": "dai",
+    "confidence": 0.9972192198038101
+  },
+  "zh3-01-14": {
+    "num": 14,
+    "text": "地图",
+    "page": 19,
+    "ocr": "14.地图",
+    "near": "ditu",
+    "confidence": 0.9996737837791443
+  },
+  "zh3-01-15": {
+    "num": 15,
+    "text": "搬",
+    "page": 19,
+    "ocr": "15.搬",
+    "near": "ban",
+    "confidence": 0.9975584000349045
+  },
+  "zh3-02-01": {
+    "num": 1,
+    "text": "腿",
+    "page": 28,
+    "ocr": "1.腿",
+    "near": "tui dt.chan",
+    "confidence": 0.9449633359909058
+  },
+  "zh3-02-02": {
+    "num": 2,
+    "text": "疼",
+    "page": 28,
+    "ocr": "2.疼",
+    "near": "teng tt.dau,nhiic",
+    "confidence": 0.9982746243476868
+  },
+  "zh3-02-03": {
+    "num": 3,
+    "text": "脚",
+    "page": 28,
+    "ocr": "3.脚",
+    "near": "jiäo dt.ban chan",
+    "confidence": 0.9997720321019491
+  },
+  "zh3-02-04": {
+    "num": 4,
+    "text": "树",
+    "page": 28,
+    "ocr": "4.树",
+    "near": "shu dt.cay",
+    "confidence": 0.9995819727579752
+  },
+  "zh3-02-05": {
+    "num": 5,
+    "text": "容易",
+    "page": 28,
+    "ocr": "5.容易",
+    "near": "rongyi tt.de,de dang",
+    "confidence": 0.9993680864572525
+  },
+  "zh3-02-06": {
+    "num": 6,
+    "text": "难",
+    "page": 28,
+    "ocr": "6.难",
+    "near": "nán tt.kho,khokhan",
+    "confidence": 0.9995010495185852
+  },
+  "zh3-02-07": {
+    "num": 7,
+    "text": "太太",
+    "page": 28,
+    "ocr": "*7.太太",
+    "near": "taitai dt.ba",
+    "confidence": 0.998555040359497
+  },
+  "zh3-02-08": {
+    "num": 8,
+    "text": "秘书",
+    "page": 28,
+    "ocr": "*8.秘书",
+    "near": "mishu dt.t thuky",
+    "confidence": 0.993080198764801
+  },
+  "zh3-02-09": {
+    "num": 9,
+    "text": "经理",
+    "page": 28,
+    "ocr": "9.经理",
+    "near": "jingli dt.giamdoc",
+    "confidence": 0.9997658729553223
+  },
+  "zh3-02-10": {
+    "num": 10,
+    "text": "办公室",
+    "page": 28,
+    "ocr": "10.办公室bangongshi dt.van phong",
+    "near": "",
+    "confidence": 0.9713679510971596
+  },
+  "zh3-02-11": {
+    "num": 11,
+    "text": "辆",
+    "page": 28,
+    "ocr": "11.辆",
+    "near": "liangluong.(duoc dung cho",
+    "confidence": 0.9890964776277542
+  },
+  "zh3-02-12": {
+    "num": 12,
+    "text": "楼",
+    "page": 28,
+    "ocr": "12.楼",
+    "near": "l6u dt. toa nha,lau",
+    "confidence": 0.987456664443016
+  },
+  "zh3-02-13": {
+    "num": 13,
+    "text": "拿",
+    "page": 28,
+    "ocr": "13.拿",
+    "near": "ná dgt. cam,lay",
+    "confidence": 0.9920523911714554
+  },
+  "zh3-02-14": {
+    "num": 14,
+    "text": "把",
+    "page": 28,
+    "ocr": "14.把",
+    "near": "ba luong. (duoc dung cho",
+    "confidence": 0.9989087283611298
+  },
+  "zh3-02-15": {
+    "num": 15,
+    "text": "伞",
+    "page": 28,
+    "ocr": "15.伞säin",
+    "near": "dt. 6 (di)",
+    "confidence": 0.8635748066008091
+  },
+  "zh3-02-16": {
+    "num": 16,
+    "text": "胖",
+    "page": 29,
+    "ocr": "16.胖pangtt.beo",
+    "near": "来",
+    "confidence": 0.9329314402171544
+  },
+  "zh3-02-17": {
+    "num": 17,
+    "text": "其实",
+    "page": 29,
+    "ocr": "17.其实qishipho.thatra",
+    "near": "",
+    "confidence": 0.9751069813966751
+  },
+  "zh3-02-18": {
+    "num": 18,
+    "text": "瘦",
+    "page": 29,
+    "ocr": "18.瘦shoutt.",
+    "near": "gay,gay com",
+    "confidence": 0.977834322235801
+  },
+  "zh3-03-01": {
+    "num": 1,
+    "text": "还是",
+    "page": 37,
+    "ocr": "1.还是",
+    "near": "haishi lién.hay",
+    "confidence": 0.999748095870018
+  },
+  "zh3-03-02": {
+    "num": 2,
+    "text": "爬山",
+    "page": 37,
+    "ocr": "2.爬山pá shan",
+    "near": "dgt.leonii",
+    "confidence": 0.9489439454945651
+  },
+  "zh3-03-03": {
+    "num": 3,
+    "text": "小心",
+    "page": 37,
+    "ocr": "3.小心xidoxin",
+    "near": "tt. canthan",
+    "confidence": 0.9394477497447621
+  },
+  "zh3-03-04": {
+    "num": 4,
+    "text": "条",
+    "page": 37,
+    "ocr": "4.条",
+    "near": "tiáoluong. (duoc dung cho",
+    "confidence": 0.9965683619181315
+  },
+  "zh3-03-05": {
+    "num": 5,
+    "text": "裤子",
+    "page": 37,
+    "ocr": "5.裤子kuzi",
+    "near": "dt. quan",
+    "confidence": 0.9907902926206589
+  },
+  "zh3-03-06": {
+    "num": 6,
+    "text": "记得",
+    "page": 37,
+    "ocr": "6.记得 jidedgt.",
+    "near": "nho,connho",
+    "confidence": 0.938174674144158
+  },
+  "zh3-03-07": {
+    "num": 7,
+    "text": "衬衫",
+    "page": 37,
+    "ocr": "7.衬衫chenshan dt. ao somi",
+    "near": "",
+    "confidence": 0.9570880010724068
+  },
+  "zh3-03-08": {
+    "num": 8,
+    "text": "元",
+    "page": 37,
+    "ocr": "8.元yuan lugng.",
+    "near": "(don vi tien té)",
+    "confidence": 0.8571982128279549
+  },
+  "zh3-03-09": {
+    "num": 9,
+    "text": "新鲜",
+    "page": 37,
+    "ocr": "9.新鲜xinxian",
+    "near": "tuoi",
+    "confidence": 0.9925776340744712
+  },
+  "zh3-03-10": {
+    "num": 10,
+    "text": "甜",
+    "page": 37,
+    "ocr": "10.甜",
+    "near": "tiáin tt. ngot",
+    "confidence": 0.995276004076004
+  },
+  "zh3-03-11": {
+    "num": 11,
+    "text": "只",
+    "page": 37,
+    "ocr": "11.只",
+    "near": "zhi pho. chi",
+    "confidence": 0.9818247258663177
+  },
+  "zh3-03-12": {
+    "num": 12,
+    "text": "放",
+    "page": 38,
+    "ocr": "12.放",
+    "near": "fang dgt. dat, de",
+    "confidence": 0.9994344264268875
+  },
+  "zh3-03-13": {
+    "num": 13,
+    "text": "饮料",
+    "page": 38,
+    "ocr": "13.饮料yinliao",
+    "near": "dt. do uong,",
+    "confidence": 0.9608208934466044
+  },
+  "zh3-03-14": {
+    "num": 14,
+    "text": "或者",
+    "page": 38,
+    "ocr": "14.或者huozhe",
+    "near": "lien. hoac",
+    "confidence": 0.9616897051984613
+  },
+  "zh3-03-15": {
+    "num": 15,
+    "text": "舒服",
+    "page": 38,
+    "ocr": "15.舒服",
+    "near": "shufu tt. dechiu",
+    "confidence": 0.9993113160133362
+  },
+  "zh3-03-16": {
+    "num": 16,
+    "text": "花",
+    "page": 38,
+    "ocr": "16.花",
+    "near": "hua dt. hoa",
+    "confidence": 0.9980755746364594
+  },
+  "zh3-03-17": {
+    "num": 17,
+    "text": "绿",
+    "page": 38,
+    "ocr": "17.绿",
+    "near": "tt. comau",
+    "confidence": 0.9981829226016998
+  },
+  "zh3-04-01": {
+    "num": 1,
+    "text": "比赛",
+    "page": 46,
+    "ocr": "1.比赛bisai",
+    "near": "dt. cuoc thi dau",
+    "confidence": 0.9920348723729452
+  },
+  "zh3-04-02": {
+    "num": 2,
+    "text": "照片",
+    "page": 46,
+    "ocr": "2.照片zhaopiandt.",
+    "near": "biicanh",
+    "confidence": 0.9524390975634257
+  },
+  "zh3-04-03": {
+    "num": 3,
+    "text": "年级",
+    "page": 46,
+    "ocr": "3.年级niánji",
+    "near": "dt.lop",
+    "confidence": 0.9284510225057602
+  },
+  "zh3-04-04": {
+    "num": 4,
+    "text": "又",
+    "page": 46,
+    "ocr": "4.又you",
+    "near": "pho.va",
+    "confidence": 0.9911182920138041
+  },
+  "zh3-04-05": {
+    "num": 5,
+    "text": "聪明",
+    "page": 46,
+    "ocr": "5.聪明congming tt.",
+    "near": "thongminh",
+    "confidence": 0.9709033779799938
+  },
+  "zh3-04-06": {
+    "num": 6,
+    "text": "热情",
+    "page": 46,
+    "ocr": "6.热情reqing",
+    "near": "tt. nhiettinh",
+    "confidence": 0.9935791313648223
+  },
+  "zh3-04-07": {
+    "num": 7,
+    "text": "努力",
+    "page": 46,
+    "ocr": "7.努力nili",
+    "near": "tt. hing hai,",
+    "confidence": 0.9277722798287868
+  },
+  "zh3-04-08": {
+    "num": 8,
+    "text": "总是",
+    "page": 46,
+    "ocr": "8.总是zongshi",
+    "near": "pho.luonluon",
+    "confidence": 0.9935135841369629
+  },
+  "zh3-04-09": {
+    "num": 9,
+    "text": "回答",
+    "page": 46,
+    "ocr": "9.回答huida",
+    "near": "dgt.tra loi",
+    "confidence": 0.9561213056246439
+  },
+  "zh3-04-10": {
+    "num": 10,
+    "text": "站",
+    "page": 46,
+    "ocr": "10.站",
+    "near": "zhan dgt.ding",
+    "confidence": 0.9992557615041733
+  },
+  "zh3-04-11": {
+    "num": 11,
+    "text": "饿",
+    "page": 46,
+    "ocr": "11.饿",
+    "near": "é tt.aoi",
+    "confidence": 0.9961475282907486
+  },
+  "zh3-04-12": {
+    "num": 12,
+    "text": "超市",
+    "page": 46,
+    "ocr": "12.超市",
+    "near": "chaoshi dt.sieuthi",
+    "confidence": 0.9991593480110168
+  },
+  "zh3-04-13": {
+    "num": 13,
+    "text": "蛋糕",
+    "page": 46,
+    "ocr": "13.蛋糕dangaodt.banhkem",
+    "near": "",
+    "confidence": 0.9925121863683065
+  },
+  "zh3-04-14": {
+    "num": 14,
+    "text": "年轻",
+    "page": 47,
+    "ocr": "14.年轻 nianqing tt. tre tuoi",
+    "near": "",
+    "confidence": 0.9146960300427897
+  },
+  "zh3-04-15": {
+    "num": 15,
+    "text": "认真",
+    "page": 47,
+    "ocr": "15.认真renzhentt.nghiem tic,",
+    "near": "",
+    "confidence": 0.9552014676424173
+  },
+  "zh3-04-16": {
+    "num": 16,
+    "text": "客人",
+    "page": 47,
+    "ocr": "16.客人kerén",
+    "near": "dt.khach,khach 话",
+    "confidence": 0.9851732552051544
+  },
+  "zh3-05-01": {
+    "num": 1,
+    "text": "发烧",
+    "page": 54,
+    "ocr": "1.发烧",
+    "near": "fa shao dgt. sot",
+    "confidence": 0.9994978308677673
+  },
+  "zh3-05-02": {
+    "num": 2,
+    "text": "为",
+    "page": 54,
+    "ocr": "2.为",
+    "near": "wei gioi.cho",
+    "confidence": 0.9994527896245321
+  },
+  "zh3-05-03": {
+    "num": 3,
+    "text": "照顾",
+    "page": 54,
+    "ocr": "3.照顾zhaogudgt.chamsoc",
+    "near": "",
+    "confidence": 0.9745420472962516
+  },
+  "zh3-05-04": {
+    "num": 4,
+    "text": "用",
+    "page": 54,
+    "ocr": "4.用",
+    "near": "yong dgt. can",
+    "confidence": 0.9990192254384359
+  },
+  "zh3-05-05": {
+    "num": 5,
+    "text": "感冒",
+    "page": 54,
+    "ocr": "5.感冒ganmaodgt.bicam",
+    "near": "",
+    "confidence": 0.9642950923819291
+  },
+  "zh3-05-06": {
+    "num": 6,
+    "text": "季节",
+    "page": 54,
+    "ocr": "6.季节",
+    "near": "jié dt.mua",
+    "confidence": 0.9987544566392899
+  },
+  "zh3-05-07": {
+    "num": 7,
+    "text": "当然",
+    "page": 54,
+    "ocr": "7.当然",
+    "near": "dangranpho.",
+    "confidence": 0.9985592663288116
+  },
+  "zh3-05-08": {
+    "num": 8,
+    "text": "春",
+    "page": 54,
+    "ocr": "8.春(天)chun (tian)dt.",
+    "near": "",
+    "confidence": 0.9393636643886566
+  },
+  "zh3-05-09": {
+    "num": 9,
+    "text": "草",
+    "page": 54,
+    "ocr": "9.草",
+    "near": "cao dt. co",
+    "confidence": 0.9907559752464294
+  },
+  "zh3-05-10": {
+    "num": 10,
+    "text": "夏（天）",
+    "page": 54,
+    "ocr": "10.夏（天）xid(tian)",
+    "near": "dt.",
+    "confidence": 0.8917007073760033
+  },
+  "zh3-05-11": {
+    "num": 11,
+    "text": "裙子",
+    "page": 54,
+    "ocr": "11.裙子",
+    "near": "qunzi dt.vay",
+    "confidence": 0.9843343257904053
+  },
+  "zh3-05-12": {
+    "num": 12,
+    "text": "最近",
+    "page": 55,
+    "ocr": "12.最近zuijinph6.  gan day,",
+    "near": "",
+    "confidence": 0.9155077004432678
+  },
+  "zh3-05-13": {
+    "num": 13,
+    "text": "越",
+    "page": 55,
+    "ocr": "13.越",
+    "near": "yue pho.cang",
+    "confidence": 0.9966042637825012
+  },
+  "zh3-06-01": {
+    "num": 1,
+    "text": "眼镜",
+    "page": 63,
+    "ocr": "*1.眼镜yanjing",
+    "near": "dt. matkinh",
+    "confidence": 0.9767172733942667
+  },
+  "zh3-06-02": {
+    "num": 2,
+    "text": "突然",
+    "page": 63,
+    "ocr": "2.突然turan",
+    "near": "pho. bong nhien,",
+    "confidence": 0.9608163568708632
+  },
+  "zh3-06-03": {
+    "num": 3,
+    "text": "离开",
+    "page": 63,
+    "ocr": "3.离开likai",
+    "near": "dgt. roikhoi,",
+    "confidence": 0.9256178273095025
+  },
+  "zh3-06-04": {
+    "num": 4,
+    "text": "清楚",
+    "page": 63,
+    "ocr": "4.清楚qingchutt.",
+    "near": "rorang",
+    "confidence": 0.9788867064884731
+  },
+  "zh3-06-05": {
+    "num": 5,
+    "text": "刚才",
+    "page": 63,
+    "ocr": "5.刚才gangcai dt.",
+    "near": "luic nay",
+    "confidence": 0.969179634253184
+  },
+  "zh3-06-06": {
+    "num": 6,
+    "text": "帮忙",
+    "page": 63,
+    "ocr": "6.帮忙 bang mang dgt. giuip,",
+    "near": "",
+    "confidence": 0.9590715490854703
+  },
+  "zh3-06-07": {
+    "num": 7,
+    "text": "特别",
+    "page": 63,
+    "ocr": "7.特别tebié",
+    "near": "pho.vo cung,rat",
+    "confidence": 0.9877444836828444
+  },
+  "zh3-06-08": {
+    "num": 8,
+    "text": "讲",
+    "page": 63,
+    "ocr": "8.讲",
+    "near": "jiäng dgt.giaithich,",
+    "confidence": 0.9906035661697388
+  },
+  "zh3-06-09": {
+    "num": 9,
+    "text": "明白",
+    "page": 63,
+    "ocr": "9.明白mingbai",
+    "near": "rorang,",
+    "confidence": 0.9963719140399586
+  },
+  "zh3-06-10": {
+    "num": 10,
+    "text": "锻炼",
+    "page": 63,
+    "ocr": "10.锻炼duanliandgt.taptheduc",
+    "near": "",
+    "confidence": 0.9813090150172894
+  },
+  "zh3-06-11": {
+    "num": 11,
+    "text": "音乐",
+    "page": 63,
+    "ocr": "11.音乐yinyue",
+    "near": "dt.am nhac",
+    "confidence": 0.9793324253775857
+  },
+  "zh3-06-12": {
+    "num": 12,
+    "text": "公园",
+    "page": 63,
+    "ocr": "12.公园gongyuandt.cong vien",
+    "near": "",
+    "confidence": 0.939769994020462
+  },
+  "zh3-06-13": {
+    "num": 13,
+    "text": "聊天（儿）",
+    "page": 63,
+    "ocr": "13.聊天（儿）liáo tian(r)dgt.",
+    "near": "",
+    "confidence": 0.9014181345701218
+  },
+  "zh3-06-14": {
+    "num": 14,
+    "text": "睡着",
+    "page": 64,
+    "ocr": "*14.睡着shuizháodgt.nguiduoc",
+    "near": "",
+    "confidence": 0.9504130322199601
+  },
+  "zh3-06-15": {
+    "num": 15,
+    "text": "更",
+    "page": 64,
+    "ocr": "15.更geng",
+    "near": "pho.cang,honnita",
+    "confidence": 0.9970447868108749
+  },
+  "zh3-07-01": {
+    "num": 1,
+    "text": "同事",
+    "page": 72,
+    "ocr": "1.同事 tongshi dt.dong nghiep",
+    "near": "",
+    "confidence": 0.9472081352163244
+  },
+  "zh3-07-02": {
+    "num": 2,
+    "text": "以前",
+    "page": 72,
+    "ocr": "2.以前yiqián",
+    "near": "dt.truoc day,",
+    "confidence": 0.9614749550819397
+  },
+  "zh3-07-03": {
+    "num": 3,
+    "text": "银行",
+    "page": 72,
+    "ocr": "3.银行yinhangdt.nganhang",
+    "near": "",
+    "confidence": 0.977800502018495
+  },
+  "zh3-07-04": {
+    "num": 4,
+    "text": "久",
+    "page": 72,
+    "ocr": "4.久",
+    "near": "jiutt lau,laudai",
+    "confidence": 0.987246592839559
+  },
+  "zh3-07-05": {
+    "num": 5,
+    "text": "感兴趣",
+    "page": 72,
+    "ocr": "5.感兴趣ganxingqucohuing thui,",
+    "near": "",
+    "confidence": 0.9152728021144867
+  },
+  "zh3-07-06": {
+    "num": 6,
+    "text": "结婚",
+    "page": 72,
+    "ocr": "6.结婚jié hun",
+    "near": "dgt.kethon,cuoi",
+    "confidence": 0.9702153422615745
+  },
+  "zh3-07-07": {
+    "num": 7,
+    "text": "欢迎",
+    "page": 72,
+    "ocr": "7.欢迎huanying dgt.hoannghenh,",
+    "near": "",
+    "confidence": 0.9659623908145087
+  },
+  "zh3-07-08": {
+    "num": 8,
+    "text": "迟到",
+    "page": 73,
+    "ocr": "8.迟到",
+    "near": "]chidao dgt. denmuon",
+    "confidence": 0.9888612776994705
+  },
+  "zh3-07-09": {
+    "num": 9,
+    "text": "半",
+    "page": 73,
+    "ocr": "9.半",
+    "near": "ban so. mot nia,ruoi",
+    "confidence": 0.9963841835657755
+  },
+  "zh3-07-10": {
+    "num": 10,
+    "text": "接",
+    "page": 73,
+    "ocr": "10.接",
+    "near": "jie dgt. don",
+    "confidence": 0.9986985921859741
+  },
+  "zh3-07-11": {
+    "num": 11,
+    "text": "刻",
+    "page": 73,
+    "ocr": "11.刻",
+    "near": "ke lugng.muoi lam phuit",
+    "confidence": 0.9986453354358673
+  },
+  "zh3-07-12": {
+    "num": 12,
+    "text": "差",
+    "page": 73,
+    "ocr": "12.差",
+    "near": "cha dgt. kem,thieu",
+    "confidence": 0.9968352168798447
+  },
+  "zh3-08-01": {
+    "num": 1,
+    "text": "又",
+    "page": 81,
+    "ocr": "1.又",
+    "near": "you pho. lai",
+    "confidence": 0.9858389298121134
+  },
+  "zh3-08-02": {
+    "num": 2,
+    "text": "满意",
+    "page": 81,
+    "ocr": "2.满意manyi",
+    "near": "dgt. hai long,",
+    "confidence": 0.9325529634952545
+  },
+  "zh3-08-03": {
+    "num": 3,
+    "text": "电梯",
+    "page": 81,
+    "ocr": "3.电梯",
+    "near": "dianti dt. thangmay 儿",
+    "confidence": 0.9962068498134613
+  },
+  "zh3-08-04": {
+    "num": 4,
+    "text": "层",
+    "page": 81,
+    "ocr": "4.层",
+    "near": "céng luong. tang",
+    "confidence": 0.9946728944778442
+  },
+  "zh3-08-05": {
+    "num": 5,
+    "text": "害怕",
+    "page": 81,
+    "ocr": "5.害怕",
+    "near": "hai pa dgt. sg",
+    "confidence": 0.9971967041492462
+  },
+  "zh3-08-06": {
+    "num": 6,
+    "text": "熊猫",
+    "page": 81,
+    "ocr": "6.熊猫xiongmao dt.gau truic,panda",
+    "near": "",
+    "confidence": 0.9519188000309852
+  },
+  "zh3-08-07": {
+    "num": 7,
+    "text": "见面",
+    "page": 81,
+    "ocr": "7.见面jian miandgt.gap,gap nhau",
+    "near": "",
+    "confidence": 0.9324436331617421
+  },
+  "zh3-08-08": {
+    "num": 8,
+    "text": "安静",
+    "page": 81,
+    "ocr": "8.安静",
+    "near": "anjingtt.yen tinh",
+    "confidence": 0.9991956800222397
+  },
+  "zh3-08-09": {
+    "num": 9,
+    "text": "可乐",
+    "page": 81,
+    "ocr": "*9.可乐",
+    "near": "kele dt.coca-cola",
+    "confidence": 0.9928511500358581
+  },
+  "zh3-08-10": {
+    "num": 10,
+    "text": "一会儿",
+    "page": 81,
+    "ocr": "10.一会儿yihuirdt.choc lat,mot lat",
+    "near": "",
+    "confidence": 0.9483932179789389
+  },
+  "zh3-08-11": {
+    "num": 11,
+    "text": "马上",
+    "page": 81,
+    "ocr": "11.马上",
+    "near": "mashang pho.lien, ngay",
+    "confidence": 0.9040701746940613
+  },
+  "zh3-08-12": {
+    "num": 12,
+    "text": "洗手间",
+    "page": 81,
+    "ocr": "12.洗手间xishoujiandt.nha ve sinh",
+    "near": "",
+    "confidence": 0.9435463567574819
+  },
+  "zh3-08-13": {
+    "num": 13,
+    "text": "老",
+    "page": 82,
+    "ocr": "13.老o",
+    "near": "tt.gia,cu",
+    "confidence": 0.971925926208496
+  },
+  "zh3-08-14": {
+    "num": 14,
+    "text": "几乎",
+    "page": 82,
+    "ocr": "14.几乎jihu",
+    "near": "pho.hau nhu,",
+    "confidence": 0.9668761359320747
+  },
+  "zh3-08-15": {
+    "num": 15,
+    "text": "变化",
+    "page": 82,
+    "ocr": "15.变化bianhud",
+    "near": "dgt.thay dor",
+    "confidence": 0.9560815890630087
+  },
+  "zh3-08-16": {
+    "num": 16,
+    "text": "健康",
+    "page": 82,
+    "ocr": "16.健康jiankang",
+    "near": "gtt. khoemanh",
+    "confidence": 0.982229966383714
+  },
+  "zh3-08-17": {
+    "num": 17,
+    "text": "重要",
+    "page": 82,
+    "ocr": "17.重要zhongyaott.",
+    "near": "quantrong",
+    "confidence": 0.9642813764512539
+  },
+  "zh3-09-01": {
+    "num": 1,
+    "text": "中文",
+    "page": 89,
+    "ocr": "1.中文Zhongwendt.tieng",
+    "near": "",
+    "confidence": 0.9845913946628571
+  },
+  "zh3-09-02": {
+    "num": 2,
+    "text": "班",
+    "page": 89,
+    "ocr": "2.班",
+    "near": "ban dt. lop 跟",
+    "confidence": 0.9994879563649496
+  },
+  "zh3-09-03": {
+    "num": 3,
+    "text": "一样",
+    "page": 89,
+    "ocr": "3.一样yiyang",
+    "near": "tt.giong nhau, 国",
+    "confidence": 0.9858797311782836
+  },
+  "zh3-09-04": {
+    "num": 4,
+    "text": "最后",
+    "page": 89,
+    "ocr": "4.最后 zuihou dt.(cai cuoi cuing",
+    "near": "",
+    "confidence": 0.9102766931056976
+  },
+  "zh3-09-05": {
+    "num": 5,
+    "text": "放心",
+    "page": 89,
+    "ocr": "5.放心fangxindgt.yentam",
+    "near": "",
+    "confidence": 0.9740053103083656
+  },
+  "zh3-09-06": {
+    "num": 6,
+    "text": "一定",
+    "page": 89,
+    "ocr": "6.一定yiding",
+    "near": "pho.nhatdinh,",
+    "confidence": 0.9844612181186676
+  },
+  "zh3-09-07": {
+    "num": 7,
+    "text": "担心",
+    "page": 89,
+    "ocr": "7. 担心dan xin",
+    "near": "dgt. lo lang",
+    "confidence": 0.9542673627535502
+  },
+  "zh3-09-08": {
+    "num": 8,
+    "text": "比较",
+    "page": 89,
+    "ocr": "8.比较 bijiao",
+    "near": "pho. tuong doi, kha",
+    "confidence": 0.9540095383470709
+  },
+  "zh3-09-09": {
+    "num": 9,
+    "text": "了解",
+    "page": 89,
+    "ocr": "9.了解 liaojie",
+    "near": "dgt.hieuro",
+    "confidence": 0.8795087113976479
+  },
+  "zh3-09-10": {
+    "num": 10,
+    "text": "先",
+    "page": 89,
+    "ocr": "10.先xian",
+    "near": "pho.truoc,truochet",
+    "confidence": 0.9705856889486313
+  },
+  "zh3-09-11": {
+    "num": 11,
+    "text": "中间",
+    "page": 89,
+    "ocr": "11.中间 zhongjian dt.gita，chinh",
+    "near": "",
+    "confidence": 0.9578402062942242
+  },
+  "zh3-09-12": {
+    "num": 12,
+    "text": "参加",
+    "page": 90,
+    "ocr": "12.参加canjia",
+    "near": "agt.tham gia",
+    "confidence": 0.9923336831006137
+  },
+  "zh3-09-13": {
+    "num": 13,
+    "text": "影响",
+    "page": 90,
+    "ocr": "13.影响yingxiangdt.anh huong",
+    "near": "",
+    "confidence": 0.9607432817037289
+  },
+  "zh3-10-01": {
+    "num": 1,
+    "text": "个子",
+    "page": 98,
+    "ocr": "1.个子gezi dt.voc dang,than hinh",
+    "near": "",
+    "confidence": 0.9625371734301249
+  },
+  "zh3-10-02": {
+    "num": 2,
+    "text": "矮",
+    "page": 98,
+    "ocr": "2.矮",
+    "near": "ai tt.thap",
+    "confidence": 0.9799074729283651
+  },
+  "zh3-10-03": {
+    "num": 3,
+    "text": "历史",
+    "page": 98,
+    "ocr": "3.历史lishi",
+    "near": "dt.monLich Si",
+    "confidence": 0.9967689977751838
+  },
+  "zh3-10-04": {
+    "num": 4,
+    "text": "体育",
+    "page": 98,
+    "ocr": "4.体育tiyu",
+    "near": "dt.mon TheDuc",
+    "confidence": 0.9697335287928581
+  },
+  "zh3-10-05": {
+    "num": 5,
+    "text": "数学",
+    "page": 98,
+    "ocr": "5.数学shuxué",
+    "near": "dt.monToan",
+    "confidence": 0.955425250530243
+  },
+  "zh3-10-06": {
+    "num": 6,
+    "text": "方便",
+    "page": 98,
+    "ocr": "6.方便f",
+    "near": "fangbiantt.thuan tien",
+    "confidence": 0.92521071434021
+  },
+  "zh3-10-07": {
+    "num": 7,
+    "text": "自行车",
+    "page": 98,
+    "ocr": "7.自行车 zixingche dt. xe dap",
+    "near": "",
+    "confidence": 0.9609720959113195
+  },
+  "zh3-10-08": {
+    "num": 8,
+    "text": "骑",
+    "page": 98,
+    "ocr": "8.骑",
+    "near": "qi dgt. cuoi,di",
+    "confidence": 0.9888901313145956
+  },
+  "zh3-10-09": {
+    "num": 9,
+    "text": "旧",
+    "page": 98,
+    "ocr": "9.旧",
+    "near": "jiu tt. ci",
+    "confidence": 0.9959472020467123
+  },
+  "zh3-10-10": {
+    "num": 10,
+    "text": "换",
+    "page": 98,
+    "ocr": "10.换",
+    "near": "huan dgt. doi,thay",
+    "confidence": 0.998799666762352
+  },
+  "zh3-10-11": {
+    "num": 11,
+    "text": "地方",
+    "page": 99,
+    "ocr": "11.地方difang",
+    "near": "dt.cho,noi",
+    "confidence": 0.9985319050875577
+  },
+  "zh3-10-12": {
+    "num": 12,
+    "text": "中介",
+    "page": 99,
+    "ocr": "*12.中介zhongjiedt.moigioi",
+    "near": "",
+    "confidence": 0.9866452241937319
+  },
+  "zh3-10-13": {
+    "num": 13,
+    "text": "主要",
+    "page": 99,
+    "ocr": "13.主要zhuyaott.chuiyeu",
+    "near": "",
+    "confidence": 0.9029014096373603
+  },
+  "zh3-10-14": {
+    "num": 14,
+    "text": "环境",
+    "page": 99,
+    "ocr": "14.环境huanjingdt.moitrong",
+    "near": "",
+    "confidence": 0.9568168520927429
+  },
+  "zh3-10-15": {
+    "num": 15,
+    "text": "附近",
+    "page": 99,
+    "ocr": "15.附近fujin",
+    "near": "dt.ving lan can",
+    "confidence": 0.9514313519001008
+  },
+  "zh3-11-01": {
+    "num": 1,
+    "text": "图书馆",
+    "page": 107,
+    "ocr": "1.图书馆",
+    "near": "tushuguandt.thuvien",
+    "confidence": 0.9995037198066712
+  },
+  "zh3-11-02": {
+    "num": 2,
+    "text": "借",
+    "page": 107,
+    "ocr": "2.借",
+    "near": "jie dgt.muon,vay",
+    "confidence": 0.9996162056922913
+  },
+  "zh3-11-03": {
+    "num": 3,
+    "text": "词典",
+    "page": 107,
+    "ocr": "3.词典",
+    "near": "cidian dt. tirdien",
+    "confidence": 0.9992295056581497
+  },
+  "zh3-11-04": {
+    "num": 4,
+    "text": "还",
+    "page": 107,
+    "ocr": "4.还",
+    "near": "huan dgt. tra",
+    "confidence": 0.9901302258173624
+  },
+  "zh3-11-05": {
+    "num": 5,
+    "text": "灯",
+    "page": 107,
+    "ocr": "5.灯",
+    "near": "deng dt. den",
+    "confidence": 0.9998289346694946
+  },
+  "zh3-11-06": {
+    "num": 6,
+    "text": "会议",
+    "page": 107,
+    "ocr": "6.会议huiyidt.hoinghi,cuochop",
+    "near": "",
+    "confidence": 0.9679545340714631
+  },
+  "zh3-11-07": {
+    "num": 7,
+    "text": "结束",
+    "page": 107,
+    "ocr": "7.结束jiéshu",
+    "near": "dgt.ketthuic,cham",
+    "confidence": 0.9857106685638428
+  },
+  "zh3-11-08": {
+    "num": 8,
+    "text": "忘记",
+    "page": 107,
+    "ocr": "8.忘记wangji",
+    "near": "dgt. quen",
+    "confidence": 0.9845049321651459
+  },
+  "zh3-11-09": {
+    "num": 9,
+    "text": "空调",
+    "page": 107,
+    "ocr": "9.空调kongtiáodt.may dieuhoa",
+    "near": "",
+    "confidence": 0.9440832757032834
+  },
+  "zh3-11-10": {
+    "num": 10,
+    "text": "关",
+    "page": 107,
+    "ocr": "10.关",
+    "near": "guan dgt. tat, dong",
+    "confidence": 0.9996154755353928
+  },
+  "zh3-11-11": {
+    "num": 11,
+    "text": "地铁",
+    "page": 107,
+    "ocr": "11.地铁ditie",
+    "near": "dt.tau dienngam",
+    "confidence": 0.9918024361133575
+  },
+  "zh3-11-12": {
+    "num": 12,
+    "text": "双",
+    "page": 107,
+    "ocr": "12.双",
+    "near": "shuang lugng.doi",
+    "confidence": 0.9979436248540878
+  },
+  "zh3-11-13": {
+    "num": 13,
+    "text": "筷子",
+    "page": 107,
+    "ocr": "13.筷子 kudizi",
+    "near": "dt. dia",
+    "confidence": 0.9439013451337814
+  },
+  "zh3-11-14": {
+    "num": 14,
+    "text": "啤酒",
+    "page": 107,
+    "ocr": "14.啤酒 pijiu",
+    "near": "dt. bia,ruou bia",
+    "confidence": 0.8795348514210094
+  },
+  "zh3-11-15": {
+    "num": 15,
+    "text": "口",
+    "page": 107,
+    "ocr": "15.口",
+    "near": "kou luong.mieng,",
+    "confidence": 0.9931868314743042
+  },
+  "zh3-11-16": {
+    "num": 16,
+    "text": "瓶子",
+    "page": 107,
+    "ocr": "16.瓶子pingzi",
+    "near": "dt. lo,binh",
+    "confidence": 0.9980032010511919
+  },
+  "zh3-11-17": {
+    "num": 17,
+    "text": "笔记本（电脑）",
+    "page": 108,
+    "ocr": "17.笔记本（电脑）bijibén（diannao)",
+    "near": "",
+    "confidence": 0.9100679067464975
+  },
+  "zh3-11-18": {
+    "num": 18,
+    "text": "电子邮件",
+    "page": 108,
+    "ocr": "18.电子邮件dianziyoujian",
+    "near": "",
+    "confidence": 0.991740158200264
+  },
+  "zh3-11-19": {
+    "num": 19,
+    "text": "习惯",
+    "page": 108,
+    "ocr": "19.习惯",
+    "near": "xiguandgt./dt.",
+    "confidence": 0.9992932200431823
+  },
+  "zh3-12-01": {
+    "num": 1,
+    "text": "太阳",
+    "page": 115,
+    "ocr": "1.太阳",
+    "near": "日taiyangdt.mait troi",
+    "confidence": 0.9998742341995239
+  },
+  "zh3-12-02": {
+    "num": 2,
+    "text": "西",
+    "page": 115,
+    "ocr": "2.西",
+    "near": "xi dt.phiatay,",
+    "confidence": 0.9957782626152039
+  },
+  "zh3-12-03": {
+    "num": 3,
+    "text": "生气",
+    "page": 115,
+    "ocr": "3.生气sheng qidgt.gian,tuic gian",
+    "near": "",
+    "confidence": 0.9278475940227509
+  },
+  "zh3-12-04": {
+    "num": 4,
+    "text": "行李箱",
+    "page": 115,
+    "ocr": "4.行李箱xinglixiang dt.hanh ly,vali",
+    "near": "",
+    "confidence": 0.9505326990038157
+  },
+  "zh3-12-05": {
+    "num": 5,
+    "text": "自己",
+    "page": 115,
+    "ocr": "5.自己zijdt.tuminh,ban than",
+    "near": "",
+    "confidence": 0.9326425158977508
+  },
+  "zh3-12-06": {
+    "num": 6,
+    "text": "包",
+    "page": 115,
+    "ocr": "6.包",
+    "near": "baodt.cap,tui",
+    "confidence": 0.999409039815267
+  },
+  "zh3-12-07": {
+    "num": 7,
+    "text": "发现",
+    "page": 115,
+    "ocr": "7.发现",
+    "near": "faxiandgt.phathien",
+    "confidence": 0.9988495409488678
+  },
+  "zh3-12-08": {
+    "num": 8,
+    "text": "护照",
+    "page": 115,
+    "ocr": "8.护照",
+    "near": "huzhao dt.ho chieu",
+    "confidence": 0.9966696351766586
+  },
+  "zh3-12-09": {
+    "num": 9,
+    "text": "起飞",
+    "page": 115,
+    "ocr": "9.起飞",
+    "near": "qifei dgt.cait canh (may",
+    "confidence": 0.9973904490470886
+  },
+  "zh3-12-10": {
+    "num": 10,
+    "text": "司机",
+    "page": 115,
+    "ocr": "10.司机sij",
+    "near": "dt. tai xe",
+    "confidence": 0.9079535380005836
+  },
+  "zh3-12-11": {
+    "num": 11,
+    "text": "教",
+    "page": 116,
+    "ocr": "11.教",
+    "near": "jiao dgt. day",
+    "confidence": 0.9990754425525665
+  },
+  "zh3-12-12": {
+    "num": 12,
+    "text": "画",
+    "page": 116,
+    "ocr": "12.画",
+    "near": "hua dgt./dt. ve;tranh",
+    "confidence": 0.9984399676322937
+  },
+  "zh3-12-13": {
+    "num": 13,
+    "text": "需要",
+    "page": 116,
+    "ocr": "13.需要",
+    "near": "xuydo dgt. can",
+    "confidence": 0.9998366475105286
+  },
+  "zh3-12-14": {
+    "num": 14,
+    "text": "黑板",
+    "page": 116,
+    "ocr": "14.黑板",
+    "near": "heibän dt. bang den",
+    "confidence": 0.999679446220398
+  },
+  "zh3-13-01": {
+    "num": 1,
+    "text": "终于",
+    "page": 124,
+    "ocr": "1.终于zhongyu pho.cuoi cing",
+    "near": "",
+    "confidence": 0.91418128490448
+  },
+  "zh3-13-02": {
+    "num": 2,
+    "text": "爷爷",
+    "page": 124,
+    "ocr": "2.爷爷yéye",
+    "near": "dt. ongnoi",
+    "confidence": 0.940997801721096
+  },
+  "zh3-13-03": {
+    "num": 3,
+    "text": "礼物",
+    "page": 124,
+    "ocr": "3.礼物liwu",
+    "near": "dt. qua bieu,",
+    "confidence": 0.9355685263872147
+  },
+  "zh3-13-04": {
+    "num": 4,
+    "text": "奶奶",
+    "page": 124,
+    "ocr": "4.奶奶nainai",
+    "near": "dt. banoi",
+    "confidence": 0.9645525991916657
+  },
+  "zh3-13-05": {
+    "num": 5,
+    "text": "遇到",
+    "page": 124,
+    "ocr": "5.遇到",
+    "near": "yudaodgt.tinh cagap",
+    "confidence": 0.9995196610689163
+  },
+  "zh3-13-06": {
+    "num": 6,
+    "text": "一边",
+    "page": 124,
+    "ocr": "6.一边yibianpho.vua(duoc",
+    "near": "",
+    "confidence": 0.9280483749779788
+  },
+  "zh3-13-07": {
+    "num": 7,
+    "text": "过去",
+    "page": 124,
+    "ocr": "7.过去guoqudt.quakhut",
+    "near": "",
+    "confidence": 0.965787947177887
+  },
+  "zh3-13-08": {
+    "num": 8,
+    "text": "一般",
+    "page": 124,
+    "ocr": "8.一般yiban",
+    "near": "tt.thong thuong",
+    "confidence": 0.9931343727641635
+  },
+  "zh3-13-09": {
+    "num": 9,
+    "text": "愿意",
+    "page": 124,
+    "ocr": "9.愿意yuanyidgt.muon",
+    "near": "",
+    "confidence": 0.9894466631942325
+  },
+  "zh3-13-10": {
+    "num": 10,
+    "text": "起来",
+    "page": 124,
+    "ocr": "10.起来qilai",
+    "near": "dgt. (chi su di",
+    "confidence": 0.9344458699226379
+  },
+  "zh3-13-11": {
+    "num": 11,
+    "text": "应该",
+    "page": 124,
+    "ocr": "11. 应该 yinggai dgt. nen,can phai",
+    "near": "",
+    "confidence": 0.9474729560315609
+  },
+  "zh3-13-12": {
+    "num": 12,
+    "text": "生活",
+    "page": 124,
+    "ocr": "*12.生活shenghu6dt.doi song,",
+    "near": "",
+    "confidence": 0.9630391253874853
+  },
+  "zh3-13-13": {
+    "num": 13,
+    "text": "校长",
+    "page": 125,
+    "ocr": "13.校长xidozhang dt.hieu truong",
+    "near": "",
+    "confidence": 0.9390672239763983
+  },
+  "zh3-13-14": {
+    "num": 14,
+    "text": "坏",
+    "page": 125,
+    "ocr": "14.坏huai",
+    "near": "tt.qua,quamic",
+    "confidence": 0.9625972658395767
+  },
+  "zh3-13-15": {
+    "num": 15,
+    "text": "经常",
+    "page": 125,
+    "ocr": "15.经常 jingchang pho.",
+    "near": "",
+    "confidence": 0.9270515531301499
+  },
+  "zh3-14-01": {
+    "num": 1,
+    "text": "打扫",
+    "page": 133,
+    "ocr": "1.打扫dosáo",
+    "near": "dgt.quet don",
+    "confidence": 0.8613111939695146
+  },
+  "zh3-14-02": {
+    "num": 2,
+    "text": "干净",
+    "page": 133,
+    "ocr": "2.干净ganjing",
+    "near": "tt. sachse",
+    "confidence": 0.9820112260905179
+  },
+  "zh3-14-03": {
+    "num": 3,
+    "text": "然后",
+    "page": 133,
+    "ocr": "3.然后ranhou",
+    "near": "lien. sau d6",
+    "confidence": 0.9661593794822693
+  },
+  "zh3-14-04": {
+    "num": 4,
+    "text": "冰箱",
+    "page": 133,
+    "ocr": "4.冰箱bingxiangdt.ti lanh",
+    "near": "",
+    "confidence": 0.9623880723248357
+  },
+  "zh3-14-05": {
+    "num": 5,
+    "text": "洗澡",
+    "page": 133,
+    "ocr": "5.洗澡xizäodgt.tam,tamrita",
+    "near": "",
+    "confidence": 0.9035484803219637
+  },
+  "zh3-14-06": {
+    "num": 6,
+    "text": "节目",
+    "page": 133,
+    "ocr": "6.节目jiémudt.chuong trinh",
+    "near": "",
+    "confidence": 0.9431215350826582
+  },
+  "zh3-14-07": {
+    "num": 7,
+    "text": "月亮",
+    "page": 133,
+    "ocr": "7.月亮yueliang dt.mat trang",
+    "near": "",
+    "confidence": 0.9726540780067444
+  },
+  "zh3-14-08": {
+    "num": 8,
+    "text": "像",
+    "page": 133,
+    "ocr": "8.像",
+    "near": "xiang dgt.giong",
+    "confidence": 0.9971943100293478
+  },
+  "zh3-14-09": {
+    "num": 9,
+    "text": "盘子",
+    "page": 133,
+    "ocr": "9.盘子 pánzi",
+    "near": "dt.dia,mam",
+    "confidence": 0.910571026802063
+  },
+  "zh3-14-10": {
+    "num": 10,
+    "text": "刮风",
+    "page": 133,
+    "ocr": "10.刮风gua feng dgt.noi gio",
+    "near": "",
+    "confidence": 0.9342249703407287
+  },
+  "zh3-14-11": {
+    "num": 11,
+    "text": "叔叔",
+    "page": 133,
+    "ocr": "11.叔叔shushu",
+    "near": "dt.chui",
+    "confidence": 0.9626564058390531
+  },
+  "zh3-14-12": {
+    "num": 12,
+    "text": "阿姨",
+    "page": 133,
+    "ocr": "12.阿姨ayi",
+    "near": "dt. di, co",
+    "confidence": 0.9771521613001823
+  },
+  "zh3-14-13": {
+    "num": 13,
+    "text": "故事",
+    "page": 133,
+    "ocr": "13.故事gushi",
+    "near": "dt.truyen,",
+    "confidence": 0.9991701543331146
+  },
+  "zh3-14-14": {
+    "num": 14,
+    "text": "声音",
+    "page": 133,
+    "ocr": "14.声音shengyindt.amthanh,",
+    "near": "",
+    "confidence": 0.9813793301582336
+  },
+  "zh3-14-15": {
+    "num": 15,
+    "text": "菜单",
+    "page": 134,
+    "ocr": "15.菜单caidan",
+    "near": "dt.thucdon",
+    "confidence": 0.9631444161588495
+  },
+  "zh3-14-16": {
+    "num": 16,
+    "text": "简单",
+    "page": 134,
+    "ocr": "16.简单jiandan",
+    "near": "tt.dongian",
+    "confidence": 0.9389538715283076
+  },
+  "zh3-14-17": {
+    "num": 17,
+    "text": "香蕉",
+    "page": 134,
+    "ocr": "17.香蕉xiangjiaodt.chuoitieu",
+    "near": "",
+    "confidence": 0.9797992683373965
+  },
+  "zh3-15-01": {
+    "num": 1,
+    "text": "留学",
+    "page": 142,
+    "ocr": "1.留学",
+    "near": "liuxué dgt. duhoc",
+    "confidence": 0.9991234838962555
+  },
+  "zh3-15-02": {
+    "num": 2,
+    "text": "水平",
+    "page": 142,
+    "ocr": "2.水平",
+    "near": "shuiping dt. trinhdo",
+    "confidence": 0.9996053725481033
+  },
+  "zh3-15-03": {
+    "num": 3,
+    "text": "提高",
+    "page": 142,
+    "ocr": "3.提高ti gao",
+    "near": "dgt. nangcao,",
+    "confidence": 0.9618844628334046
+  },
+  "zh3-15-04": {
+    "num": 4,
+    "text": "练习",
+    "page": 142,
+    "ocr": "4.练习",
+    "near": "lianxi dt. baitap",
+    "confidence": 0.9986269176006317
+  },
+  "zh3-15-05": {
+    "num": 5,
+    "text": "完成",
+    "page": 142,
+    "ocr": "5.完成",
+    "near": "wan cheng dgt.hoan thanh",
+    "confidence": 0.9980679303407669
+  },
+  "zh3-15-06": {
+    "num": 6,
+    "text": "句子",
+    "page": 142,
+    "ocr": "6.句子",
+    "near": "juzi dt. cau",
+    "confidence": 0.9907657653093338
+  },
+  "zh3-15-07": {
+    "num": 7,
+    "text": "其他",
+    "page": 142,
+    "ocr": "7.其他",
+    "near": "qita dt. caikhac",
+    "confidence": 0.9998490661382675
+  },
+  "zh3-15-08": {
+    "num": 8,
+    "text": "发",
+    "page": 142,
+    "ocr": "8.发",
+    "near": "fa dgt. gii,giidi",
+    "confidence": 0.9979511300722758
+  },
+  "zh3-15-09": {
+    "num": 9,
+    "text": "要求",
+    "page": 142,
+    "ocr": "9.要求",
+    "near": "yaoqiudt.yeucau",
+    "confidence": 0.9995937347412109
+  },
+  "zh3-15-10": {
+    "num": 10,
+    "text": "注意",
+    "page": 142,
+    "ocr": "10.注意",
+    "near": "zhuyi dgt.chuy",
+    "confidence": 0.9998290657997131
+  },
+  "zh3-15-11": {
+    "num": 11,
+    "text": "上网",
+    "page": 142,
+    "ocr": "11.上网",
+    "near": "shang wang dgt.",
+    "confidence": 0.9997493505477906
+  },
+  "zh3-15-12": {
+    "num": 12,
+    "text": "除了",
+    "page": 142,
+    "ocr": "12.除了",
+    "near": "chule gioi.ngoai...ra",
+    "confidence": 0.9987036466598511
+  },
+  "zh3-15-13": {
+    "num": 13,
+    "text": "新闻",
+    "page": 142,
+    "ocr": "13.新闻",
+    "near": "xinwen dt. tintic",
+    "confidence": 0.9985089302062988
+  },
+  "zh3-15-14": {
+    "num": 14,
+    "text": "花",
+    "page": 142,
+    "ocr": "14.花",
+    "near": "hua dgt.ton,tieu ton",
+    "confidence": 0.9994648545980453
+  },
+  "zh3-15-15": {
+    "num": 15,
+    "text": "极（了）",
+    "page": 142,
+    "ocr": "15.极（了）ji（le)",
+    "near": "pho.het suic,",
+    "confidence": 0.8107785009420835
+  },
+  "zh3-15-16": {
+    "num": 16,
+    "text": "节日",
+    "page": 143,
+    "ocr": "16.节日jiéri",
+    "near": "dt. ngay le",
+    "confidence": 0.9862312912940979
+  },
+  "zh3-15-17": {
+    "num": 17,
+    "text": "举行",
+    "page": 143,
+    "ocr": "*17.举行juxing",
+    "near": "dgt.tochuic(hoi",
+    "confidence": 0.9913829763730367
+  },
+  "zh3-15-18": {
+    "num": 18,
+    "text": "世界",
+    "page": 143,
+    "ocr": "18.世界shijie",
+    "near": "dt.the gioi",
+    "confidence": 0.9427289312536066
+  },
+  "zh3-15-19": {
+    "num": 19,
+    "text": "街道",
+    "page": 143,
+    "ocr": "19.街道jiedao",
+    "near": "dt.duong,duong",
+    "confidence": 0.9629592462019487
+  },
+  "zh3-15-20": {
+    "num": 20,
+    "text": "各",
+    "page": 143,
+    "ocr": "*20.各ge",
+    "near": "dt.moi",
+    "confidence": 0.9836940169334412
+  },
+  "zh3-15-21": {
+    "num": 21,
+    "text": "文化",
+    "page": 143,
+    "ocr": "21.文化wénhua dt.van hoa",
+    "near": "",
+    "confidence": 0.9233763028274883
+  },
+  "zh3-16-01": {
+    "num": 1,
+    "text": "城市",
+    "page": 152,
+    "ocr": "1.城市chéngshi dt.thanh pho",
+    "near": "",
+    "confidence": 0.9728018426895142
+  },
+  "zh3-16-02": {
+    "num": 2,
+    "text": "如果",
+    "page": 152,
+    "ocr": "2.如果ruguo",
+    "near": "lien.neu",
+    "confidence": 0.9885432521502177
+  },
+  "zh3-16-03": {
+    "num": 3,
+    "text": "认为",
+    "page": 152,
+    "ocr": "3.认为renwéi",
+    "near": "dgt.chorang",
+    "confidence": 0.9597549140453339
+  },
+  "zh3-16-04": {
+    "num": 4,
+    "text": "皮鞋",
+    "page": 152,
+    "ocr": "4.皮鞋pixié",
+    "near": "dt.giay da",
+    "confidence": 0.9861785107188754
+  },
+  "zh3-16-05": {
+    "num": 5,
+    "text": "帽子",
+    "page": 152,
+    "ocr": "5.帽子maozi",
+    "near": "dt.mi,non",
+    "confidence": 0.9718162152502272
+  },
+  "zh3-16-06": {
+    "num": 6,
+    "text": "长",
+    "page": 152,
+    "ocr": "6.长",
+    "near": "zhang dgt.truong thanh,",
+    "confidence": 0.9952926834424337
+  },
+  "zh3-16-07": {
+    "num": 7,
+    "text": "可爱",
+    "page": 152,
+    "ocr": "7.可爱keai",
+    "near": "tt. dangyeu,de",
+    "confidence": 0.9324226304888725
+  },
+  "zh3-16-08": {
+    "num": 8,
+    "text": "米",
+    "page": 152,
+    "ocr": "8.米",
+    "near": "mi dt. met",
+    "confidence": 0.9997331897417704
+  },
+  "zh3-16-09": {
+    "num": 9,
+    "text": "公斤",
+    "page": 152,
+    "ocr": "9.公斤 gongjin dt.",
+    "near": "kilogram",
+    "confidence": 0.9539457112550735
+  },
+  "zh3-16-10": {
+    "num": 10,
+    "text": "鼻子",
+    "page": 152,
+    "ocr": "10.鼻子bizi",
+    "near": "dt. mii",
+    "confidence": 0.9937719636493259
+  },
+  "zh3-16-11": {
+    "num": 11,
+    "text": "头发",
+    "page": 152,
+    "ocr": "11.头发toufa",
+    "near": "dt. toc",
+    "confidence": 0.9909578859806061
+  },
+  "zh3-16-12": {
+    "num": 12,
+    "text": "检查",
+    "page": 152,
+    "ocr": "12.检查jiancha",
+    "near": "dgt.kiem tra,",
+    "confidence": 0.9341699033975601
+  },
+  "zh3-16-13": {
+    "num": 13,
+    "text": "刷牙",
+    "page": 152,
+    "ocr": "13.刷牙shuayádgt.chairang",
+    "near": "",
+    "confidence": 0.9732317509858505
+  },
+  "zh3-16-14": {
+    "num": 14,
+    "text": "关系",
+    "page": 153,
+    "ocr": "14.关系guanxidt.quanhe",
+    "near": "",
+    "confidence": 0.9903393715620041
+  },
+  "zh3-16-15": {
+    "num": 15,
+    "text": "别人",
+    "page": 153,
+    "ocr": "15.别人biéréndt.nguoikhac",
+    "near": "",
+    "confidence": 0.9344152937764707
+  },
+  "zh3-16-16": {
+    "num": 16,
+    "text": "词语",
+    "page": 153,
+    "ocr": "*16.词语ciyu",
+    "near": "dt.tingu",
+    "confidence": 0.9826036393642426
+  },
+  "zh3-17-01": {
+    "num": 1,
+    "text": "请假",
+    "page": 160,
+    "ocr": "1.请假qing jiadgt.xin nghiphep",
+    "near": "",
+    "confidence": 0.9386589271681649
+  },
+  "zh3-17-02": {
+    "num": 2,
+    "text": "一共",
+    "page": 160,
+    "ocr": "2.一共 yigongpho.tong cong",
+    "near": "",
+    "confidence": 0.9636883015433947
+  },
+  "zh3-17-03": {
+    "num": 3,
+    "text": "邻居",
+    "page": 160,
+    "ocr": "3.邻居linju",
+    "near": "dt.lang gieng",
+    "confidence": 0.9463368786705865
+  },
+  "zh3-17-04": {
+    "num": 4,
+    "text": "后来",
+    "page": 160,
+    "ocr": "4.后来houlai dt.saunay,sau d6",
+    "near": "",
+    "confidence": 0.9338515555417096
+  },
+  "zh3-17-05": {
+    "num": 5,
+    "text": "爱好",
+    "page": 160,
+    "ocr": "5.爱好aihaodt.sothich",
+    "near": "",
+    "confidence": 0.9804457300587704
+  },
+  "zh3-17-06": {
+    "num": 6,
+    "text": "办法",
+    "page": 160,
+    "ocr": "6.办法banfä",
+    "near": "dt.cach,bien",
+    "confidence": 0.9231254723336961
+  },
+  "zh3-17-07": {
+    "num": 7,
+    "text": "饱",
+    "page": 160,
+    "ocr": "7.饱",
+    "near": "bäo tt. no",
+    "confidence": 0.9141263167063395
+  },
+  "zh3-17-08": {
+    "num": 8,
+    "text": "为了",
+    "page": 160,
+    "ocr": "8.为了",
+    "near": "weile gioi. de, vi",
+    "confidence": 0.9935669153928757
+  },
+  "zh3-17-09": {
+    "num": 9,
+    "text": "决定",
+    "page": 160,
+    "ocr": "9.决定juéding",
+    "near": "dgt.quyet dinh",
+    "confidence": 0.9668552279472351
+  },
+  "zh3-17-10": {
+    "num": 10,
+    "text": "选择",
+    "page": 161,
+    "ocr": "10.选择xuanzédgt.luachon",
+    "near": "",
+    "confidence": 0.962988945570859
+  },
+  "zh3-17-11": {
+    "num": 11,
+    "text": "冬",
+    "page": 161,
+    "ocr": "11.冬(天)dong (tian) dt.",
+    "near": "",
+    "confidence": 0.9179402698170055
+  },
+  "zh3-17-12": {
+    "num": 12,
+    "text": "必须",
+    "page": 161,
+    "ocr": "12.必须bixu",
+    "near": "pho.can phai",
+    "confidence": 0.9943009813626608
+  },
+  "zh3-17-13": {
+    "num": 13,
+    "text": "根据",
+    "page": 161,
+    "ocr": "13.根据genju",
+    "near": "gioi. can cit vao, 病",
+    "confidence": 0.9960497796535492
+  },
+  "zh3-17-14": {
+    "num": 14,
+    "text": "情况",
+    "page": 161,
+    "ocr": "*14.情况qingkuangdt.tinhhinh，",
+    "near": "",
+    "confidence": 0.9654155870278677
+  },
+  "zh3-17-15": {
+    "num": 15,
+    "text": "口",
+    "page": 161,
+    "ocr": "15.口",
+    "near": "kou dt. mieng",
+    "confidence": 0.9888220429420471
+  },
+  "zh3-17-16": {
+    "num": 16,
+    "text": "渴",
+    "page": 161,
+    "ocr": "16.渴",
+    "near": "ké tt. khat",
+    "confidence": 0.9987601041793823
+  },
+  "zh3-18-01": {
+    "num": 1,
+    "text": "向",
+    "page": 14,
+    "ocr": "向",
+    "near": "向 xidng gioi. doivoi,vephia（chi huong cua hanh dong) 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 199,
+        "ocr": "向 xidng gioi. doivoi,vephia（chi huong cua hanh dong) 18"
+      }
+    ]
+  },
+  "zh3-18-02": {
+    "num": 2,
+    "text": "万",
+    "page": 14,
+    "ocr": "万",
+    "near": "万 wan so. van,muoinghin 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 199,
+        "ocr": "万 wan so. van,muoinghin 18"
+      }
+    ]
+  },
+  "zh3-18-03": {
+    "num": 3,
+    "text": "只",
+    "page": 14,
+    "ocr": "只",
+    "near": "只 zhi luong. (dugc dung cho dong vat) con 18 只 zhi pho. chi 3 只有... zhiyou..... lien. chico...(thi) moi.. 20",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 201,
+        "ocr": "只 zhi luong. (dugc dung cho dong vat) con 18"
+      },
+      {
+        "page": 201,
+        "ocr": "只 zhi pho. chi 3"
+      },
+      {
+        "page": 201,
+        "ocr": "只有... zhiyou..... lien. chico...(thi) moi.. 20"
+      }
+    ]
+  },
+  "zh3-18-04": {
+    "num": 4,
+    "text": "嘴",
+    "page": 14,
+    "ocr": "嘴",
+    "near": "嘴 zui dt. mieng 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 201,
+        "ocr": "嘴 zui dt. mieng 18"
+      }
+    ]
+  },
+  "zh3-18-05": {
+    "num": 5,
+    "text": "动物",
+    "page": 14,
+    "ocr": "动物",
+    "near": "动物 dongwu dt. dongvat,loaivat 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 194,
+        "ocr": "动物 dongwu dt. dongvat,loaivat 18"
+      }
+    ]
+  },
+  "zh3-18-06": {
+    "num": 6,
+    "text": "段",
+    "page": 14,
+    "ocr": "段",
+    "near": "段 duan luong. khoang,quang 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 194,
+        "ocr": "段 duan luong. khoang,quang 18"
+      }
+    ]
+  },
+  "zh3-18-07": {
+    "num": 7,
+    "text": "不但……而且……",
+    "page": 14,
+    "ocr": "不但……而且……",
+    "near": "不但.. budan..... lien. khongnhieng...macon... 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 193,
+        "ocr": "不但.. budan..... lien. khongnhieng...macon... 18"
+      }
+    ]
+  },
+  "zh3-18-08": {
+    "num": 8,
+    "text": "有名",
+    "page": 14,
+    "ocr": "有名",
+    "near": "有名 youming tt. c6 tieng,nor tieng 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 200,
+        "ocr": "有名 youming tt. c6 tieng,nor tieng 18"
+      }
+    ]
+  },
+  "zh3-18-09": {
+    "num": 9,
+    "text": "同意",
+    "page": 14,
+    "ocr": "同意",
+    "near": "同意 tongyi dgt. dongy,tanthanh 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 199,
+        "ocr": "同意 tongyi dgt. dongy,tanthanh 18"
+      }
+    ]
+  },
+  "zh3-18-10": {
+    "num": 10,
+    "text": "相信",
+    "page": 14,
+    "ocr": "相信",
+    "near": "相信 xiangxin dgt. tin,tintuong 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 199,
+        "ocr": "相信 xiangxin dgt. tin,tintuong 18"
+      }
+    ]
+  },
+  "zh3-18-11": {
+    "num": 11,
+    "text": "关于",
+    "page": 14,
+    "ocr": "关于",
+    "near": "关于 guanyu gioi. ve 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 195,
+        "ocr": "关于 guanyu gioi. ve 18"
+      }
+    ]
+  },
+  "zh3-18-12": {
+    "num": 12,
+    "text": "机会",
+    "page": 14,
+    "ocr": "机会",
+    "near": "机会 jihui dt. cohoi 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 195,
+        "ocr": "机会 jihui dt. cohoi 18"
+      }
+    ]
+  },
+  "zh3-18-13": {
+    "num": 13,
+    "text": "国家",
+    "page": 14,
+    "ocr": "国家",
+    "near": "国家 guojia dt. dat nuoc,quoc gia 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 195,
+        "ocr": "国家 guojia dt. dat nuoc,quoc gia 18"
+      }
+    ]
+  },
+  "zh3-18-14": {
+    "num": 14,
+    "text": "种",
+    "page": 14,
+    "ocr": "种",
+    "near": "种 zhong luqng. loai 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 201,
+        "ocr": "种 zhong luqng. loai 18"
+      }
+    ]
+  },
+  "zh3-18-15": {
+    "num": 15,
+    "text": "特点",
+    "page": 14,
+    "ocr": "特点",
+    "near": "",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": []
+  },
+  "zh3-18-16": {
+    "num": 16,
+    "text": "奇怪",
+    "page": 14,
+    "ocr": "奇怪",
+    "near": "奇怪 qiguai tt. ky la,la ling 18",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 198,
+        "ocr": "奇怪 qiguai tt. ky la,la ling 18"
+      }
+    ]
+  },
+  "zh3-18-17": {
+    "num": 17,
+    "text": "地",
+    "page": 14,
+    "ocr": "地",
+    "near": "地 de tro. dugc dung de noi trang ngu v6i dong tiu ma n6 18 地方 difang dt. cho,noi 10 地铁 ditie dt. tau dien ngam 11 地图 ditu dt. bando 1",
+    "confidence": null,
+    "kind": "contents-index",
+    "index": [
+      {
+        "page": 194,
+        "ocr": "地 de tro. dugc dung de noi trang ngu v6i dong tiu ma n6 18"
+      },
+      {
+        "page": 194,
+        "ocr": "地方 difang dt. cho,noi 10"
+      },
+      {
+        "page": 194,
+        "ocr": "地铁 ditie dt. tau dien ngam 11"
+      },
+      {
+        "page": 194,
+        "ocr": "地图 ditu dt. bando 1"
+      }
+    ]
+  },
+  "zh3-19-01": {
+    "num": 1,
+    "text": "耳朵",
+    "page": 174,
+    "ocr": "1.耳朵erduodt.tai",
+    "near": "",
+    "confidence": 0.967173453172048
+  },
+  "zh3-19-02": {
+    "num": 2,
+    "text": "脸",
+    "page": 174,
+    "ocr": "2.脸",
+    "near": "liän dt.mat,khuonmat",
+    "confidence": 0.9991807142893473
+  },
+  "zh3-19-03": {
+    "num": 3,
+    "text": "短",
+    "page": 174,
+    "ocr": "3.短",
+    "near": "duantt.ngan",
+    "confidence": 0.9980735381444296
+  },
+  "zh3-19-04": {
+    "num": 4,
+    "text": "马",
+    "page": 174,
+    "ocr": "4.马",
+    "near": "ma dt. ngua",
+    "confidence": 0.9984550674756368
+  },
+  "zh3-19-05": {
+    "num": 5,
+    "text": "张",
+    "page": 174,
+    "ocr": "5.张zhang",
+    "near": "gluong.(duoc dung",
+    "confidence": 0.9982115179300308
+  },
+  "zh3-19-06": {
+    "num": 6,
+    "text": "位",
+    "page": 174,
+    "ocr": "6.位wei luong.(duoc dung cho",
+    "near": "",
+    "confidence": 0.9530356415995845
+  },
+  "zh3-19-07": {
+    "num": 7,
+    "text": "蓝",
+    "page": 174,
+    "ocr": "7.蓝lantt.comauxanhda troi",
+    "near": "",
+    "confidence": 0.9374362325668335
+  },
+  "zh3-19-08": {
+    "num": 8,
+    "text": "秋（天）",
+    "page": 174,
+    "ocr": "8.秋（天）qiu(tian）dt.（mua)thu",
+    "near": "",
+    "confidence": 0.910878626199869
+  },
+  "zh3-19-09": {
+    "num": 9,
+    "text": "过",
+    "page": 174,
+    "ocr": "9.过guodgt.an(ming),trai qua",
+    "near": "",
+    "confidence": 0.9457047603748463
+  },
+  "zh3-19-10": {
+    "num": 10,
+    "text": "鸟",
+    "page": 174,
+    "ocr": "10.鸟niodt.chim",
+    "near": "",
+    "confidence": 0.9954772293567657
+  },
+  "zh3-19-11": {
+    "num": 11,
+    "text": "哭",
+    "page": 174,
+    "ocr": "11.哭kudgt.khoc",
+    "near": "",
+    "confidence": 0.9925344118050167
+  },
+  "zh3-19-12": {
+    "num": 12,
+    "text": "黄河",
+    "page": 175,
+    "ocr": "12.黄河Huang Hédt.Hoang Ha",
+    "near": "",
+    "confidence": 0.9349520479639372
+  },
+  "zh3-19-13": {
+    "num": 13,
+    "text": "船",
+    "page": 175,
+    "ocr": "13.船",
+    "near": "chuandt.thuyen,tau",
+    "confidence": 0.999319389462471
+  },
+  "zh3-19-14": {
+    "num": 14,
+    "text": "经过",
+    "page": 175,
+    "ocr": "14.经过jingguodgt.dingangqua",
+    "near": "",
+    "confidence": 0.9734236208292154
+  },
+  "zh3-20-01": {
+    "num": 1,
+    "text": "照相机",
+    "page": 183,
+    "ocr": "1.照相机zhaoxiangjidt.",
+    "near": "",
+    "confidence": 0.9520692637092188
+  },
+  "zh3-20-02": {
+    "num": 2,
+    "text": "被",
+    "page": 183,
+    "ocr": "2.被bei",
+    "near": "gioi. (duoc dung de chi",
+    "confidence": 0.9661989212036133
+  },
+  "zh3-20-03": {
+    "num": 3,
+    "text": "难过",
+    "page": 183,
+    "ocr": "3.难过",
+    "near": "nanguo tt.buon",
+    "confidence": 0.9996231943368912
+  },
+  "zh3-20-04": {
+    "num": 4,
+    "text": "东",
+    "page": 183,
+    "ocr": "4.东",
+    "near": "dong dt.phia dong",
+    "confidence": 0.9996299147605896
+  },
+  "zh3-20-05": {
+    "num": 5,
+    "text": "信用卡",
+    "page": 183,
+    "ocr": "5.信用卡xinyongkadt.thetin",
+    "near": "",
+    "confidence": 0.9633823037147522
+  },
+  "zh3-20-06": {
+    "num": 6,
+    "text": "关心",
+    "page": 183,
+    "ocr": "6.关心guanxindgt.quan tam,",
+    "near": "",
+    "confidence": 0.974882202843825
+  },
+  "zh3-20-07": {
+    "num": 7,
+    "text": "只有",
+    "page": 183,
+    "ocr": "7.只有..",
+    "near": "",
+    "confidence": 0.7477015107870102
+  },
+  "zh3-20-08": {
+    "num": 8,
+    "text": "成绩",
+    "page": 183,
+    "ocr": "8.成绩chengjidt.thanh tich,ket",
+    "near": "",
+    "confidence": 0.9562137169497353
+  },
+  "zh3-20-09": {
+    "num": 9,
+    "text": "碗",
+    "page": 183,
+    "ocr": "9.碗wandt.bat",
+    "near": "",
+    "confidence": 0.9603832910458246
+  },
+  "zh3-20-10": {
+    "num": 10,
+    "text": "分",
+    "page": 183,
+    "ocr": "10.分fendgt.phan biet",
+    "near": "",
+    "confidence": 0.9638392269611359
+  },
+  "zh3-20-11": {
+    "num": 11,
+    "text": "解决",
+    "page": 184,
+    "ocr": "11.解决jiejuédgt.giaiquyet",
+    "near": "",
+    "confidence": 0.9226190807918707
+  },
+  "zh3-20-12": {
+    "num": 12,
+    "text": "试",
+    "page": 184,
+    "ocr": "12.试shi",
+    "near": "dgt.thi²",
+    "confidence": 0.998292054448809
+  },
+  "zh3-20-13": {
+    "num": 13,
+    "text": "真正",
+    "page": 184,
+    "ocr": "*13.真正zhenzhengpho.thatsu",
+    "near": "",
+    "confidence": 0.9565049743652344
+  },
+  "zh3-20-14": {
+    "num": 14,
+    "text": "多么",
+    "page": 184,
+    "ocr": "14.多么duomepho.（muicdo",
+    "near": "",
+    "confidence": 0.932122711624418
+  }
+}

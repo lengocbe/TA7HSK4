@@ -1,19 +1,21 @@
 {
   "result": "passed",
-  "words": 414,
+  "words": 2905,
   "english": 264,
-  "chinese": 150,
-  "lessonViews": 39,
+  "chinese": 2641,
+  "hsk5": 1388,
+  "hsk51": 723,
+  "hsk52": 665,
+  "lessonViews": 130,
   "checks": [
     "All lessons resolve to valid unique IDs",
     "Word fields and Chinese PDF occurrences present",
     "APK zip CRC integrity",
-    "All 414 MP3 assets match their manifests and package uncompressed",
+    "All 2905 MP3 assets match their manifests and package uncompressed",
     "All recordings decode and contain non-silent audio"
   ],
   "durationRangeSeconds": [
-    1.872,
-    2.136
-  ],
-  "apkSha256": "a7b1f44dd3acfe63e815956d07a88a744d3d91e1227646362a7c8b536421a0fc"
+    1.104,
+    3.024
+  ]
 }

@@ -1,0 +1,19 @@
+{
+  "version": "1.2.0",
+  "apkSha256": "ba3d851b0045c3990d4b2168ca5d204a990580fc5acb2dc5238b8e04e8ca38f6",
+  "apkBytes": 20343583,
+  "wordCount": 1757,
+  "addedWords": 620,
+  "newLessons": 20,
+  "webAssetsMatch": true,
+  "allTextEncodingValid": true,
+  "sourceExcerptsAudited": 371,
+  "sourceOCRCorrections": [
+    "羡慕/美慕",
+    "自己/自已",
+    "眼睛/眼晴",
+    "究竟/究竞",
+    "入口/人口"
+  ],
+  "actualDeviceTested": false
+}

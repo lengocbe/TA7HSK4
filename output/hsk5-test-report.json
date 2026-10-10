@@ -1,0 +1,20 @@
+{
+  "result": "passed",
+  "hsk5Lessons": 18,
+  "hsk5Words": 723,
+  "pendingExampleIds": [
+    "zh5-13-14"
+  ],
+  "checks": [
+    "All original 414 word records preserved",
+    "723 new words in printed order",
+    "Contextual pronunciations",
+    "Version 1 backups migrate without losing progress",
+    "HSK 4/5 filters and due queues are separate",
+    "HSK 5 cards, native audio calls, quiz choices and short-form typing",
+    "Combined backup restore",
+    "Long Chinese words and examples at widths 320/360/390/700",
+    "Dark mode"
+  ],
+  "limitation": "Browser and mocked native bridge; physical Android testing is still required."
+}

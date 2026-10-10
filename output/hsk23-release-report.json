@@ -1,0 +1,31 @@
+{
+  "version": "1.5.0",
+  "versionCode": 6,
+  "package": "vn.lnb.sotuvung",
+  "apk": "Lingo-SoTuVung-1.5.0.apk",
+  "bytes": 33611759,
+  "sha256": "16e2af590b6e0931f69e17dab123eeaf1dd8d5a44f9c88bd05542965a589a23d",
+  "newCourses": {
+    "2": {
+      "lessons": 15,
+      "words": 169
+    },
+    "3": {
+      "lessons": 20,
+      "words": 314
+    }
+  },
+  "totalWords": 2905,
+  "allPreviousAudioIdentical": true,
+  "packagedFrontendMatchesSource": true,
+  "sourceMissingPrintedPages": [
+    168,
+    169
+  ],
+  "pendingExamples": [
+    "zh3-18-02",
+    "zh3-18-04"
+  ],
+  "completedExerciseExamples": 3,
+  "realDeviceTested": false
+}

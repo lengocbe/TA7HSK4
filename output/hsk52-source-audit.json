@@ -1,0 +1,68 @@
+{
+  "result": "passed",
+  "distinctExcerpts": 200,
+  "vocabularyEntries": 665,
+  "method": "All normalized 8-character excerpt sequences compared against page OCR, with visually reviewed OCR corrections listed by page.",
+  "ocrCorrections": {
+    "49": [
+      [
+        "竞然",
+        "竟然"
+      ]
+    ],
+    "50": [
+      [
+        "竞然",
+        "竟然"
+      ]
+    ],
+    "74": [
+      [
+        "自已",
+        "自己"
+      ]
+    ],
+    "98": [
+      [
+        "挤，",
+        "挤垮，"
+      ]
+    ],
+    "99": [
+      [
+        "挤了",
+        "挤垮了"
+      ]
+    ],
+    "106": [
+      [
+        "天敌鱼",
+        "天敌鲇鱼"
+      ],
+      [
+        "因为鱼是",
+        "因为鲇鱼是"
+      ],
+      [
+        "鱼效应",
+        "鲇鱼效应"
+      ]
+    ],
+    "107": [
+      [
+        "自已",
+        "自己"
+      ],
+      [
+        "鱼效应",
+        "鲇鱼效应"
+      ]
+    ],
+    "116": [
+      [
+        "竞然",
+        "竟然"
+      ]
+    ]
+  }
+}

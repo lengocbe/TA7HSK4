@@ -11,6 +11,5 @@
     "Backup restore and invalid-backup rejection",
     "320–700 px viewport overflow checks"
   ],
-  "browserErrors": [],
-  "apkSha256": "a7b1f44dd3acfe63e815956d07a88a744d3d91e1227646362a7c8b536421a0fc"
+  "browserErrors": []
 }

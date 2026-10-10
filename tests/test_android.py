@@ -41,7 +41,7 @@ def text_present(text):
 
 assert adb('shell','getprop','sys.boot_completed').strip()=='1','Emulator is not ready'
 assert '28'==adb('shell','getprop','ro.build.version.sdk').strip()
-print(adb('install','-r',str(Path(tempfile.gettempdir())/'lingo-android-build/Lingo-SoTuVung-1.0.0.apk'),timeout=90),flush=True)
+print(adb('install','-r',str(Path(tempfile.gettempdir())/'lingo-android-build/Lingo-SoTuVung-1.5.0.apk'),timeout=90),flush=True)
 checks.append('Release APK installation on Android 9 / API 28')
 adb('shell','settings','put','global','airplane_mode_on','1')
 adb('shell','svc','wifi','disable')

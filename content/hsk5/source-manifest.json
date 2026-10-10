@@ -1,0 +1,39 @@
+{
+  "sourceFile": "Giáo trình chuẩn HSK5.1_c9f3aee3070d412769f85e5c79f1c5f9.pdf",
+  "sha256": "987f23569dba86b798efa7eb17fdbc000d92e143c8a5a37d1319992ab96fca13",
+  "pdfPages": 159,
+  "lessons": 18,
+  "wordCounts": [
+    38,
+    39,
+    41,
+    40,
+    46,
+    41,
+    45,
+    43,
+    38,
+    37,
+    41,
+    43,
+    37,
+    41,
+    39,
+    41,
+    33,
+    40
+  ],
+  "total": 723,
+  "titleExcerptIds": [
+    "zh5-01-01",
+    "zh5-06-02",
+    "zh5-07-01",
+    "zh5-07-02",
+    "zh5-11-01",
+    "zh5-11-02"
+  ],
+  "pendingExampleIds": [
+    "zh5-13-14"
+  ],
+  "method": "OCR of the 54 vocabulary/reading pages; editorial correction of Chinese, Vietnamese glosses and translations; contextual pinyin overrides. Extra pages 111-115 inspected for the unmatched 投篮 example."
+}

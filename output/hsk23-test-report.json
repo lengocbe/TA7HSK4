@@ -1,0 +1,25 @@
+{
+  "result": "passed",
+  "newWords": {
+    "2": 169,
+    "3": 314
+  },
+  "newLessons": 35,
+  "oldWordsPreserved": 2422,
+  "checks": [
+    "Original records unchanged",
+    "Numbered source rows and contents/index recovery for lesson 18",
+    "Verified excerpts, completed exercise labels and two explicit source gaps",
+    "Fresh install and 1.4 backups",
+    "Separate levels, last lessons, due queues and quiz options",
+    "Incorrect answer, retry, mastery, typing alternatives, listening, cards and audio bridge",
+    "Backup round trip and reload",
+    "Light/dark layout at 320/360/390/700 px"
+  ],
+  "sourceLimitations": [
+    "Supplied HSK 3 PDF omits printed pages 168-169; lesson 18 vocabulary and order use contents/index",
+    "Two words (wan and zui) have no verified example",
+    "Three examples complete printed fill-in-the-blank exercises and are labelled"
+  ],
+  "limitation": "Chromium with mocked Android bridge; actual phone not tested."
+}

@@ -1,0 +1,3102 @@
+{
+  "zh4-01-01": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "法律 falu."
+  },
+  "zh4-01-02": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "俩"
+  },
+  "zh4-01-03": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "印象 yinxiang dt."
+  },
+  "zh4-01-04": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "深"
+  },
+  "zh4-01-05": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "熟悉 shuxi"
+  },
+  "zh4-01-06": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "不仅 bujin"
+  },
+  "zh4-01-07": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "性格xinggé"
+  },
+  "zh4-01-08": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "开玩笑kai wánxiao"
+  },
+  "zh4-01-09": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "从来"
+  },
+  "zh4-01-10": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "最好"
+  },
+  "zh4-01-11": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "共同"
+  },
+  "zh4-01-12": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "适合"
+  },
+  "zh4-01-13": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "幸福"
+  },
+  "zh4-01-14": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "生活shenghu6dt./dgt."
+  },
+  "zh4-01-15": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "刚"
+  },
+  "zh4-01-16": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "浪漫"
+  },
+  "zh4-01-17": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "够"
+  },
+  "zh4-01-18": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "缺点"
+  },
+  "zh4-01-19": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "接受"
+  },
+  "zh4-01-20": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "羡慕"
+  },
+  "zh4-01-21": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "爱情"
+  },
+  "zh4-01-22": {
+    "page": 16,
+    "extended": true,
+    "ocrLabel": "星星"
+  },
+  "zh4-01-23": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "即使"
+  },
+  "zh4-01-24": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "加班"
+  },
+  "zh4-01-25": {
+    "page": 16,
+    "extended": true,
+    "ocrLabel": "亮"
+  },
+  "zh4-01-26": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "感动"
+  },
+  "zh4-01-27": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "自然ziran"
+  },
+  "zh4-01-28": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "原因yuanyindt."
+  },
+  "zh4-01-29": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "互相 huxiang ph6.lan nhau,"
+  },
+  "zh4-01-30": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "吸引xiyin"
+  },
+  "zh4-01-31": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "幽默youmo"
+  },
+  "zh4-01-32": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "脾气piqi"
+  },
+  "zh4-02-01": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "适应shiying"
+  },
+  "zh4-02-02": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "交"
+  },
+  "zh4-02-03": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "平时 pingshi"
+  },
+  "zh4-02-04": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "逛"
+  },
+  "zh4-02-05": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "短信"
+  },
+  "zh4-02-06": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "正好 zhenghäo pho. dung luic,"
+  },
+  "zh4-02-07": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "聚会"
+  },
+  "zh4-02-08": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "联系"
+  },
+  "zh4-02-09": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "差不多 chabuduo pho. gan nhu,"
+  },
+  "zh4-02-10": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "专门"
+  },
+  "zh4-02-11": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "毕业"
+  },
+  "zh4-02-12": {
+    "page": 23,
+    "extended": false,
+    "ocrLabel": "麻烦"
+  },
+  "zh4-02-13": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "好像 haoxiang pho.giong nhu,"
+  },
+  "zh4-02-14": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "重新 chongxin pho.lan nua,"
+  },
+  "zh4-02-15": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "尽管jinguan"
+  },
+  "zh4-02-16": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "真正 zhenzheng tt.chan chinh,"
+  },
+  "zh4-02-17": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "友谊youyi"
+  },
+  "zh4-02-18": {
+    "page": 28,
+    "extended": false,
+    "ocrLabel": "丰富 fengfudgt. lam phong"
+  },
+  "zh4-02-19": {
+    "page": 28,
+    "extended": false,
+    "ocrLabel": "无聊 wuliáott.vovi,"
+  },
+  "zh4-02-20": {
+    "page": 28,
+    "extended": false,
+    "ocrLabel": "讨厌 täoyandgt. ghet,"
+  },
+  "zh4-02-21": {
+    "page": 28,
+    "extended": false,
+    "ocrLabel": "却"
+  },
+  "zh4-02-22": {
+    "page": 28,
+    "extended": false,
+    "ocrLabel": "周围 zhouwéi dt.．xung quanh"
+  },
+  "zh4-02-23": {
+    "page": 28,
+    "extended": false,
+    "ocrLabel": "交流jiaoliu"
+  },
+  "zh4-02-24": {
+    "page": 29,
+    "extended": false,
+    "ocrLabel": "理解 lijie"
+  },
+  "zh4-02-25": {
+    "page": 29,
+    "extended": false,
+    "ocrLabel": "镜子 jingzi"
+  },
+  "zh4-02-26": {
+    "page": 29,
+    "extended": false,
+    "ocrLabel": "而"
+  },
+  "zh4-02-27": {
+    "page": 29,
+    "extended": false,
+    "ocrLabel": "当 (số bị OCR bỏ sót)"
+  },
+  "zh4-02-28": {
+    "page": 29,
+    "extended": false,
+    "ocrLabel": "困难 kunnan dt.kho khan"
+  },
+  "zh4-02-29": {
+    "page": 29,
+    "extended": false,
+    "ocrLabel": "及时-jishi"
+  },
+  "zh4-02-30": {
+    "page": 29,
+    "extended": false,
+    "ocrLabel": "陪"
+  },
+  "zh4-03-01": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "挺"
+  },
+  "zh4-03-02": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "紧张 jinzhang tt."
+  },
+  "zh4-03-03": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "信心xinxin"
+  },
+  "zh4-03-04": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "能力néngli"
+  },
+  "zh4-03-05": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "招聘 zhaopin dgt.tuyen dung"
+  },
+  "zh4-03-06": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "提供 tigongdgt.cung cap"
+  },
+  "zh4-03-07": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "负责fuzé"
+  },
+  "zh4-03-08": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "本来bénlái"
+  },
+  "zh4-03-09": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "应聘yingpin dgt. xin viec"
+  },
+  "zh4-03-10": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "材料cáiliaodt.tu lieu,"
+  },
+  "zh4-03-11": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "符合"
+  },
+  "zh4-03-12": {
+    "page": 35,
+    "extended": false,
+    "ocrLabel": "通知tongzhi dgt. bao tin,"
+  },
+  "zh4-03-13": {
+    "page": 36,
+    "extended": false,
+    "ocrLabel": "律师 lüishidt.luat su"
+  },
+  "zh4-03-14": {
+    "page": 36,
+    "extended": false,
+    "ocrLabel": "专业zhuanyedt.chuyen"
+  },
+  "zh4-03-15": {
+    "page": 36,
+    "extended": false,
+    "ocrLabel": "另外lingwai lien.ngoai ra"
+  },
+  "zh4-03-16": {
+    "page": 36,
+    "extended": false,
+    "ocrLabel": "收人 shouru dt.thu nhap"
+  },
+  "zh4-03-17": {
+    "page": 36,
+    "extended": false,
+    "ocrLabel": "咱们 zanmen dt.chuing"
+  },
+  "zh4-03-18": {
+    "page": 36,
+    "extended": false,
+    "ocrLabel": "安排 anpái dgt. sap xép"
+  },
+  "zh4-03-19": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "首先shouxian dt.truoc het,"
+  },
+  "zh4-03-20": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "正式 zhengshi tt.chinh thutc,"
+  },
+  "zh4-03-21": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "留"
+  },
+  "zh4-03-22": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "其次 qici"
+  },
+  "zh4-03-23": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "诚实 chengshi tt.thanh that"
+  },
+  "zh4-03-24": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "改变 gaibiandgt. thay doi"
+  },
+  "zh4-03-25": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "感觉 ganjuédt.cam giac,"
+  },
+  "zh4-03-26": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "判断 panduan dgt.nhan xet,"
+  },
+  "zh4-03-27": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "顾客guke"
+  },
+  "zh4-03-28": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "准时 zhunshi tt.duing gid"
+  },
+  "zh4-03-29": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "不管 buguan lien.bat ke,"
+  },
+  "zh4-03-30": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "与"
+  },
+  "zh4-03-31": {
+    "page": 41,
+    "extended": false,
+    "ocrLabel": "约会yuehui"
+  },
+  "zh4-04-01": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "提"
+  },
+  "zh4-04-02": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "以为 yiwéi dgt. cho rang,"
+  },
+  "zh4-04-03": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "份"
+  },
+  "zh4-04-04": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "完全 wanquanpho."
+  },
+  "zh4-04-05": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "赚zhuan dgt.kiem (tièn)"
+  },
+  "zh4-04-06": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "调查 diaochá dgt. dieu tra,"
+  },
+  "zh4-04-07": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "原来yuanlaitt.ban dau"
+  },
+  "zh4-04-08": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "计划jihua"
+  },
+  "zh4-04-09": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "提前"
+  },
+  "zh4-04-10": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "保证"
+  },
+  "zh4-04-11": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "提醒"
+  },
+  "zh4-04-12": {
+    "page": 49,
+    "extended": false,
+    "ocrLabel": "乱"
+  },
+  "zh4-04-13": {
+    "page": 50,
+    "extended": false,
+    "ocrLabel": "生意 shengyi dt.viec"
+  },
+  "zh4-04-14": {
+    "page": 50,
+    "extended": false,
+    "ocrLabel": "谈"
+  },
+  "zh4-04-15": {
+    "page": 50,
+    "extended": true,
+    "ocrLabel": "并"
+  },
+  "zh4-04-16": {
+    "page": 50,
+    "extended": false,
+    "ocrLabel": "积累 jileidgt. tich luy"
+  },
+  "zh4-04-17": {
+    "page": 50,
+    "extended": false,
+    "ocrLabel": "经验jingyandt.kinh"
+  },
+  "zh4-04-18": {
+    "page": 50,
+    "extended": false,
+    "ocrLabel": "一切 yiqie"
+  },
+  "zh4-04-19": {
+    "page": 54,
+    "extended": false,
+    "ocrLabel": "按照anzhaogici. theo"
+  },
+  "zh4-04-20": {
+    "page": 54,
+    "extended": false,
+    "ocrLabel": "成功 chénggong tt. thanh cong"
+  },
+  "zh4-04-21": {
+    "page": 54,
+    "extended": false,
+    "ocrLabel": "顺利 shunli"
+  },
+  "zh4-04-22": {
+    "page": 54,
+    "extended": false,
+    "ocrLabel": "感谢 ganxie"
+  },
+  "zh4-04-23": {
+    "page": 54,
+    "extended": false,
+    "ocrLabel": "消息 xiaoxi"
+  },
+  "zh4-04-24": {
+    "page": 54,
+    "extended": false,
+    "ocrLabel": "按时 anshf"
+  },
+  "zh4-04-25": {
+    "page": 54,
+    "extended": false,
+    "ocrLabel": "奖金 jiangjin"
+  },
+  "zh4-04-26": {
+    "page": 55,
+    "extended": false,
+    "ocrLabel": "工资"
+  },
+  "zh4-04-27": {
+    "page": 55,
+    "extended": false,
+    "ocrLabel": "方法"
+  },
+  "zh4-04-28": {
+    "page": 55,
+    "extended": false,
+    "ocrLabel": "知识"
+  },
+  "zh4-04-29": {
+    "page": 55,
+    "extended": false,
+    "ocrLabel": "不得不 bu dé bu phai, khong"
+  },
+  "zh4-04-30": {
+    "page": 55,
+    "extended": false,
+    "ocrLabel": "甚至"
+  },
+  "zh4-04-31": {
+    "page": 55,
+    "extended": false,
+    "ocrLabel": "责任"
+  },
+  "zh4-05-01": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "家具 jiaju"
+  },
+  "zh4-05-02": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "沙发 shafa"
+  },
+  "zh4-05-03": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "打折 da zhé dgt. giam gia"
+  },
+  "zh4-05-04": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "价格 jidgédt.gid ca"
+  },
+  "zh4-05-05": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "质量zhiliang dt.chat"
+  },
+  "zh4-05-06": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "肯定kending ph6.chac"
+  },
+  "zh4-05-07": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "流行"
+  },
+  "zh4-05-08": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "顺便 shunbian pho."
+  },
+  "zh4-05-09": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "台"
+  },
+  "zh4-05-10": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "光"
+  },
+  "zh4-05-11": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "实在 shizai"
+  },
+  "zh4-05-12": {
+    "page": 61,
+    "extended": true,
+    "ocrLabel": "制冷 zhileng dgt.lam lanh,"
+  },
+  "zh4-05-13": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "效果 xidoguo dt.hieu qua"
+  },
+  "zh4-05-14": {
+    "page": 61,
+    "extended": false,
+    "ocrLabel": "现金xianjindt.tien mat"
+  },
+  "zh4-05-15": {
+    "page": 62,
+    "extended": false,
+    "ocrLabel": "邀请yaoqingdgt.moi"
+  },
+  "zh4-05-16": {
+    "page": 62,
+    "extended": false,
+    "ocrLabel": "葡萄 putaodt.qua nho"
+  },
+  "zh4-05-17": {
+    "page": 62,
+    "extended": false,
+    "ocrLabel": "艺术 yishu dt./tt. nghe"
+  },
+  "zh4-05-18": {
+    "page": 62,
+    "extended": false,
+    "ocrLabel": "广告 guanggao dt. quang"
+  },
+  "zh4-05-19": {
+    "page": 62,
+    "extended": false,
+    "ocrLabel": "味道 weidaodt. muivi"
+  },
+  "zh4-05-20": {
+    "page": 62,
+    "extended": false,
+    "ocrLabel": "优点 youdian dt. uu diem"
+  },
+  "zh4-05-21": {
+    "page": 62,
+    "extended": false,
+    "ocrLabel": "实际 shiji"
+  },
+  "zh4-05-22": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "考虑kaolu"
+  },
+  "zh4-05-23": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "标准 biaozhun dt.tièu"
+  },
+  "zh4-05-24": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "样子 yangzi dt.kieu"
+  },
+  "zh4-05-25": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "年龄niánling dt.tuoi"
+  },
+  "zh4-05-26": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "浪费 langfei dgt. lang phi,"
+  },
+  "zh4-05-27": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "购物 gou wu mua sam,"
+  },
+  "zh4-05-28": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "尤其 youqi"
+  },
+  "zh4-05-29": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "受到 shoudao dgt. nhan"
+  },
+  "zh4-05-30": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "任何renhé"
+  },
+  "zh4-05-31": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "寄ji"
+  },
+  "zh4-06-01": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "果汁"
+  },
+  "zh4-06-02": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "售货员shouhuoyuándt."
+  },
+  "zh4-06-03": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "袜子"
+  },
+  "zh4-06-04": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "打扰"
+  },
+  "zh4-06-05": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "竟然"
+  },
+  "zh4-06-06": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "西红柿xihongshidt."
+  },
+  "zh4-06-07": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "百分之bái fen zhi"
+  },
+  "zh4-06-08": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "倍"
+  },
+  "zh4-06-09": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "皮肤"
+  },
+  "zh4-06-10": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "好处"
+  },
+  "zh4-06-11": {
+    "page": 75,
+    "extended": false,
+    "ocrLabel": "尝"
+  },
+  "zh4-06-12": {
+    "page": 76,
+    "extended": false,
+    "ocrLabel": "轻"
+  },
+  "zh4-06-13": {
+    "page": 76,
+    "extended": false,
+    "ocrLabel": "方面 fangmian dt.khia"
+  },
+  "zh4-06-14": {
+    "page": 76,
+    "extended": false,
+    "ocrLabel": "值得zhidé"
+  },
+  "zh4-06-15": {
+    "page": 76,
+    "extended": false,
+    "ocrLabel": "活动huodong dt.hoqt"
+  },
+  "zh4-06-16": {
+    "page": 76,
+    "extended": false,
+    "ocrLabel": "内"
+  },
+  "zh4-06-17": {
+    "page": 76,
+    "extended": false,
+    "ocrLabel": "免费mian fei dgt.mien"
+  },
+  "zh4-06-18": {
+    "page": 76,
+    "extended": false,
+    "ocrLabel": "修理 xiuli"
+  },
+  "zh4-06-19": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "支持"
+  },
+  "zh4-06-20": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "举行"
+  },
+  "zh4-06-21": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "满"
+  },
+  "zh4-06-22": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "其中"
+  },
+  "zh4-06-23": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "小说"
+  },
+  "zh4-06-24": {
+    "page": 80,
+    "extended": true,
+    "ocrLabel": "会员卡 huiyuánka dt. the hoi"
+  },
+  "zh4-06-25": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "所有"
+  },
+  "zh4-06-26": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "获得"
+  },
+  "zh4-06-27": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "情况"
+  },
+  "zh4-06-28": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "例如"
+  },
+  "zh4-06-29": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "举办"
+  },
+  "zh4-06-30": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "各"
+  },
+  "zh4-06-31": {
+    "page": 80,
+    "extended": false,
+    "ocrLabel": "降低"
+  },
+  "zh4-07-01": {
+    "page": 87,
+    "extended": true,
+    "ocrLabel": "流血 liu xie dgt. chay mau"
+  },
+  "zh4-07-02": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "擦"
+  },
+  "zh4-07-03": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "气候 qihou dt.khihau"
+  },
+  "zh4-07-04": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "估计guji"
+  },
+  "zh4-07-05": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "咳嗽 késou dgt. ho"
+  },
+  "zh4-07-06": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "严重 yanzhong tt.nghiem"
+  },
+  "zh4-07-07": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "窗户chuanghu dt.cua so"
+  },
+  "zh4-07-08": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "空气 kongqi"
+  },
+  "zh4-07-09": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "抽烟chou yanhuit thuoc"
+  },
+  "zh4-07-10": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "动作 dongzuo dt. dong"
+  },
+  "zh4-07-11": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "帅"
+  },
+  "zh4-07-12": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "出现 chuxian dgt. xuat"
+  },
+  "zh4-07-13": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "后悔 houhui dgt. an han"
+  },
+  "zh4-07-14": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "来不及 laibuji dgt. khong"
+  },
+  "zh4-07-15": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "反对 fanduidgt.phan"
+  },
+  "zh4-07-16": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "大夫 daifudt．bac si"
+  },
+  "zh4-07-17": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "植物 zhiwudt.thuc v@t"
+  },
+  "zh4-07-18": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "研究 yanjiudgt.nghien"
+  },
+  "zh4-07-19": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "超过 chaoguo dgt. vuot"
+  },
+  "zh4-07-20": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "散步 sanbu dgt.di dao"
+  },
+  "zh4-07-21": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "指"
+  },
+  "zh4-07-22": {
+    "page": 92,
+    "extended": true,
+    "ocrLabel": "精神 jingshéndt."
+  },
+  "zh4-07-23": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "教授 jiaoshoudt."
+  },
+  "zh4-07-24": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "数字 shuzi"
+  },
+  "zh4-07-25": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "说明 shuoming dgt.gidi thich"
+  },
+  "zh4-07-26": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "要是yaoshi"
+  },
+  "zh4-07-27": {
+    "page": 92,
+    "extended": true,
+    "ocrLabel": "既"
+  },
+  "zh4-07-28": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "减肥jidn féi"
+  },
+  "zh4-07-29": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "辛苦xinku"
+  },
+  "zh4-07-30": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "肚子duzi"
+  },
+  "zh4-07-31": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "感情 ganqing dt.tinh cam"
+  },
+  "zh4-07-32": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "烦恼 fannao tt.phien muon,"
+  },
+  "zh4-07-33": {
+    "page": 92,
+    "extended": false,
+    "ocrLabel": "掉"
+  },
+  "zh4-09-01": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "饼干 binggan dt.banh quy"
+  },
+  "zh4-09-02": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "难道 nandao pho. duoc"
+  },
+  "zh4-09-03": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "得"
+  },
+  "zh4-09-04": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "坚持 jianchi dgt. kien tri,"
+  },
+  "zh4-09-05": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "放弃fangqidgt.tutr bo,bo"
+  },
+  "zh4-09-06": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "主意zhuyidt.ydinh,ykien"
+  },
+  "zh4-09-07": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "网球 wangqiu dt. quan vot"
+  },
+  "zh4-09-08": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "国际guoji"
+  },
+  "zh4-09-09": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "轻松 qingsong tt. nhe"
+  },
+  "zh4-09-10": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "赢"
+  },
+  "zh4-09-11": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "随便suibian"
+  },
+  "zh4-09-12": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "汗"
+  },
+  "zh4-09-13": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "通过 tongguo gioi. qua,"
+  },
+  "zh4-09-14": {
+    "page": 112,
+    "extended": false,
+    "ocrLabel": "篇"
+  },
+  "zh4-09-15": {
+    "page": 112,
+    "extended": false,
+    "ocrLabel": "作家zuojiadt.nhavan"
+  },
+  "zh4-09-16": {
+    "page": 112,
+    "extended": false,
+    "ocrLabel": "当时 dangshf dt.luic do"
+  },
+  "zh4-09-17": {
+    "page": 112,
+    "extended": false,
+    "ocrLabel": "可是 keshilien. nhung"
+  },
+  "zh4-09-18": {
+    "page": 112,
+    "extended": false,
+    "ocrLabel": "正确 zhengque tt."
+  },
+  "zh4-09-19": {
+    "page": 112,
+    "extended": false,
+    "ocrLabel": "理想 lixiang dt. V tucong"
+  },
+  "zh4-09-20": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "勇敢yonggantt."
+  },
+  "zh4-09-21": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "结果"
+  },
+  "zh4-09-22": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "失败"
+  },
+  "zh4-09-23": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "过程"
+  },
+  "zh4-09-24": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "至少"
+  },
+  "zh4-09-25": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "总结zongjié"
+  },
+  "zh4-09-26": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "取"
+  },
+  "zh4-09-27": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "经历"
+  },
+  "zh4-09-28": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "许多"
+  },
+  "zh4-09-29": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "区别"
+  },
+  "zh4-09-30": {
+    "page": 117,
+    "extended": false,
+    "ocrLabel": "暂时"
+  },
+  "zh4-10-01": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "礼拜天 libaitiandt."
+  },
+  "zh4-10-02": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "空儿"
+  },
+  "zh4-10-03": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "母亲"
+  },
+  "zh4-10-04": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "不过"
+  },
+  "zh4-10-05": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "永远"
+  },
+  "zh4-10-06": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "方向"
+  },
+  "zh4-10-07": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "优秀youxiutt.xuat"
+  },
+  "zh4-10-08": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "硕士shuoshi dt. thac si"
+  },
+  "zh4-10-09": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "翻译fanyi"
+  },
+  "zh4-10-10": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "确实queshipho.thucc"
+  },
+  "zh4-10-11": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "兴奋 xingfen tt.hang"
+  },
+  "zh4-10-12": {
+    "page": 125,
+    "extended": false,
+    "ocrLabel": "拉"
+  },
+  "zh4-10-13": {
+    "page": 126,
+    "extended": false,
+    "ocrLabel": "建议 jianyidt.kien nghi,"
+  },
+  "zh4-10-14": {
+    "page": 126,
+    "extended": false,
+    "ocrLabel": "职业 zhiyedt. nghe"
+  },
+  "zh4-10-15": {
+    "page": 126,
+    "extended": false,
+    "ocrLabel": "关键guanjiandt.dieu quan"
+  },
+  "zh4-10-16": {
+    "page": 126,
+    "extended": false,
+    "ocrLabel": "将来jianglái dt.tuong lai"
+  },
+  "zh4-10-17": {
+    "page": 126,
+    "extended": false,
+    "ocrLabel": "发展"
+  },
+  "zh4-10-18": {
+    "page": 126,
+    "extended": false,
+    "ocrLabel": "躺"
+  },
+  "zh4-10-19": {
+    "page": 126,
+    "extended": false,
+    "ocrLabel": "困"
+  },
+  "zh4-10-20": {
+    "page": 130,
+    "extended": false,
+    "ocrLabel": "经济jingji"
+  },
+  "zh4-10-21": {
+    "page": 130,
+    "extended": false,
+    "ocrLabel": "条件"
+  },
+  "zh4-10-22": {
+    "page": 130,
+    "extended": false,
+    "ocrLabel": "富"
+  },
+  "zh4-10-23": {
+    "page": 130,
+    "extended": false,
+    "ocrLabel": "穷"
+  },
+  "zh4-10-24": {
+    "page": 130,
+    "extended": false,
+    "ocrLabel": "等"
+  },
+  "zh4-10-25": {
+    "page": 130,
+    "extended": false,
+    "ocrLabel": "由于y6uyu"
+  },
+  "zh4-10-26": {
+    "page": 131,
+    "extended": false,
+    "ocrLabel": "比如birú"
+  },
+  "zh4-10-27": {
+    "page": 131,
+    "extended": false,
+    "ocrLabel": "橡皮xiangpi. dt.(cuc) gom,"
+  },
+  "zh4-10-28": {
+    "page": 131,
+    "extended": false,
+    "ocrLabel": "糖"
+  },
+  "zh4-10-29": {
+    "page": 131,
+    "extended": false,
+    "ocrLabel": "低"
+  },
+  "zh4-10-30": {
+    "page": 131,
+    "extended": false,
+    "ocrLabel": "答案"
+  },
+  "zh4-11-01": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "流利liuli"
+  },
+  "zh4-11-02": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "厉害"
+  },
+  "zh4-11-03": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "语法"
+  },
+  "zh4-11-04": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "准确zhunque"
+  },
+  "zh4-11-05": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "词语ciyu"
+  },
+  "zh4-11-06": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "连．"
+  },
+  "zh4-11-07": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "阅读"
+  },
+  "zh4-11-08": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "来得及 láideji dgt.kip,"
+  },
+  "zh4-11-09": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "复杂"
+  },
+  "zh4-11-10": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "只好"
+  },
+  "zh4-11-11": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "填空"
+  },
+  "zh4-11-12": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "猜"
+  },
+  "zh4-11-13": {
+    "page": 11,
+    "extended": false,
+    "ocrLabel": "否则"
+  },
+  "zh4-11-14": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "客厅ketingdt.phong khach"
+  },
+  "zh4-11-15": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "无论"
+  },
+  "zh4-11-16": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "杂志"
+  },
+  "zh4-11-17": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "著名"
+  },
+  "zh4-11-18": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "页"
+  },
+  "zh4-11-19": {
+    "page": 12,
+    "extended": false,
+    "ocrLabel": "增加zengjiadgt.tang them"
+  },
+  "zh4-11-20": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "文章wénzhangdt. bai van,"
+  },
+  "zh4-11-21": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "之"
+  },
+  "zh4-11-22": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "内容 neirong dt. noi dung"
+  },
+  "zh4-11-23": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "然而ran'ér"
+  },
+  "zh4-11-24": {
+    "page": 16,
+    "extended": false,
+    "ocrLabel": "看法kanfo"
+  },
+  "zh4-11-25": {
+    "page": 17,
+    "extended": false,
+    "ocrLabel": "相同 xiangtong tt. giong nhau,"
+  },
+  "zh4-11-26": {
+    "page": 17,
+    "extended": false,
+    "ocrLabel": "顺序shunxu dt.． trat tu, thu tu"
+  },
+  "zh4-11-27": {
+    "page": 17,
+    "extended": false,
+    "ocrLabel": "表示biaoshidgt. coy nghia,"
+  },
+  "zh4-11-28": {
+    "page": 17,
+    "extended": false,
+    "ocrLabel": "养成yangchéngdgt.hinh thanh/"
+  },
+  "zh4-11-29": {
+    "page": 17,
+    "extended": false,
+    "ocrLabel": "同时 tongshi lien.dong thoi,hon"
+  },
+  "zh4-11-30": {
+    "page": 17,
+    "extended": false,
+    "ocrLabel": "精彩jingcäitt."
+  },
+  "zh4-08-01": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "巧克力 qidokelidt.socola"
+  },
+  "zh4-08-02": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "亲戚"
+  },
+  "zh4-08-03": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "伤心"
+  },
+  "zh4-08-04": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "使"
+  },
+  "zh4-08-05": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "心情"
+  },
+  "zh4-08-06": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "愉快"
+  },
+  "zh4-08-07": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "景色 jingsedt. phong"
+  },
+  "zh4-08-08": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "放松 fangsong dgt. tha"
+  },
+  "zh4-08-09": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "压力 yali"
+  },
+  "zh4-08-10": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "回忆 huiyi"
+  },
+  "zh4-08-11": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "发生 fasheng dgt. xay ra"
+  },
+  "zh4-08-12": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "成为chéngwéidgt.tr?"
+  },
+  "zh4-08-13": {
+    "page": 99,
+    "extended": false,
+    "ocrLabel": "只要 zhiyao lien.chi can,"
+  },
+  "zh4-08-15": {
+    "page": 100,
+    "extended": false,
+    "ocrLabel": "大使馆 dashiguandt.dai"
+  },
+  "zh4-08-16": {
+    "page": 100,
+    "extended": false,
+    "ocrLabel": "堵车"
+  },
+  "zh4-08-17": {
+    "page": 100,
+    "extended": false,
+    "ocrLabel": "距离"
+  },
+  "zh4-08-18": {
+    "page": 100,
+    "extended": false,
+    "ocrLabel": "耐心"
+  },
+  "zh4-08-19": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "生命 shengming dt. su song,"
+  },
+  "zh4-08-20": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "缺少 quesháo"
+  },
+  "zh4-08-21": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "到处daochu"
+  },
+  "zh4-08-22": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "态度 taidu"
+  },
+  "zh4-08-23": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "因此 yinci"
+  },
+  "zh4-08-24": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "科学 kexué"
+  },
+  "zh4-08-25": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "证明 zhengming dgt.chutng"
+  },
+  "zh4-08-26": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "往往 wangwang pho. thuong"
+  },
+  "zh4-08-27": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "阳光 yangguang tt."
+  },
+  "zh4-08-28": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "积极 jf"
+  },
+  "zh4-08-29": {
+    "page": 103,
+    "extended": false,
+    "ocrLabel": "特点tedian"
+  },
+  "zh4-12-01": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "规定 guidingdt.quy ainh"
+  },
+  "zh4-12-02": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "死"
+  },
+  "zh4-12-03": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "可惜"
+  },
+  "zh4-12-04": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "全部 quanbudt．toan bo,"
+  },
+  "zh4-12-05": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "也许 yéxu pho. co le,"
+  },
+  "zh4-12-06": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "商量 shangliangdgt."
+  },
+  "zh4-12-07": {
+    "page": 24,
+    "extended": false,
+    "ocrLabel": "并且bingqie lien. dong"
+  },
+  "zh4-12-08": {
+    "page": 25,
+    "extended": false,
+    "ocrLabel": "盐"
+  },
+  "zh4-12-09": {
+    "page": 25,
+    "extended": false,
+    "ocrLabel": "勺（子）sháo(zi)"
+  },
+  "zh4-12-10": {
+    "page": 25,
+    "extended": false,
+    "ocrLabel": "保护"
+  },
+  "zh4-12-11": {
+    "page": 25,
+    "extended": false,
+    "ocrLabel": "作用zuoyongdt.tac"
+  },
+  "zh4-12-12": {
+    "page": 25,
+    "extended": false,
+    "ocrLabel": "无法wufa dgt.khong the,"
+  },
+  "zh4-12-13": {
+    "page": 26,
+    "extended": false,
+    "ocrLabel": "节"
+  },
+  "zh4-12-14": {
+    "page": 26,
+    "extended": false,
+    "ocrLabel": "详细xiángxitt.chitiet,"
+  },
+  "zh4-12-15": {
+    "page": 26,
+    "extended": false,
+    "ocrLabel": "解释jiéshi"
+  },
+  "zh4-12-16": {
+    "page": 26,
+    "extended": false,
+    "ocrLabel": "对于"
+  },
+  "zh4-12-17": {
+    "page": 26,
+    "extended": false,
+    "ocrLabel": "叶子yezi"
+  },
+  "zh4-12-18": {
+    "page": 26,
+    "extended": false,
+    "ocrLabel": "教育jiaoyudgt."
+  },
+  "zh4-12-19": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "使用shiyongdgt.sur dung"
+  },
+  "zh4-12-20": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "语言yuyán"
+  },
+  "zh4-12-21": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "直接zhijie"
+  },
+  "zh4-12-22": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "引起yinqi"
+  },
+  "zh4-12-23": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "误会wuhui"
+  },
+  "zh4-12-24": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "友好youhäott.than thien"
+  },
+  "zh4-12-25": {
+    "page": 30,
+    "extended": true,
+    "ocrLabel": "事半功倍 shi ban gong bei"
+  },
+  "zh4-12-26": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "节约"
+  },
+  "zh4-12-27": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "力气"
+  },
+  "zh4-12-28": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "相反"
+  },
+  "zh4-12-29": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "任务"
+  },
+  "zh4-12-30": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "意见"
+  },
+  "zh4-12-31": {
+    "page": 30,
+    "extended": false,
+    "ocrLabel": "仔细"
+  },
+  "zh4-12-32": {
+    "page": 30,
+    "extended": true,
+    "ocrLabel": "达到"
+  },
+  "zh4-13-01": {
+    "page": 37,
+    "extended": false,
+    "ocrLabel": "京剧jingju"
+  },
+  "zh4-13-02": {
+    "page": 37,
+    "extended": false,
+    "ocrLabel": "演员"
+  },
+  "zh4-13-03": {
+    "page": 37,
+    "extended": false,
+    "ocrLabel": "观众"
+  },
+  "zh4-13-04": {
+    "page": 37,
+    "extended": false,
+    "ocrLabel": "厚"
+  },
+  "zh4-13-05": {
+    "page": 37,
+    "extended": false,
+    "ocrLabel": "演出"
+  },
+  "zh4-13-06": {
+    "page": 37,
+    "extended": false,
+    "ocrLabel": "大概dagai pho．khoang"
+  },
+  "zh4-13-07": {
+    "page": 38,
+    "extended": false,
+    "ocrLabel": "来自láizi"
+  },
+  "zh4-13-08": {
+    "page": 38,
+    "extended": false,
+    "ocrLabel": "遍"
+  },
+  "zh4-13-09": {
+    "page": 38,
+    "extended": false,
+    "ocrLabel": "偶尔Ou'ér pho.thinh"
+  },
+  "zh4-13-10": {
+    "page": 38,
+    "extended": false,
+    "ocrLabel": "吃惊chi jingdgt.kinh"
+  },
+  "zh4-13-11": {
+    "page": 38,
+    "extended": false,
+    "ocrLabel": "基础 jichudt."
+  },
+  "zh4-13-12": {
+    "page": 38,
+    "extended": false,
+    "ocrLabel": "表演 biaoyandgt. bieu"
+  },
+  "zh4-13-13": {
+    "page": 39,
+    "extended": false,
+    "ocrLabel": "正常 zhengcháng tt."
+  },
+  "zh4-13-14": {
+    "page": 39,
+    "extended": false,
+    "ocrLabel": "申请 shenqing dgt.xin"
+  },
+  "zh4-13-15": {
+    "page": 39,
+    "extended": false,
+    "ocrLabel": "有趣 youqu tt.thui vi,"
+  },
+  "zh4-13-16": {
+    "page": 39,
+    "extended": false,
+    "ocrLabel": "开心kaixintt.vuivé"
+  },
+  "zh4-13-17": {
+    "page": 39,
+    "extended": false,
+    "ocrLabel": "继续"
+  },
+  "zh4-13-18": {
+    "page": 39,
+    "extended": false,
+    "ocrLabel": "由"
+  },
+  "zh4-13-19": {
+    "page": 39,
+    "extended": false,
+    "ocrLabel": "讨论täolundgt.thao"
+  },
+  "zh4-13-20": {
+    "page": 43,
+    "extended": false,
+    "ocrLabel": "大约"
+  },
+  "zh4-13-21": {
+    "page": 43,
+    "extended": false,
+    "ocrLabel": "餐厅"
+  },
+  "zh4-13-22": {
+    "page": 43,
+    "extended": false,
+    "ocrLabel": "纸袋‘"
+  },
+  "zh4-13-23": {
+    "page": 43,
+    "extended": false,
+    "ocrLabel": "互联网huliánwang"
+  },
+  "zh4-13-24": {
+    "page": 43,
+    "extended": false,
+    "ocrLabel": "进行"
+  },
+  "zh4-13-25": {
+    "page": 43,
+    "extended": false,
+    "ocrLabel": "错误"
+  },
+  "zh4-13-26": {
+    "page": 44,
+    "extended": false,
+    "ocrLabel": "随着"
+  },
+  "zh4-13-27": {
+    "page": 44,
+    "extended": false,
+    "ocrLabel": "十分"
+  },
+  "zh4-13-28": {
+    "page": 44,
+    "extended": false,
+    "ocrLabel": "普遍"
+  },
+  "zh4-13-29": {
+    "page": 44,
+    "extended": false,
+    "ocrLabel": "部分"
+  },
+  "zh4-13-30": {
+    "page": 44,
+    "extended": false,
+    "ocrLabel": "稍微"
+  },
+  "zh4-13-31": {
+    "page": 44,
+    "extended": false,
+    "ocrLabel": "苦"
+  },
+  "zh4-13-32": {
+    "page": 44,
+    "extended": false,
+    "ocrLabel": "省"
+  },
+  "zh4-14-01": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "出差  chu chai dgt. di cong"
+  },
+  "zh4-14-02": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "毛巾máojin"
+  },
+  "zh4-14-03": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "牙膏yágao"
+  },
+  "zh4-14-04": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "重"
+  },
+  "zh4-14-05": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "行"
+  },
+  "zh4-14-06": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "省"
+  },
+  "zh4-14-07": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "污染"
+  },
+  "zh4-14-08": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "卫生间 weishengjian dt."
+  },
+  "zh4-14-09": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "脏"
+  },
+  "zh4-14-10": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "抱歉"
+  },
+  "zh4-14-11": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "空"
+  },
+  "zh4-14-12": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "盒子"
+  },
+  "zh4-14-13": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "扔"
+  },
+  "zh4-14-14": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "以"
+  },
+  "zh4-14-15": {
+    "page": 51,
+    "extended": false,
+    "ocrLabel": "速度"
+  },
+  "zh4-14-16": {
+    "page": 52,
+    "extended": false,
+    "ocrLabel": "地球diqiudt.tráidat"
+  },
+  "zh4-14-17": {
+    "page": 52,
+    "extended": false,
+    "ocrLabel": "既然"
+  },
+  "zh4-14-18": {
+    "page": 52,
+    "extended": false,
+    "ocrLabel": "停"
+  },
+  "zh4-14-19": {
+    "page": 52,
+    "extended": false,
+    "ocrLabel": "得意déyi"
+  },
+  "zh4-14-20": {
+    "page": 52,
+    "extended": false,
+    "ocrLabel": "目的"
+  },
+  "zh4-14-21": {
+    "page": 52,
+    "extended": false,
+    "ocrLabel": "暖"
+  },
+  "zh4-14-22": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "塑料袋 suliaodai dt. tui nilong,"
+  },
+  "zh4-14-23": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "于是"
+  },
+  "zh4-14-24": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "鼓励"
+  },
+  "zh4-14-25": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "拒绝"
+  },
+  "zh4-14-26": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "减少"
+  },
+  "zh4-14-27": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "数量"
+  },
+  "zh4-14-28": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "温度"
+  },
+  "zh4-14-29": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "乘坐"
+  },
+  "zh4-14-30": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "丢"
+  },
+  "zh4-14-31": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "垃圾桶lajitong dt.thung rac"
+  },
+  "zh4-14-32": {
+    "page": 56,
+    "extended": false,
+    "ocrLabel": "美丽"
+  },
+  "zh4-15-01": {
+    "page": 65,
+    "extended": false,
+    "ocrLabel": "弹钢琴tan gangqin"
+  },
+  "zh4-15-02": {
+    "page": 65,
+    "extended": false,
+    "ocrLabel": "棒"
+  },
+  "zh4-15-03": {
+    "page": 65,
+    "extended": false,
+    "ocrLabel": "孙子"
+  },
+  "zh4-15-04": {
+    "page": 65,
+    "extended": false,
+    "ocrLabel": "寒假"
+  },
+  "zh4-15-05": {
+    "page": 65,
+    "extended": false,
+    "ocrLabel": "父亲"
+  },
+  "zh4-15-06": {
+    "page": 66,
+    "extended": true,
+    "ocrLabel": "闹钟naozhongdt."
+  },
+  "zh4-15-07": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "响"
+  },
+  "zh4-15-08": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "醒"
+  },
+  "zh4-15-09": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "赶"
+  },
+  "zh4-15-10": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "厕所"
+  },
+  "zh4-15-11": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "批评"
+  },
+  "zh4-15-12": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "弄"
+  },
+  "zh4-15-13": {
+    "page": 66,
+    "extended": false,
+    "ocrLabel": "管理guanlidgt.quan ly"
+  },
+  "zh4-15-14": {
+    "page": 67,
+    "extended": false,
+    "ocrLabel": "打针 dä zhen dgt. tiem,"
+  },
+  "zh4-15-15": {
+    "page": 67,
+    "extended": false,
+    "ocrLabel": "护士hushi"
+  },
+  "zh4-15-16": {
+    "page": 67,
+    "extended": false,
+    "ocrLabel": "表扬 bidoyáng dgt."
+  },
+  "zh4-15-17": {
+    "page": 67,
+    "extended": false,
+    "ocrLabel": "千万qianwan pho.nhat"
+  },
+  "zh4-15-18": {
+    "page": 67,
+    "extended": false,
+    "ocrLabel": "怀疑huáiyidgt. nghi"
+  },
+  "zh4-15-19": {
+    "page": 72,
+    "extended": false,
+    "ocrLabel": "故意guyi"
+  },
+  "zh4-15-20": {
+    "page": 72,
+    "extended": false,
+    "ocrLabel": "敲"
+  },
+  "zh4-15-21": {
+    "page": 72,
+    "extended": false,
+    "ocrLabel": "整理zhengli dgt.thu don,"
+  },
+  "zh4-15-22": {
+    "page": 72,
+    "extended": false,
+    "ocrLabel": "合适héshi"
+  },
+  "zh4-15-23": {
+    "page": 72,
+    "extended": false,
+    "ocrLabel": "骗"
+  },
+  "zh4-15-24": {
+    "page": 72,
+    "extended": false,
+    "ocrLabel": "儿童"
+  },
+  "zh4-15-25": {
+    "page": 72,
+    "extended": false,
+    "ocrLabel": "假"
+  },
+  "zh4-15-26": {
+    "page": 73,
+    "extended": false,
+    "ocrLabel": "左右 zuoyou dt.khoang,"
+  },
+  "zh4-15-27": {
+    "page": 73,
+    "extended": false,
+    "ocrLabel": "懒"
+  },
+  "zh4-15-28": {
+    "page": 73,
+    "extended": false,
+    "ocrLabel": "笨"
+  },
+  "zh4-15-29": {
+    "page": 73,
+    "extended": false,
+    "ocrLabel": "粗心"
+  },
+  "zh4-15-30": {
+    "page": 73,
+    "extended": false,
+    "ocrLabel": "骄傲jiao'do"
+  },
+  "zh4-15-31": {
+    "page": 73,
+    "extended": false,
+    "ocrLabel": "害羞haixiu"
+  },
+  "zh4-16-01": {
+    "page": 81,
+    "extended": false,
+    "ocrLabel": "博士"
+  },
+  "zh4-16-02": {
+    "page": 81,
+    "extended": false,
+    "ocrLabel": "签证"
+  },
+  "zh4-16-03": {
+    "page": 81,
+    "extended": false,
+    "ocrLabel": "报名"
+  },
+  "zh4-16-04": {
+    "page": 81,
+    "extended": false,
+    "ocrLabel": "表格"
+  },
+  "zh4-16-05": {
+    "page": 81,
+    "extended": false,
+    "ocrLabel": "传真"
+  },
+  "zh4-16-06": {
+    "page": 81,
+    "extended": false,
+    "ocrLabel": "号码"
+  },
+  "zh4-16-07": {
+    "page": 82,
+    "extended": false,
+    "ocrLabel": "参观"
+  },
+  "zh4-16-08": {
+    "page": 82,
+    "extended": false,
+    "ocrLabel": "激动"
+  },
+  "zh4-16-09": {
+    "page": 82,
+    "extended": false,
+    "ocrLabel": "小伙子 xidohuozidt."
+  },
+  "zh4-16-10": {
+    "page": 82,
+    "extended": false,
+    "ocrLabel": "记者"
+  },
+  "zh4-16-11": {
+    "page": 82,
+    "extended": true,
+    "ocrLabel": "代表"
+  },
+  "zh4-16-12": {
+    "page": 82,
+    "extended": false,
+    "ocrLabel": "恐怕"
+  },
+  "zh4-16-13": {
+    "page": 83,
+    "extended": false,
+    "ocrLabel": "失望shiwangdgt.that"
+  },
+  "zh4-16-14": {
+    "page": 83,
+    "extended": false,
+    "ocrLabel": "郊区jiaoqu"
+  },
+  "zh4-16-15": {
+    "page": 83,
+    "extended": false,
+    "ocrLabel": "到底daodipho．(duoc"
+  },
+  "zh4-16-16": {
+    "page": 83,
+    "extended": false,
+    "ocrLabel": "呀"
+  },
+  "zh4-16-17": {
+    "page": 83,
+    "extended": false,
+    "ocrLabel": "导游"
+  },
+  "zh4-16-18": {
+    "page": 83,
+    "extended": false,
+    "ocrLabel": "礼貌limao"
+  },
+  "zh4-16-19": {
+    "page": 83,
+    "extended": false,
+    "ocrLabel": "原谅yuánliangdgt.tha"
+  },
+  "zh4-16-20": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "挂"
+  },
+  "zh4-16-21": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "同情tongqingdgt. thong cam,"
+  },
+  "zh4-16-22": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "推"
+  },
+  "zh4-16-23": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "预习yuxi dgt.chuan bibai"
+  },
+  "zh4-16-24": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "重点zhongdiandt.trong diem,"
+  },
+  "zh4-16-25": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "马虎mahu tt.cau tha,lo"
+  },
+  "zh4-16-26": {
+    "page": 87,
+    "extended": false,
+    "ocrLabel": "自信zixintt.tue tin"
+  },
+  "zh4-16-27": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "冷静léngjing　tt.binh tinh,"
+  },
+  "zh4-16-28": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "输"
+  },
+  "zh4-16-29": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "重视 zhongshi dgt. xem trong,"
+  },
+  "zh4-16-30": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "敢"
+  },
+  "zh4-16-31": {
+    "page": 88,
+    "extended": false,
+    "ocrLabel": "尊重zunzhong dgt. ton trong"
+  },
+  "zh4-17-01": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "凉快liangkuaitt.mat mé"
+  },
+  "zh4-17-02": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "热闹 renao tt."
+  },
+  "zh4-17-03": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "云"
+  },
+  "zh4-17-04": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "广播guangbodt. chuong"
+  },
+  "zh4-17-05": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "照"
+  },
+  "zh4-17-06": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "倒"
+  },
+  "zh4-17-07": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "毛"
+  },
+  "zh4-17-08": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "抱"
+  },
+  "zh4-17-09": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "干"
+  },
+  "zh4-17-10": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "严格"
+  },
+  "zh4-17-11": {
+    "page": 95,
+    "extended": false,
+    "ocrLabel": "难受"
+  },
+  "zh4-17-12": {
+    "page": 96,
+    "extended": false,
+    "ocrLabel": "趟"
+  },
+  "zh4-17-13": {
+    "page": 96,
+    "extended": false,
+    "ocrLabel": "放暑假 fang shujia"
+  },
+  "zh4-17-14": {
+    "page": 96,
+    "extended": false,
+    "ocrLabel": "老虎"
+  },
+  "zh4-17-15": {
+    "page": 96,
+    "extended": false,
+    "ocrLabel": "人口"
+  },
+  "zh4-17-16": {
+    "page": 96,
+    "extended": false,
+    "ocrLabel": "排队"
+  },
+  "zh4-17-17": {
+    "page": 96,
+    "extended": false,
+    "ocrLabel": "活泼"
+  },
+  "zh4-17-18": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "社会shehui"
+  },
+  "zh4-17-19": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "竞争jingzhengdgt.canh"
+  },
+  "zh4-17-20": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "森林senlin"
+  },
+  "zh4-17-21": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "剩"
+  },
+  "zh4-17-22": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "暖和nuänhuott.am ap"
+  },
+  "zh4-17-23": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "海洋"
+  },
+  "zh4-17-24": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "底"
+  },
+  "zh4-17-25": {
+    "page": 101,
+    "extended": true,
+    "ocrLabel": "美人鱼Meirényu dt.nguoi ca"
+  },
+  "zh4-17-26": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "公里"
+  },
+  "zh4-17-27": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "仍然"
+  },
+  "zh4-17-28": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "排列"
+  },
+  "zh4-17-29": {
+    "page": 101,
+    "extended": false,
+    "ocrLabel": "梦"
+  },
+  "zh4-18-01": {
+    "page": 109,
+    "extended": false,
+    "ocrLabel": "降落 jiangluodgt. aap"
+  },
+  "zh4-18-02": {
+    "page": 109,
+    "extended": false,
+    "ocrLabel": "火"
+  },
+  "zh4-18-03": {
+    "page": 109,
+    "extended": false,
+    "ocrLabel": "作者zuozhédt.tac gia"
+  },
+  "zh4-18-04": {
+    "page": 109,
+    "extended": false,
+    "ocrLabel": "交通 jiaotong dt.giao"
+  },
+  "zh4-18-05": {
+    "page": 109,
+    "extended": false,
+    "ocrLabel": "技术 jishu"
+  },
+  "zh4-18-06": {
+    "page": 109,
+    "extended": false,
+    "ocrLabel": "是否 shifou pho. hay"
+  },
+  "zh4-18-07": {
+    "page": 110,
+    "extended": false,
+    "ocrLabel": "秒"
+  },
+  "zh4-18-08": {
+    "page": 110,
+    "extended": true,
+    "ocrLabel": "方式"
+  },
+  "zh4-18-09": {
+    "page": 110,
+    "extended": false,
+    "ocrLabel": "受不了 shoubuliao"
+  },
+  "zh4-18-10": {
+    "page": 110,
+    "extended": false,
+    "ocrLabel": "日记"
+  },
+  "zh4-18-11": {
+    "page": 110,
+    "extended": false,
+    "ocrLabel": "安全"
+  },
+  "zh4-18-12": {
+    "page": 110,
+    "extended": false,
+    "ocrLabel": "密码"
+  },
+  "zh4-18-13": {
+    "page": 110,
+    "extended": false,
+    "ocrLabel": "允许"
+  },
+  "zh4-18-14": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "座"
+  },
+  "zh4-18-15": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "桥"
+  },
+  "zh4-18-16": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "危险"
+  },
+  "zh4-18-17": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "接着"
+  },
+  "zh4-18-18": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "警察"
+  },
+  "zh4-18-19": {
+    "page": 111,
+    "extended": true,
+    "ocrLabel": "抓"
+  },
+  "zh4-18-20": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "咸"
+  },
+  "zh4-18-21": {
+    "page": 111,
+    "extended": false,
+    "ocrLabel": "矿泉水 kuangquanshui dt."
+  },
+  "zh4-18-22": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "付款"
+  },
+  "zh4-18-23": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "举"
+  },
+  "zh4-18-24": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "迷路"
+  },
+  "zh4-18-25": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "地址"
+  },
+  "zh4-18-26": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "地点"
+  },
+  "zh4-18-27": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "世纪"
+  },
+  "zh4-18-28": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "邮局"
+  },
+  "zh4-18-29": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "收"
+  },
+  "zh4-18-30": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "信封xinfeng dt."
+  },
+  "zh4-18-31": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "网站wangzhan"
+  },
+  "zh4-18-32": {
+    "page": 115,
+    "extended": false,
+    "ocrLabel": "信息xinxi"
+  },
+  "zh4-19-01": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "学期xuéqi"
+  },
+  "zh4-19-02": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "出生 chusheng dgt. ra doi,"
+  },
+  "zh4-19-03": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "性别xingbiédt．gioi tinh"
+  },
+  "zh4-19-04": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "道"
+  },
+  "zh4-19-05": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "打印"
+  },
+  "zh4-19-06": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "复印fuyin"
+  },
+  "zh4-19-07": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "饺子"
+  },
+  "zh4-19-08": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "刀"
+  },
+  "zh4-19-09": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "破"
+  },
+  "zh4-19-10": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "脱"
+  },
+  "zh4-19-11": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "理发"
+  },
+  "zh4-19-12": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "包子"
+  },
+  "zh4-19-13": {
+    "page": 123,
+    "extended": false,
+    "ocrLabel": "零钱lingqiandt.tien le"
+  },
+  "zh4-19-14": {
+    "page": 124,
+    "extended": false,
+    "ocrLabel": "打招呼d& zhaohuchao hoi,"
+  },
+  "zh4-19-15": {
+    "page": 124,
+    "extended": false,
+    "ocrLabel": "戴"
+  },
+  "zh4-19-16": {
+    "page": 124,
+    "extended": false,
+    "ocrLabel": "眼镜"
+  },
+  "zh4-19-17": {
+    "page": 124,
+    "extended": true,
+    "ocrLabel": "舞蹈"
+  },
+  "zh4-19-18": {
+    "page": 124,
+    "extended": false,
+    "ocrLabel": "国籍"
+  },
+  "zh4-19-19": {
+    "page": 124,
+    "extended": false,
+    "ocrLabel": "抬"
+  },
+  "zh4-19-20": {
+    "page": 124,
+    "extended": false,
+    "ocrLabel": "胳膊"
+  },
+  "zh4-19-21": {
+    "page": 124,
+    "extended": false,
+    "ocrLabel": "转"
+  },
+  "zh4-19-22": {
+    "page": 128,
+    "extended": false,
+    "ocrLabel": "租"
+  },
+  "zh4-19-23": {
+    "page": 128,
+    "extended": true,
+    "ocrLabel": "吵"
+  },
+  "zh4-19-24": {
+    "page": 128,
+    "extended": false,
+    "ocrLabel": "厨房"
+  },
+  "zh4-19-25": {
+    "page": 128,
+    "extended": false,
+    "ocrLabel": "房东fángdong dt.chui nha"
+  },
+  "zh4-19-26": {
+    "page": 128,
+    "extended": false,
+    "ocrLabel": "占线zhanxian"
+  },
+  "zh4-19-27": {
+    "page": 129,
+    "extended": false,
+    "ocrLabel": "功夫"
+  },
+  "zh4-19-28": {
+    "page": 129,
+    "extended": false,
+    "ocrLabel": "乒乓球pingpangqiu dt.bong"
+  },
+  "zh4-19-29": {
+    "page": 129,
+    "extended": false,
+    "ocrLabel": "羽毛球 yumáoqiudt. cau long"
+  },
+  "zh4-19-30": {
+    "page": 129,
+    "extended": false,
+    "ocrLabel": "场"
+  },
+  "zh4-19-31": {
+    "page": 129,
+    "extended": false,
+    "ocrLabel": "禁止"
+  },
+  "zh4-19-32": {
+    "page": 129,
+    "extended": false,
+    "ocrLabel": "座位"
+  },
+  "zh4-20-01": {
+    "page": 136,
+    "extended": false,
+    "ocrLabel": "加油站"
+  },
+  "zh4-20-02": {
+    "page": 136,
+    "extended": false,
+    "ocrLabel": "航班"
+  },
+  "zh4-20-03": {
+    "page": 136,
+    "extended": false,
+    "ocrLabel": "推迟"
+  },
+  "zh4-20-04": {
+    "page": 136,
+    "extended": false,
+    "ocrLabel": "高速公路 gaosu gonglu"
+  },
+  "zh4-20-05": {
+    "page": 136,
+    "extended": false,
+    "ocrLabel": "登机牌"
+  },
+  "zh4-20-06": {
+    "page": 136,
+    "extended": false,
+    "ocrLabel": "首都"
+  },
+  "zh4-20-07": {
+    "page": 137,
+    "extended": false,
+    "ocrLabel": "旅行luxing dgt. du lich"
+  },
+  "zh4-20-08": {
+    "page": 137,
+    "extended": true,
+    "ocrLabel": "怪"
+  },
+  "zh4-20-09": {
+    "page": 137,
+    "extended": false,
+    "ocrLabel": "可怜 kelián tt.dang"
+  },
+  "zh4-20-10": {
+    "page": 137,
+    "extended": false,
+    "ocrLabel": "对面duimian dt. doi"
+  },
+  "zh4-20-11": {
+    "page": 137,
+    "extended": false,
+    "ocrLabel": "烤鸭kaoya dt．vit"
+  },
+  "zh4-20-12": {
+    "page": 137,
+    "extended": false,
+    "ocrLabel": "祝贺zhuhe·dgt.chuic"
+  },
+  "zh4-20-13": {
+    "page": 137,
+    "extended": false,
+    "ocrLabel": "合格hégé"
+  },
+  "zh4-20-14": {
+    "page": 138,
+    "extended": false,
+    "ocrLabel": "干杯gan bei dgt.can ly"
+  },
+  "zh4-20-15": {
+    "page": 138,
+    "extended": false,
+    "ocrLabel": "民族"
+  },
+  "zh4-20-16": {
+    "page": 138,
+    "extended": false,
+    "ocrLabel": "打扮"
+  },
+  "zh4-20-17": {
+    "page": 138,
+    "extended": false,
+    "ocrLabel": "笑话xiaohua dt．truyen"
+  },
+  "zh4-20-18": {
+    "page": 138,
+    "extended": false,
+    "ocrLabel": "存"
+  },
+  "zh4-20-19": {
+    "page": 138,
+    "extended": false,
+    "ocrLabel": "钥匙yaoshi"
+  },
+  "zh4-20-20": {
+    "page": 138,
+    "extended": false,
+    "ocrLabel": "究竟jiujing"
+  },
+  "zh4-20-21": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "棵"
+  },
+  "zh4-20-22": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "汤"
+  },
+  "zh4-20-23": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "对话"
+  },
+  "zh4-20-24": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "普通话 putonghuadt.tiéng"
+  },
+  "zh4-20-25": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "小吃xidochidt.mon an"
+  },
+  "zh4-20-26": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "收拾 shoushi dgt. thu don,"
+  },
+  "zh4-20-27": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "出发chufa"
+  },
+  "zh4-20-28": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "辣"
+  },
+  "zh4-20-29": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "香"
+  },
+  "zh4-20-30": {
+    "page": 142,
+    "extended": false,
+    "ocrLabel": "酸"
+  },
+  "zh4-08-14": {
+    "page": 100,
+    "extended": false,
+    "ocrLabel": "师傅"
+  },
+  "zh4-09-31": {
+    "page": 117,
+    "extended": true,
+    "ocrLabel": "面对"
+  }
+}

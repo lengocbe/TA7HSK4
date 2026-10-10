@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "Giáo trình chuẩn HSK4.1.pdf",
+      "sha256": "faf42b7dec31af54fc057cfc5e2098341085a07e81077839b94766bdd2c16ed7",
+      "pdfPages": 161,
+      "course": "4.1",
+      "wordEntries": 309
+    },
+    {
+      "file": "Giáo trình chuẩn HSK4.2.pdf",
+      "sha256": "fa2d2d9d4749161e657f26851be59c05b844d9fa9f8a3db4b318f4d3ac7e9baa",
+      "pdfPages": 174,
+      "course": "4.2",
+      "wordEntries": 311
+    }
+  ],
+  "extraction": "Scanned PDF: rendered pages, OCR and editorial review. PDF page numbers are physical 1-based pages. Vocabulary numbering includes starred extension words, excludes proper-name lists.",
+  "corrections": [
+    "Lesson 17 word 15: 入口 according to printed pinyin rùkǒu, Vietnamese meaning and reading text; sidebar has a typography error 人口."
+  ],
+  "examples": "Excerpts from textbook reading passages; punctuation normalized, OCR character errors corrected. Vietnamese translations edited for the excerpts. No textbook PDFs included in APK."
+}

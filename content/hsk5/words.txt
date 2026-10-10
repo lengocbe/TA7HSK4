@@ -1,0 +1,741 @@
+# 1
+细节|n|chi tiết
+电台|n|đài phát thanh
+恩爱|a|yêu thương thắm thiết (vợ chồng)
+对比|v|so sánh, đối chiếu
+入围|v|lọt vào vòng tuyển chọn
+评委|n|giám khảo
+如何|r|như thế nào
+瘫痪|v|bị liệt
+离婚|v|ly hôn
+自杀|v|tự sát
+抱怨|v|oán trách, phàn nàn
+爱护|v|yêu quý, chăm sóc
+婚姻|n|hôn nhân
+吵架|v|cãi nhau
+相敬如宾|i|vợ chồng kính trọng nhau như khách
+暗暗|d|thầm, lặng lẽ
+轮|v|đến lượt, luân phiên
+不耐烦|a|sốt ruột, mất kiên nhẫn
+靠|v|dựa, tựa; dựa vào
+肩膀|n|vai
+喊|v|gọi to, hô
+伸|v|duỗi, đưa ra
+手指|n|ngón tay
+歪歪扭扭|a|xiêu vẹo, nguệch ngoạc
+递|v|đưa, chuyển
+脑袋|n|đầu
+女士|n|bà, cô (cách gọi lịch sự)
+叙述|v|thuật lại, kể lại
+居然|d|vậy mà, không ngờ lại
+催|v|thúc giục
+等待|v|chờ đợi
+蚊子|n|con muỗi
+半夜|n|nửa đêm
+叮|v|đốt, chích (côn trùng)
+老婆|n|vợ (khẩu ngữ)
+吵|v|làm ồn; ồn ào
+项|m|mục, hạng mục (lượng từ)
+患难与共|i|cùng chia sẻ hoạn nạn
+# 2
+串|m|xâu, chùm, chuỗi (lượng từ)
+一辈子|n|cả đời, suốt đời
+农村|n|nông thôn
+屋子|n|nhà, phòng
+断|v|cắt đứt, ngừng
+以来|n|từ đó đến nay
+姥姥|n|bà ngoại
+舅舅|n|cậu (anh/em trai của mẹ)
+姑姑|n|cô (chị/em gái của bố)
+坚决|a|kiên quyết
+打工|v|làm thuê
+挣|v|kiếm (tiền)
+县|n|huyện
+套|m|bộ, căn (lượng từ)
+装修|v|sửa sang, trang hoàng
+不得了|a|ghê gớm, vô cùng
+醉|v|say rượu
+强烈|a|mạnh mẽ, mãnh liệt
+夜|n|đêm
+锁|v|khóa; cái khóa
+临|p|sắp, ngay trước khi
+悄悄|d|lặng lẽ, nhẹ nhàng
+晒|v|phơi, hong nắng
+被子|n|chăn, mền
+长途|a|đường dài
+冻|v|bị cóng, lạnh buốt
+想象|v|tưởng tượng
+灰尘|n|bụi bặm
+亮|a|sáng; tỏa sáng
+微笑|v|mỉm cười; nụ cười
+温暖|a|ấm áp; sưởi ấm
+立刻|d|lập tức
+扑|v|lao tới, ùa vào
+卧室|n|phòng ngủ
+铺|v|trải, rải
+飘|v|bay, thoảng đưa
+阵|m|trận, cơn, đợt (lượng từ)
+感受|v|cảm nhận; cảm nhận của bản thân
+流泪|v|rơi nước mắt
+# 3
+人生|n|đời người, cuộc đời
+工人|n|công nhân
+稳定|a|ổn định
+待遇|n|chế độ đãi ngộ
+发愁|v|lo âu, buồn rầu
+平静|a|bình lặng, yên ả
+帆船|n|thuyền buồm
+撞|v|đâm, va vào
+艘|m|chiếc (lượng từ cho tàu, thuyền)
+航行|v|đi tàu, đi thuyền trên biển
+积蓄|n|tiền dành dụm; tích cóp
+二手|a|đã qua sử dụng
+彩虹|n|cầu vồng
+包括|v|bao gồm
+疯|v|phát điên
+辞职|v|từ chức, xin nghỉ việc
+驾驶|v|lái, điều khiển phương tiện
+轮流|v|luân phiên, thay phiên
+钓|v|câu (cá)
+顿|m|bữa (lượng từ)
+海鲜|n|hải sản
+傍晚|n|chiều tối, lúc chạng vạng
+舒适|a|thoải mái, dễ chịu
+干活儿|v|làm việc
+盼望|v|mong mỏi, trông mong
+陆地|n|đất liền
+各自|r|mỗi người, riêng từng người
+勿|d|chớ, đừng
+时刻|n|thời khắc
+着火|v|bốc cháy
+漏|v|rò rỉ, lọt ra
+雷|n|sấm
+随时|d|bất cứ lúc nào
+闪电|n|tia chớp, sét
+击|v|đánh, đập
+拥抱|v|ôm
+海里|m|hải lý
+台阶|n|bậc thềm, bậc thang
+未来|n|tương lai
+太太|n|vợ; bà (cách gọi lịch sự)
+时代|n|thời đại
+# 4
+背|v|cõng, mang trên lưng
+从前|n|ngày xưa, trước đây
+时期|n|thời kỳ
+流传|v|lưu truyền
+至今|d|cho đến nay
+孝敬|v|hiếu kính, phụng dưỡng
+农民|n|nông dân
+战争|n|chiến tranh
+满足|v|thỏa mãn, hài lòng
+惭愧|a|hổ thẹn
+决心|n|quyết tâm
+委屈|v|làm chịu thiệt; tủi thân
+打听|v|hỏi thăm, dò hỏi
+主人|n|chủ nhà, người chủ
+结实|a|rắn chắc, khỏe mạnh
+勤奋|a|chăm chỉ, cần cù
+银子|n|bạc, tiền bạc
+老实|a|thật thà
+镇|n|thị trấn
+后背|n|lưng
+滑|a|trơn; trượt
+甩|v|vung, hất, quăng
+顶|v|đội; chống chọi, bất chấp
+扶|v|đỡ, vịn
+不行|a|không được; quá sức, không chịu nổi
+团圆|v|đoàn tụ, sum họp
+去世|v|qua đời
+国君|n|quốc vương, vua
+本领|n|bản lĩnh, tài năng
+人才|n|nhân tài
+官|n|quan chức
+物质|n|vật chất
+反而|d|ngược lại, trái lại
+诚恳|a|chân thành
+成就|n|thành tựu
+古代|n|thời cổ đại
+孝顺|v|hiếu thảo, hiếu thuận
+美德|n|đức tính tốt, mỹ đức
+占|v|chiếm, giữ (vị trí)
+食物|n|thức ăn
+# 5
+悠久|a|lâu đời
+文字|n|chữ viết, văn tự
+记载|v|ghi chép; bản ghi chép
+形状|n|hình dạng
+描写|v|miêu tả
+赞美|v|ca ngợi, tán dương
+诗|n|thơ, bài thơ
+老百姓|n|người dân, thường dân
+充满|v|tràn đầy
+感激|v|cảm kích, biết ơn
+从而|c|từ đó, do đó mà
+产生|v|sản sinh, nảy sinh
+传说|n|truyền thuyết
+善良|a|lương thiện, tốt bụng
+救|v|cứu
+晕|v|ngất; chóng mặt
+龙|n|rồng
+治疗|v|điều trị, chữa bệnh
+玉|n|ngọc
+壶|n|ấm, bình
+抢|v|cướp, giành
+埋|v|chôn, vùi
+躲藏|v|ẩn náu, giấu
+如今|n|ngày nay
+分布|v|phân bố
+天然|a|thiên nhiên, tự nhiên
+优美|a|đẹp đẽ, thanh nhã
+独特|a|độc đáo
+反映|v|phản ánh
+珍珠|n|ngọc trai
+形成|v|hình thành
+于|p|ở, từ, tại
+广大|a|rộng lớn
+岩石|n|đá, nham thạch
+亿|m|một trăm triệu
+石灰岩|n|đá vôi
+地区|n|khu vực
+表面|n|bề mặt
+角度|n|góc, góc độ
+斜|a|nghiêng, xiên
+为|v|là, trở thành
+火成岩|n|đá magma
+碰|v|chạm, gặp phải
+挡|v|chặn, chắn
+地势|n|địa thế
+冲|v|xông, lao, trào ra
+# 6
+除夕|n|đêm giao thừa
+由来|n|nguồn gốc
+农历|n|âm lịch
+守岁|v|thức đón giao thừa
+怪物|n|quái vật
+伤害|v|làm hại, gây tổn thương
+恨|v|căm ghét, oán hận
+骨头|n|xương
+无奈|a|bất lực, không biết làm sao
+英雄|n|anh hùng
+英俊|a|khôi ngô, tuấn tú
+咬|v|cắn
+外公|n|ông ngoại
+询问|v|hỏi, hỏi han
+天真|a|ngây thơ
+杀|v|giết
+代替|v|thay thế, làm thay
+除|v|loại bỏ, trừ
+制造|v|chế tạo; gây ra
+灾害|n|tai họa, thảm họa
+逃|v|chạy trốn
+影子|n|bóng, bóng dáng
+此外|c|ngoài ra
+说不定|d|có lẽ, biết đâu
+熬夜|v|thức khuya
+赶紧|d|mau chóng, tranh thủ ngay
+果然|d|quả nhiên
+姑娘|n|cô gái
+锅|n|nồi, chảo
+盆子|n|chậu
+整个|a|toàn bộ, cả
+吓|v|dọa, làm sợ
+似的|u|giống như, tựa như
+追|v|đuổi theo
+箭|n|mũi tên
+射击|v|bắn
+纷纷|d|lần lượt, tới tấp
+表达|v|bày tỏ, diễn đạt
+意义|n|ý nghĩa
+鞭炮|n|pháo
+风俗|n|phong tục
+# 7
+成语|n|thành ngữ
+则|m|mẩu, bài (lượng từ cho truyện, tin)
+盲人|n|người mù
+摸|v|sờ, mò
+大象|n|con voi
+智慧|n|trí tuệ
+士兵|n|binh lính
+瞎|v|mù
+分别|d|riêng rẽ, lần lượt
+寻找|v|tìm kiếm
+牙齿|n|răng
+胡说|v|nói bậy, nói linh tinh
+尾巴|n|đuôi
+绳子|n|dây thừng, sợi dây
+平|a|phẳng
+墙|n|tường
+扇子|n|quạt
+片面|a|phiến diện, một chiều
+结论|n|kết luận
+精诚所至，金石为开|i|lòng thành đến nơi, vàng đá cũng mở
+将军|n|tướng quân
+善于|v|giỏi về, có sở trường
+称|v|gọi là, xưng là
+打猎|v|săn bắn
+忽然|d|bỗng nhiên
+蹲|v|ngồi xổm, chồm
+摇|v|lắc, lay
+不要紧|a|không sao, không quan trọng
+支|m|chiếc, cây (lượng từ cho vật dài)
+摆|v|bày, đặt; tạo (tư thế)
+姿势|n|tư thế
+全神贯注|i|tập trung toàn bộ tinh thần
+尽力|v|hết sức, dốc sức
+反应|n|phản ứng
+确定|v|xác định, chắc chắn
+石头|n|hòn đá
+连续|d|liên tục
+根|m|cây, sợi (lượng từ)
+碎|a|vỡ, vụn
+杆|n|cán, thân (vật dài)
+哎|e|ôi, này (thán từ)
+唉|e|ôi, chao ôi (tiếng thở dài)
+金属|n|kim loại
+硬|a|cứng
+便|d|liền, bèn
+# 8
+朝三暮四|i|sáng ba chiều bốn; thay đổi thất thường
+词汇|n|từ vựng
+固定|a|cố định
+结构|n|cấu trúc
+整体|n|tổng thể
+综合|v|tổng hợp
+完整|a|hoàn chỉnh, toàn vẹn
+哲学家|n|nhà triết học
+寓言|n|ngụ ngôn
+喂养|v|nuôi, cho ăn
+群|m|đàn, nhóm (lượng từ)
+猴子|n|con khỉ
+宠物|n|thú cưng
+相处|v|chung sống, giao tiếp với nhau
+彼此|r|lẫn nhau, đôi bên
+表情|n|vẻ mặt, biểu cảm
+行为|n|hành vi
+对方|n|đối phương, phía bên kia
+蔬菜|n|rau củ
+粮食|n|lương thực
+家庭|n|gia đình
+财产|n|tài sản
+消费|v|tiêu dùng, chi tiêu
+节省|v|tiết kiệm
+限制|v|hạn chế, giới hạn
+猪|n|con lợn
+调皮|a|nghịch ngợm
+淘气|a|tinh nghịch, nghịch phá
+橡子|n|quả sồi
+果实|n|quả, trái
+不足|a|không đủ, thiếu
+倒|d|ngược lại, lại (ngoài dự đoán)
+馒头|n|bánh màn thầu
+颗|m|hạt, viên (lượng từ)
+似乎|d|dường như
+吃亏|v|chịu thiệt
+方式|n|cách thức
+安慰|v|an ủi
+要不|c|hay là, nếu không thì
+显得|v|tỏ ra, có vẻ
+格外|d|đặc biệt, hơn hẳn
+情景|n|cảnh tượng
+哈|e|ha (tiếng cười)
+# 9
+表现|v|thể hiện, biểu hiện
+突出|a|nổi bật
+文学家|n|nhà văn
+算|v|tính; coi là
+地道|a|chính cống, đúng điệu
+行家|n|người sành, chuyên gia
+亲自|d|đích thân
+见解|n|kiến giải, cách nhìn nhận
+近代|n|thời cận đại
+时尚|n|trào lưu, thời thượng
+写作|v|viết, sáng tác
+点心|n|bánh, món ăn nhẹ
+作为|p|với tư cách là
+学问|n|học vấn, kiến thức
+讲究|v|chú trọng, cầu kỳ
+平均|d|trung bình
+胡同|n|ngõ, hẻm
+位于|v|nằm ở, tọa lạc tại
+首|n|đầu, đứng đầu
+豪华|a|sang trọng, xa hoa
+光临|v|đến thăm, ghé đến (kính ngữ)
+交际|v|giao tiếp, giao thiệp
+大方|a|rộng rãi, hào phóng
+好客|a|hiếu khách
+呼朋唤友|i|gọi bạn bè đến tụ họp
+招待|v|tiếp đãi
+高档|a|cao cấp
+胃口|n|khẩu vị, sự thèm ăn
+明明|d|rõ ràng
+胃|n|dạ dày
+戒|v|cai, bỏ (thói quen)
+保存|v|lưu giữ, bảo quản
+资料|n|tư liệu
+曾经|d|đã từng
+形容|v|miêu tả, hình dung
+蒙胧|a|mờ mịt, lờ đờ
+悠悠|a|xa xăm, miên man
+形象|a|sinh động; hình tượng
+# 10
+争论|v|tranh luận
+奇迹|n|kỳ tích
+围绕|v|xoay quanh
+奔跑|v|chạy nhanh
+蹄子|n|móng guốc
+辩论|v|biện luận, tranh luận
+青蛙|n|con ếch
+啦|u|đấy, rồi (trợ từ ngữ khí)
+始终|d|từ đầu đến cuối, luôn luôn
+脖子|n|cổ
+说服|v|thuyết phục
+摄影师|n|nhiếp ảnh gia
+毕竟|d|dù sao, rốt cuộc
+操场|n|sân vận động, sân tập
+洞|n|lỗ, hang
+插|v|cắm, chèn
+棍|n|gậy, que
+系|v|buộc, thắt
+匹|m|con (lượng từ cho ngựa)
+拦|v|chặn, ngăn
+拍|v|chụp; vỗ
+差距|n|khoảng cách, chênh lệch
+显示|v|hiển thị, cho thấy
+意识|n|ý thức
+艰苦|a|gian khổ
+试验|v|thử nghiệm
+逐渐|d|dần dần
+改进|v|cải tiến
+成熟|a|chín muồi, hoàn thiện
+兄弟|n|anh em trai
+播放|v|phát, trình chiếu
+纪念|v|kỷ niệm, tưởng nhớ
+导演|n|đạo diễn
+瞬间|n|khoảnh khắc
+请求|v|thỉnh cầu, đề nghị
+或许|d|có lẽ
+重大|a|trọng đại, quan trọng
+# 11
+闹钟|n|đồng hồ báo thức
+危害|v|gây hại; tác hại
+人类|n|loài người
+机制|n|cơ chế
+生物|n|sinh vật
+规律|n|quy luật
+光线|n|ánh sáng
+必要|a|cần thiết
+过渡|v|chuyển tiếp
+浅|a|nông, nhẹ
+现代|n|hiện đại, thời hiện đại
+享受|v|tận hưởng
+用途|n|công dụng
+实验|v|thí nghiệm
+铃|n|chuông
+所|u|trợ từ đứng trước động từ
+状态|n|trạng thái
+清醒|a|tỉnh táo
+呼吸|v|hô hấp, thở
+心理|n|tâm lý
+慌张|a|hoảng hốt, luống cuống
+情绪|n|tâm trạng, cảm xúc
+低落|a|sa sút, xuống thấp
+记忆|n|trí nhớ; ghi nhớ
+计算|v|tính toán
+相当|a|tương đương
+持续|v|kéo dài, tiếp tục
+数|m|vài, mấy
+导致|v|dẫn đến
+失眠|v|mất ngủ
+精神|n|tinh thần
+专家|n|chuyên gia
+采用|v|áp dụng, sử dụng
+柔和|a|êm dịu, nhẹ nhàng
+愿望|n|nguyện vọng, mong muốn
+窗帘|n|rèm cửa
+市场|n|thị trường, chợ
+产品|n|sản phẩm
+模仿|v|mô phỏng, bắt chước
+避免|v|tránh
+传统|a|truyền thống
+# 12
+用户|n|người dùng
+颠球|v|tâng bóng
+明星|n|ngôi sao, người nổi tiếng
+直播|v|phát trực tiếp
+宝贝|n|bé cưng, bảo bối
+逗|v|chọc, trêu cho vui
+宣传|v|tuyên truyền, quảng bá
+手笔|n|quy mô, cách thức thực hiện
+推广|v|quảng bá, phổ biến rộng
+注册|v|đăng ký
+召开|v|tổ chức (hội nghị)
+合作|v|hợp tác
+伙伴|n|bạn đồng hành, đối tác
+总裁|n|tổng giám đốc, chủ tịch điều hành
+实现|v|thực hiện, đạt được
+覆盖|v|bao phủ, phủ sóng
+移动|v|di chuyển; di động
+通信|v|thông tin liên lạc
+应用|n|ứng dụng
+企业|n|doanh nghiệp
+称霸|v|xưng bá, thống trị
+背景|n|bối cảnh
+高级|a|cao cấp
+副|a|phó, phụ
+开发|v|phát triển, khai thác
+中心|n|trung tâm
+相关|a|có liên quan
+业务|n|nghiệp vụ, hoạt động kinh doanh
+现实|n|hiện thực, thực tế
+个人|n|cá nhân
+以及|c|và, cùng với
+程度|n|mức độ
+发达|a|phát triển
+创新|v|đổi mới, sáng tạo
+领导|v|lãnh đạo, dẫn đầu
+地位|n|địa vị, vị thế
+经营|v|kinh doanh, quản lý
+销售|v|bán hàng, tiêu thụ
+针对|p|nhắm vào, căn cứ vào
+当地|n|địa phương, sở tại
+代言|v|làm đại diện quảng bá
+华裔|n|người gốc Hoa
+移民|n|người nhập cư; di cư
+# 13
+锯子|n|cái cưa
+筐|n|giỏ, sọt
+训练|v|huấn luyện, luyện tập
+缺乏|v|thiếu
+项目|n|hạng mục, môn, dự án
+桃|n|quả đào
+装|v|đựng; lắp
+启发|v|gợi mở, khơi gợi ý tưởng
+安装|v|lắp đặt
+栏杆|n|lan can
+甲|n|giáp, bên A
+乙|n|ất, bên B
+工具|n|công cụ
+投篮|v|ném bóng vào rổ
+踩|v|giẫm, đạp
+一再|d|nhiều lần, hết lần này đến lần khác
+重复|v|lặp lại
+断断续续|a|ngắt quãng
+激烈|a|quyết liệt, sôi nổi
+气氛|n|bầu không khí
+何况|c|huống chi, hơn nữa
+球迷|n|người hâm mộ bóng
+工程师|n|kỹ sư
+机器|n|máy móc
+顺畅|a|trôi chảy, thông suốt
+幼儿园|n|trường mẫu giáo
+好奇|a|hiếu kỳ, tò mò
+何必|d|hà tất, cần gì phải
+多亏|v|may nhờ, nhờ có
+连忙|d|vội vàng, lập tức
+瞧|v|nhìn, xem
+困扰|v|gây khó khăn, làm phiền
+思维|n|tư duy
+呆|a|ngây, đờ đẫn
+造成|v|gây ra
+仿佛|v|giống như, dường như
+阻碍|v|cản trở
+# 14
+四合院|n|tứ hợp viện (nhà bốn phía quanh sân)
+民居|n|nhà dân
+组合|v|kết hợp, tổ hợp
+建筑|n|kiến trúc, công trình
+形式|n|hình thức
+所谓|a|cái gọi là, thường gọi là
+方|a|vuông
+广泛|a|rộng rãi
+样式|n|kiểu dáng
+代表|v|đại diện
+通常|d|thông thường
+并列|v|xếp cạnh nhau, song song
+组成|v|tạo thành, cấu thành
+长辈|n|bậc trưởng bối, người lớn tuổi
+具备|v|có đủ, hội đủ
+日常|a|hằng ngày
+起居|n|sinh hoạt thường ngày
+接待|v|tiếp đón
+功能|n|chức năng
+厢房|n|phòng bên hông nhà chính
+走廊|n|hành lang
+空间|n|không gian
+种|v|trồng
+竹子|n|tre, trúc
+则|c|thì, còn
+金鱼|n|cá vàng
+创造|v|sáng tạo, tạo ra
+情趣|n|thú vui, hứng thú
+因而|c|vì vậy, do đó
+为|p|bị, được (biểu thị bị động)
+关闭|v|đóng
+封闭|v|khép kín, phong kín
+打交道|v|giao thiệp, qua lại
+日子|n|ngày, cuộc sống
+充分|a|đầy đủ, trọn vẹn
+令|v|khiến, làm cho
+亲切|a|thân thiết, gần gũi
+劳动|v|lao động
+人民|n|nhân dân
+矛盾|n|mâu thuẫn
+浓|a|đậm, nồng
+# 15
+纸上谈兵|i|bàn việc binh trên giấy; lý luận suông
+军事|n|quân sự
+敌人|n|kẻ địch
+理论|n|lý thuyết, lý luận
+作战|v|tác chiến, đánh trận
+毛病|n|tật, khuyết điểm
+道理|n|đạo lý, lẽ phải
+迟早|d|sớm muộn
+军队|n|quân đội
+派|v|phái, cử
+弱|a|yếu
+形势|n|tình thế
+命令|v|ra lệnh; mệnh lệnh
+守|v|giữ, bảo vệ
+阵地|n|trận địa
+绝对|d|tuyệt đối
+主动|a|chủ động
+挑战|v|khiêu chiến, thách thức
+骂|v|mắng, chửi
+胆小鬼|n|kẻ nhát gan
+胜利|n|thắng lợi
+调动|v|điều động
+散布|v|loan truyền, tung ra
+谣言|n|tin đồn thất thiệt
+上当|v|mắc lừa
+再三|d|nhiều lần, hết lần này đến lần khác
+阻止|v|ngăn cản
+任命|v|bổ nhiệm
+独立|a|độc lập
+资格|n|tư cách, điều kiện
+糊涂|a|hồ đồ, lú lẫn
+公元|n|Công nguyên
+盲目|a|mù quáng
+轻视|v|coi thường
+方案|n|phương án
+进攻|v|tấn công
+宝贵|a|quý báu
+讽刺|v|châm biếm, mỉa mai
+灵活|a|linh hoạt
+# 16
+节食|v|ăn kiêng, hạn chế ăn
+报道|v|đưa tin; bản tin
+营养|n|dinh dưỡng
+摄入|v|nạp vào, hấp thu
+模式|n|mô hình, kiểu
+波动|v|dao động
+总共|d|tổng cộng
+参与|v|tham gia
+人员|n|nhân viên, người tham gia
+相对|a|tương đối
+类型|n|loại, kiểu
+称|v|cân (đo trọng lượng)
+可靠|a|đáng tin cậy
+纳入|v|đưa vào, gộp vào
+分析|v|phân tích
+志愿者|n|tình nguyện viên
+跟踪|v|theo dõi
+成果|n|thành quả, kết quả
+清晰|a|rõ ràng
+即|v|tức là
+升|v|tăng, lên
+达到|v|đạt đến
+意外|a|bất ngờ, ngoài dự tính
+存在|v|tồn tại
+明显|a|rõ rệt
+补偿|v|bù đắp
+立即|d|lập tức
+趋势|n|xu hướng
+差异|n|khác biệt
+联合|v|liên kết, phối hợp
+个别|a|cá biệt, riêng lẻ
+表明|v|cho thấy, chứng tỏ
+临时|a|tạm thời
+现象|n|hiện tượng
+非|v|không phải
+就餐|v|dùng bữa
+放纵|v|buông thả, nuông chiều
+苗条|a|thon thả
+借口|n|cái cớ
+采取|v|áp dụng, thực hiện
+措施|n|biện pháp
+# 17
+事物|n|sự vật, sự việc
+高峰|n|đỉnh cao, cao trào
+终点|n|điểm kết thúc
+迅速|a|nhanh chóng
+深刻|a|sâu sắc
+戏剧|n|kịch, sân khấu
+投入|v|đầu tư, bỏ vào
+服装|n|trang phục
+化妆|v|trang điểm, hóa trang
+道具|n|đạo cụ
+美术|n|mỹ thuật
+以|c|để, nhằm
+良好|a|tốt đẹp
+争取|v|cố gắng giành, phấn đấu
+忽视|v|xem nhẹ, bỏ qua
+魅力|n|sức hấp dẫn
+糟糕|a|tồi tệ
+婚礼|n|lễ cưới
+等于|v|bằng, tương đương
+度过|v|trải qua
+告别|v|từ biệt, chào tạm biệt
+平常|a|bình thường
+依然|d|vẫn, vẫn như trước
+推荐|v|giới thiệu, đề cử
+淋漓尽致|i|thể hiện hết mức, trọn vẹn
+评价|v|đánh giá
+烂|a|tệ, hỏng, nát
+主持|v|chủ trì, dẫn chương trình
+运用|v|vận dụng
+开幕式|n|lễ khai mạc
+宁可|d|thà, thà rằng
+集中|v|tập trung
+体会|v|thể nghiệm, cảm nhận
+# 18
+抽象|a|trừu tượng
+古典|a|cổ điển
+欣赏|v|thưởng thức, đánh giá cao
+布|n|vải
+规则|n|quy tắc; đều đặn
+派|n|trường phái
+作品|n|tác phẩm
+洒|v|rắc, vẩy, tưới
+极其|d|cực kỳ
+神秘|a|thần bí, bí ẩn
+丑陋|a|xấu xí
+自由|n|tự do
+设计|v|thiết kế
+组|m|nhóm, tổ (lượng từ)
+幅|m|bức, tấm (lượng từ cho tranh, vải)
+出自|v|xuất phát từ, do ai làm ra
+业余|a|nghiệp dư, ngoài giờ
+婴儿|n|trẻ sơ sinh
+猩猩|n|đười ươi; trong 黑猩猩: tinh tinh
+涂鸦|n|nét vẽ nguệch ngoạc
+签|v|ký (tên)
+其余|r|phần còn lại
+身份|n|thân phận, danh tính
+确认|v|xác nhận
+随手|d|tiện tay, tùy tay
+分辨|v|phân biệt
+挥|v|vung, múa (bút)
+可见|c|có thể thấy, cho thấy
+哪怕|c|cho dù, dù là
+元素|n|yếu tố, nguyên tố
+调整|v|điều chỉnh
+位置|n|vị trí
+含意|n|hàm ý
+区域|n|khu vực
+活跃|a|sôi nổi, hoạt động mạnh
+布局|n|bố cục, bố trí
+事实|n|sự thật
+目前|n|hiện nay, trước mắt
+证据|n|bằng chứng
+话题|n|chủ đề câu chuyện

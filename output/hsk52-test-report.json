@@ -1,0 +1,18 @@
+{
+  "result": "passed",
+  "addedWords": 665,
+  "newLessons": 18,
+  "oldWordsPreserved": 1757,
+  "checks": [
+    "Exact lesson word numbering and source pages",
+    "Word fields and source excerpt coverage",
+    "New empty installation",
+    "Old APK records and backup migration",
+    "Separate textbook filters, choices, due queues and last lessons",
+    "Native audio bridge calls",
+    "Cards, listening quiz, typing and abbreviated forms",
+    "Backup round trip across books",
+    "Narrow and dark layouts"
+  ],
+  "limitation": "Browser with simulated native bridge; physical Android device not tested."
+}
