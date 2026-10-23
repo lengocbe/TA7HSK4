@@ -1,0 +1,21 @@
+{
+  "result": "passed",
+  "vocabulary": 876,
+  "phrases": 138,
+  "lessons": 30,
+  "legacyWordsUnchanged": 4868,
+  "checks": [
+    "Fresh install state",
+    "Old backup restore",
+    "Both books and section tabs",
+    "Kind-specific cards and quiz options",
+    "Wrong answer deduplication and retry",
+    "Mastery retains history and reactivates",
+    "Audio bridge",
+    "Backup round trip and restart",
+    "Typing punctuation",
+    "Due isolation",
+    "320/360/390/700 light/dark layouts"
+  ],
+  "physicalPhoneTested": false
+}

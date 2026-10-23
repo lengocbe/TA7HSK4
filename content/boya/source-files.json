@@ -1,0 +1,32 @@
+{
+  "1": {
+    "file": "giao-trinh-boya-1.pdf",
+    "sha256": "f3f752c436a864f8286ce51ea2d4a72e574856c081173bf890b35e7d4454881d",
+    "pages": 244
+  },
+  "2": {
+    "file": "giao-trinh-boya-2.pdf",
+    "sha256": "ae1519c8444bb8513ee86c0dbc110d48986aa81d53135b676709e43d80678dc6",
+    "pages": 192
+  },
+  "3": {
+    "file": "giao trinh boya_truoc trung cap_1.pdf",
+    "sha256": "2e4d9dd042a9b7718cb8098fcf6ff79dba593d95cd6dafb3b13b596813c0ae65",
+    "pages": 258
+  },
+  "4": {
+    "file": "giao trinh boya truoc trung cap 2.pdf",
+    "sha256": "fc86d392cdbe84448179650c7325ca4765f5d2c205be0eccb818374c559e064e",
+    "pages": 283
+  },
+  "5": {
+    "file": "giao-trinh-boya-cao-cap-1.pdf",
+    "sha256": "6d94587cbad0cbb81b021346df5b05099fb977329cd68d4e8c8217f89e74794d",
+    "pages": 265
+  },
+  "6": {
+    "file": "giao-trinh-boya-cao-cap-2.pdf",
+    "sha256": "0fc3d9c8ace069626545796bb8f8ce1bf3a7bb75c58a0424bea4c6e0ee45cd2a",
+    "pages": 407
+  }
+}

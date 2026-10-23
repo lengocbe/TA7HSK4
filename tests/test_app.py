@@ -9,7 +9,7 @@ OUT=ROOT/'output/screenshots';OUT.mkdir(parents=True,exist_ok=True)
 errors=[]
 with sync_playwright() as p:
     browser=p.chromium.launch(executable_path='C:/Program Files/Google/Chrome/Application/chrome.exe',headless=True)
-    context=browser.new_context(viewport={'width':390,'height':844},device_scale_factor=1)
+    context=browser.new_context(reduced_motion='reduce',viewport={'width':390,'height':844},device_scale_factor=1)
     page=context.new_page()
     page.on('pageerror',lambda error:errors.append(str(error)))
     page.goto((ROOT/'www/index.html').as_uri())

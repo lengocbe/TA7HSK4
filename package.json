@@ -1,8 +1,12 @@
 {
   "name": "lingo-vocabulary-android",
-  "version": "1.5.0",
+  "version": "1.10.0",
   "private": true,
-  "description": "Offline Android vocabulary app for Global Success 7 HSK 2, 3, 4 and 5",
-  "scripts": {"build:web": "esbuild www/app.js --target=chrome60 --outfile=www/app.compat.js"},
-  "devDependencies": {"esbuild": "0.25.12"}
+  "description": "Offline Android vocabulary app for Global Success 7, HSK 2–6 and spoken Chinese",
+  "scripts": {
+    "build:web": "esbuild www/app.js --target=chrome60 --outfile=www/app.compat.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
 }

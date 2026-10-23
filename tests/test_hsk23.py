@@ -10,7 +10,7 @@ with zipfile.ZipFile(ROOT/'output/Lingo-SoTuVung-1.4.0.apk') as z:
 for w in old['words']:assert byid[w['id']]==w,w['id']
 for lesson in old['lessons']:assert next(l for l in data['lessons'] if l['id']==lesson['id'])==lesson
 new=[w for w in data['words'] if w.get('level') in [2,3]]
-assert len(data['words'])==len(old['words'])+len(new)
+assert len([w for w in data['words'] if w.get('level') not in [6,'spoken','hsk30','boya']])==len(old['words'])+len(new)
 audit={r['id']:r for r in json.loads((ROOT/'content/hsk23/source-audit.json').read_text(encoding='utf-8'))}
 counts={level:sum(w['level']==level for w in new) for level in [2,3]}
 assert counts=={2:169,3:314}
@@ -40,7 +40,7 @@ backup={'schema':1,'progress':{'en-01-01':{'due':1,'interval':4,'reps':3,'lapses
 errors=[]
 with sync_playwright() as p:
  browser=p.chromium.launch(executable_path='C:/Program Files/Google/Chrome/Application/chrome.exe',headless=True)
- context=browser.new_context(viewport={'width':390,'height':844})
+ context=browser.new_context(reduced_motion='reduce',viewport={'width':390,'height':844})
  context.add_init_script("window.audioCalls=[];window.Android={load(){return localStorage.getItem('test-state')||''},save(s){localStorage.setItem('test-state',s);return true},theme(){},stop(){},play(id,slow){audioCalls.push({id,slow})}}")
  page=context.new_page();page.on('pageerror',lambda e:errors.append(str(e)));page.on('dialog',lambda d:d.accept())
  page.goto((ROOT/'www/index.html').as_uri());assert page.evaluate('Object.keys(state.progress).length')==0

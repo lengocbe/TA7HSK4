@@ -1,0 +1,308 @@
+{
+  "16:1": {
+    "meaning": "cửa hàng, công ty… (lượng từ)",
+    "pron": "jiā",
+    "pos": "Lượng từ"
+  },
+  "16:9": {
+    "meaning": "nộp; trả (tiền)",
+    "pron": "jiāo"
+  },
+  "17:3": {
+    "meaning": "chiếc (lượng từ cho mũ)",
+    "pos": "Lượng từ"
+  },
+  "17:12": {
+    "meaning": "con (lượng từ cho động vật)",
+    "pron": "zhī",
+    "pos": "Lượng từ",
+    "speechText": "一只鸭子"
+  },
+  "17:16": {
+    "meaning": "thăm; đến thăm",
+    "pron": "kàn"
+  },
+  "17:19": {
+    "meaning": "trước; vừa qua",
+    "pron": "shàng"
+  },
+  "17:22": {
+    "meaning": "cành (lượng từ cho hoa có cành)",
+    "pos": "Lượng từ"
+  },
+  "18:13": {
+    "meaning": "sau; tiếp theo",
+    "pron": "xià"
+  },
+  "18:27": {
+    "meaning": "nở (hoa)",
+    "pron": "kāi"
+  },
+  "18:33": {
+    "meaning": "khởi hành (tàu, xe)",
+    "pron": "kāi"
+  },
+  "19:3": {
+    "meaning": "trợ từ nối bổ ngữ trạng thái",
+    "pron": "de",
+    "speechText": "游得好"
+  },
+  "19:16": {
+    "meaning": "phải; cần phải",
+    "pron": "děi",
+    "speechText": "得走了"
+  },
+  "19:24": {
+    "meaning": "nấu; làm (món ăn)",
+    "pron": "zuò"
+  },
+  "20:13": {
+    "meaning": "rất; biết bao",
+    "pron": "hǎo",
+    "pos": "Phó từ"
+  },
+  "20:16": {
+    "meaning": "dự định; chuẩn bị",
+    "pron": "zhǔn bèi"
+  },
+  "21:1": {
+    "meaning": "trợ từ chỉ trải nghiệm đã từng làm",
+    "pron": "guo",
+    "pos": "Trợ từ",
+    "speechText": "去过"
+  },
+  "21:4": {
+    "meaning": "giỏi; có năng lực; được",
+    "pron": "xíng"
+  },
+  "22:2": {
+    "pron": "zhe",
+    "speechText": "开着"
+  },
+  "22:7": {
+    "pron": "de",
+    "speechText": "认真地"
+  },
+  "22:30": {
+    "pron": "bēi",
+    "speechText": "背着书包"
+  },
+  "23:1": {
+    "meaning": "a lô (khi nghe điện thoại)",
+    "pron": "wèi",
+    "pos": "Thán từ",
+    "speechText": "喂，你好"
+  },
+  "23:5": {
+    "pron": "dāi",
+    "speechText": "待在家里"
+  },
+  "24:9": {
+    "meaning": "bảo; nhờ; yêu cầu",
+    "pron": "jiào"
+  },
+  "24:11": {
+    "meaning": "đưa; mang đến",
+    "pron": "sòng"
+  },
+  "4:19": {
+    "meaning": "xu (một phần trăm nhân dân tệ)"
+  },
+  "5:5": {
+    "meaning": "ngay; chính (nhấn mạnh vị trí)"
+  },
+  "6:3": {
+    "meaning": "để; dùng trước động từ chỉ việc sắp làm"
+  },
+  "6:9": {
+    "meaning": "lớp; chuyến (lượng từ)"
+  },
+  "8:9": {
+    "pron": "jiāo",
+    "speechText": "教汉语",
+    "meaning": "dạy"
+  },
+  "9:1": {
+    "meaning": "nhớ; nghĩ đến"
+  },
+  "9:4": {
+    "meaning": "người (lượng từ đếm thành viên gia đình)"
+  },
+  "9:18": {
+    "meaning": "bao nhiêu; đến mức nào (dùng để hỏi)"
+  },
+  "9:24": {
+    "meaning": "thật; rất"
+  },
+  "10:3": {
+    "meaning": "một khắc; 15 phút"
+  },
+  "10:19": {
+    "pron": "xíng",
+    "speechText": "行，可以",
+    "meaning": "được; ổn"
+  },
+  "10:21": {
+    "pron": "chà",
+    "meaning": "kém; thiếu (khi nói giờ)"
+  },
+  "10:22": {
+    "meaning": "phút"
+  },
+  "10:26": {
+    "meaning": "dậy"
+  },
+  "11:29": {
+    "meaning": "miếng; mảnh (lượng từ)"
+  },
+  "12:4": {
+    "meaning": "hay; hoặc (trong câu hỏi lựa chọn)"
+  },
+  "12:11": {
+    "meaning": "lon; hộp (lượng từ)",
+    "pron": "tīng"
+  },
+  "12:17": {
+    "meaning": "đếm",
+    "pron": "shǔ",
+    "speechText": "数一下"
+  },
+  "13:1": {
+    "meaning": "muốn; muốn làm gì"
+  },
+  "13:3": {
+    "meaning": "cho; giúp (giới từ)"
+  },
+  "13:14": {
+    "meaning": "cỡ; số (giày, quần áo)"
+  },
+  "13:25": {
+    "meaning": "chỉ; chỉ có",
+    "pron": "zhǐ",
+    "speechText": "只有"
+  },
+  "13:30": {
+    "meaning": "tính; tính giá"
+  },
+  "14:7": {
+    "meaning": "gọi; chọn (món ăn)"
+  },
+  "14:23": {
+    "meaning": "chỉ; chỉ có"
+  },
+  "15:2": {
+    "meaning": "thẳng; cứ thẳng"
+  },
+  "15:11": {
+    "meaning": "qua; băng qua",
+    "pron": "guò"
+  },
+  "15:14": {
+    "meaning": "tuyến; đường (xe buýt)"
+  },
+  "15:22": {
+    "meaning": "vẫn nên; tốt hơn là"
+  },
+  "16:21": {
+    "pron": "yì biān … yì biān …"
+  },
+  "20:1": {
+    "meaning": "sống; trải qua"
+  },
+  "21:3": {
+    "meaning": "thật; quả là"
+  },
+  "21:15": {
+    "meaning": "rất; thật là (nhấn mạnh)"
+  },
+  "21:21": {
+    "meaning": "giả; không thật",
+    "pron": "jiǎ"
+  },
+  "22:15": {
+    "meaning": "biển; bảng"
+  },
+  "23:8": {
+    "meaning": "ngay; liền"
+  },
+  "23:16": {
+    "meaning": "gọi; bảo"
+  },
+  "24:16": {
+    "meaning": "lên; đi lên"
+  },
+  "24:19": {
+    "meaning": "xuống; đi xuống"
+  },
+  "25:1": {
+    "pron": "kòngr",
+    "meaning": "thời gian rảnh",
+    "speechText": "有空儿"
+  },
+  "25:6": {
+    "meaning": "đại khái; sơ lược"
+  },
+  "26:6": {
+    "pron": "hái",
+    "meaning": "còn; hơn nữa (so sánh)"
+  },
+  "26:11": {
+    "pron": "bànr",
+    "meaning": "bạn đồng hành"
+  },
+  "26:24": {
+    "meaning": "đối với; với"
+  },
+  "27:1": {
+    "meaning": "giới từ đưa tân ngữ lên trước động từ (câu chữ 把)"
+  },
+  "27:4": {
+    "pron": "huán",
+    "speechText": "还给你",
+    "meaning": "trả lại"
+  },
+  "27:7": {
+    "meaning": "nộp; giao"
+  },
+  "27:13": {
+    "pron": "dāng",
+    "meaning": "coi là; xem là"
+  },
+  "27:17": {
+    "meaning": "lái (xe)"
+  },
+  "28:14": {
+    "pron": "liáng",
+    "speechText": "量体温",
+    "meaning": "đo"
+  },
+  "28:19": {
+    "meaning": "mở; há (miệng)"
+  },
+  "29:5": {
+    "pron": "dǎo",
+    "speechText": "撞倒",
+    "meaning": "ngã; đổ"
+  },
+  "29:8": {
+    "meaning": "bầm tím; xanh"
+  },
+  "29:13": {
+    "meaning": "bị; được (giới từ chỉ bị động)"
+  },
+  "29:21": {
+    "pron": "hāi",
+    "speechText": "咳，真倒霉",
+    "meaning": "ôi; chao ôi (tiếng thở dài)"
+  },
+  "29:23": {
+    "meaning": "bị; được (giới từ chỉ bị động)"
+  },
+  "29:29": {
+    "meaning": "trận; bữa (lượng từ cho hành động)"
+  },
+  "30:18": {
+    "pron": "wèi",
+    "meaning": "vì; cho"
+  }
+}

@@ -1,21 +1,17 @@
-# Cài đặt / nâng cấp Lingo 1.5.0
+# Cài đặt / nâng cấp Lingo 1.10.0
 
-1. Chép `Lingo-SoTuVung-1.5.0.apk` vào điện thoại Android 8.0 trở lên.
-2. Nếu đã cài Lingo, xuất bản sao lưu tiến độ trong Cài đặt trước khi nâng cấp.
-3. Mở APK bằng trình quản lý file, cho phép cài từ nguồn này nếu Android yêu cầu.
-4. Chọn Cập nhật/Cài đặt. Không gỡ bản cũ trước để giữ tiến độ.
-5. Mở Lingo → Tiếng Hoa → HSK 2 hoặc HSK 3 → chọn bài → học thẻ hoặc luyện trắc nghiệm. Cuối lượt, chọn **Luyện lại câu sai** để ôn những từ vừa sai.
+1. Chép `Lingo-SoTuVung-1.10.0.apk` vào điện thoại Android 8.0 trở lên.
+2. Nếu đang dùng Lingo, xuất bản sao lưu trong Cài đặt trước khi nâng cấp.
+3. Mở APK bằng trình quản lý file; cho phép cài từ nguồn này nếu Android yêu cầu.
+4. Chọn Cập nhật/Cài đặt. **Không gỡ bản cũ** để giữ tiến độ.
+5. Mở **Lingo → Tiếng Hoa → Boya**, chọn tập và chọn bài.
 
-HSK 2 có 15 bài/169 mục từ, HSK 3 có 20 bài/314 mục từ, thêm các nút HSK 2/3 bên cạnh HSK 4/5. Bài học, Kho từ, Tiến độ, ôn đến hạn và Từ hay sai đều lọc theo cấp đã chọn.
+Có 6 tập, tổng 107 bài và 4.154 mục. Bấm loa để nghe ngoại tuyến; không cần gói giọng nói trên điện thoại. Một số từ đa âm đọc trong cụm có chú thích. Boya chưa có câu ví dụ bài khóa.
 
-PDF HSK 3 thiếu trang sách 168–169 (bài 18). Từ vựng bài này lấy từ mục lục và bảng từ vựng tổng hợp, thứ tự theo mục lục. Ba câu hoàn thành bài tập được ghi rõ trên thẻ; 万 và 嘴 chưa có ví dụ đã đối chiếu. Chúng vẫn có nghĩa, pinyin và giọng đọc.
+**Boya cao cấp tập 2 là dữ liệu một phần: 605 mục đọc rõ từ PDF hỏng chữ, chưa phải toàn bộ từ vựng.** App có thông báo trong tập và từng bài. Cần PDF rõ hơn để bổ sung đầy đủ tập này.
 
-Mở **Từ hay sai** từ Trang chủ hoặc Kho từ để ôn chủ động. Chọn ngôn ngữ; với tiếng Hoa chọn HSK 4/5 và tập giáo trình. Có thể luyện tất cả từ đang hiển thị, đánh dấu nhiều từ để luyện hoặc chọn Luyện từ này. Chọn Đã nắm vững để đưa khỏi danh sách cần luyện; lịch sử vẫn nằm ở mục Đã nắm vững. Trả lời đúng không xóa lịch sử; sai lại sẽ đưa từ về cần luyện.
+Cuối lượt trắc nghiệm có **Luyện lại câu sai**. Trong **Từ hay sai**, chọn Tiếng Hoa → Boya → tập cần ôn. Có thể chọn tất cả, nhiều từ hoặc từng từ. Đánh dấu **Đã nắm vững** vẫn giữ lịch sử.
 
-Lịch sử sai bắt đầu từ bản 1.4.0. Sao lưu cũ vẫn khôi phục được tiến độ, với lịch sử sai ban đầu rỗng. Sao lưu mới chứa cả số lần sai, lần sai gần nhất và trạng thái nắm vững.
+Dùng cùng package `vn.lnb.sotuvung` và khóa ký của các bản trước, versionCode 11. Hỗ trợ cài mới, cài đè và khôi phục bản sao lưu cũ. Chưa thử cài trực tiếp trên điện thoại thật.
 
-Cài mới cũng được. HSK 5.2 có 18 bài, 665 mục từ mới theo giáo trình; có pinyin, nghĩa tiếng Việt, câu trích, bản dịch và trang nguồn. HSK 5.1 vẫn có 723 mục từ; HSK 4.1/4.2, Luyện theo đề và Tiếng Anh 7 giữ nguyên.
-
-Bấm loa để nghe, không cần mạng hoặc gói giọng đọc trên điện thoại. Từng tập có tiến độ và ôn đến hạn riêng. Một số từ đa âm đọc trong cụm ngắn để đúng âm, có chú thích. Câu ví dụ hiện chưa có âm thanh.
-
-APK khoảng 32,05 MiB, cùng package và khóa ký với bản 1.0–1.4. Mã SHA-256 nằm trong `SHA256.txt`. Đã kiểm tra nội dung, âm thanh, giao diện Chromium, khôi phục tiến độ và chữ ký; chưa thử trực tiếp trên điện thoại Android.
+Mã kiểm tra ở `SHA256.txt`; báo cáo: `BAO-CAO-BOYA-1.10.0.md`. Các giới hạn nguồn đã thông báo của bộ HSK cũ giữ nguyên.

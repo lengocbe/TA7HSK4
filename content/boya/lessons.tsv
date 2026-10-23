@@ -1,0 +1,107 @@
+1|1|27|你好|Xin chào
+1|2|34|你是哪国人|Bạn là người nước nào
+1|3|38|那是你的书吗|Đó là sách của bạn phải không
+1|4|44|图书馆在哪儿|Thư viện ở đâu
+1|5|51|在北京大学的东边|Ở phía đông Đại học Bắc Kinh
+1|6|57|现在几点|Bây giờ là mấy giờ
+1|7|63|明天你有课吗|Ngày mai bạn có tiết học không
+1|8|70|你的电话号码是多少|Số điện thoại của bạn là bao nhiêu
+1|9|77|多少钱一瓶|Bao nhiêu tiền một chai
+1|10|83|你家有几口人|Nhà bạn có mấy người
+1|11|89|北京的冬天比较冷|Mùa đông Bắc Kinh khá lạnh
+1|12|96|你在干什么呢|Bạn đang làm gì vậy
+1|13|103|我去图书馆借书|Tôi đến thư viện mượn sách
+1|14|110|我喜欢浅颜色的|Tôi thích màu nhạt
+1|15|116|明天是我朋友的生日|Ngày mai là sinh nhật bạn tôi
+1|16|122|周末你干什么|Cuối tuần bạn làm gì
+1|17|128|做客（一）|Đến làm khách (1)
+1|18|135|做客（二）|Đến làm khách (2)
+1|19|142|现在习惯了|Bây giờ đã quen rồi
+1|20|149|看病人|Thăm người bệnh
+1|21|155|我喝了半斤白酒|Tôi đã uống nửa cân rượu trắng
+1|22|160|他感冒了|Anh ấy bị cảm rồi
+1|23|166|你学了多长时间汉语|Bạn đã học tiếng Trung bao lâu
+1|24|172|你吃了早饭来找我|Ăn sáng xong hãy đến tìm tôi
+1|25|178|你得多锻炼锻炼了|Bạn cần tập luyện nhiều hơn
+1|26|185|快考试了|Sắp thi rồi
+1|27|191|爸爸妈妈让我回家|Bố mẹ bảo tôi về nhà
+1|28|197|考得怎么样|Thi thế nào rồi
+1|29|203|我们已经买好票了|Chúng tôi đã mua vé xong rồi
+1|30|209|我要参加联欢会|Tôi muốn tham gia buổi liên hoan
+2|1|17|飞机晚点了|Máy bay trễ giờ rồi
+2|2|24|我想搬到外面去|Tôi muốn chuyển ra ngoài ở
+2|3|30|她穿着一件黄衬衫|Cô ấy đang mặc áo sơ mi vàng
+2|4|36|美国没有这么多自行车|Ở Mỹ không có nhiều xe đạp như vậy
+2|5|42|这家餐厅的菜不错|Món ăn ở nhà hàng này khá ngon
+2|6|48|广告栏上贴着一个通知|Trên bảng tin có dán một thông báo
+2|7|55|冰箱塞得满满的|Tủ lạnh được nhét đầy đồ
+2|8|61|比赛很精彩|Trận đấu rất hấp dẫn
+2|9|68|我进不去了|Tôi không vào được nữa
+2|10|74|山上的风景美极了|Phong cảnh trên núi đẹp vô cùng
+2|11|80|西红柿炒鸡蛋|Trứng xào cà chua
+2|12|88|搬家|Chuyển nhà
+2|13|94|一封信|Một lá thư
+2|14|101|成功需要多长时间|Thành công cần bao lâu
+2|15|109|请稍等|Xin đợi một chút
+2|16|114|从哪一头儿吃香蕉|Ăn chuối từ đầu nào
+2|17|120|李军的日记|Nhật ký của Lý Quân
+2|18|126|我看过京剧|Tôi từng xem Kinh kịch
+2|19|132|如果有一天|Nếu có một ngày
+2|20|140|好咖啡总是放在热杯子里的|Cà phê ngon luôn được rót vào tách nóng
+2|21|145|黄金周：痛痛快快玩儿一周|Tuần lễ vàng: vui chơi thoải mái cả tuần
+2|22|151|一个电话|Một cuộc điện thoại
+2|23|158|笑话|Chuyện cười
+2|24|166|人生|Cuộc đời
+2|25|172|点心小姐|Cô nhân viên bán điểm tâm
+3|1|11|三封E-mail|Ba bức thư điện tử
+3|2|23|日记一篇|Một trang nhật ký
+3|3|39|留学中国|Du học Trung Quốc
+3|4|50|儿童学语言|Trẻ em học ngôn ngữ
+3|5|65|她是我们的女儿吗？|Cô bé có phải con gái chúng ta không
+3|6|74|颜色和性格|Màu sắc và tính cách
+3|7|91|唱片|Đĩa nhạc
+3|8|102|音乐和邻居女孩|Âm nhạc và cô bé hàng xóm
+3|9|118|孙中山|Tôn Trung Sơn
+3|10|128|武则天|Võ Tắc Thiên
+3|11|145|吃在中国|Ẩm thực ở Trung Quốc
+3|12|159|请客吃饭|Mời khách dùng cơm
+3|13|175|应该怎么做|Nên làm như thế nào
+3|14|186|各国迷信|Mê tín ở các nước
+3|15|206|爱情玫瑰|Hoa hồng tình yêu
+3|16|218|你丈夫真好|Chồng bạn thật tốt
+4|1|11|生活的疑问|Những câu hỏi trong cuộc sống
+4|2|24|第一次说谎|Lần đầu nói dối
+4|3|43|换工作|Đổi việc
+4|4|58|孤独的追花人|Người đuổi theo hoa cô độc
+4|5|79|三元钱一斤快乐|Ba tệ một cân niềm vui
+4|6|92|我的理想家庭|Gia đình lý tưởng của tôi
+4|7|108|今天都在送什么？|Ngày nay người ta tặng nhau những gì
+4|8|121|生日礼物|Quà sinh nhật
+4|9|137|锻炼计划|Kế hoạch tập luyện
+4|10|149|压力与健康|Áp lực và sức khỏe
+4|11|169|周庄|Chu Trang
+4|12|182|旅行经历|Trải nghiệm du lịch
+4|13|201|中国历史|Lịch sử Trung Quốc
+4|14|214|采访孔子|Phỏng vấn Khổng Tử
+4|15|233|德国小学生的“绿色记事本”|Cuốn sổ xanh của học sinh tiểu học Đức
+4|16|244|画家的责任|Trách nhiệm của họa sĩ
+5|1|10|父亲的谜语|Câu đố của cha
+5|2|31|请按|Xin hãy nhấn
+5|3|54|一诺千金|Một lời hứa đáng giá ngàn vàng
+5|4|78|沙漠里的奇怪现象|Hiện tượng kỳ lạ trong sa mạc
+5|5|102|内部招标|Đấu thầu nội bộ
+5|6|124|天才梦|Giấc mơ thiên tài
+5|7|147|人|Con người
+5|8|168|随感二则|Hai bài tùy cảm
+5|9|190|人生就是与困境周旋|Cuộc đời là ứng phó với nghịch cảnh
+5|10|216|我反对克隆人|Tôi phản đối nhân bản con người
+6|1|11|每天都冒一点险|Mỗi ngày hãy mạo hiểm một chút
+6|2|53|那年那月那狗|Năm ấy, tháng ấy, chú chó ấy
+6|3|95|人在风中|Con người trong gió
+6|4|132|现代化和蜗牛|Hiện đại hóa và con ốc sên
+6|5|174|上天自有安排|Ông trời đã có sắp đặt
+6|6|204|球迷种种|Những kiểu người hâm mộ bóng đá
+6|7|237|面容|Diện mạo
+6|8|278|辛亥革命与我|Cách mạng Tân Hợi và tôi
+6|9|316|无为·逍遥·不设防|Vô vi, tự tại và không phòng bị
+6|10|367|音乐之伴|Người bạn âm nhạc

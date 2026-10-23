@@ -1,0 +1,20 @@
+{
+  "result": "passed",
+  "newWords": {
+    "6.1": 922,
+    "6.2": 1041
+  },
+  "newLessons": 40,
+  "oldWordsAndAudioPreserved": 2905,
+  "checks": [
+    "Numbered vocabulary and source/excerpt metadata",
+    "Fresh install and old backup import",
+    "Independent HSK 6 books and last lessons",
+    "Quiz options and due queue isolation",
+    "Wrong-answer deduplication, retry and mastery history",
+    "Typing, listening, flashcards and audio bridge",
+    "Backup round trip and reload",
+    "Light/dark layouts at 320/360/390/700 px"
+  ],
+  "limitation": "Chromium with mocked Android bridge; actual phone not tested."
+}

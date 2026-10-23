@@ -11,7 +11,7 @@ byid={w['id']:w for w in data['words']}
 for w in old['words']:assert byid[w['id']]==w,w['id']
 for l in old['lessons']:assert next(x for x in data['lessons'] if x['id']==l['id'])==l,l['id']
 new=[w for w in data['words'] if w.get('course')=='5.2']
-assert len(new)==665 and len([w for w in data['words'] if w.get('level') not in [2,3]])==2422
+assert len(new)==665 and len([w for w in data['words'] if w.get('level') not in [2,3,6,'spoken','hsk30','boya']])==2422
 counts=[44,36,41,34,40,37,40,35,34,40,36,36,29,39,38,34,35,37]
 for n,count in enumerate(counts,19):
  ws=[w for w in new if w['lesson']==f'zh5-u{n}'];assert len(ws)==count
@@ -26,7 +26,7 @@ backup={'schema':1,'progress':{'zh5-01-01':{'due':1,'interval':4,'reps':3,'lapse
 errors=[]
 with sync_playwright() as p:
  browser=p.chromium.launch(executable_path='C:/Program Files/Google/Chrome/Application/chrome.exe',headless=True)
- context=browser.new_context(viewport={'width':390,'height':844})
+ context=browser.new_context(reduced_motion='reduce',viewport={'width':390,'height':844})
  context.add_init_script('''window.audioCalls=[];window.Android={load(){return localStorage.getItem('test-state')||''},save(s){localStorage.setItem('test-state',s);return true},theme(){},stop(){},play(id,slow){audioCalls.push({id,slow})}};''')
  page=context.new_page();page.on('pageerror',lambda e:errors.append(str(e)));page.on('dialog',lambda d:d.accept())
  page.goto((ROOT/'www/index.html').as_uri())

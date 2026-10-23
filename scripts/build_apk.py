@@ -59,8 +59,8 @@ if key.exists():shutil.copy(key,temp_key)
 if not key.exists():
     run([JAVA/'keytool.exe','-genkeypair','-keystore',temp_key,'-storepass',password,'-keypass',password,'-alias','lingo','-keyalg','RSA','-keysize','3072','-validity','10000','-dname','CN=Lingo Vocabulary, OU=Personal, O=LNB, C=VN'])
     shutil.copy(temp_key,key)
-apk=OUT/'Lingo-SoTuVung-1.5.0.apk'
-temp_apk=BUILD/'Lingo-SoTuVung-1.5.0.apk'
+apk=OUT/'Lingo-SoTuVung-1.10.0.apk'
+temp_apk=BUILD/'Lingo-SoTuVung-1.10.0.apk'
 run([JAVA/'java.exe','-jar',BT/'lib/apksigner.jar','sign','--ks',temp_key,'--ks-key-alias','lingo','--ks-pass','file:'+str(temp_password),'--out',temp_apk,BUILD/'aligned.apk'])
 run([JAVA/'java.exe','-jar',BT/'lib/apksigner.jar','verify','--verbose',temp_apk])
 run([BT/'zipalign.exe','-c','-p','4',temp_apk])

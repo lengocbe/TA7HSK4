@@ -6,7 +6,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 ROOT=Path(__file__).resolve().parents[1]
 with sync_playwright() as p:
     browser=p.chromium.launch(executable_path='C:/Program Files/Google/Chrome/Application/chrome.exe',headless=True)
-    context=browser.new_context(viewport={'width':390,'height':844})
+    context=browser.new_context(reduced_motion='reduce',viewport={'width':390,'height':844})
     context.add_init_script('''window.bridgeCalls=[];
     window.Android={
         load(){return localStorage.getItem('mock-native-state')||'';},

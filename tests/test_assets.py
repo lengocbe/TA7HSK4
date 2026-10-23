@@ -8,19 +8,21 @@ catalog=json.loads((ROOT/'content/catalog.json').read_text(encoding='utf-8'))
 manifest=json.loads((ROOT/'content/audio-manifest.json').read_text(encoding='utf-8'))
 words=catalog['words'];ids={w['id'] for w in words}
 assert len(ids)==len(words)
-assert len([w for w in words if w.get('level') not in [2,3]])==2422
+assert len([w for w in words if w.get('level') not in [2,3,6,'spoken','hsk30','boya']])==2422
 assert len([w for w in words if w['lang']=='en'])==264
-assert len([w for w in words if w['lang']=='zh' and w.get('level') not in [2,3]])==2158
+assert len([w for w in words if w['lang']=='zh' and w.get('level') not in [2,3,6,'spoken','hsk30','boya']])==2158
 for l in catalog['lessons']:
     assert l['words'] and all(id in ids for id in l['words'])
     assert len(l['words'])==len(set(l['words']))
 for w in words:
     assert all(w[k] for k in ['text','pron','meaning','pos','source','sourceFile','sourcePage'])
     if w['lang']=='zh':assert w['occurrences']
-    assert (w['example'] and w['translation']) or w.get('exampleKind')=='pending'
-apk=ROOT/'output/Lingo-SoTuVung-1.5.0.apk'
+    assert (w['example'] and w['translation']) or w.get('exampleKind')=='pending' or (w.get('level')=='spoken' and w.get('exampleKind') in ['spoken-vocabulary','spoken-phrase'])
+apk=ROOT/'output/Lingo-SoTuVung-1.10.0.apk'
 with zipfile.ZipFile(apk) as z:
     assert z.testzip() is None
+    for name in ['index.html','app.js','app.compat.js','style.css','data.js']:
+        assert z.read('assets/www/'+name)==(ROOT/'www'/name).read_bytes(),name
     assert 'classes.dex' in z.namelist()
     assert len([n for n in z.namelist() if n.endswith('.mp3')])==len(words)
     for w in words:

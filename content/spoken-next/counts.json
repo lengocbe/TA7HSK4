@@ -1,0 +1,234 @@
+{
+  "basic-upper:1": {
+    "vocabulary": 22,
+    "phrases": 3
+  },
+  "basic-upper:2": {
+    "vocabulary": 34,
+    "phrases": 3
+  },
+  "basic-upper:3": {
+    "vocabulary": 22,
+    "phrases": 3
+  },
+  "basic-upper:4": {
+    "vocabulary": 17,
+    "phrases": 3
+  },
+  "basic-upper:5": {
+    "vocabulary": 22,
+    "phrases": 3
+  },
+  "basic-upper:6": {
+    "vocabulary": 25,
+    "phrases": 3
+  },
+  "basic-upper:7": {
+    "vocabulary": 28,
+    "phrases": 3
+  },
+  "basic-upper:8": {
+    "vocabulary": 25,
+    "phrases": 3
+  },
+  "basic-upper:9": {
+    "vocabulary": 30,
+    "phrases": 3
+  },
+  "basic-upper:10": {
+    "vocabulary": 23,
+    "phrases": 3
+  },
+  "basic-upper:11": {
+    "vocabulary": 30,
+    "phrases": 3
+  },
+  "basic-upper:12": {
+    "vocabulary": 24,
+    "phrases": 3
+  },
+  "basic-lower:13": {
+    "vocabulary": 27,
+    "phrases": 3
+  },
+  "basic-lower:14": {
+    "vocabulary": 24,
+    "phrases": 3
+  },
+  "basic-lower:15": {
+    "vocabulary": 25,
+    "phrases": 3
+  },
+  "basic-lower:16": {
+    "vocabulary": 30,
+    "phrases": 3
+  },
+  "basic-lower:17": {
+    "vocabulary": 24,
+    "phrases": 3
+  },
+  "basic-lower:18": {
+    "vocabulary": 28,
+    "phrases": 3
+  },
+  "basic-lower:19": {
+    "vocabulary": 26,
+    "phrases": 3
+  },
+  "basic-lower:20": {
+    "vocabulary": 21,
+    "phrases": 3
+  },
+  "basic-lower:21": {
+    "vocabulary": 28,
+    "phrases": 3
+  },
+  "basic-lower:22": {
+    "vocabulary": 26,
+    "phrases": 3
+  },
+  "basic-lower:23": {
+    "vocabulary": 25,
+    "phrases": 3
+  },
+  "basic-lower:24": {
+    "vocabulary": 26,
+    "phrases": 3
+  },
+  "intermediate:1": {
+    "vocabulary": 34,
+    "phrases": 3
+  },
+  "intermediate:2": {
+    "vocabulary": 29,
+    "phrases": 3
+  },
+  "intermediate:3": {
+    "vocabulary": 27,
+    "phrases": 3
+  },
+  "intermediate:4": {
+    "vocabulary": 33,
+    "phrases": 3
+  },
+  "intermediate:5": {
+    "vocabulary": 32,
+    "phrases": 3
+  },
+  "intermediate:6": {
+    "vocabulary": 37,
+    "phrases": 3
+  },
+  "intermediate:7": {
+    "vocabulary": 48,
+    "phrases": 3
+  },
+  "intermediate:8": {
+    "vocabulary": 34,
+    "phrases": 3
+  },
+  "intermediate:9": {
+    "vocabulary": 41,
+    "phrases": 3
+  },
+  "intermediate:10": {
+    "vocabulary": 43,
+    "phrases": 3
+  },
+  "intermediate:11": {
+    "vocabulary": 42,
+    "phrases": 3
+  },
+  "intermediate:12": {
+    "vocabulary": 31,
+    "phrases": 3
+  },
+  "intermediate:13": {
+    "vocabulary": 23,
+    "phrases": 3
+  },
+  "intermediate:14": {
+    "vocabulary": 37,
+    "phrases": 3
+  },
+  "advanced:1": {
+    "vocabulary": 30,
+    "phrases": 3
+  },
+  "advanced:2": {
+    "vocabulary": 27,
+    "phrases": 3
+  },
+  "advanced:3": {
+    "vocabulary": 31,
+    "phrases": 3
+  },
+  "advanced:4": {
+    "vocabulary": 42,
+    "phrases": 3
+  },
+  "advanced:5": {
+    "vocabulary": 29,
+    "phrases": 3
+  },
+  "advanced:6": {
+    "vocabulary": 35,
+    "phrases": 3
+  },
+  "advanced:7": {
+    "vocabulary": 28,
+    "phrases": 3
+  },
+  "advanced:8": {
+    "vocabulary": 24,
+    "phrases": 3
+  },
+  "advanced:9": {
+    "vocabulary": 30,
+    "phrases": 3
+  },
+  "advanced:10": {
+    "vocabulary": 34,
+    "phrases": 3
+  },
+  "advanced:11": {
+    "vocabulary": 24,
+    "phrases": 3
+  },
+  "advanced:12": {
+    "vocabulary": 36,
+    "phrases": 3
+  },
+  "advanced:13": {
+    "vocabulary": 33,
+    "phrases": 3
+  },
+  "advanced:14": {
+    "vocabulary": 31,
+    "phrases": 3
+  },
+  "advanced:15": {
+    "vocabulary": 36,
+    "phrases": 3
+  },
+  "advanced:16": {
+    "vocabulary": 33,
+    "phrases": 3
+  },
+  "advanced:17": {
+    "vocabulary": 34,
+    "phrases": 3
+  },
+  "advanced:18": {
+    "vocabulary": 38,
+    "phrases": 3
+  },
+  "advanced:19": {
+    "vocabulary": 38,
+    "phrases": 3
+  },
+  "advanced:20": {
+    "vocabulary": 45,
+    "phrases": 3
+  }
+}

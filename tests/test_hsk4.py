@@ -26,7 +26,7 @@ assert byid['zh4-20-08']['text']=='怪'
 errors=[]
 with sync_playwright() as p:
  browser=p.chromium.launch(executable_path='C:/Program Files/Google/Chrome/Application/chrome.exe',headless=True)
- context=browser.new_context(viewport={'width':390,'height':844})
+ context=browser.new_context(reduced_motion='reduce',viewport={'width':390,'height':844})
  context.add_init_script('''window.audioCalls=[];window.Android={load(){return localStorage.getItem('test-state')||''},save(s){localStorage.setItem('test-state',s);return true},theme(){},stop(){},play(id,slow){audioCalls.push({id,slow})}};''')
  page=context.new_page();page.on('pageerror',lambda e:errors.append(str(e)))
  page.goto((ROOT/'www/index.html').as_uri())

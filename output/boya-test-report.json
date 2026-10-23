@@ -1,0 +1,11 @@
+{
+  "result": "passed",
+  "newItems": 4154,
+  "newLessons": 107,
+  "legacyItemsUnchanged": 9640,
+  "legacyLessonGroupsUnchanged": 326,
+  "partialCourses": {
+    "boya-6": 605
+  },
+  "physicalDeviceTested": false
+}
