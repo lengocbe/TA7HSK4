@@ -1,17 +1,17 @@
 {
   "result": "passed",
-  "words": 18659,
-  "english": 264,
+  "words": 19411,
+  "english": 1016,
   "chinese": 18395,
   "hsk5": 1388,
   "hsk51": 723,
   "hsk52": 665,
-  "lessonViews": 612,
+  "lessonViews": 660,
   "checks": [
     "All lessons resolve to valid unique IDs",
     "Word fields and Chinese PDF occurrences present",
     "APK zip CRC integrity",
-    "All 18659 MP3 assets match their manifests and package uncompressed",
+    "All 19411 MP3 assets match their manifests and package uncompressed",
     "All recordings decode and contain non-silent audio"
   ],
   "durationRangeSeconds": [

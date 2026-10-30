@@ -2,10 +2,10 @@
   "result": "passed",
   "sameSigningCertificate": true,
   "certificateSha256": "86dc70cfc0ded65db1bf555547b2caa4d94e5df1415281456e44e1414ce69f4d",
-  "versionCode": 13,
-  "versionName": "1.12.0",
+  "versionCode": 14,
+  "versionName": "1.13.0",
   "package": "vn.lnb.sotuvung",
   "minSdk": 26,
-  "apkSha256": "4f776428750bbd52d529861dbfdb468c5bc1f279e4182ead0f1c08552ea40a82",
+  "apkSha256": "445f6a46bbbdafcf37e12dc53db34a0a5b4bf47f539a974e2f23d0845a6f7763",
   "limitation": "Metadata and signature compatibility; actual on-device update not yet tested."
 }

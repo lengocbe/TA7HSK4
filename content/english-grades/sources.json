@@ -1,0 +1,50 @@
+[
+  {
+    "book": 1,
+    "file": "SGK – Tiếng Anh 6 – Tập 1 - Chương trình mới.pdf",
+    "pages": 74,
+    "grade": 6,
+    "glossaryPages": [
+      71,
+      72
+    ],
+    "sha256": "bb317b4d66d05bb1a25fd291daa617ee60434a5b67100267e1e3919b7cfdaa92"
+  },
+  {
+    "book": 2,
+    "file": "SGK – Tiếng Anh 6 – Tập 2 - Chương trình mới.pdf",
+    "pages": 74,
+    "grade": 6,
+    "glossaryPages": [
+      72,
+      73
+    ],
+    "sha256": "eaaaf74bc013a0c46be4b1705b4a5c10da98447e68b639a32e1934ed12e762d3"
+  },
+  {
+    "book": 3,
+    "file": "SGK – Tiếng Anh 8 – Chương trình mới.pdf",
+    "pages": 141,
+    "grade": 8,
+    "glossaryPages": [
+      137,
+      138,
+      139,
+      140
+    ],
+    "sha256": "84d8a62e667c3358c1da24ff33c860c88b7b113c251859e5e8462bc0c62ce359"
+  },
+  {
+    "book": 4,
+    "file": "SGK – Tiếng Anh 9 – Chương trình mới.pdf",
+    "pages": 142,
+    "grade": 9,
+    "glossaryPages": [
+      138,
+      139,
+      140,
+      141
+    ],
+    "sha256": "9b0e6f529c03c74ac13d4b370012926e5416eda43bf64d773566fa8c5e1e6d94"
+  }
+]

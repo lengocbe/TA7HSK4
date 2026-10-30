@@ -1,0 +1,13 @@
+{
+  "result": "passed",
+  "newWords": 752,
+  "newUnits": 36,
+  "newReviewGroups": 12,
+  "legacyWordsUnchanged": 18659,
+  "newGrades": [
+    6,
+    8,
+    9
+  ],
+  "physicalDeviceTested": false
+}

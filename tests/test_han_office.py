@@ -13,7 +13,7 @@ with zipfile.ZipFile(ROOT/'output/Lingo-SoTuVung-1.10.0.apk') as z:
  for l in old['lessons']:assert next(x for x in data['lessons'] if x['id']==l['id'])==l
 new=[w for w in data['words'] if w.get('level') in ('han','office')]
 courses={'han-1':(15,1),'han-2':(15,16),'han-3':(10,1),'han-4':(10,11),'han-5':(13,1),'han-6':(13,14),'office-standard':(22,1)}
-assert len(new)==3565 and len([l for l in data['lessons'] if l.get('level')!='intensive5'])==531
+assert len(new)==3565 and len([l for l in data['lessons'] if l.get('grade') not in [6,8,9] and l.get('level')!='intensive5'])==531
 assert len(byid)==len(data['words'])
 manifest=json.loads((ROOT/'content/audio-manifest.json').read_text(encoding='utf-8'))
 for w in new:

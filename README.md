@@ -1,6 +1,12 @@
 # Lingo · Sổ từ vựng Android
 
-App Android học từ vựng tiếng Anh và tiếng Hoa, giao diện tiếng Việt, hoạt động ngoại tuyến. Bản cài: `output/Lingo-SoTuVung-1.12.0.apk`.
+App Android học từ vựng tiếng Anh và tiếng Hoa, giao diện tiếng Việt, hoạt động ngoại tuyến. Bản cài: `output/Lingo-SoTuVung-1.13.0.apk`.
+
+## Cập nhật 1.13.0
+
+Tiếng Anh có lựa chọn **Lớp 6 · Lớp 7 · Lớp 8 · Lớp 9**. Thêm 752 mục Glossary của Global Success lớp 6 (208), lớp 8 (279), lớp 9 (265), chia 36 Unit và 12 nhóm Review. Lớp 6 gộp hai tập theo Unit 1–12. Có IPA, nghĩa tiếng Việt, trang nguồn và giọng đọc ngoại tuyến; các mục mới chưa có câu ví dụ.
+
+Tiến độ, Kho từ, Từ hay sai, ôn đến hạn và đáp án trắc nghiệm lọc theo lớp. Giữ nguyên 18.659 mục/MP3 của 1.12.0; tổng mới 19.411 mục/MP3, 660 nhóm bài. Cùng package/khóa ký, versionCode 14; hỗ trợ sao lưu cũ. Chưa thử trên điện thoại thật. Phạm vi nguồn: `content/english-grades/README.md`.
 
 ## Cập nhật 1.12.0
 
@@ -82,7 +88,7 @@ Cài mới hoặc cài đè bản 1.0/1.1 đều được. Package và khóa ký
 - Tiếng Hoa giản thể, mục Luyện theo đề: 150 từ/cụm từ chia 10 bài chủ đề, đối chiếu trên 13 PDF HSK 4. Có 13 bộ từ theo mã đề; tiến độ dùng chung với bài chủ đề.
 - Mỗi từ có phiên âm/pinyin, loại từ, nghĩa tiếng Việt và nguồn; ví dụ hiển thị khi đã có câu đối chiếu. Ví dụ tiếng Anh được biên soạn bổ sung. Ví dụ tiếng Hoa lấy từ đề khi tìm được câu khớp; câu bổ sung ghi rõ “Ví dụ biên soạn”.
 - HSK 5.1: mục riêng cạnh HSK 4, gồm 723 mục từ mới của 18 bài, theo đúng số thứ tự trong giáo trình; gồm cả từ mở rộng đánh dấu (*). Câu/trích đoạn lấy từ giáo trình, có pinyin, bản dịch tiếng Việt và trang nguồn.
-- 18.659 file MP3 phát âm từ và mẫu câu, đóng gói trong APK, gồm giọng tổng hợp Anh Anh và tiếng phổ thông Trung Quốc. Không dùng giọng đọc cài trên điện thoại; không gọi dịch vụ mạng lúc học. Tốc độ bình thường hoặc chậm; hiện chưa có âm thanh cho câu ví dụ.
+- 19.411 file MP3 phát âm từ và mẫu câu, đóng gói trong APK, gồm giọng tổng hợp Anh Anh và tiếng phổ thông Trung Quốc. Không dùng giọng đọc cài trên điện thoại; không gọi dịch vụ mạng lúc học. Tốc độ bình thường hoặc chậm; hiện chưa có âm thanh cho câu ví dụ.
 - Thẻ học, ẩn pinyin trước khi trả lời, bốn mức nhớ, chọn nghĩa, chọn từ theo nghĩa, nghe chọn từ, nhập từ tiếng Anh/chữ Hán.
 - Lịch ôn: Quên sau 10 phút; Khó sau 1 ngày; Nhớ lần đầu 2 ngày rồi giãn khoảng hai lần; Dễ lần đầu 4 ngày rồi giãn khoảng ba lần; tối đa 365 ngày.
 - Tìm kiếm bằng từ, nghĩa, IPA/pinyin; lưu từ yêu thích; tiến độ mỗi bài; mục tiêu ngày và chuỗi ngày học.
