@@ -1,0 +1,24 @@
+{
+  "book-19": {
+    "expectedAdvertisedItems": 1300,
+    "draftItems": 1298,
+    "sourcePages": [
+      2,
+      133
+    ],
+    "ocrComplete": true,
+    "reviewComplete": false,
+    "note": "1298 extracted headwords. Reconcile the two-item difference against the other vocabulary lists before publishing."
+  },
+  "book-14": {
+    "expectedUnits": 81,
+    "expectedAdvertisedItems": 1300,
+    "reviewComplete": false,
+    "note": "Separate-column OCR in progress; split vertically joined single-character words and restore missed cells from source."
+  },
+  "book-08": {
+    "expectedExercises": 50,
+    "expectedNumberedAnswers": 2500,
+    "reviewComplete": false
+  }
+}

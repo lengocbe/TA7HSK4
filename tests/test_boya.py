@@ -12,7 +12,7 @@ with zipfile.ZipFile(ROOT/'output/Lingo-SoTuVung-1.9.0.apk') as z:
   assert z.read('assets/www/audio/'+w['id']+'.mp3')==(ROOT/'www/audio'/(w['id']+'.mp3')).read_bytes(),w['id']
  for l in old['lessons']:assert next(x for x in data['lessons'] if x['id']==l['id'])==l
 new=[w for w in data['words'] if w.get('level')=='boya'];courses={'boya-1':(30,1),'boya-2':(25,1),'boya-3':(16,1),'boya-4':(16,1),'boya-5':(10,1),'boya-6':(10,1)}
-assert len(data['lessons'])==433 and len(new)==4154 and len(data['words'])==13794
+assert len([l for l in data['lessons'] if l.get('level') not in ('han','office','intensive5')])==433 and len(new)==4154 and len([w for w in data['words'] if w.get('level') not in ('han','office','intensive5')])==13794
 assert {c:sum(w['course']==c for w in new) for c in courses}=={'boya-1':706,'boya-2':792,'boya-3':492,'boya-4':765,'boya-5':794,'boya-6':605}
 assert next(w for w in new if w['course']=='boya-1' and w['text']=='系')['pron']=='xì'
 assert next(w for w in new if w['course']=='boya-1' and w['text']=='得' and w['lesson']=='zhb-1-u18')['pron']=='děi'

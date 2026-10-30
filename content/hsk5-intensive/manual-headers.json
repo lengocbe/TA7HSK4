@@ -1,0 +1,56 @@
+[
+  {
+    "book": "book-19",
+    "text": "复制",
+    "page": 32,
+    "raw": "复制 fuzhi v. copy, duplicate",
+    "meaning": "sao chép; nhân bản",
+    "reviewed": false,
+    "reviewNote": "Visually checked split/merged OCR header in source PDF"
+  },
+  {
+    "book": "book-19",
+    "text": "唯一",
+    "page": 101,
+    "raw": "唯一 weiyi adj. sole, only",
+    "meaning": "duy nhất",
+    "reviewed": false,
+    "reviewNote": "Visually checked split/merged OCR header in source PDF"
+  },
+  {
+    "book": "book-19",
+    "text": "一再",
+    "page": 114,
+    "raw": "一再 yizai adv. again and again",
+    "meaning": "nhiều lần; hết lần này đến lần khác",
+    "reviewed": false,
+    "reviewNote": "Visually checked split/merged OCR header in source PDF"
+  },
+  {
+    "book": "book-19",
+    "text": "一辈子",
+    "page": 114,
+    "raw": "一辈子 yibeizi n. all one’s life",
+    "meaning": "cả đời; suốt đời",
+    "reviewed": false,
+    "reviewNote": "Visually checked split/merged OCR header in source PDF"
+  },
+  {
+    "book": "book-19",
+    "text": "一旦",
+    "page": 114,
+    "raw": "一旦 yidan adv. once, in case",
+    "meaning": "một khi",
+    "reviewed": false,
+    "reviewNote": "Visually checked split/merged OCR header in source PDF"
+  },
+  {
+    "book": "book-19",
+    "text": "改正",
+    "page": 32,
+    "raw": "妇女改正gaizheng vcorrect,amend",
+    "meaning": "sửa lại cho đúng; sửa chữa",
+    "reviewed": false,
+    "reviewNote": "Header merged with left-column example; cross-checked against Unit 19 of 词汇精讲精练"
+  }
+]

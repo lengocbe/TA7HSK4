@@ -1,0 +1,634 @@
+{
+  "1:6:文": {
+    "text": "…文",
+    "meaning": "tiếng…, chữ viết… (hậu tố chỉ ngôn ngữ)",
+    "speechText": "中文",
+    "audioContext": "Giọng đọc trong cụm: 中文"
+  },
+  "1:8:角毛": {
+    "text": "角",
+    "meaning": "hào (đơn vị tiền tệ)",
+    "pron": "jiǎo",
+    "alternatives": [
+      "毛"
+    ]
+  },
+  "1:8:块元": {
+    "text": "块",
+    "meaning": "đồng, tệ (đơn vị tiền tệ)",
+    "pron": "kuài",
+    "alternatives": [
+      "元"
+    ]
+  },
+  "1:6:日本国": {
+    "text": "日本",
+    "meaning": "Nhật Bản"
+  },
+  "2:19:又又": {
+    "text": "又…又…",
+    "meaning": "vừa… vừa…"
+  },
+  "2:20:祝你生日": {
+    "text": "祝你生日快乐",
+    "meaning": "chúc bạn sinh nhật vui vẻ"
+  },
+  "5:10:既又": {
+    "text": "既…又…",
+    "meaning": "đã… lại còn…"
+  },
+  "5:13:以为主": {
+    "text": "以…为主",
+    "meaning": "lấy… làm chính"
+  },
+  "5:7:滥竿充数": {
+    "text": "滥竽充数"
+  },
+  "5:12:膨": {
+    "text": "嘭",
+    "meaning": "pình, bùm (tiếng va đập)",
+    "pron": "pēng"
+  },
+  "3:2:春(天)": {
+    "text": "春天",
+    "meaning": "mùa xuân"
+  },
+  "3:2:夏(天)": {
+    "text": "夏天",
+    "meaning": "mùa hè"
+  },
+  "3:2:秋(天)": {
+    "text": "秋天",
+    "meaning": "mùa thu"
+  },
+  "3:2:不但···": {
+    "text": "不但…而且…",
+    "meaning": "không những… mà còn…"
+  },
+  "office:1:扎成马尾辩": {
+    "text": "扎成马尾辫",
+    "meaning": "buộc tóc đuôi ngựa",
+    "pron": "zā chéng mǎ wěi biàn"
+  },
+  "office:1:给留下美": {
+    "text": "给…留下美好印象",
+    "meaning": "để lại ấn tượng tốt cho…"
+  },
+  "office:1:对····了解": {
+    "text": "对…了解",
+    "meaning": "hiểu biết về…"
+  },
+  "office:1:体现…能力": {
+    "text": "体现…能力",
+    "meaning": "thể hiện năng lực…"
+  },
+  "office:1:跟······对视": {
+    "text": "跟…对视",
+    "meaning": "nhìn thẳng vào mắt…"
+  },
+  "office:2:薪资/新": {
+    "text": "薪资",
+    "meaning": "tiền lương"
+  },
+  "office:3:.理··手续": {
+    "text": "办理…手续",
+    "meaning": "làm thủ tục…"
+  },
+  "office:4:给···留下深刻": {
+    "text": "给…留下深刻印象",
+    "meaning": "để lại ấn tượng sâu sắc cho…"
+  },
+  "office:4:向·学习": {
+    "text": "向…学习",
+    "meaning": "học hỏi từ…"
+  },
+  "office:4:给介绍": {
+    "text": "给…介绍",
+    "meaning": "giới thiệu cho…"
+  },
+  "office:4:设置··时间": {
+    "text": "设置…时间",
+    "meaning": "sắp xếp, đặt thời gian…"
+  },
+  "office:4:做…记录": {
+    "text": "做…记录",
+    "meaning": "ghi chép…"
+  },
+  "office:4:向·报告": {
+    "text": "向…报告",
+    "meaning": "báo cáo với…"
+  },
+  "office:4:给··提出建议": {
+    "text": "给…提出建议",
+    "meaning": "đề xuất, kiến nghị với…"
+  },
+  "office:5:占用···的时间": {
+    "text": "占用…的时间",
+    "meaning": "chiếm, làm mất thời gian của…"
+  },
+  "office:6:（犯）错误": {
+    "text": "犯错误",
+    "meaning": "mắc lỗi"
+  },
+  "office:7:放天假": {
+    "text": "放…天假",
+    "meaning": "nghỉ… ngày"
+  },
+  "office:9:合同签订": {
+    "text": "合同签订仪式",
+    "meaning": "lễ ký kết hợp đồng"
+  },
+  "office:10:赖": {
+    "exclude": true
+  },
+  "office:10:对的表": {
+    "text": "对…的表现非常满意",
+    "meaning": "rất hài lòng với biểu hiện của…"
+  },
+  "office:10:对······有作": {
+    "text": "对…有作用",
+    "meaning": "có tác dụng đối với…"
+  },
+  "office:10:给带来": {
+    "text": "给…带来好处",
+    "meaning": "đem lại lợi ích cho…"
+  },
+  "office:11:出…问题": {
+    "text": "出…问题",
+    "meaning": "xảy ra vấn đề…"
+  },
+  "office:11:给打电": {
+    "text": "给…打电话",
+    "meaning": "gọi điện thoại cho…"
+  },
+  "office:13:…人位": {
+    "text": "…人位餐桌",
+    "meaning": "bàn ăn dành cho… người"
+  },
+  "office:13:借着这个": {
+    "text": "借着这个机会",
+    "meaning": "nhân cơ hội này"
+  },
+  "office:15:有所不": {
+    "text": "有所不同",
+    "meaning": "có sự khác biệt"
+  },
+  "office:16:以··为核": {
+    "text": "以…为核心",
+    "meaning": "lấy… làm trung tâm"
+  },
+  "office:18:莱单": {
+    "text": "菜单",
+    "meaning": "thực đơn"
+  },
+  "office:18:负贵": {
+    "text": "负责",
+    "meaning": "phụ trách"
+  },
+  "office:18:请束": {
+    "text": "请柬",
+    "meaning": "thiệp mời"
+  },
+  "office:20:从身上": {
+    "text": "从…身上",
+    "meaning": "từ một người nào đó"
+  },
+  "office:22:国员": {
+    "text": "团员",
+    "meaning": "đoàn viên"
+  },
+  "6:15:非不可": {
+    "text": "非…不可",
+    "meaning": "nhất định phải…, không thể không…"
+  },
+  "6:21:咔": {
+    "text": "咔嚓",
+    "meaning": "lách cách, tách (tiếng động)"
+  },
+  "6:14:责": {
+    "text": "责任"
+  },
+  "6:21:止": {
+    "text": "止血"
+  },
+  "3:5:..··家": {
+    "text": "…家"
+  },
+  "3:9:这里‘": {
+    "text": "这里"
+  },
+  "3:10:会议厅huiyiting": {
+    "text": "会议厅"
+  },
+  "3:10:主特人": {
+    "text": "主持人"
+  },
+  "4:11:越...": {
+    "text": "越…越…"
+  },
+  "4:13:.洒": {
+    "text": "洒"
+  },
+  "4:14:．·…·似的": {
+    "text": "…似的"
+  },
+  "4:14:．剧场": {
+    "text": "剧场"
+  },
+  "4:13:卡子": {
+    "pron": "qiǎ zi"
+  },
+  "4:14:血": {
+    "pron": "xiě"
+  },
+  "3:9:除了...以外chule..yiwai": {
+    "text": "除了…以外"
+  },
+  "4:11:越来越yuelaiyue": {
+    "text": "越来越"
+  },
+  "4:15:美慕": {
+    "text": "羡慕"
+  },
+  "4:16:只要·．": {
+    "text": "只要…就…"
+  },
+  "4:17:一下子yixiazi": {
+    "text": "一下子"
+  },
+  "4:17:．合同": {
+    "text": "合同"
+  },
+  "4:17:只有·.·": {
+    "text": "只有…才…"
+  },
+  "4:18:点（菜）dian (cai)": {
+    "text": "点菜"
+  },
+  "4:18:辣子鸡丁lazi jiding": {
+    "text": "辣子鸡丁"
+  },
+  "4:18:一边···": {
+    "text": "一边…一边…"
+  },
+  "4:19:夫妻’": {
+    "text": "夫妻"
+  },
+  "4:19:岁寒三友 sui han san": {
+    "text": "岁寒三友"
+  },
+  "4:17:应": {
+    "pron": "yìng"
+  },
+  "3:5:中成药 zhongchengyao (名)": {
+    "text": "中成药"
+  },
+  "4:20:连···": {
+    "text": "连…也…"
+  },
+  "6:15:乙": {
+    "exclude": true
+  },
+  "6:22:间": {
+    "exclude": true
+  },
+  "office:10:信": {
+    "text": "得到…信赖",
+    "meaning": "nhận được sự tin tưởng của…"
+  },
+  "office:6:为": {
+    "text": "为…做出贡献",
+    "meaning": "cống hiến cho…"
+  },
+  "office:6:做": {
+    "exclude": true
+  },
+  "office:8:从来+不+动词/形容词": {
+    "exclude": true
+  },
+  "office:8:从来+没（有）+动词/形容词+过": {
+    "exclude": true
+  },
+  "office:15:马晓东": {
+    "exclude": true
+  },
+  "office:22:对外合作duiwaihezuo": {
+    "text": "对外合作"
+  },
+  "1:1:口": {
+    "meaning": "miệng"
+  },
+  "1:7:米": {
+    "meaning": "gạo"
+  },
+  "1:8:分": {
+    "meaning": "xu (đơn vị tiền)"
+  },
+  "1:9:等": {
+    "meaning": "đợi; chờ"
+  },
+  "1:9:数": {
+    "meaning": "đếm"
+  },
+  "1:11:马": {
+    "meaning": "họ Mã"
+  },
+  "1:13:把": {
+    "meaning": "cái (lượng từ cho vật có cán, tay cầm)"
+  },
+  "1:14:来": {
+    "meaning": "đến"
+  },
+  "1:14:关": {
+    "meaning": "họ Quan"
+  },
+  "2:17:来": {
+    "meaning": "đến"
+  },
+  "2:17:门": {
+    "meaning": "môn (lượng từ cho môn học)"
+  },
+  "2:17:在": {
+    "meaning": "đang (chỉ hành động tiếp diễn)"
+  },
+  "2:17:正": {
+    "meaning": "đang; đúng lúc"
+  },
+  "2:19:浅": {
+    "meaning": "nhạt; nông"
+  },
+  "2:19:深": {
+    "meaning": "đậm; sâu"
+  },
+  "2:22:对": {
+    "meaning": "đối với"
+  },
+  "2:24:打": {
+    "meaning": "đánh; chơi; tập"
+  },
+  "2:24:头": {
+    "meaning": "đầu"
+  },
+  "2:25:得": {
+    "meaning": "trợ từ nối bổ ngữ trạng thái"
+  },
+  "2:25:台": {
+    "meaning": "đài; sân khấu; bục"
+  },
+  "2:26:喂": {
+    "meaning": "a lô; này (thán từ)"
+  },
+  "2:27:得": {
+    "meaning": "được; mắc (bệnh)",
+    "pron": "dé",
+    "speechText": "得到",
+    "audioContext": "Giọng đọc dùng cụm “得到” để làm rõ cách đọc dé."
+  },
+  "2:28:站": {
+    "meaning": "trạm; bến"
+  },
+  "2:29:道": {
+    "meaning": "câu; đề (lượng từ cho câu hỏi, bài tập)"
+  },
+  "2:30:好": {
+    "meaning": "những; hàng (nhấn mạnh số lượng lớn)"
+  },
+  "2:30:块": {
+    "meaning": "miếng; khối (lượng từ)"
+  },
+  "3:2:得": {
+    "meaning": "đạt được; được",
+    "pron": "dé",
+    "speechText": "得到",
+    "audioContext": "Giọng đọc dùng cụm “得到” để làm rõ cách đọc dé."
+  },
+  "3:3:表": {
+    "meaning": "đồng hồ"
+  },
+  "4:14:倒": {
+    "meaning": "đổ; ngã",
+    "pron": "dǎo",
+    "speechText": "倒下",
+    "audioContext": "Giọng đọc dùng cụm “倒下” để làm rõ cách đọc dǎo."
+  },
+  "4:14:让": {
+    "meaning": "bị (chỉ sự bị động)"
+  },
+  "4:14:叫": {
+    "meaning": "bị (chỉ sự bị động)"
+  },
+  "4:14:透": {
+    "meaning": "thấm đẫm; xuyên suốt"
+  },
+  "4:14:花": {
+    "meaning": "tiêu; tốn (tiền)"
+  },
+  "4:15:了": {
+    "meaning": "xong; kết thúc",
+    "pron": "liǎo",
+    "speechText": "了结",
+    "audioContext": "Giọng đọc dùng cụm “了结” để làm rõ cách đọc liǎo."
+  },
+  "4:16:背": {
+    "meaning": "học thuộc; đọc thuộc"
+  },
+  "4:16:首": {
+    "meaning": "bài (lượng từ cho thơ, bài hát)"
+  },
+  "4:17:呆": {
+    "meaning": "ở lại"
+  },
+  "4:17:光": {
+    "meaning": "hết; sạch trơn"
+  },
+  "4:17:抽": {
+    "meaning": "dành ra (thời gian)"
+  },
+  "4:18:甲": {
+    "meaning": "đứng đầu; hạng nhất"
+  },
+  "4:19:对": {
+    "meaning": "đôi; cặp (lượng từ)"
+  },
+  "4:19:图": {
+    "meaning": "tranh; hình"
+  },
+  "4:20:少": {
+    "meaning": "trẻ; nhỏ tuổi",
+    "pron": "shào",
+    "speechText": "少年",
+    "audioContext": "Giọng đọc dùng cụm “少年” để làm rõ cách đọc shào."
+  },
+  "4:20:可": {
+    "meaning": "nhưng"
+  },
+  "5:2:站": {
+    "meaning": "ga; bến"
+  },
+  "5:3:打": {
+    "meaning": "đánh"
+  },
+  "5:3:堆": {
+    "meaning": "chất đống"
+  },
+  "5:3:数": {
+    "meaning": "đếm"
+  },
+  "5:4:所": {
+    "meaning": "ngôi; tòa (lượng từ cho trường học, cơ quan)"
+  },
+  "5:4:系": {
+    "meaning": "khoa; ban (trong trường đại học)",
+    "pron": "xì",
+    "speechText": "中文系",
+    "audioContext": "Giọng đọc dùng cụm “中文系” để làm rõ cách đọc xì."
+  },
+  "5:6:白": {
+    "meaning": "uổng công; vô ích"
+  },
+  "5:6:并": {
+    "meaning": "hơn nữa; và; nhấn mạnh trong câu phủ định"
+  },
+  "5:6:来": {
+    "meaning": "đến; lại"
+  },
+  "5:7:吹": {
+    "meaning": "thổi"
+  },
+  "5:7:透": {
+    "meaning": "thấu; hiểu thấu"
+  },
+  "5:9:装": {
+    "meaning": "giả vờ; làm ra vẻ"
+  },
+  "5:12:道": {
+    "meaning": "nói; bày tỏ"
+  },
+  "5:12:横": {
+    "meaning": "ngang ngược; hung hăng",
+    "pron": "hèng",
+    "speechText": "蛮横",
+    "audioContext": "Giọng đọc dùng cụm “蛮横” để làm rõ cách đọc hèng."
+  },
+  "5:13:本": {
+    "meaning": "bản thân; này"
+  },
+  "5:13:地": {
+    "meaning": "đất",
+    "pron": "dì",
+    "speechText": "土地",
+    "audioContext": "Giọng đọc dùng cụm “土地” để làm rõ cách đọc dì."
+  },
+  "5:13:起": {
+    "meaning": "bắt đầu từ"
+  },
+  "6:14:按": {
+    "meaning": "theo; dựa theo"
+  },
+  "6:14:多": {
+    "meaning": "biết bao"
+  },
+  "6:15:待": {
+    "meaning": "đợi; chờ; đối xử"
+  },
+  "6:15:提": {
+    "meaning": "xách; nâng lên"
+  },
+  "6:16:铺": {
+    "meaning": "tiệm; cửa hàng"
+  },
+  "6:16:气": {
+    "meaning": "khí; hơi"
+  },
+  "6:17:关": {
+    "meaning": "cửa ải"
+  },
+  "6:17:招": {
+    "meaning": "tuyển; chiêu mộ"
+  },
+  "6:18:好": {
+    "meaning": "để; tiện cho"
+  },
+  "6:18:块": {
+    "meaning": "miếng; tấm; khối (lượng từ)"
+  },
+  "6:21:挨": {
+    "meaning": "bị; chịu",
+    "pron": "ái",
+    "speechText": "挨打",
+    "audioContext": "Giọng đọc dùng cụm “挨打” để làm rõ cách đọc ái."
+  },
+  "6:21:面": {
+    "meaning": "tấm (lượng từ cho gương, cờ)"
+  },
+  "6:21:头": {
+    "meaning": "đầu tiên"
+  },
+  "6:22:火": {
+    "meaning": "lửa"
+  },
+  "6:22:尽": {
+    "meaning": "hết; làm trọn",
+    "pron": "jìn",
+    "speechText": "尽力",
+    "audioContext": "Giọng đọc dùng cụm “尽力” để làm rõ cách đọc jìn."
+  },
+  "6:22:里": {
+    "meaning": "dặm Trung Quốc (500 mét)"
+  },
+  "6:23:点": {
+    "meaning": "nhấp; bấm"
+  },
+  "6:23:分": {
+    "meaning": "chia; phân chia"
+  },
+  "6:24:生": {
+    "meaning": "sinh; sinh ra"
+  },
+  "6:24:招": {
+    "meaning": "vẫy; gọi"
+  },
+  "6:25:连": {
+    "meaning": "liền; nối liền"
+  },
+  "6:26:鼓": {
+    "meaning": "vỗ; làm vang lên"
+  },
+  "office:15:对": {
+    "meaning": "đối với"
+  },
+  "5:6:心": {
+    "exclude": true
+  },
+  "6:14:名": {
+    "exclude": true
+  },
+  "6:19:专": {
+    "exclude": true
+  },
+  "5:7:等": {
+    "text": "竽",
+    "pron": "yú",
+    "meaning": "sáo竽 (nhạc cụ cổ Trung Quốc)"
+  },
+  "3:4:梢": {
+    "text": "捎",
+    "pron": "shāo",
+    "meaning": "mang hộ; gửi theo"
+  },
+  "5:3:划": {
+    "pron": "huá",
+    "speechText": "划船",
+    "audioContext": "Giọng đọc dùng cụm “划船” để làm rõ cách đọc huá."
+  },
+  "5:9:背": {
+    "pron": "bēi",
+    "speechText": "背着孩子",
+    "audioContext": "Giọng đọc dùng cụm “背着孩子” để làm rõ cách đọc bēi."
+  },
+  "office:20:得": {
+    "pron": "děi",
+    "speechText": "得去",
+    "audioContext": "Giọng đọc dùng cụm “得去” để làm rõ cách đọc děi."
+  }
+}

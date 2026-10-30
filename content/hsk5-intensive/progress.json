@@ -1,0 +1,46 @@
+{
+  "stage": "1.12.0 first-book release validated; remaining collection still in progress",
+  "sourceCount": 24,
+  "releasedBooks": [
+    "book-14"
+  ],
+  "releasedItems": 1300,
+  "releasedUnits": 81,
+  "remainingBooks": 23,
+  "ocrSessions": [
+    74574
+  ],
+  "drafts": {
+    "book-19": {
+      "items": 1299,
+      "ocrComplete": true,
+      "reviewComplete": false
+    },
+    "book-08": {
+      "ocrComplete": true,
+      "reviewComplete": false,
+      "note": "Answer-key numbering, printed typos and original exercise prompts need reconciliation"
+    },
+    "book-17": {
+      "items": 1300,
+      "missingNumbers": [],
+      "reviewComplete": false
+    },
+    "book-02": {
+      "items": 688,
+      "processedPages": 495,
+      "missingPages": 65,
+      "reviewComplete": false
+    }
+  },
+  "nextSteps": [
+    "Finish remaining-topic OCR, rerun parse_hsk5_intensive_topics.py",
+    "Reconcile book-17 numbered index and word meanings; review book-19 headword count",
+    "Check Workbook original prompts before correcting printed answer typos",
+    "Keep book-14 IDs and records unchanged when adding more intensive courses; tests must verify 1.12.0 baseline"
+  ],
+  "physicalDeviceTested": false,
+  "published": true,
+  "release": "1.12.0",
+  "validatedApk": "output/Lingo-SoTuVung-1.12.0.apk"
+}

@@ -1,0 +1,377 @@
+{
+  "喉": {
+    "text": "唉",
+    "meaning": "ôi; chao ôi (thán từ đáp lại hoặc than thở)"
+  },
+  "吃号": {
+    "text": "吃亏",
+    "meaning": "chịu thiệt; bị thiệt"
+  },
+  "标点": {
+    "meaning": "dấu câu"
+  },
+  "病毒": {
+    "meaning": "vi-rút"
+  },
+  "抄": {
+    "meaning": "chép; sao chép"
+  },
+  "车库": {
+    "meaning": "ga-ra; nhà để xe"
+  },
+  "车厢": {
+    "meaning": "toa xe"
+  },
+  "充电器": {
+    "meaning": "bộ sạc"
+  },
+  "尺子": {
+    "meaning": "thước kẻ"
+  },
+  "目录": {
+    "meaning": "mục lục; danh mục"
+  },
+  "内科": {
+    "meaning": "nội khoa"
+  },
+  "拼音": {
+    "meaning": "phiên âm pinyin"
+  },
+  "欠": {
+    "meaning": "nợ; thiếu"
+  },
+  "枪": {
+    "meaning": "súng"
+  },
+  "绕": {
+    "meaning": "đi vòng; quấn quanh"
+  },
+  "初级": {
+    "meaning": "sơ cấp"
+  },
+  "匆忙": {
+    "meaning": "vội vàng"
+  },
+  "打喷嚏": {
+    "meaning": "hắt hơi"
+  },
+  "当心": {
+    "meaning": "cẩn thận; coi chừng"
+  },
+  "地毯": {
+    "meaning": "thảm trải sàn"
+  },
+  "耳环": {
+    "meaning": "hoa tai"
+  },
+  "发表": {
+    "meaning": "công bố; phát biểu"
+  },
+  "发票": {
+    "meaning": "hóa đơn"
+  },
+  "罚款": {
+    "meaning": "phạt tiền; tiền phạt"
+  },
+  "法院": {
+    "meaning": "tòa án"
+  },
+  "分配": {
+    "meaning": "phân phối; phân công"
+  },
+  "废话": {
+    "meaning": "lời nói thừa; nói nhảm"
+  },
+  "疯狂": {
+    "meaning": "điên cuồng"
+  },
+  "风格": {
+    "meaning": "phong cách"
+  },
+  "否定": {
+    "meaning": "phủ định; bác bỏ"
+  },
+  "公主": {
+    "meaning": "công chúa"
+  },
+  "公平": {
+    "meaning": "công bằng"
+  },
+  "恭喜": {
+    "meaning": "chúc mừng"
+  },
+  "拐弯": {
+    "meaning": "rẽ; ngoặt"
+  },
+  "柜台": {
+    "meaning": "quầy hàng"
+  },
+  "过敏": {
+    "meaning": "dị ứng; quá nhạy cảm"
+  },
+  "过期": {
+    "meaning": "hết hạn"
+  },
+  "海关": {
+    "meaning": "hải quan"
+  },
+  "合法": {
+    "meaning": "hợp pháp"
+  },
+  "花生": {
+    "meaning": "lạc; đậu phộng"
+  },
+  "汇率": {
+    "meaning": "tỷ giá hối đoái"
+  },
+  "集体": {
+    "meaning": "tập thể"
+  },
+  "夹子": {
+    "meaning": "cái kẹp"
+  },
+  "系领带": {
+    "meaning": "thắt cà vạt"
+  },
+  "嘉宾": {
+    "meaning": "khách quý"
+  },
+  "假装": {
+    "meaning": "giả vờ"
+  },
+  "兼职": {
+    "meaning": "công việc bán thời gian; kiêm nhiệm"
+  },
+  "键盘": {
+    "meaning": "bàn phím"
+  },
+  "胶水": {
+    "meaning": "keo dán; hồ dán"
+  },
+  "戒指": {
+    "meaning": "nhẫn"
+  },
+  "救护车": {
+    "meaning": "xe cứu thương"
+  },
+  "卡车": {
+    "meaning": "xe tải"
+  },
+  "老鼠": {
+    "meaning": "chuột"
+  },
+  "厘米": {
+    "meaning": "xăng-ti-mét"
+  },
+  "利息": {
+    "meaning": "tiền lãi"
+  },
+  "列车": {
+    "meaning": "đoàn tàu; tàu hỏa"
+  },
+  "零食": {
+    "meaning": "đồ ăn vặt"
+  },
+  "麦克风": {
+    "meaning": "micro"
+  },
+  "论文": {
+    "meaning": "luận văn; bài nghiên cứu"
+  },
+  "眉毛": {
+    "meaning": "lông mày"
+  },
+  "日历": {
+    "meaning": "lịch"
+  },
+  "日期": {
+    "meaning": "ngày tháng"
+  },
+  "删除": {
+    "meaning": "xóa bỏ"
+  },
+  "摄影": {
+    "meaning": "chụp ảnh; nhiếp ảnh"
+  },
+  "省略": {
+    "meaning": "lược bỏ"
+  },
+  "狮子": {
+    "meaning": "sư tử"
+  },
+  "使劲": {
+    "meaning": "dùng sức; ra sức"
+  },
+  "试卷": {
+    "meaning": "đề thi; bài thi"
+  },
+  "收据": {
+    "meaning": "biên lai"
+  },
+  "寿命": {
+    "meaning": "tuổi thọ"
+  },
+  "手术": {
+    "meaning": "phẫu thuật"
+  },
+  "税": {
+    "meaning": "thuế"
+  },
+  "数码": {
+    "meaning": "kỹ thuật số"
+  },
+  "丝绸": {
+    "meaning": "lụa"
+  },
+  "双方": {
+    "meaning": "hai bên"
+  },
+  "搜索": {
+    "meaning": "tìm kiếm"
+  },
+  "谈判": {
+    "meaning": "đàm phán"
+  },
+  "讨价还价": {
+    "meaning": "mặc cả; trả giá"
+  },
+  "退步": {
+    "meaning": "thụt lùi; sa sút"
+  },
+  "歪": {
+    "meaning": "nghiêng; lệch"
+  },
+  "往返": {
+    "meaning": "đi và về; khứ hồi"
+  },
+  "雾": {
+    "meaning": "sương mù"
+  },
+  "香肠": {
+    "meaning": "xúc xích"
+  },
+  "小气": {
+    "meaning": "keo kiệt; nhỏ nhen"
+  },
+  "小麦": {
+    "meaning": "lúa mì"
+  },
+  "信任": {
+    "meaning": "tin tưởng"
+  },
+  "性质": {
+    "meaning": "tính chất"
+  },
+  "演讲": {
+    "meaning": "diễn thuyết; bài diễn thuyết"
+  },
+  "痒": {
+    "meaning": "ngứa"
+  },
+  "硬件": {
+    "meaning": "phần cứng"
+  },
+  "优惠": {
+    "meaning": "ưu đãi"
+  },
+  "玉米": {
+    "meaning": "ngô; bắp"
+  },
+  "粘贴": {
+    "meaning": "dán"
+  },
+  "账户": {
+    "meaning": "tài khoản"
+  },
+  "着凉": {
+    "meaning": "nhiễm lạnh"
+  },
+  "振动": {
+    "meaning": "rung động; dao động"
+  },
+  "支票": {
+    "meaning": "séc"
+  },
+  "执照": {
+    "meaning": "giấy phép"
+  },
+  "祝福": {
+    "meaning": "chúc phúc; lời chúc tốt đẹp"
+  },
+  "专心": {
+    "meaning": "chuyên tâm; tập trung"
+  },
+  "字母": {
+    "meaning": "chữ cái"
+  },
+  "总理": {
+    "meaning": "thủ tướng"
+  },
+  "打昕": {
+    "text": "打听",
+    "meaning": "hỏi thăm; dò hỏi"
+  },
+  "似平": {
+    "text": "似乎",
+    "meaning": "dường như; có vẻ"
+  },
+  "34:摘": {
+    "text": "搞",
+    "meaning": "làm; tiến hành"
+  },
+  "吹": {
+    "meaning": "thổi; chơi nhạc cụ hơi"
+  },
+  "顶": {
+    "meaning": "đỉnh; chóp; chiếc (lượng từ cho vật có đỉnh)"
+  },
+  "方": {
+    "meaning": "phương; phía; bên"
+  },
+  "堆": {
+    "meaning": "chất đống; đống"
+  },
+  "顿": {
+    "meaning": "lần; bữa (lượng từ)"
+  },
+  "根": {
+    "meaning": "rễ; cây, sợi (lượng từ cho vật dài)"
+  },
+  "首": {
+    "meaning": "bài (lượng từ cho thơ, bài hát)"
+  },
+  "吐": {
+    "meaning": "nhổ; nhả ra"
+  },
+  "系": {
+    "meaning": "khoa; ban (trong trường đại học)",
+    "pron": "xì"
+  },
+  "则": {
+    "meaning": "thì; còn (liên từ biểu thị điều kiện hoặc đối chiếu)"
+  },
+  "直": {
+    "meaning": "thẳng; trực tiếp"
+  },
+  "92:用": {
+    "text": "甩",
+    "pron": "shuǎi",
+    "meaning": "vung; hất; bỏ lại"
+  },
+  "100:万": {
+    "text": "万一",
+    "meaning": "nhỡ; chẳng may"
+  },
+  "背": {
+    "pron": "bēi",
+    "meaning": "cõng; mang trên lưng"
+  },
+  "薄": {
+    "pron": "báo",
+    "meaning": "mỏng"
+  },
+  "划": {
+    "pron": "huá",
+    "meaning": "chèo (thuyền)"
+  }
+}

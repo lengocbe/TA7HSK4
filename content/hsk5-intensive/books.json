@@ -1,0 +1,196 @@
+[
+  {
+    "id": "book-01",
+    "file": "Conquering New HSK5 Reading.pdf",
+    "pages": 215,
+    "category": "reading",
+    "status": "pending",
+    "title": "Conquering New HSK5 Reading"
+  },
+  {
+    "id": "book-02",
+    "file": "Conquering New HSK5 Vocabulary.pdf",
+    "pages": 581,
+    "category": "vocabulary",
+    "status": "pending",
+    "title": "Conquering New HSK5 Vocabulary"
+  },
+  {
+    "id": "book-03",
+    "file": "Conquering New HSK5 Writing in 25 days.pdf",
+    "pages": 211,
+    "category": "writing",
+    "status": "pending",
+    "title": "Conquering New HSK5 Writing in 25 days"
+  },
+  {
+    "id": "book-04",
+    "file": "HSK 5 Handwriting Workbook.pdf",
+    "pages": 74,
+    "category": "handwriting",
+    "status": "pending",
+    "title": "HSK 5 Handwriting Workbook"
+  },
+  {
+    "id": "book-05",
+    "file": "HSK 5 Listening Skill.pdf",
+    "pages": 213,
+    "category": "listening",
+    "status": "pending",
+    "title": "HSK 5 Listening Skill"
+  },
+  {
+    "id": "book-06",
+    "file": "HSK 5 Reading Skill.pdf",
+    "pages": 214,
+    "category": "reading",
+    "status": "pending",
+    "title": "HSK 5 Reading Skill"
+  },
+  {
+    "id": "book-07",
+    "file": "HSK 5 Simulated Tests.pdf",
+    "pages": 322,
+    "category": "exam",
+    "status": "pending",
+    "title": "HSK 5 Simulated Tests"
+  },
+  {
+    "id": "book-08",
+    "file": "HSK 5 Vocabulary Workbook.pdf",
+    "pages": 349,
+    "category": "vocabulary",
+    "status": "pending",
+    "title": "HSK 5 Vocabulary Workbook"
+  },
+  {
+    "id": "book-09",
+    "file": "HSK 5 Writing Skill.pdf",
+    "pages": 138,
+    "category": "writing",
+    "status": "pending",
+    "title": "HSK 5 Writing Skill"
+  },
+  {
+    "id": "book-10",
+    "file": "HSK5 Jieti Baodian.pdf",
+    "pages": 264,
+    "category": "exam",
+    "status": "pending",
+    "title": "HSK5 Jieti Baodian"
+  },
+  {
+    "id": "book-11",
+    "file": "HSK5 精讲精练.pdf",
+    "pages": 213,
+    "category": "exam",
+    "status": "pending",
+    "title": "HSK5 精讲精练"
+  },
+  {
+    "id": "book-12",
+    "file": "HSK5出题分析及模拟题集.pdf",
+    "pages": 268,
+    "category": "exam",
+    "status": "pending",
+    "title": "HSK5出题分析及模拟题集"
+  },
+  {
+    "id": "book-13",
+    "file": "HSK5模拟试题集 (V2).pdf",
+    "pages": 338,
+    "category": "exam",
+    "status": "pending",
+    "title": "HSK5模拟试题集 (V2)"
+  },
+  {
+    "id": "book-14",
+    "file": "HSK5词汇精讲精练.pdf",
+    "pages": 385,
+    "category": "vocabulary",
+    "status": "vocabulary-ready",
+    "title": "HSK5词汇精讲精练",
+    "items": 1300,
+    "lessons": 81
+  },
+  {
+    "id": "book-15",
+    "file": "HSK速成强化教程练习册五级.pdf",
+    "pages": 240,
+    "category": "exam",
+    "status": "pending",
+    "title": "HSK速成强化教程练习册五级"
+  },
+  {
+    "id": "book-16",
+    "file": "决胜30天HSK5仿真试题集.pdf",
+    "pages": 217,
+    "category": "exam",
+    "status": "pending",
+    "title": "决胜30天HSK5仿真试题集"
+  },
+  {
+    "id": "book-17",
+    "file": "新HSK5000词分级词典  4-5级.pdf",
+    "pages": 718,
+    "category": "vocabulary",
+    "status": "pending",
+    "title": "新HSK5000词分级词典  4-5级"
+  },
+  {
+    "id": "book-18",
+    "file": "新HSK5级全真模拟测试题集.pdf",
+    "pages": 346,
+    "category": "exam",
+    "status": "pending",
+    "title": "新HSK5级全真模拟测试题集"
+  },
+  {
+    "id": "book-19",
+    "file": "新HSK词汇突破5级 V2.pdf",
+    "pages": 138,
+    "category": "vocabulary",
+    "status": "pending",
+    "title": "新HSK词汇突破5级 V2"
+  },
+  {
+    "id": "book-20",
+    "file": "新HSK语法精讲精练5级.pdf",
+    "pages": 251,
+    "category": "grammar",
+    "status": "pending",
+    "title": "新HSK语法精讲精练5级"
+  },
+  {
+    "id": "book-21",
+    "file": "跨越新HSK5阅读专项训练.pdf",
+    "pages": 217,
+    "category": "reading",
+    "status": "pending",
+    "title": "跨越新HSK5阅读专项训练"
+  },
+  {
+    "id": "book-22",
+    "file": "通过新HSK5写作分类训练.pdf",
+    "pages": 407,
+    "category": "writing",
+    "status": "pending",
+    "title": "通过新HSK5写作分类训练"
+  },
+  {
+    "id": "book-23",
+    "file": "通过新HSK5听力分类训练.pdf",
+    "pages": 413,
+    "category": "listening",
+    "status": "pending",
+    "title": "通过新HSK5听力分类训练"
+  },
+  {
+    "id": "book-24",
+    "file": "通过新HSK5阅读分类训练.pdf",
+    "pages": 271,
+    "category": "reading",
+    "status": "pending",
+    "title": "通过新HSK5阅读分类训练"
+  }
+]

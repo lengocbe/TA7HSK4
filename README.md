@@ -1,6 +1,18 @@
 # Lingo · Sổ từ vựng Android
 
-App Android học từ vựng tiếng Anh và tiếng Hoa, giao diện tiếng Việt, hoạt động ngoại tuyến. Bản cài: `output/Lingo-SoTuVung-1.10.0.apk`.
+App Android học từ vựng tiếng Anh và tiếng Hoa, giao diện tiếng Việt, hoạt động ngoại tuyến. Bản cài: `output/Lingo-SoTuVung-1.12.0.apk`.
+
+## Cập nhật 1.12.0
+
+Mở nhóm **HSK 5 · Luyện chuyên sâu**, đợt đầu thêm 1.300 mục từ theo 81 Unit của **HSK5词汇精讲精练.pdf**, kèm pinyin, nghĩa tiếng Việt và giọng đọc ngoại tuyến. Đây là một sách trong bộ 24 tài liệu mới; các sách còn lại đang xử lý. Chưa bổ sung bài tập hoặc câu ví dụ của bộ mới.
+
+Giữ nguyên 17.359 mục và audio của 1.11.0; tổng app 18.659 mục/MP3, 612 nhóm bài. Cùng package/khóa ký, versionCode 13. Xem `content/hsk5-intensive/README.md` để biết phạm vi nguồn. Chưa thử cài trên điện thoại thật.
+
+## Cập nhật 1.11.0
+
+Thêm hai nhóm **Hán ngữ** và **Công sở** từ 7 PDF được cung cấp. Tổng **3.565 mục từ/cụm từ, 98 bài**; có pinyin, nghĩa tiếng Việt, trang nguồn và giọng đọc ngoại tuyến. Hán ngữ có sáu quyển riêng, Công sở có 22 bài. Chưa bổ sung câu ví dụ cho các mục mới.
+
+Giữ nguyên 13.794 mục, 433 nhóm bài và âm thanh của bản 1.10.0. Tổng app: **17.359 mục/MP3 và 531 nhóm bài**. Bộ lọc, ôn đến hạn, Từ hay sai và sao lưu hỗ trợ từng quyển. Bản 1.11.0 dùng cùng package và khóa ký, versionCode 12. Kiểm thử trên Chromium và xác minh APK; chưa thử cài trên điện thoại thật. Chi tiết nguồn: `content/han-office/README.md`.
 
 ## Cập nhật 1.10.0
 
@@ -70,7 +82,7 @@ Cài mới hoặc cài đè bản 1.0/1.1 đều được. Package và khóa ký
 - Tiếng Hoa giản thể, mục Luyện theo đề: 150 từ/cụm từ chia 10 bài chủ đề, đối chiếu trên 13 PDF HSK 4. Có 13 bộ từ theo mã đề; tiến độ dùng chung với bài chủ đề.
 - Mỗi từ có phiên âm/pinyin, loại từ, nghĩa tiếng Việt và nguồn; ví dụ hiển thị khi đã có câu đối chiếu. Ví dụ tiếng Anh được biên soạn bổ sung. Ví dụ tiếng Hoa lấy từ đề khi tìm được câu khớp; câu bổ sung ghi rõ “Ví dụ biên soạn”.
 - HSK 5.1: mục riêng cạnh HSK 4, gồm 723 mục từ mới của 18 bài, theo đúng số thứ tự trong giáo trình; gồm cả từ mở rộng đánh dấu (*). Câu/trích đoạn lấy từ giáo trình, có pinyin, bản dịch tiếng Việt và trang nguồn.
-- 9.640 file MP3 phát âm từ và mẫu câu, đóng gói trong APK, gồm giọng tổng hợp Anh Anh và tiếng phổ thông Trung Quốc. Không dùng giọng đọc cài trên điện thoại; không gọi dịch vụ mạng lúc học. Tốc độ bình thường hoặc chậm; hiện chưa có âm thanh cho câu ví dụ.
+- 18.659 file MP3 phát âm từ và mẫu câu, đóng gói trong APK, gồm giọng tổng hợp Anh Anh và tiếng phổ thông Trung Quốc. Không dùng giọng đọc cài trên điện thoại; không gọi dịch vụ mạng lúc học. Tốc độ bình thường hoặc chậm; hiện chưa có âm thanh cho câu ví dụ.
 - Thẻ học, ẩn pinyin trước khi trả lời, bốn mức nhớ, chọn nghĩa, chọn từ theo nghĩa, nghe chọn từ, nhập từ tiếng Anh/chữ Hán.
 - Lịch ôn: Quên sau 10 phút; Khó sau 1 ngày; Nhớ lần đầu 2 ngày rồi giãn khoảng hai lần; Dễ lần đầu 4 ngày rồi giãn khoảng ba lần; tối đa 365 ngày.
 - Tìm kiếm bằng từ, nghĩa, IPA/pinyin; lưu từ yêu thích; tiến độ mỗi bài; mục tiêu ngày và chuỗi ngày học.
